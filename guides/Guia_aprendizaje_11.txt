@@ -1,0 +1,1389 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. Identificación de la guía de aprendizaje   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios  
+● Fase del proyecto: Evaluación.   
+● Actividad de proyecto: Realizar actividades de verificación de calidad del software.  
+Competencias:  
+Técnicas:  
+220501098- Controlar la calidad del servicio de software de acuerdo con los estándares técnicos.   
+Transversal:   
+210201501- Ejercer los derechos fundamentales del trabajo de acuerdo al reconocimiento de la dignidad.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501098-01- Incorporar actividades de aseguramiento de la calidad del software de acuerdo con 
+estándares de la industria.  
+220501098-02 - Verificar la calidad del software de acuerdo con las prácticas asociadas en los procesos  
+de desarrollo.  
+220501098-03 - Realizar actividades de mejora de la calidad del software a partir de los resultados de la 
+verificación.   
+Transversal:  
+210201501-01- Valorar la importancia de la ciudadanía laboral con base en el estudio de los derechos 
+humanos y fundamentales del trabajo.  
+210201501-02- Practicar los derechos fundamentales del trabajo de acuerdo con la Constitución Política y 
+los convenios internacionales.  
+210201501-03- Reconocer el trabajo como factor de movilidad social y transformación vital con referencia 
+a la fenomenología y a los derechos fundamentales en el trabajo.  
+210201501-04- Participar en acciones solidarias teniendo en cuenta el ejercicio de los derechos humanos, 
+de los pueblos y de la naturaleza.  
+  
+● Duración de la guía: 192 horas.  
+Técnico: 144 horas.   
+Transversal: 48 horas  
+  
+2. Presentación  
+  
+Estimado aprendiz, el SENA le extiende una cordial bienvenida a la guía once de aprendizaje que comprende la 
+competencia técnica para controlar la calidad del servicio de software de acuerdo con los estándares técnicos lo 
+cual permite caracterizar su utili dad y existencia. La calidad es sinónimo de eficiencia, flexibilidad, corrección, 
+confiabilidad, mantenibilidad, portabilidad, usabilidad, seguridad e integridad.  
+  
+Por otra parte, se busca ofrecer elementos de análisis, para que como aprendices construyan su propia lectura 
+sobre el papel del trabajo en su vida diaria y la forma como se reconocen o no los derechos que emergen de las 
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+relaciones de trabajo. A partir de la construcción colaborativa, realicen indagaciones y análisis sobre las relaciones 
+del trabajo en el plano global, nacional y local. Además, podrá comprender las diversas dinámicas y formas en que 
+hoy se organizan las relaciones del trabajo y la manera cómo estas relaciones afectan a la materialización de la 
+dignidad humana.  
+  
+Las actividades de aprendizaje están basadas en la estrategia didáctica de aprendizaje a través del estudio de 
+casos, la cual permite representar circunstancias de la vida real para hallar posibles soluciones que se puedan 
+presentar en el contexto laboral o personal.  
+ 
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa quienes, de forma continua y permanente, le orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, brindándole herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual, para darle orientaciones específicas relacionadas con las 
+temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que demanda 
+la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo “Construcc ión de software integrador de tecnologías orientadas a 
+servicios”.  
+  
+3.1 Actividades de aprendizaje de la competencia 220501098 - Controlar la calidad del servicio de 
+software de acuerdo con los estándares técnicos  
+  
+El control de la calidad de software está conformado por las evaluaciones, inspecciones, auditorías y revisiones 
+que aseguren que se cumplan las responsabilidades asignadas y se utilicen eficientemente los recursos con el fin 
+de conseguir el cumplimiento total de los objetivos de la solución de software.  
+  
+3.1.1 Actividad de aprendizaje GA11-220501098-AA1- Aplicar los instrumentos de calidad de software.  
+  
+Los instrumentos que se utilizan en esta etapa sirven para documentar el proceso en general de la calidad del 
+producto que estamos desarrollando, entre estos artefactos encontramos informes, listas de chequeo, bitácoras etc.   
+Duración: 84 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Fundamentos de la calidad del software”.   
+  
+Evidencias:  
+  
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de conocimiento: GA11 -220501098-AA1-EV01 - Infografía procesos de desarrollo del 
+software  
+  
+Una infografía es una representación gráfica en la cual se explica o se resume la información. Para realizar la 
+misma se deben caracterizar los procesos de desarrollo de software de acuerdo con los lineamientos de calidad 
+previamente establecidos.  
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Fundamentos de calidad de software”.   
+● Calidad en el proceso de desarrollo de software.  
+● Modelos de referencia para la calidad en el proceso.  
+● Seguir las normas básicas de creación de infografías como tipo, elementos que incluyen, imágenes, 
+ilustraciones, viñetas, mapas conceptuales, etc.   
+● Debe contener los principales conceptos del proceso de desarrollo de software .  
+● Utilizar cualquier herramienta TIC o informática para realizar la infografía.  
+● Seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: infografía sobre procesos de desarrollo del software.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: infografía procesos de desarrollo del software GA11-220501098-AA1-EV01.  
+  
+● Evidencias de desempeño: GA11- 220501098-AA1-EV02 aplicación de buenas prácticas de calidad 
+documentadas en las disciplinas de calidad de software  
+  
+Las buenas prácticas de calidad son una compilación de métodos o técnicas que permiten optimizar las actividades 
+del desarrollo de software, la documentación técnica adecuada hará que la información sea de fácil acceso y 
+también reducirá la curva de aprendizaje.  
+  
+Elementos a tener en:  
+● Diseñar los instrumentos de calidad de software.  
+● Leer y analizar el componente formativo “Fundamentos de calidad de software”.   
+● Selecciona buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Aplica el proceso personal de desarrollo de software para mejorar la calidad del software desarrollado.   
+● Documentar el proceso de calidad de software.  
+● Utilizar cualquier herramienta TIC para realizar el diseño de los instrumentos  
+● Seguir las normas básicas de presentación de un document o escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+ 
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+ 
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: diseño de instrumentos de calidad de software.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: aplicación de buenas prácticas de calidad documentadas en las disciplinas 
+de calidad de software -GA11-220501098-AA1-EV02.  
+  
+● Evidencias de desempeño: GA11-220501098-AA1-EV03 diseño y diligenciamiento de instrumentos 
+para documentar procesos de calidad del software  
+  
+El diseño de los instrumentos para documentar el proceso de la calidad de software  debe ser sencillos, amigables 
+y fáciles de entender, con el fin de lograr un fácil diligenciamiento.   
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Fundamentos de calidad de software”.   
+● Selecciona buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Diligenciar los instrumentos construidos en la actividad GA11- 220501098-AA1-EV02, teniendo en cuenta 
+los parámetros establecidos.  
+● Utilizar cualquier herramienta TIC o informática para realizar la infografía.  
+● Seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: formatos diligenciados con el proceso de calidad de software .  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia:  diseño y diligenciamiento de instrumentos para documentar procesos de 
+calidad del software - GA11-220501098-AA1-EV03.  
+  
+● Evidencia de producto: GA11-220501098-AA1-EV04 bitácoras con los procesos documentados  
+  
+La bitácora son los apuntes en formato físico o digital en la que se registran los avances y resultados preliminares 
+de un proyecto de desarrollo de software, en estos se incluyen, a detalle, observaciones, ideas, datos, avances y 
+obstáculos y cualquier información que consideren puede resultar útil en el desarrollo del proyecto.  
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Fundamentos de calidad de software”.   
+● Realizar una bitácora con los procesos documentales,  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Selecciona buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: bitácora.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: bitácoras con los procesos documentados GA11-220501098-AA1-EV04.  
+  
+3.1.2 Actividad de aprendizaje GA11- 220501098-AA2 - Realizar el informe de evaluación de la calidad de 
+software y bitácora de lecciones aprendidas.  
+  
+Esta actividad comprende los elementos que se deben tener en cuenta para la elaboración del documento de 
+informe de evaluación de calidad del software, así como también la bitácora de lecciones aprendidas.   
+Duración: 30 horas.  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+material de formación: “Aplicación de pruebas de software”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+● Evidencia de desempeño: GA11- 220501098-AA2-EV01 creación de informe con los resul tados del 
+comportamiento del software  
+  
+Crear el documento de informe de resultados del comportamiento del software.   
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Aplicación de pruebas de software”.  
+● Realizar una bitácora con los procesos documentales.  
+● Seleccionar las buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+● Registrar en el documento un resumen con los recursos utilizados para la evaluación:  
+o Equipo evaluador.  
+o Métricas utilizadas.  
+o Ponderación.  
+o Fidelidades de medición.  
+o Criterios de aprobación.  
+o Recursos de infraestructura.  
+o Tipos de pruebas y pruebas realizadas.  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+ 
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: documento de informe de resultados del comportamiento del software.   
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia:  Creación de informe con los resultados del comportamiento del software 
+GA11-220501098-AA2-EV01.  
+  
+● Evidencias de producto: GA11 -220501098-AA2-EV02 realizar informe de las experiencias 
+aprendidas en el proceso de verificación del software.   
+  
+Crear el documento de informe de lecciones aprendidas en el proceso de verificación del software .  
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Aplicación de pruebas de software”.  
+● Seleccionar las buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Seguir las normas básicas de presentación de un d ocumento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+● Tener en cuenta las bitácoras con los procesos documentados. GA11-220501098-AA1-EV04.  
+● Registrar y socializar las lecciones aprendidas.  
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: documento de informe de lecciones aprendidas en el proceso de verificación del 
+software.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: realizar informe de las experiencias aprendidas en el proceso de verificación 
+del software GA11-220501098-AA2-EV02.  
+  
+  
+3.1.3 Actividad de aprendizaje GA11-220501098-AA3 - Ajustar procesos del desarrollo de software.  
+  
+Esta actividad trata acerca de los elementos que se deben tener en cuenta para ajustar los procesos de desarrollo 
+de software, así como también la generación del documento de verificaciones de calidad del producto de software.   
+Duración: 30 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: componente formativo: “Aplicación de pruebas de software”.  
+  
+ 
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencias de desempeño: GA11- 220501098-AA3-EV01 realiza ajustes en los procesos de 
+desarrollo.   
+Evaluar el comportamiento llevado a cabo para realizar los ajustes en el proceso de desarrollo de software de 
+acuerdo con la metodología seleccionada.  
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Aplicación de pruebas de software”.  
+● Reconocer la metodología seleccionada.  
+● Proponer cambios en la secuencia de ejecución de procesos del desarrollo.  
+● Documentar los cambios.  
+● Aplicar los cambios necesarios de nivel operativo.  
+● Aplicar los cambios necesarios de nivel técnico.  
+● Selecciona buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: realiza ajustes en los procesos de desarrollo GA11-220501098-AA3-EV01.  
+  
+● Evidencias de producto: GA11- 220501098-AA3-EV02 documento con las verificaciones de 
+condiciones de calidad del producto de software ajustado   
+Crear el documento de informe con las verificaciones de condiciones de calidad del producto de software ajustado.  
+  
+Elementos a tener en cuenta:  
+● Leer y analizar el componente formativo “Aplicación de pruebas de software”.  
+● Realizar una bitácora con los procesos documentales.  
+● Seleccionar las buenas prácticas de calidad de acuerdo con el referente de los marcos de trabajo.  
+● Seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción y conclusiones.  
+● Describir las características, subcaracterísticas, propiedades de calidad y métricas que se utilizaron para 
+determinar el valor del producto software.   
+● Describir el conjunto de actividades y tareas que se realizaron para llevar a cabo el proceso de evaluación 
+del producto de software.   
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Describir el conjunto de herramientas software  que permitieron automatizar la medición, aplicación de 
+criterios de evaluación y visualización de los resultados.  
+ 
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: documento de informe con las verificaciones de condiciones de calidad del 
+producto de software ajustado.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia:  documento con las verificaciones de condiciones de calidad del producto 
+de software ajustado GA11-220501098-AA3-EV02.  
+  
+3.2. Actividades de aprendizaje de la competencia: 210201501 - Ejercer los derechos fundamentales del 
+trabajo de acuerdo al reconocimiento de la dignidad.  
+Para esta competencia, es importante conocer que entre las centrales de trabajadores y el Gobierno n acional se 
+llegó al acuerdo de incorporar en los programas de formación que imparte el SENA, el desarrollo de capacidades 
+en torno al ejercicio de los derechos fundamentales en el trabajo, la política pública del trabajo decente y la 
+construcción de una ci udadanía activa, consciente, participativa e incidente como expresión tangible de las 
+aspiraciones humanísticas que trascienda la mera información hacia niveles de pensamiento y acción complejas, 
+autónomas y propositivas, como parte constitutiva del desarrollo integral del trabajador.   
+  
+3.2.1 Actividad de aprendizaje GA11-210201501-AA1 - Reconocer los derechos humanos laborales con base 
+en el estudio de los derechos humanos y fundamentales en el trabajo.  
+  
+Esta actividad se fundamenta en los derechos humanos laborales, concretamente en que toda persona tiene 
+derecho al trabajo, en condiciones laborales justas, sin embargo, estos derechos no siempre se garantizan. Los  
+Derechos Humanos vinculados al trabajo y a los trabajadores son denominados “Derechos Humanos Laborales”, 
+y entre ellos se encuentran comprendidos los “Derechos Fundamentales en el Trabajo” consagrados por la 
+Organización Internacional del Trabajo.  
+  
+Con el presente proceso de aprendizaje, se espera desarrollar una actitud de defensa y de hacer respetar los 
+derechos de los trabajadores, como expresión de una conciencia colectiva que conlleve al ejercicio pleno de la 
+ciudadanía laboral. En el proceso referi do al mundo laboral es importante la apropiación y el ejercicio de los 
+derechos y deberes que tenemos como ciudadanos, por tal razón serán orientados por sus instructores mediante 
+el desarrollo de diferentes actividades pedagógicas.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Derechos fundamentales del trabajo”.   
+  
+  
+Evidencias:  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+A continuación, se describe la s ecuencia de acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+  
+● Evidencia de conocimiento: GA11-210201501-AA1-EV01 taller.  
+ 
+Se desarrollará por parte del aprendiz un taller a partir de las experiencias propias, familiares y de la comunidad.  
+ 
+Responda las siguientes preguntas:  
+● ¿Cuáles son las actividades económicas más importantes de su municipio o región?  
+● Describa: ¿cómo es el trabajo en su región o municipio?  
+● Consulte información sobre los fundamentos de la economía y elabore una línea de tiempo en la cual 
+ubique los periodos históricos de la producción y las principales características del trabajo para cada 
+periodo.   
+● Se sugiere consultar el documento: Méndez, M., J. S. (1996). Fundamentos de economía. McGraw -Hill, 
+https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000003545  
+● En el encuentro online con su instructor escuche atentamente la presentación sobre las dimensiones del 
+trabajo: antropológica, sociológica, económica y jurídica.  
+● Realice la lectura del documento Cambios en el mundo del trabajo que se encuentra anexa en el 
+componente formativo.   
+● Construya un mapa conceptual con los siguientes conceptos: trabajo, precarización, tercerización, 
+deslaboralización, y su relación con dignidad humana.  
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: informe con el desarrollo del taller que tenga la siguiente estructura:  
+ ▪  Título.  
+ ▪  Introducción.  
+ ▪  Solución de las preguntas.  
+ ▪  Mapa conceptual.  
+ ▪  Línea del tiempo.  
+ ▪  Conclusiones.  
+ ▪  Bibliografía.  
+  
+● Formato: PDF.   
+● Extensión: mínimo tres páginas.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: taller GA11-210201501-AA1-EV01.  
+  
+● Evidencia de desempeño: GA11- 210201501-AA1-EV02 foro so bre características del trabajo en 
+contexto local  
+  
+Para el desarrollo del foro siga las siguientes indicaciones:  
+● Conformar grupos de trabajo organizados bajo orientaciones del instructor.  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● De acuerdo a las respuestas dadas en la pregunta de la actividad anterior, ¿cuáles son las actividades 
+económicas más importantes de su municipio o región?, seleccione un tipo de trabajo en el cual ustedes 
+puedan evidenciar condiciones de precarización, tercerización, deslaboralización.   
+● Luego, en el grupo a través de un video representar mediante un sociodrama del caso, cerrando la 
+presentación con una reflexión y posibles alternativas de solución.  
+● Carguen este video en el canal de YouTube (u otra herramienta de streaming) y compártanlo a sus 
+compañeros en el foro.   
+● Analizar los videos: Los derechos fundamentales en el trabajo que se encuentra en el componente 
+formativo y Derecho al trabajo digno en la URL: https://www.youtube.com/watch?v=D1t3TLWLBMY; 
+responda las siguientes preguntas individualmente y socialícelas con el grupo:   
+⮚ ¿Por qué el trabajo es un derecho humano fundamental?  
+⮚ ¿Cómo es posible un mundo laboral mejor?  
+⮚ ¿Qué principios promueve la OIT en el mundo del trabajo?  
+⮚ ¿Qué relación tiene el trabajo con la satisfacción de las necesidades básicas de las personas?  
+⮚ ¿Cuáles son los derechos laborales más importantes?  
+⮚ ¿Cuáles son los derechos laborales más vulnerados?  
+⮚ ¿Qué implicaciones sociales, económicas, culturales y políticas tiene que las personas tengan o no 
+derechos laborales?  
+⮚ ¿Qué relación tienen los derechos laborales con el trabajo decente y el ideal del trabajo para las 
+personas?  
+⮚ ¿Por qué es importante una protección especial en el mundo del trabajo para las mujeres y para 
+los/as jóvenes?  
+⮚ ¿Es importante la organización sindical para la democracia?, sustente su respuesta.  
+● Basado en los videos compartidos por sus compañeros y en las preguntas anteriores, elabore un texto 
+argumentativo en el grupo, el cual debe dar respuesta a la pregunta ¿cómo el trabajo que se desarrolla en 
+su región o municipio contribuye o no a la dignidad humana? A su vez, en los documentos del programa 
+se encuentra el anexo “Construccion_Texto_argumentativo” donde se describen cada uno de los pasos y 
+aspectos fundamentales para su construcción.  
+  
+Lineamientos para la entrega del producto:  
+● Evidencia: participación en el foro (video de sociodrama, solución de preguntas y texto argumentativo).  
+● Para su desarrollo remítase al área de la actividad correspondiente y acceda al espacio de la evidencia: 
+foro sobre características del trabajo en contexto local GA11-210201501-AA1-EV02.  
+3.2.2 Actividad de aprendizaje G A11-210201501-AA2 - Establecer la importancia de los derechos de los 
+pueblos, de la solidaridad y la paz de acuerdo con los indicadores de desarrollo humano.  
+  
+El derecho del trabajo surge como conquista de la humanidad, producto de jornadas de organización y movilización 
+social en distintos periodos históricos y como respuesta a la necesidad de garantizar la dignidad humana en las 
+relaciones de trabajo. En tal s entido, se ha consolidado un sistema universal y otro regional de protección de los 
+derechos humanos, incluyendo el derecho del trabajo, así como unas Normas Internacionales del Trabajo (NIT) 
+que irrigan la Constitución Política de Colombia de 1991 y el ordenamiento jurídico colombiano en diversos niveles.  
+ 
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Sin embargo, paralelo a tal marco normativo, persisten las violaciones a los derechos humanos del trabajo y altos 
+niveles de desprotección social de amplios sectores de la población que muchas veces ni siquiera conoce sus 
+derechos y la forma de ejercerlos.   
+  
+Duración: 12 horas.  
+ 
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Derechos fundamentales del trabajo”.   
+  
+Evidencias:  
+  
+● Evidencia de producto: GA11-210201501-AA2-EV01 informe sobre trabajo decente, ciudadanía 
+laboral, derechos individuales y colectivos en el trabajo.  
+ 
+  
+  
+Tomado de Principios relativos a los derechos fundamentales OIT (2010). 
+1. Consulte información sobre el trabajo decente y el trabajo digno. Observe la presentación del video Trabajo 
+decente que se encuentra en el componente formativo para contestar las siguientes preguntas:  
+1.1. ¿Qué es trabajo decente?  
+1.2. ¿Cuáles son los principios del trabajo decente?  
+1.3. ¿Cómo definiría trabajo digno?  
+1.4. ¿Por qué hablar de trabajo digno más allá de la noción de trabajo decente?  
+1.5. ¿Cómo influye la falta de trabajo con la pobreza, la violencia y la falta de desarrollo? Explique su 
+respuesta.  
+1.6. Con la información de amigos, familiares y otros, describa en un texto algunos casos de personas que 
+“trabajan” en condiciones inadecuadas porque no corresponden a un trabajo decente.  
+2. Realice la lectura del siguiente párrafo y contesta las preguntas a continuación: “El ciudadano es un ser político, 
+con una dimensión social y moral; lo cual indica que la construcción de la ciudadanía no es el aprendizaje 
+mecánico de unas normas (jurídicas, legales y políticas), sino la realización efectiva de una forma de vida y de 
+convivencia entre los seres humanos en sociedad” (Giraldo, 2015).  
+2.1. ¿Para usted cuál es el significado de este párrafo?  
+ 
+2.2. ¿Cómo se relaciona la ciudadanía con las habilidades para la vida?  
+
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+2.3. ¿Cómo se puede vincular el concepto de ciudadanía con el proceso de paz en Colombia?  
+3. Realiza la lectura del componente formativo sobre “Derechos fundamentales del trabajo”, para resolver las 
+siguientes preguntas:  
+3.1. ¿Qué se entiende por ciudadanía laboral?  
+3.2. ¿Cuál es el rol de las organizaciones de trabajadores en el ejercicio de la ciudadanía laboral?  
+3.3. ¿Se puede definir la ciudadanía laboral como posesión de derechos? ¿Por qué ?  
+4. Realice la lectura del componente formativo sobre “Derechos fundamentales en el trabajo” para responder 
+las siguientes preguntas:  
+4.1. ¿Por qué el trabajo es un derecho humano fundamental?  
+4.2. ¿Cómo se lograría un mundo laboral con trabajo decente?  
+4.3. ¿Qué principios promueve la OIT en el mundo del trabajo?  
+4.4. ¿Qué relación tiene el trabajo con la satisfacción de las necesidades básicas de las personas?  
+4.5. ¿Cuáles son los derechos laborales más vulnerados?  
+4.6. ¿Qué consecuencias sociales, económicas, culturales y políti cas resultan cuando a las personas no 
+se les reconocen sus derechos laborales?  
+4.7. ¿Qué relación tienen los derechos laborales con el trabajo decente?  
+  
+5. Realice la lectura de la Cartilla de derecho laboral individual  en la URL: 
+https://aplicaciones.ceipa.edu.co/biblioteca/biblio_digital/virtualteca/cartillas/Cartilla_Derecho_lab oral_individ 
+ual_RG_ene_11_-46p.pdf para resolver las siguientes preguntas:   
+5.1. ¿Cuáles son los elementos que dan origen a un “contrato de trabajo”?  
+5.2. Para que sean reconocidos los derechos laborales, ¿debo tener siempre un contrato de trabajo por 
+escrito? Explique su respuesta.  
+5.3. ¿Cree usted que es posible pactar con su jefe el pago total de su salario en especie (con mercancías) 
+y no en dinero? Explique su respuesta.  
+5.4. ¿Su jefe le puede cambiar las condiciones de su contrato de trabajo después de firmado? Explique su 
+respuesta.  
+5.5. ¿Cuáles son las prestaciones económicas y sociales a que tiene derecho con un “contrato de trabajo”?  
+5.6. Seleccione en el grupo de trabajo, dos casos que conozcan o hayan escuchado, en los cuales se 
+evidencie violación de los derechos laborales, y explique en detalle ¿qué derechos se están violando 
+y por qué?  
+ 
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: informe con el desarrollo del taller que tenga las respuestas a las 
+preguntas.   
+● Formato: PDF.   
+● Extensión: mínimo tres páginas.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: informe sobre trabajo decente, ciudadanía laboral, derechos individuales y 
+colectivos en el trabajo GA11-210201501-AA2-EV01.   
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+  
+● Evidencia de desempeño: GA11-210201501-AA2-EV02 foro sobre el convenio colectivo del trabajo 
+y la libertad sindical  
+  
+Además de los derechos laborales individuales, existen otra categoría de derechos que ya no tocan solo con la 
+persona que presta sus serv icios personales de manera subordinada, sino también con las garantías y derechos 
+tendientes a mejorar las condiciones de los trabajadores como agrupación. En general, el derecho de asociación 
+es la prerrogativa de la que gozan todos los individuos de unirse y organizarse para defender o alcanzar intereses 
+comunes, por tanto, hay diversas formas de asociaciones, tales como las cooperativas, sociedades mercantiles, 
+ONG, etc.  
+  
+El derecho colectivo del trabajo, que garantiza el derecho de asociación sindical, es quizás una de las expresiones 
+más importantes del derecho de asociación, pues regula las relaciones entre los trabajadores o empleadores 
+organizados con los demás sujetos del mundo del trabajo y la sociedad, en procura de lograr relaciones de trabajo 
+justas que reivindiquen la dignidad humana y el progreso social.  
+  
+1. Analice la información sobre convenio colectivo del trabajo y la libertad sindical que se encuentra dentro del 
+componente formativo y explique con sus palabras las siguientes preguntas:  
+● ¿Qué opina usted de la organización de los trabajadores en sindicatos?  
+● ¿Es posible que personas con diversos oficios y vinculados a empresas diferentes formen parte de una 
+sola organización sindical? Explique su respuesta.  
+● ¿Qué es un convenio Colectivo de Trabajo?  
+● ¿Cuáles son los elementos fundamentales de un Convenio Colectivo de Trabajo?  
+● ¿Qué es un conflicto de trabajo? Explique su respuesta.  
+● Hay quienes afirman que la huelga es una estrategia utilizada por los trabajadores para apoderarse de las 
+empresas y no trabajar. ¿Qué opina usted al respecto?  
+● ¿Cuál es la definición de libertad sindical?  
+● ¿Cómo construir conciencia para una mejor comprensión de la libertad sindical?  
+● ¿Qué normas nacionales e internacionales amparan la libertad sindical?  
+● ¿Qué acciones propondría usted para promover el derecho de asociación sindical y la libertad sindical?  
+● ¿Cuál es el panorama de Colombia en cuanto a los derechos sindicales?  
+● ¿Cuál es la importancia de la OIT en la aplicación del Derecho Laboral?  
+● ¿Cuáles son los fines de un sindicato?  
+● ¿Cómo se clasifican los sindicatos?  
+● ¿Cuál es la importancia de la organización sindical para la democracia  
+● ¿Cómo afecta a la sindicalización, la tercerización del empleo, el trabajo a destajo, las modalidades de 
+prestación del servicio, el desempleo, el contrato a término fijo?  
+  
+2. Comparta las respuestas obtenidas del punto anterior en el foro correspondiente.   
+3. Realice una realimentación de las respuestas dadas por dos de sus compañeros.  
+Lineamientos para la entrega del producto:  
+● Evidencia: participación en el foro (respuesta a las preguntas y realimentación de las respuestas de los 
+compañeros)  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Para su desarrollo remítase al área de la actividad correspondiente y acceda al espacio de la evidencia: 
+Foro sobre el convenio colectivo del trabajo y la libertad sindical GA11-210201501-AA2-EV02.  
+  
+● Evidencia de conocimiento: GA11-210201501-AA2-EV03 gráfico sobre la negociación colectiva  
+ 
+Realice la lectura del componente formativo respecto a la negociación colectiva incluyendo los videos y 
+documentos anexos. Con esta información  diseñe un gráfico que represente la información anteriormente 
+consultada y las siguientes preguntas:  
+● ¿Qué tipos de negociación existen?  
+● ¿Cuáles son las características de la negociación colectiva?  
+● ¿Cuál es la finalidad de la negociación colectiva?  
+● ¿Qué promueve la OIT respecto a la negociación colectiva?  
+ 
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: un gráfico.  
+● Formato: si el gráfico se gestiona manualmente, digitalizar con extensión .JPG, si se usa herramienta 
+digital, exportar a .JPG.  
+● Extensión: mínimo 1 hoja o máximo 2.   
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el desarrollo de la evidencia: gráfico sobre la negociación colectiva GA11-210201501-AA2-EV03.  
+  
+● Evidencia de conocimiento: GA11-210201501-AA2-EV04 infografía sobre la huelga  
+  
+Realice la lectura del componente formativo respecto a las organizaciones sindicales incluyendo los videos y 
+documentos anexos. A su vez, en los documentos del programa se encuentra el archivo “Construccion_infografia” 
+donde se describen cada uno de los pasos y aspectos fundamentales para su construcción, esta debe dar 
+respuesta a las siguientes preguntas:  
+● ¿Qué es el derecho a la huelga?  
+● ¿Cuáles son las condiciones para el ejercicio del derecho a la huelga?  
+● ¿Cuáles son las normas nacionales e internacionales que amparan el derecho a la huelga?  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: una infografía.  
+● Formato: si la infografía se gestiona manualmente, digitalizar con extensión .JPG, si se usa herramienta 
+digital, exportar a .JPG.  
+● Extensión: mínimo 1 hoja o máximo 2.   
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el desarrollo de la evidencia: infografía sobre la huelga GA11-210201501-AA2-EV04.  
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.2.3 Actividad de aprendizaje GA11- 210201501-AA3 -Comparar las condiciones del trabajo en el devenir 
+histórico de la humanidad.  
+  
+La intencionalidad específica está basada en el marco de los derechos fundamentales en el trabajo para que la 
+persona ejerza la ciudadanía laboral valorando sus principios fundamentales y apropiando las herramientas que le 
+permitan protegerla y defenderla.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar:  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Derechos fundamentales del trabajo”.  
+ 
+ 
+Evidencias:  
+  
+● Evidencia de desempeño: GA11- 210201501-AA3-EV01 Mapa mental violación de derechos del 
+trabajo.  
+  
+1. Realiza una lluvia de ideas sobre los derechos  humanos del trabajo, indicando en qué consiste el derecho, 
+como surgió y ante quién se puede exigir su cumplimiento.   
+  
+2. Atienda el encuentro online con el  instructor sobre los sistemas de protección de derechos humanos del 
+trabajo (OIT – CIDH - CP), así como de sus principales normas, instrumentos y formas de poner en acción dichos 
+sistemas, incluyendo el Derecho de Petición y la acción de Tutela tanto como los pasos de creación de una 
+organización sindical y el inicio de un conflicto colectivo (pliego de peticiones)  
+3. Basado en el componente formativo y la información proporcionada por el instructor, elabore un mapa 
+mental en el cual presente cuales pueden ser las acciones de la OIT – CIDH – CP frente a una v iolación de 
+derechos del trabajo. A su vez, en los documentos del programa se encuentra el anexo 
+“Construccion_Mapa_mental” donde se describen cada uno de los pasos y aspectos fundamentales para su 
+desarrrollo.  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: mapa mental.  
+● Formato: Documento en Word o PDF.   
+● Extensión: mínimo 1 hoja o máximo 2.    
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el desarrollo de la evidenc ia:  mapa mental violación de derechos del trabajo GA11- 210201501-
+AA3EV01.   
+ 
+ 
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia de desempeño: GA11-210201501-AA3-EV02 Foro estudio de caso.  
+  
+Con la información suministrada en el componente formativo y los respectivos videos que allí se encuentr an 
+desarrolle:  
+1. Sobre el caso asignado por el instructor trabaje en grupo y determinen ¿Cuáles son los derechos de los 
+trabajadores que no se cumplen? ¿Cuáles son sus respectivas cuantías?  
+2. Preparen una cartelera digital donde presenten el incumplimiento d e derechos en el caso dado y sus 
+conclusiones.   
+3. Esta información será socializada en el foro y debatida por el grupo.   
+  
+Lineamientos para la entrega del producto:  
+● Evidencia: participación en el foro (respuesta a las preguntas, cartelera digital y realimentación de las 
+respuestas de los compañeros)  
+● Para su desarrollo remítase al área de la actividad correspondiente y acceda al espacio de la evidencia: 
+Foro estudio de caso GA11-210201501-AA3-EV02.   
+ 
+● Evidencia de conocimiento: GA11- 210201501-AA3-EV03 cuadro comparativo sobre el derecho de 
+petición y la acción de tutela.   
+Con la información suministrada en el componente formativo, los respectivos videos que allí se encuentran e 
+información consultada, elabore un cuadro comparativo en el cual enuncie las características del derecho de 
+petición, la acción de tutela y queja, su aplicación y presentación. En los documentos del programa se encuentra 
+el anexo “Construccion_Cuadro_comparativo” donde se describen cada uno de los pasos y aspectos 
+fundamentales para su construcción.  
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: un cuadro comparativo.  
+● Formato: si el cuadro comparativo se gestiona manualmente, digitalizar con extensión .JPG, si se usa 
+herramienta digital, exportar a .JPG.  
+● Extensión: mínimo 1 hoja o máximo 2.    
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el desarrollo de la evidencia: cuadro comparativo sobre el derecho de petición y la acción de tutela 
+GA11-210201501-AA3-EV03.   
+  
+ 
+ 
+ 
+ 
+● Evidencia de Producto: GA11-210201501-AA3-EV04 texto argumentativo.   
+  
+Con la información suministrada en el componente formativo y los respectivos videos que allí se 
+encuentran elabore un texto de no más de una hoja en el cual presente los argumentos personales frente a 
+uno de los siguientes tres temas:   
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+a) Importancia del derecho de asociación  
+b) Derecho de huelga   
+c) Desafíos del derecho del trabajo en el    mundo moderno.  
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: Texto argumentativo.  
+● Formato: documento en Word o formato PDF  
+● Extensión: 1 hoja    
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el desarrollo de la evidencia:  Texto argumentativo GA11-210201501-AA3-EV04  
+  
+3.2.4 Actividad de aprendizaje GA11- 210201501-AA4- Comprender la impor tancia de las acciones e 
+instituciones encargadas de la protección de los derechos del trabajo, los pueblos y la naturaleza, en el 
+contexto territorial específico y a nivel nacional.  
+  
+Esta actividad pretende ofrecer herramientas para la práctica solidaria de los mecanismos para hacer exigibles los 
+derechos fundamentales. Su énfasis se centrará en la formación para el acceso a la justicia y el activismo judicial 
+territorial, como herramientas óptimas para alcanzar la materialización de las promesas del Est ado Social de 
+Derecho y la Constitución política de 1991, promoviendo el acceso a instituciones locales y el uso de las facilidades 
+tecnológicas.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar:  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Derechos fundamentales del trabajo”.  
+Evidencias:  
+  
+● Evidencia de desempeño: GA11-210201501-AA4-EV01 foro Estado social de derecho  
+  
+1. Serán divididos en grupos de trabajo de acuerdo con las recomendaciones o asignaciones del instructor.   
+  
+2. De forma individual, revise el componente formativo específicamente con referencia al desarrollo para una vida 
+digna y resuelva las siguientes preguntas, de las cuales socializarán las respuestas en el foro con sus 
+compañeros:  
+ 
+⮚ ¿Cuál es el concepto de Estado?  
+ ⮚  ¿Qué significa Estado social?  
+ ⮚  ¿Cuáles son las características de un Estado social de derecho?  
+⮚ ¿Considera que en Colombia se cumplen las condiciones para ser un Estado social de derecho? Explique 
+su respuesta  
+  
+3. De forma grupal propongan un caso hipotético o real de vulneración de los derechos del trabajo, de los pueblos 
+o de la naturaleza. A partir de este, establezcan las instituciones que estarían encargadas de velar por la 
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+protección de estos derechos. Propongan y elaboren una acción pública orientada a la superación de la situación 
+de vulnerabilidad y al restablecimiento del derecho.  
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: participación en el foro (respuesta a las preguntas de manera individual y la 
+acción pública realizada de manera grupal).  
+● Formato: las preguntas individuales deben ser resueltas directamente en el foro y la acción pública debe ser 
+adjuntada en un PDF.  
+● Extensión: máximo 10 hojas.   
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+desarrollo de la evidencia: foro Estado social de derecho GA11-210201501-AA4-EV01.  
+  
+● Evidencia de producto: GA11-210201501-AA4-EV02 - Presentación  
+ El derecho de los pueblos y la solidaridad, promovido a partir de los años ochenta para incentivar el progreso social 
+y elevar el nivel de vida de todos los pueblos, se relaciona con: 
+● Derecho a la autodeterminación.  
+● Derecho a la independencia económica y política.  
+● Derecho a la identidad nacional y cultural.  
+● Derecho a la paz.  
+● Derecho a la coexistencia pacífica.  
+● Derecho al entendimiento y confianza.  
+● La cooperación internacional y regional.  
+● La justicia internacional.  
+● El uso de los avances de las ciencias y la tecnología.  
+● La solución de los problemas alimenticios, demográficos, educativos y ecológicos.  
+● El medio ambiente.  
+● El desarrollo que permita una vida digna.  
+● Los derechos del consumidor.  
+● El libre desarrollo de la personalidad. 
+  
+1. Participe del encuentro online  con el instructor en relación con las entidades territoriales responsables de la 
+protección de los derechos de los pueblos, del trabajo y la naturaleza.  
+  
+2. Consulte el documento sobre Activismo judicial territorial y vea los videos sobre los derechos de t ercera 
+generación, derecho a la solidaridad y cambio de mentalidad que se encuentra en el componente formativo.  
+  
+3. Realice la visualización de la carta de un jefe piel roja al presidente de los Estados Unidos que se encuentra en:  
+https://www.youtube.com/watch?v=VJz4B14iasc  
+  
+4. Basado en lo anteriormente descrito resuelva las siguientes preguntas:  
+ ⮚  ¿Cómo interactúa el derecho a un medio ambiente sano con los derechos individuales y sociales?  
+⮚        ¿Por qué considera importante desarrollar una visión integral y global de los Derechos Humanos para 
+evitar __ su distorsión?  
+ ⮚  ¿Cuál es la incidencia del desarrollo sostenible en la conservación del medio ambiente y el planeta?  
+ ⮚     ¿La naturaleza tiene derechos? ¿Cuáles y por qué?  
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ ⮚  ¿Por qué y para qué la sociedad debe educarse en lo ambiental?  
+ ⮚  ¿Por qué ser solidario facilita la construcción de la paz en un país?  
+ ⮚  ¿Cuáles son las cualidades observables de la persona que contribuyen a la c ultura de la paz?  
+ 
+5. Identifique los problemas que se viven en su entorno social o familiar teniendo en cuenta los derechos 
+relacionados en el recuadro inicial y las alternativas respectivas. Identifique las acciones que permitan, de 
+manera efectiva contribuir a la solución de las situaciones de vulnerabilidad de los derechos del trabajo los 
+pueblos y la naturaleza en su territorio.  
+6. Presente en diapositivas la solución a las preguntas y las soluciones propuestas en el punto anterior. En los 
+documentos del programa se encuentra el anexo “Construccion_Presentacion” donde se describe cada uno de 
+los pasos y aspectos fundamentales para su construcción.  
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: presentación en PowerPoint o cualquier software para este 
+mismo fin, debe contener la siguiente estructura:  
+● Título.  
+● Introducción.  
+● Cuerpo (preguntas y soluciones propuestas).  
+● Conclusión.  
+● Referentes bibliográficos.  
+● Formato: PowerPoint u otro formato.  
+● Extensión: no hay límite.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al 
+espacio para el desarrollo de la evidencia: presentación GA11-210201501-AA4-EV02.  
+  
+4. Actividades de evaluación  
+  
+Evidencias de aprendizaje  Criterios de evaluación  
+Técnicas e instrumentos de 
+evaluación  
+Evidencias de conocimiento: 
+Infografía procesos de 
+desarrollo del software.  
+GA11-220501098-AA1-EV01  
+Caracteriza los procesos de 
+desarrollo del software de acuerdo 
+con los lineamientos de calidad 
+establecidos.  
+IE-GA11-220501098-AA1-EV01  
+Lista de chequeo  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de desempeño:  
+Aplicación de buenas prácticas 
+de calidad documentadas en 
+las disciplinas  de calidad de 
+software.  
+GA11-220501098-AA1-EV02  
+  
+Selecciona buenas prácticas de 
+calidad de acuerdo con el referente de 
+los marcos de trabajo.  
+  
+Aplica el proceso personal de 
+desarrollo de software para mejorar la 
+calidad del software desarrollado.  
+  
+Registra las actividades realizadas en 
+el proceso personal de desarrollo de 
+software de acuerdo con las formas 
+dispuestas en el libro de trabajo.  
+  
+Elabora instrumentos para 
+documentar procesos de 
+aseguramiento de la calidad.  
+  
+Diligencia la documentación de 
+procesos de aseguramiento de la 
+calidad siguiendo parámetros 
+establecidos.  
+  
+IE-GA11-220501098-AA1-EV02  
+Lista de chequeo  
+Evidencias de desempeño: 
+Diseño y diligenciamiento de 
+instrumentos para documentar 
+procesos de calidad del 
+software.  
+GA11-220501098-AA1-EV03  
+ 
+Evidencia de producto:   
+Bitácoras con los procesos 
+documentados.   
+GA11-220501098-AA1-EV04 
+IE-GA11-220501098-AA1-EV03  
+Lista de chequeo  
+ 
+IE-GA11-220501098-AA1-EV04  
+Lista de chequeo 
+Evidencias de desempeño:  
+Creación de informe con los 
+resultados del comportamiento 
+del software.  
+GA11-220501098-AA2-EV01  
+Evalúa comportamientos del sistema 
+de acuerdo con los requisitos no 
+funcionales del software.  
+  
+Elabora informe de evaluación de la 
+calidad de acuerdo con los resultados 
+de la verificación.  
+IE-GA11-220501098-AA2-EV01  
+Lista de chequeo  
+Evidencias de producto:  
+Realiza informe de las 
+experiencias aprendidas en el 
+proceso de verificación del 
+software.   
+GA11-220501098-AA2-EV02  
+Crea bitácora de lecciones 
+aprendidas a partir de los resultados 
+de la verificación del software.  
+IE-GA11-220501098-AA2-EV02  
+Lista de chequeo  
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de desempeño:  
+Realiza ajustes en los procesos 
+de desarrollo.   
+GA11-220501098-AA3-EV01  
+Ajusta procesos del desarrollo de 
+software de acuerdo con el referente 
+de calidad adoptado.  
+IE-GA11-220501098-AA3-EV01  
+Lista de chequeo  
+Evidencias de producto:  
+Documento  con  las 
+verificaciones de condiciones 
+de calidad del producto de 
+software ajustado.   
+GA11-220501098-AA3-EV02  
+Determina las acciones correctivas, 
+preventivas y de mejoramiento de 
+acuerdo con los resultados de la 
+evaluación.  
+IE-GA11-220501098-AA3-EV02  
+Lista de chequeo  
+Evidencia de conocimiento:   
+Taller.  
+GA11-210201501-AA1-EV01   
+  
+Evidencia de desempeño:  
+Foro sobre características del 
+trabajo en contexto local.   
+GA11-210201501-AA1-EV02  
+Selecciona los mecanismos de 
+protección para el ejercicio de la 
+ciudadanía laboral aplicando la 
+normativa.  
+IE-GA11-210201501-AA1-EV01  
+Rúbrica   
+  
+IE-GA11-210201501-AA1-EV02  
+Lista de chequeo  
+Evidencia de producto: Informe 
+sobre trabajo decente, 
+ciudadanía laboral, derechos 
+individuales y colectivos en el 
+trabajo.   
+GA11-210201501-AA2-EV01  
+  
+Evidencia de desempeño: Foro 
+sobre el convenio colectivo del 
+trabajo y la libertad sindical.  
+GA11-210201501-AA2-EV02  
+  
+Evidencia de conocimiento: 
+Gráfico sobre la negociación 
+colectiva.  
+GA11-210201501-AA2-EV03  
+  
+Evidencia de conocimiento:  
+Infografía sobre la huelga.  
+GA11-210201501-AA2-EV04 
+Analiza situaciones que repercuten 
+en ejercicio de los derechos 
+fundamentales en el trabajo, 
+desarrollando habilidades de 
+comunicación según técnicas y 
+protocolos.   
+  
+Elabora documentos relacionados 
+con las obligaciones económicas, 
+sociales y de bienestar derivadas de 
+las acciones laborales de acuerdo 
+con la normativa.   
+  
+Evalúa los resultados de la aplicación 
+de los mecanismos de protección 
+para el ejercicio de la ciudadanía 
+laboral acorde con la normativa.   
+  
+Propone estrategias de solución de 
+conflictos y negociación de acuerdo 
+con la normativa. 
+IE-GA11-210201501-AA2-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA11-210201501-AA2-EV02  
+Lista de chequeo  
+  
+  
+  
+IE-GA11-210201501-AA2-EV03  
+Rúbrica de evaluación  
+  
+  
+  
+IE-GA11-210201501-AA2-EV04  
+Rúbrica de evaluación  
+  
+ 
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento: 
+Mapa mental violación de 
+derechos del trabajo.   
+GA11-210201501-AA3-EV01  
+  
+Evidencia de desempeño: Foro 
+estudio de caso.  
+GA11-210201501-AA3-EV02  
+  
+Evidencia de conocimiento: 
+Cuadro comparativo sobre el 
+derecho de petición y la acción 
+de tutela.  
+GA11-210201501-AA3-EV03  
+  
+Evidencia de producto: Texto 
+argumentativo.  
+GA11-210201501-AA3-EV04  
+Compara las condiciones del trabajo, 
+en el devenir histórico de la 
+humanidad de acuerdo con los 
+Derechos Humanos y fundamentales 
+en el trabajo.   
+  
+Argumenta los momentos relevantes 
+del devenir histórico de los Derechos 
+Humanos y fundamentales en el 
+trabajo en la línea del tiempo.  
+IE-GA11-210201501-AA3-EV01  
+Rúbrica de evaluación  
+  
+  
+IE-GA11-210201501-AA3-EV02  
+Lista de chequeo  
+  
+  
+IE-GA11-210201501-AA3-EV03  
+Lista de chequeo  
+  
+  
+  
+IE-GA11-210201501-AA3-EV04  
+Lista de chequeo  
+  
+Evidencia de desempeño:   
+Foro Estado social de derecho.  
+GA11-210201501-AA4-EV01  
+  
+  
+  
+  
+  
+Evidencia de producto:   
+Presentación.  
+GA11-210201501-AA4-EV02  
+Justifica la importancia de los 
+derechos de los pueblos y de la 
+solidaridad en el ejercicio de la 
+ciudadanía laboral de acuerdo con la 
+normativa.   
+  
+Relaciona, de los derechos de los 
+pueblos y de la solidaridad, la 
+autodeterminación de los pueblos, el 
+desarrollo sostenible, la seguridad 
+alimentaria, el derecho al uso de la 
+ciencia y la tecnología y la paz en 
+función de los indicadores de 
+desarrollo humano.   
+  
+Propone acciones de defensa 
+relacionadas con la 
+autodeterminación de los pueblos, el 
+desarrollo sostenible, la seguridad 
+alimentaria, el derecho al uso de la 
+ciencia y la tecnología y la paz en 
+función de los indicadores del 
+desarrollo humano.  
+IE-GA11-210201501-AA4-EV01  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA11-210201501-AA4-EV02 
+Lista de chequeo.  
+  
+5. Glosario de términos  
+  
+Administración: proceso de diseñar y mantener un ambiente en el cual las personas, trabajando en grupo, 
+alcanzan con eficiencia las metas establecidas.  
+Análisis financiero : es el conjunto de principios, técnicas y procedimientos que utiliza para transformar la 
+información reflejada en los estados financieros e información procesada, utilizable para la toma de decisiones 
+económicas, tales como nuevas inversiones y fusiones de empresas.  
+
+=== PAGE 23 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Capital: es la suma de todos los recursos aportados por los propietarios, socios o ac cionistas (bienes y valores), 
+para la constitución y puesta en marcha de una empresa.  
+Competitividad: capacidad de la sociedad para hacerle frente al desafío de la economía global y al proceso de 
+internacionalización, creando ventajas competitivas sostenibles y al mismo tiempo incrementar sus niveles de 
+bienestar. Capacidad de competir eficientemente en los mercados incrementando a la vez los ingresos reales.  
+Demanda: cantidad máxima de un bien o servicio que un individuo o grupo de ellos está dispuesto a adquirir a un 
+determinado precio, por unidad de tiempo.  
+Encuesta: aplicación de un cuestionario en u na investigación de mercados para obtener diferentes tipos de 
+información.  
+Emprendimiento: la palabra viene del francés entrepreneur (pionero), se refiere a la capacidad de hacer un 
+esfuerzo adicional para alcanzar una meta siendo utilizada para identificar a quien comienza una empresa, término 
+que fue ligado a empresarios innovadores o aquellos individuos que con su actividad generan inestabilidad en los 
+mercados; actitud orientada a identificar y tomar oportunidades, siendo un instrumento de cambio cultural para 
+crear y agregar valor.  
+Estado de situación financiera : se trata de un documento que muestra el valor y la naturaleza de los recursos 
+económicos de una empresa, así como los intereses de los acreedores y la participación de los dueños en una 
+fecha determinada.  
+Estrategia: programas generales de acción y desp liegue de recursos para alcanzar los objetivos establecidos de 
+tal forma que definan lo que es o debe ser el negocio de la compañía; forma concreta y específica de solucionar la 
+situación, problema o necesidad del grupo con el cual está trabajándose.  
+Implantación: fase del desarrollo de software donde el producto de software desarrollado se lleva a ambientes 
+productivos para ser utilizados por los clientes finales.  
+  
+Impuestos: pagos obligatorios de dinero que exige el estado a los individuos y empresas que no están sujetos a 
+una contraprestación directa, con el fin de financiar los pagos propios de la administración del estado y la provisión 
+de bienes y servicios de carácter público, tales como la administración de la justicia, gastos de defensa, subsidios, 
+entre otros.  
+Manual: conjunto de instrucciones, explicaciones, o descripción de actividades paso a paso que muestran cómo 
+realizar una tarea específica.  
+  
+Marca: identificación de un producto o servicio, mediante la forma del nombre. Símbolo, diseño o combinación de 
+estos para diferenciarlo de la competencia.  
+Metodología: ciencia que consta de métodos y técnicas, que se aplican sistemáticamente durante un proceso de 
+investigación o para solucionar una problemática.  
+  
+Modelo económico: construcción teórica que empleando las matemáticas intenta representar lo esencial de las 
+relaciones económicas del mundo real, constituyendo una abstracción simplificada de la realidad.  
+Necesidad en marketing: manifestación del comprador real o potencial que da a entender o expresa un deseo o 
+preocupación que el vendedor puede satisfacer, sensación de falta de algo y que se desea llevar.  
+
+=== PAGE 24 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Producción: toda actividad del hombre que, a través de un proceso de transformación de insumos, materias primas 
+y recursos naturales, obtiene bienes y servicios que sirven para satisfacer las necesidades humanas.  
+Segmentación de mercado: separación del mercado de un artículo en las categorías de localización, personalidad 
+u otras características para cada división.  
+  
+6. Referentes bibliográficos  
+  
+Acosta, R., G., Pérez, P., J., Rodríguez, P., M., y Valenzuela, B., M. (2017) Cartilla emprendimiento. Servicio 
+Nacional de Aprendizaje - SENA.   
+Bichachi, D. S. (2004). El uso de las listas de chequeo (check-list) como herramienta para controlar la calidad de 
+las leyes.   
+Cravens D., Piercy, N., (2007) Marketing estratégico. McGraw-Hill Interamericana.  
+Departamento Nacional de Planeación. (2020). Guía para la elaboración del manual técnico y de operación de 
+los sistemas de información. DNP.  
+Escobar, H., y Cuartas, V. (s. f.). Diccionario económico financiero. Puntos suspensivos.  
+Kotler P., Keller K., (20112) Dirección de marketing. Pearson Prentice Hall.   
+Lambin, J., Galluci, C., y Sicurello, C. (2008) Dirección de marketing, gestión estratégica y operativa de mercado. 
+Mc Graw Hill.  
+Parmerlee, D. (2002) Cómo preparar un plan de marketing. Ediciones Gestión 2000 S.A.  Valencia, 
+H. (2007) Diccionario de marketing. 3R editores.   
+  
+7. CONTROL DEL DOCUMENTO  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+  
+Autor( 
+es)  
+  
+Octavio 
+ Jaramillo Ossa  
+Experto disciplinar  Regional Cundinamarca - Centro de 
+desarrollo agroempresarial de Chía  
+Diciembre de 
+2020  
+Josué  Dario  Niño  
+Riaño  
+Experto disciplinar  Regional Cundinamarca - Centro de 
+desarrollo agroempresarial de Chía  
+Diciembre de 
+2020  
+Fredy  Gabriel  
+Martínez Loza  
+Experto disciplinar  Regional Cundinamarca - Centro de 
+desarrollo agroempresarial de Chía  
+Diciembre de 
+2020  
+José  Adriano  
+Valentín  
+Experto disciplinar  Regional Cundinamarca - Centro de 
+desarrollo agroempresarial de Chía  
+Diciembre de 
+2020  
+Vilma   
+Perilla Méndez  
+Diseñadora 
+instruccional  
+Regional Distrito Capital - Centro de 
+Gestión Industrial.  Febrero  2021  
+
+=== PAGE 25 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Jonathan   
+Guerrero Astaiza  
+Experto  
+temático  
+  
+Regional Distrito Capital - Centro de  
+Teleinformática y Producción Industrial  
+  
+Noviembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador 
+instruccional  
+Regional Distrito Capital - Centro para la 
+Industria de la Comunicación Gráfica  
+Diciembre 
+2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Metodóloga  Regional Distrito Capital -  Centro de 
+metrología y diseño.   
+Febrero de 
+2022  
+Rafael  Neftalí  
+Lizcano Reyes  
+Asesor  
+Pedagógico  
+Regional Santander -  Centro Industrial 
+del Diseño y la Manufactura  
+Febrero de 
+2022 
+José Gabriel Ortiz 
+Abella  
+Corrector  de  
+estilo  
+Regional Distrito Capital -  Centro de 
+Metrología y Diseño.  Febrero de 2022 
+  
+  
+8. CONTROL DE CAMBIOS (diligenciar únicamente si realiza ajustes a la guía)  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+  
+  

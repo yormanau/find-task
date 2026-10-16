@@ -1,0 +1,1319 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+  
+1. Identificación de la guía de aprendizaje   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software  
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios  
+● Fase del proyecto: ejecución.   
+● Actividad de proyecto: Desarrollar las tareas de configuración y puesta en marcha del software  
+ Competencias:  
+Técnicas:  
+220501097- Implementar la solución de software de acuerdo con los requisitos de operación y modelos 
+de referencia.   
+Transversal:   
+240201529- Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil 
+personal y los requerimientos de los contextos productivo y social.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501097-01- Planear actividades de implantación del software de acuerdo con las condiciones del 
+sistema.  
+220501097-02- Desplegar el software de acuerdo con la arquitectura y las políticas establecidas.  
+220501097-03- Documentar el proceso de implantación de software siguiendo estándares de calidad.  
+220501097-04- Implantar el software de acuerdo con los niveles de servicio establecidos con el cliente.   
+Transversal:  
+240201529-01- Integrar elementos de la cultura emprendedora teniendo en cuenta el perfil personal y el 
+contexto de desarrollo social.  
+240201529-02- Caracterizar la idea de negocio teniendo en cuenta las oportunidades y necesidades del 
+sector productivo y social.  
+240201529-03- Estructurar el plan de negocio de acuerdo con las características empresariales y 
+tendencias de mercado.  
+240201529-04- Valorar la propuesta de negocio conforme con su estructura y necesidades del sector 
+productivo y social.  
+  
+● Duración de la guía: 192 horas.  
+Técnico: 144 horas.   
+Transversal: 48 horas.  
+  
+2. Presentación  
+  
+Estimado aprendiz, el SENA le extiende una cordial bienvenida a la décima guía de aprendizaje que comprende la 
+competencia técnica de implementar la solución de software de acuerdo con los requisitos de operación y modelos 
+de referencia. Es esta guía se desarrollarán los temas asociados con una de las últimas fases en el proceso de 
+desarrollo de software: la implantación, en esta se realizan todas las tareas requeridas para llevar un producto o 
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+servicio de software desde un ambiente de desarrollo o pruebas a un ambiente de producción donde es manipulado 
+por los clientes reales.   
+Por otra parte, el emprendimiento está relacionado con el desarrollo humano y económico, con el mejoramiento de 
+las condiciones de vida en los contextos en los que tiene impacto la idea y la concreción de las aspiraciones 
+personales que motivan al emprendedor, por lo que su papel en la sociedad actual es fundamental para el 
+desarrollo socioeconómico y cultural de Colombia.   
+  
+Las actividades de aprendizaje están basadas en la estrategia didáctica de aprendizaje a través de estudio de 
+casos, la cual permite representar circunstancias de la vida real para hallar posibles soluciones que se puedan 
+presentar en el contexto laboral o personal.  
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa quienes de forma continua y permanente le orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual, para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo: construcción de software integrador de tecnologías orientadas a servicios.  
+  
+3.1 Actividades de aprendizaje de la competencia 220501097-  Implementar la solución de software de 
+acuerdo con los requisitos de operación y modelos de referencia  
+  
+Esta competencia se centra en la realización de actividades en el proceso de despliegue de productos y servicios 
+de software entre los que encontramos la preparación de la plataforma tecnológica, la verificación de características 
+mínimas del hardware requerido, planes de instalación, configuración de servicios y documentación de procesos 
+de implantación, entre otros.  
+3.1.1 Actividad de aprendizaje GA10-220501097-AA1- Preparar la plataforma tecnológica.  
+  
+En esta actividad se desarrollarán los principios básicos de las redes de datos desde una perspectiva física y lógica, 
+de igual forma se desarrollan los temas relacionados con la interacción y comunicación entre los componentes que 
+facilitan el acceso a recursos disponibles en la red.   
+Duración: 6 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Conceptos básicos de redes y networking”.   
+  
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+ 
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA10 -220501097-AA1-EV01 conceptos y principios de hardware e 
+instalación de software  
+  
+Esta evidencia se centra en consolidar los conceptos relacionados con los conceptos básicos de redes y networking 
+que son esenciales en el proceso de alistamiento de infraestructura tecnológica en la fase de implantación.  
+Para su desarrollo realice un informe especificando con base en la selección de la plataforma cuáles son las 
+características que debe tener el sistema operativo seleccionado. Se debe incluir además cuáles organizaciones 
+se encargan de construir estándares para el área de redes y networking, cuáles son las dos grandes familias de 
+protocolos respecto a la transmisión y recepción datos. Adicionalmente, se debe mencionar los medios de 
+transmisión (guiados - no guiados).  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, desarrollo de la temática, conclusiones, y 
+referencias bibliográficas (presentar este apartado con la aplicación de las más recientes normas APA).  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento informe.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+conceptos y principios de hardware e instalación de software GA10-220501097-AA1-EV01.    
+  
+3.1.2 Actividad de aprendizaje GA10-220501097-AA2- Verificar el cumplimiento de las características mínimas 
+de hardware requeridas para el software desarrollado.  
+ 
+Cada equipo cuenta con especificaciones técnicas de hardware para que un determinado SO pueda ser instalado 
+en él, y los requisitos para instalar un sistema operativo los determina el fabricante o programador de cada sistema, 
+pero cada computadora debe contar con al menos las siguientes características.  
+Duración: 8 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+material de formación: "Sistemas operativos de red”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evi dencias que conforman la 
+actividad de aprendizaje:  
+❖ Evidencia de desempeño: GA10- 20501097-AA2-EV01 elaborar plan de validación de características 
+mínimas de hardware para el software  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Con base en los temas de sistemas operativos y licenciamiento de software desarrollado en el componente 
+formativo, en esta  actividad se plantea el desarrollo de un informe en el que deberá listar de manera ordenada 
+cada uno de los elementos que se deben considerar para verificar que se poseen o no las características mínimas 
+de hardware para el despliegue de una aplicación con las siguientes características:  
+● Aplicación web desarrollada en PHP  
+● La aplicación accede a información persistente para la identificación y registro de usuario.  
+● La aplicación proyecta alrededor de 250 usuarios activos no concurrentes.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en el plan de validación construido.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: un documento de plan de validación de características mínimas de hardware.  
+● Extensión: libre.  
+● Formato: PDF o word.  
+● Para responder la evidencia remítase al área de la actividad correspondiente y acceda al espacio: elaborar 
+plan de validación de características mínimas de hardware para el software. GA10 -20501097-
+AA2EV01.  
+   
+ 
+3.1.3 Actividad de aprendizaje GA10-220501097-AA3- Elaborar el plan de instalación.  
+ 
+Esta actividad se centra en la identificación de componentes de arquitectura utilizados para el despliegue de 
+aplicaciones y servicios desde la identificación de requisitos no funcionales. Se abordan en detalle plataformas de 
+desarrollo e implantación de aplicaciones como: LAMP, XAMP, WAMP, WIMA, entre otros, y una pequeña 
+introducción al concepto de máquinas virtuales y contenedores.  
+Duración: 8 horas.  
+  
+Materiales de formación:  Para el desarrollo de esta actividad es importante la lectura y análisis del  material de 
+formación: componente formativo: “Identificación de requerimientos”.  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+ 
+ 
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+❖ Evidencias de producto: GA10-220501097-AA3-EV01 software instalado en la plataforma del cliente.  
+Teniendo en cuenta las diferentes plataformas de desarrollo e implantación de aplicaciones y servicios vistas en el 
+componente formativo, seleccionar una para el montaje de un servidor de aplicaciones local completo para hacer 
+el despliegue local de una plantilla web teniendo en cuenta los siguientes elementos:  
+● Seleccionar una plantilla HTML gratuita de internet para hacer la prueba, puede utilizar el sitio 
+https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp u otros similares para la selección de la 
+plantilla, la cual servirá como producto de prueba para el despliegue.  
+● Seleccionar la plataforma de desarrollo e implantación de su preferencia.  
+● Una vez definidos los dos puntos anteriores deberá realizar un informe con el  paso a paso requerido para la 
+instalación de la plataforma de desarrollo y el montaje del producto para ser desplegado localmente utilizando 
+imágenes descriptivas o captura de pantallas.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en el montaje del servidor local y el despliegue del producto de prueba.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: un documento de paso a paso a realizar para la instalación de la plataforma y 
+despliegue del producto de prueba.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para responder la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+software instalado en la plataforma del cliente GA10-220501097-AA3-EV01.  
+  
+3.1.4 Actividad de aprendizaje GA10-220501097-AA4- Configurar los servicios requeridos.  
+  
+Esta actividad se centra en la introducción de los conceptos relacionados con los procesos de gestión de 
+redundancia y alta disponibilidad los cuales son indispensab les al momento de contratar u ofrecer servicios en la 
+nube.  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar : para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Gestión de redundancia y alta disponibilidad”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA10-220501097-AA4-EV01 conceptos y principios acerca de configuración 
+de servicios  
+  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Esta evidencia se centra en consolidar los conceptos generales relacionados con clústeres, análisis de riesgo, 
+análisis de impacto, gestión de prioridad, recuperación de desastres, RPO y RTO, planes de continuidad del 
+negocio, gestión de crisis y pruebas de operación.  
+ 
+Para su desarrollo realice un informe especificando herramientas y tecnologías utilizadas en una arquitectura de 
+clústeres, las características, los tipos de clústeres, los tipos de procesamiento que se pueden llevan a cabo en 
+ellos, asimismo, las ventajas y desventajas de estas arquitecturas.  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, desarrollo de la temática, conclusiones, y referencias 
+bibliográficas (presentar este apartado con la aplicación de las más recientes normas APA).  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento informe ● Extensión: Libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+conceptos y principios acerca de configuración de servicios GA10-220501097-AA4-EV01.  
+  
+  
+3.1.5 Actividad de aprendizaje GA10-220501097-AA5. Configurar el software en el servidor y la base de datos.  
+  
+Esta actividad busca abordar las generalidades de los procesos de virtualización y contenedores, los cuales son 
+temas clave sobre los que se fundamenta la computación en la nube y los sistemas actuales de despliegue de 
+aplicaciones y servicios.  
+Duración: 40 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Virtualización y contenedores”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+ 
+❖ Evidencia de desempeño: GA10- 220501097-AA5-EV01 realiza la configuración de servicios, bases de 
+datos y software en el equipo del cliente  
+  
+Teniendo en cuenta las diferentes las características y particularidad del proceso de despliegue de servicios a través 
+de procesos de virtualización y de contenedores, se debe realizar el proceso de configuración y despliegue 
+utilizando virtualización y contenedores de una máquina con las siguientes características:  
+● Sistema operativo Linux en versión Ubuntu (cualquier versión).  
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Gestor de base de datos MYSQL.  
+● Servidor de aplicaciones Apache.  
+Realizar un informe donde se describa paso a paso los procesos realizados para la configuración de la máquina 
+con las características descritas anteriormente usando primero la virtualización y segundo los contenedores. No 
+olvide utilizar imágenes descriptivas y/o captura de pantalla.  
+El informe debe incluir alguna forma de probar que los servicios de la máquina creada tienen los servicios 
+ejecutándose correctamente.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en el montaje del servidor local y el despliegue del producto de prueba.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: Un documento configuración de servicios, bases de datos y software según el 
+requisito establecido. 
+●  Extensión: libre.  
+● Formato: PDF o Word.  
+● Para la evidencia remítase al área de la actividad correspondiente y acceda al espacio: realiza la 
+configuración de servicios, bases de datos y software  en el equipo del cliente. GA10-220501097AA5-
+EV01.  
+  
+3.1.6 Actividad de aprendizaje GA10-220501097-AA6 - Cargar archivos en el sitio de publicación.  
+  
+En esta actividad el aprendiz tendrá la forma de explorar la forma tradicional de hacer despliegue de servicios web 
+utilizando los servicios de hosting y dominio más comunes en el mercado.  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Publicación de aplicaciones tradicionales”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+❖ Evidencia de producto: GA10 -220501097-AA6-EV01 archivos cargados en la plataforma de 
+producción.  
+  
+Teniendo en cuenta las diferentes plataformas que ofrecen servicios de hosting y de dominio gratuito disponibles 
+en internet, seleccionar la de su preferencia y realizar el proceso paso a paso para la configuración de cada servicio. 
+Adicionalmente, seleccione una plantilla web gratuita o desarrollada por usted mismo y haga el proceso de 
+despliegue requerido para acceder a la misma por medio de una dirección de internet.  
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Deberá construir un documento tipo informe donde describa paso a paso las acciones realizadas, tenga en cuenta 
+las siguientes observaciones.  
+● Seleccionar una plantilla HTML gratuita de internet para hacer la prueba, puede utilizar el sitio 
+https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp u otros similares para la selección de la 
+plantilla, la cual servirá como producto de prueba para el despliegue.  
+● Seleccione una plataforma que le permita crear un dominio personalizado gratuito.  
+● Seleccione una plataforma que le permita realizar el hosting de la plantilla web o propia que será publicada 
+en internet.  
+● Utilice imágenes descriptivas o captura de pantallas para el desarrollo del documento y no olvide colocar los 
+lugares o fuentes utilizadas.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en el montaje y despliegue del producto de prueba en internet.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: un documento de paso a paso a realizar para la instalación de la plataforma y 
+despliegue del producto de prueba.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para la evidencia remítase al área de la actividad correspondiente y acceda al espacio: archivos cargados 
+en la plataforma de producción. GA10-220501097-AA6-EV01.  
+  
+  
+3.1.7 Actividad de aprendizaje GA10-220501097-AA7- Realizar pruebas de funcionalidad del software.  
+  
+En esta actividad el aprendiz tendrá la forma de explorar la forma tradicional de hacer despliegue de servicios web 
+utilizando los servicios de hosting y dominio más comunes en el mercado, enfatizando en el proceso de pruebas de 
+las aplicaciones desplegadas.  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Publicación de aplicaciones tradicionales”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+ 
+ 
+ 
+  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+❖ Evidencia de desempeño: GA10- 220501097-AA7-EV01 realización de pruebas de funcionalidad del 
+software.  
+  
+El desarrollo de esta evidencia busca profundizar en el desarrollo de pruebas de servicios desplegados por medio 
+de plataformas de dominio y de hosting comúnmente usadas en internet.  
+ 
+Deberá construir un documento tipo informe donde se condense una investigación usando fuentes de internet o 
+bibliográficas de su preferencia sobre: ¿cómo se debería realizar las pruebas de funcionalidad de un sitio publicado 
+en internet?  
+ 
+Se recomienda tener en cuenta las siguientes preguntas para el desarrollo de la investigación:  
+● ¿Cómo verificar si un dominio está bien configurado?  
+● ¿Una aplicación web se ve igual en todos los exploradores web?  
+● ¿Cómo se ve una aplicación web en un explorador del celular?  
+● ¿Qué elementos se deben probar en una aplicación web?  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: un documento de paso a paso a realizar para la instalación de la plataforma y 
+despliegue del producto de prueba.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: realización de 
+pruebas de funcionalidad del software GA10-220501097-AA7-EV01.  
+  
+3.1.8 Actividad de aprendizaje GA10-220501097-AA8 - Elaborar planes de mantenimiento y soporte del 
+software.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación.  
+Duración: 7 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+ 
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+❖ Evidencia de desempeño: GA10- 220501097-AA8-EV01 diseñar plan de mantenimiento y soporte del 
+software  
+  
+Esta evidencia de aprendizaje tiene como objetivo el diseño de un plan y un cronograma del mantenimiento de una 
+solución software teniendo en cuenta los dos tipos de mantenimiento existentes: preventivo y correctivo.  
+Utilizando como referencia su propio proyecto formativ o diseñar un plan de mantenimiento preventivo y correctivo 
+teniendo en cuenta el estándar ISO 14724. Investigar los elementos fundamentales descritos en esta norma y 
+diseñar el plan solicitado.  
+El documento debe incluir los siguientes apartados:  
+● Descripción del sistema.  
+● Proceso de implementación.  
+● Análisis de modificación y problemas.  
+● Implementación de la modificación.  
+● Aceptación y revisión del mantenimiento.  
+● Migración.  
+● Retiro.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en el plan de mantenimiento y soporte de software.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: un documento del plan de mantenimiento y soporte de software + cronograma.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para responder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: diseñar 
+plan de mantenimiento y soporte del software GA10-220501097-AA8-EV01.  
+  
+3.1.9 Actividad de aprendizaje GA10-220501097-AA9- Documentar el proceso de migración y respaldo de los 
+datos.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación.  
+Duración: 7 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+  
+ 
+ 
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+❖ Evidencia de producto: GA10 -220501097-AA9-EV01 documentación de plan de migración y respaldo de 
+los datos del software  
+  
+En esta evidencia el aprendiz utiliza el conocimiento adquirido en el componente y su creatividad para la 
+construcción de listas de chequeo o instrumentos similares donde se pueda recoger la información adecuada para 
+la revisión de las modificaciones que se pueden haber realizado en un proceso de migración de software  y las 
+adaptaciones realizadas.  
+ 
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en la documentación de la lista de chequeo construida.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: lista de chequeo para proceso de migración de software y para revisión de 
+modificaciones.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para responder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+documentación de plan de migración y respaldo de los datos del software GA10-220501097AA9-
+EV01.  
+  
+  
+3.1.10 Actividad de aprendizaje GA10-220501097-AA10 - Elaborar manuales de instalación, técnico y de 
+usuario.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación.  
+Duración: 16 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+❖ Evidencia de producto: GA10 -220501097-AA10-EV01 elabora documentos técnicos y de usuario del 
+software  
+  
+En esta evidencia el aprendiz tendrá la posibilidad de aplicar todos sus conocimientos adquiridos a lo largo del 
+programa y, especialmente, en este componente formativo por medio de la construcción del manual técnico de la 
+aplicación desarrollada durante el proceso formativo.  
+El manual técnico por construir debe considerar los siguientes elementos:  
+● Prerrequisitos de instalación del sistema.  
+● Frameworks y estándares con los que se construyó el sistema.  
+● Diagrama de casos de uso del sistema.  
+● Modelo entidad relación de la base de datos.  
+● Diccionario de datos.  
+● Scripts de instalación.  
+● Diagrama de componentes.  
+Se recomienda revisar la guía para la elaboración de manual técnico y de operaciones de los sistemas de 
+información publicada por el departamento naci onal de planeación disponible en: https://bit.ly/3I1439H  o en el 
+Anexo Guia_Manual_Tecnico.  
+Elementos para tener en cuenta en el documento generado: se deben seguir las normas básicas de presentación 
+de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción e inclusión de 
+cualquier fuente utilizada para la definición de los elementos en el manual técnico.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: manual técnico.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para responder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+elabora documentos técnicos y de usuario del software GA10-220501097-AA10-EV01.  
+  
+  
+ 
+ 
+3.1.11 Actividad de aprendizaje GA10-220501097-AA11 - Elaborar el manual de usuario.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación, y de la 
+cual se espera obtener los conocimientos necesarios para la elaboración de un manual de usuario de la aplicación 
+a desarrollar.  
+Duración: 8 horas.  
+  
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Materiales de formación a consultar : para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+❖ Evidencia de producto: GA10 -220501097-AA11-EV01 elabora el manual de usuario de acuerdo con las 
+funcionalidades del software  
+  
+En esta evidencia el aprendiz tendrá la posibilidad de aplicar todos sus conocimientos adquiridos a lo largo del 
+programa y especialmente en este componente formativo por medio de la construcción del manual de usuario de 
+la aplicación desarrollada durante el proceso formativo.  
+El manual usuario por construir debe considerar los siguientes elementos:  
+● Guía sobre cómo usar las funciones del sistema.  
+● Descripciones de alto nivel y particulares de los componentes, menús, submenús del aplicativo.  
+● Instrucciones de ingreso.  
+● Instrucciones de ingreso y consulta de información.  
+● Flujos de trabajo.  
+● Imágenes representativas o capturas de pantalla.  
+Se recomienda revisar la guía para la elaboración de manuales de usuario de los sistemas de información publicada 
+por el departamento nacional de planeación disponible en: https://bit.ly/31aMsek  o en el anexo 
+Guia_Manual_Usuario.  
+Elementos para tener en cuenta en el documento generado: se deben seguir las normas básicas de presentación 
+de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción e inclusión de 
+cualquier fuente utilizada para la definición de los elementos en el manual de usuario.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: manual de usuario.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para responder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+elabora el manual de usuario de acuerdo con las funcionalidades del software . GA10-
+220501097AA11-EV01.  
+  
+  
+3.1.12 Actividad de aprendizaje GA10-220501097-AA12- Capacitar a los usuarios y realizar pruebas de 
+aceptación.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación.  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+   
+  
+❖ Evidencia de desempeño: GA10- 220501097-AA12-EV01 - Elabora plan de capacitación y realización de 
+pruebas de aceptación del cliente  
+  
+En esta evidencia el aprendiz deberá utilizar su creatividad para la construcción de un video tutorial con las 
+funcionalidades más importantes del software desarrollado como proyecto formativo y adicionalmente elaborar un 
+libreto de las acciones a realizar para la capacitación con los usuarios finales del producto desarrollado.  
+El libreto y el video tutorial debe ser orientado a un grupo específico de usuarios si es que el software a presentar 
+posee variadas funcionalidades para diferentes tipos de roles. Construya el guion pensando en un proceso de 
+capacitación de 45 minutos donde se apoye activamente del video tutorial construido.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: libreto del plan de capacitación y video tutorial.  
+● Extensión: libre.   
+● Formato del libreto: PDF.  
+● Formato del video tutorial: archivo de video en extensión MP4.  
+● Para respo nder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+elabora plan de capacitación y realización de pruebas de aceptación del cliente. GA10-
+220501097AA12-EV01.  
+  
+3.1.13 Actividad de aprendizaje GA10-220501097-AA13 - Elaborar acta de entrega.  
+  
+Esta actividad se centra en la introducción a los diferentes tipos de instrumentos y estrategias más comúnmente 
+utilizadas como apoyo al proceso de entrega de un producto de software durante la fase de implantación, y que da 
+como resultado un documento conocido como “Acta de entrega” mediante el cual se hace entrega formal al cliente 
+la aplicación desarrollada.  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividades de documentación y entrega de software en procesos 
+de implantación”.   
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+❖ Evidencia de producto: GA10 -220501097-AA13-EV01 - Documentación plan de capacitación y Acta de 
+entrega del proyecto de software  
+  
+En esta evidencia el aprendiz debe construir el modelo de dos actas que son usadas al final del proceso de 
+implantación del software, las cuales son el acta de satisfacción del cliente en el proceso de capacitación en el 
+sistema y el acta final de entrega de software.    
+  
+Recuerde que solo debe construir el modelo de las actas, tenga en cuenta los siguientes aspectos respecto al acta 
+asociada a la capacitación:  
+● Debe identificarse claramente el momento de la capacitación.  
+● La persona que realizó la capacitación.  
+● Los objetivos abordados en la capacitación.  
+● Temas desarrollados.  
+● Conclusiones y observaciones.  
+Respecto al acta de final de entrega se recomienda incluir los siguientes aspectos:  
+● Capturar la información de la persona que recibe el sistema.  
+● Descripción general del producto o servicio entregado.  
+● Observaciones. ●  Firmas.  
+Las actas no deben limitarse a incluir únicamente los ítems sugeridos en esta guía, se invita al aprendiz a explorar 
+en la bibliografía existente y cualquier otro recurso disponible para complementar con la información que considere 
+pertinente.  
+Elementos para tener en cuenta en el documento generado:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener 
+como mínimo una portada, introducción e inclusión de cualquier fuente utilizada para la definición de los elementos 
+en las actas construidas.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: actas de capacitación y final de entrega.  
+● Extensión: libre.  
+● Formato: PDF.   
+● Para responder esta evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+documentación plan de capacitación y acta de entrega del proyecto de software GA10220501097-AA13-
+EV01.  
+   
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.2. Actividades de aprendizaje de la competencia: 240201529 - Gestionar procesos propios de la cultura 
+emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos 
+productivo y social  
+ 
+El emprendimiento está relacionado con el desarrollo humano y económico, con el mejoramiento de las condiciones 
+de vida en los contextos en los que tiene impacto la idea y la concreción de las aspiraciones personales que 
+motivan al emprendedor, por lo que su papel en la sociedad actual es fundamental para el desarrollo 
+socioeconómico y cultural del país.    
+  
+3.2.1 Actividad de aprendizaje GA10-240201529-AA1 - Reconocer capacidades personales para convertirse 
+en emprendedor, como parte de su proyecto de vida en términos de desarrollo humano y económico.   
+  
+En palabras de Ovalles (2018), el emprendimiento se ha convertido en las últimas décadas en una estrategia social 
+y de conocimiento para el desarrollo de habilidades que permiten en la población económicamente activa, realizar 
+proyectos empresariales para el autoempleo con un mayor grado de certidumbre y posib ilidades de una mejor 
+calidad de vida. Por lo tanto, se hace necesario reconocer las capacidades que se deben desarrollar para poder 
+emprender.   
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Ser emprendedor”.    
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+ 
+ 
+  
+❖ Evidencia de conocimiento: GA10- 240201529-AA1-EV01 - DOFA personal. Identificar habilidades 
+personales como emprendedor  
+  
+Para el desarrollo de esta evidencia, debe realizar el análisis de su DOFA personal, la matriz le permitirá identificar 
+claramente sus características y habilidades personales como emprendedor, para lo cual se requiere un 
+autoanálisis mediante los siguientes pasos:   
+   
+1. Definir claramente sus condiciones internas como emprendedor.  
+  
+D – Debilidades. Identificar las carencias internas que tiene como emprendedor.  
+F – Fortalezas. Reconocer las fortalezas que usted tiene como emprendedor.   
+  
+Para este análisis cuestione e identifique sus debilidades y fortalezas en aspectos como: educación, 
+habilidades de liderazgo, experiencia previa en proyectos de emprendimiento, recursos financieros con los 
+que cuenta el emprendedor, experiencia en ventas, conocimiento del producto o servicio a ofrecer, etc.  
+  
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+2. Definir claramente sus condiciones externas como emprendedor.   
+  
+A – Amenazas. Identifique los aspectos en los cuales la competencia y el entorno pueden afectar su 
+emprendimiento.   
+O – Oportunidades. Reconozca las ventajas que su emprendimiento tiene fre nte a sus competidores y 
+ante el entorno.   
+  
+Para ello puede analizar aspectos como la estabilidad del proyecto de emprendimiento, desconocimiento 
+de leyes, aspectos tributarios, financieros, entre otros.  
+  
+3. Una vez haya identificado los aspectos mencionados anteriormente, diligencie la plantilla de la matriz que 
+encuentra en el material complementario, luego analice y describa cómo los aspectos identificados le 
+ayudarán a impulsar su emprendimiento y qué estrategia le ayudaría a minimizar las amenazas del  
+entorno.   
+  
+4. Para el desarrollo de la actividad tenga en cuenta el componente formativo “Ser emprendedor” y recuerde 
+hacer un adecuado uso de las normas de redacción y ortografía para la presentación de la evidencia.   
+  
+Lineamientos generales para la entrega de la evidencia:    
+● Productos a entregar: matriz DOFA.   
+● Extensión: 2 páginas máximo (matriz y análisis).   
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+DOFA personal. Identificar habilidades personales como emprendedor GA10 -240201529-AA1-EV01.  
+  
+  
+3.2.2 Actividad de aprendizaje GA10-240201529-AA2 - Definir el modelo de negocio a desarrollar en el 
+emprendimiento, según las oportunidades de mercado.  
+  
+En esta actividad el equipo de trabajo desarrollará y analizará la matriz Canvas, la cual le permitirá identificar de 
+una manera más clara las características de su emprendimiento. El modelo como herramienta para definir y crear 
+un modelo de negocio innovador se simplifica en 4 áreas: clientes, oferta, infraestructura y viabilidad económica.   
+  
+Duración: 24 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Entendiendo la empresa”.    
+  
+Evidencias:  
+  
+❖ Evidencia de producto: GA10-240201529-AA2-EV01 - Modelo Canvas del emprendimiento. Crear modelo 
+de negocio en el que se caracteriza el emprendimiento.   
+  
+Para identificar estos cuatro aspectos, desar rolle en la matriz Canva los nueve elementos que este modelo 
+propone, a saber:   
+  
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+1. Segmentos de mercado: establecer la oferta para cada segmento a desarrollar, los diferentes canales que 
+se van a utilizar y las formas de relacionamiento que se va a tener con cada segmento.  
+2. Propuesta de valor: describir el conjunto de productos y servicios que crean valor para el segmento 
+específico; a través de la mezcla de elementos cualitativos y cuantitativos, se resuelve un problema o se 
+satisface una necesidad, de forma que logra diferenciarse en el mercado.  
+3. Canal: describir cómo la compañía interactúa con el segmento de clientes para entregar la propuesta de 
+valor, define los canales de distribución y ventas, cómo el cliente prefiere encontrar el producto o servicio, 
+cómo se pueden integrar canales, cuáles son los mejores y los más eficientes.  
+4. Relación con el cliente: describir el tipo de relaciones que se establecen con el segmento, si son 
+personalizadas o sistematizadas, dependen del objetivo de las relaciones, la adquisición o retención de 
+clientes o el aumento en las ventas, si se requiere asistencia personalizada, asistencia consultiva, si es 
+autoservicio, entre otros.  
+5. Fuentes de ingreso: diferenciar cómo se generan las fuentes de recursos por segmentos de clientes, 
+cuánto está di spuesto a pagar el cliente por el bien ofrecido, identificar si los ingresos serán únicos o 
+recurrentes, etc.  
+6. Recursos clave: identificar los activos requeridos en el emprendimiento claves para el desarrollo del 
+negocio, ya sea físicos, intelectuales, humanos, financieros.  
+7. Actividades clave: exponer lo que debe hacer una compañía para entregar la propuesta de valor, hacer 
+efectivos los canales de distribución, desarrollar las relaciones con clientes y generar recursos, procesos 
+de diseño y comercialización o producción.   
+8. Socios clave: determinar la red de proveedores, socios y aliados, alianzas estratégicas con competidores 
+y no competidores, joint ventures, compradores, proveedores.  
+9. Estructura de costos: discriminar los costos y gastos en los que se inc urre para operar, costos fijos y 
+variables, costos fijos y variables.  
+  
+Tenga en cuenta para el desarrollo de esta actividad los componentes formativos “Análisis de oportunidades 
+para emprender”  y “ Entendiendo la empresa ”, utilice la plantilla de la matri z que encuentra en el material 
+complementario.   
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto a entregar: modelo Canvas del emprendimiento.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+modelo Canvas del emprendimiento. Crear modelo de negocio en el que se caracteriza el 
+emprendimiento GA10-240201529-AA2-EV01.   
+  
+ 
+ 
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.2.3 Actividad de aprendizaje GA10-240201529-AA3 - Establecer el modelo financiero y proyectar la 
+viabilidad del emprendimiento.  
+  
+Es importante tener claro los objetivos de modelos de negocio a implementar en el emprendimiento al que se está 
+dando inicio, de ahí la importancia de establecer un modelo financiero acorde a las proyecciones iniciales.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Fundamentos financieros para emprender”.  
+  
+Evidencias:  
+  
+❖ Evidencia de producto: GA10-240201529-AA3-EV01 - Modelo financiero. Proyectar viabilidad financiera 
+del emprendimiento  
+  
+Como parte final y decisiva para el análisis del emprendimiento, el equipo desarrollará la evidencia mediante los 
+siguientes pasos:   
+  
+1. Construya el presupuesto de ventas, en el cual identifique precios de venta unit arios, la cantidad de 
+unidades vendidas, los costos fijos y variables. Así mismo, defina el margen de contribución por producto 
+y la venta total.  
+  
+2. Elabore el presupuesto de personal, plantee la cantidad de personal que lo apoyará en el emprendimiento, 
+los salarios devengados de forma individual, el cálculo de las prestaciones sociales por cada colaborador, 
+y una consolidación general.  
+  
+3. Estime los activos fijos necesarios para la puesta en marcha del emprendimiento.  
+  
+4. Defina el capital inicial que usted como emprendedor requiere para el inicio de actividades, si este capital 
+se obtiene por capital propio o de inversionistas externos, fuentes de financiamiento, subsidios, entre otros.   
+  
+5. Con la información recolectada en los puntos anteriores proceda a elaborar los diferentes estados 
+financieros como lo son: el flujo de caja y el balance inicial del emprendimiento.   
+  
+Recuerde revisar los contenidos  propuestos en el componente formativo “Fundamentos financieros para 
+emprender”.  
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto a entregar: estados financieros.   
+● Formato: archivo Excel.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+modelo financiero. Proyectar viabilidad financiera del emprendimiento GA10-240201529-AA3-EV01.  
+  
+ 
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+4. Actividades de evaluación  
+  
+Evidencias de aprendizaje  Criterios de evaluación  
+Técnicas e instrumentos de 
+evaluación  
+Evidencia de conocimiento: 
+Conceptos y principios de 
+hardware e instalación de 
+software.   
+GA10-220501097-AA1-EV01  
+Prepara la plataforma tecnológica, 
+con base en las características del 
+sistema operativo seleccionado.  
+IE-GA10-220501097-AA1-EV01  
+Lista de chequeo  
+Evidencia de desempeño:   
+Elaborar plan de validación de 
+características mínimas de 
+hardware para el software.  
+GA10-220501097-AA2-EV01  
+Verifica el cumplimiento de las 
+características mínimas de hardware 
+requeridas para el software  
+desarrollado.  
+IE-GA10-220501097-AA2-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Software  instalado 
+ en  la plataforma 
+del cliente.   
+GA10-220501097-AA3-EV01  
+Elabora el plan de instalación de 
+acuerdo con las características del 
+software a implantar.  
+IE-GA10-220501097-AA3-EV01  
+Lista de chequeo  
+Evidencia de conocimiento: 
+Conceptos y principios acerca 
+de configuración de servicios.  
+GA10-220501097-AA4-EV01  
+Configura los servicios según los 
+requerimientos del software  
+desarrollado.  
+IE-GA10-220501097-AA4-EV01  
+Lista de chequeo  
+Evidencia de desempeño:  
+Realiza la configuración de 
+servicios, bases de datos y 
+software en el equipo del 
+cliente.   
+GA10-220501097-AA5-EV01  
+Configura el software  en el servidor 
+de acuerdo con los requerimientos 
+técnicos.  
+IE-GA10-220501097-AA5-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Archivos cargados en la 
+plataforma de producción.  
+GA10-220501097-AA6-EV01  
+  
+Publica la aplicación de acuerdo con la 
+plataforma de producción.  
+  IE-GA10-220501097-AA6-EV01  
+Lista de chequeo  
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de desempeño: 
+Realización de pruebas de 
+funcionalidad del software.  
+GA10-220501097-AA7-EV01  
+Realiza pruebas de funcionalidad del 
+software para comprobar la 
+operatividad.  
+  
+IE-GA10-220501097-AA7-EV01  
+Lista de chequeo  
+Evidencias de desempeño: 
+Diseñar plan de mantenimiento 
+y soporte del software.  
+GA10-220501097-AA8-EV01  
+Elabora los planes de mantenimiento 
+y soporte para garantizar la 
+funcionalidad del software en el 
+tiempo.  
+IE-GA10-220501097-AA8-EV01  
+Lista de chequeo  
+Evidencias de Producto:  
+Documentación de plan de 
+migración y respaldo de los 
+datos del software.  
+GA10-220501097-AA9-EV01  
+Documenta el plan de migración y 
+respaldo de los datos de acuerdo con 
+los procedimientos realizados.  
+IE-GA10-220501097-AA9-EV01  
+Lista de chequeo  
+Evidencia de producto:  
+Elabora documentos técnicos y 
+de usuario del software.   
+GA10-220501097-AA10-EV01  
+Elabora manuales para facilitar a los 
+usuarios el uso y gestión del software.  
+IE-GA10-220501097-AA10-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Elabora el manual de usuario 
+de acuerdo con las 
+funcionalidades del software 
+GA10-220501097-AA11-EV01  
+Elabora el plan de capacitación de los 
+usuarios teniendo en cuenta las 
+funcionalidades del software.  
+IE-GA10-220501097-AA11-EV01  
+Lista de chequeo  
+Evidencias de desempeño:   
+Elabora plan de capacitación y 
+realización de pruebas de 
+aceptación del cliente.   
+GA10-220501097-AA12-EV01  
+Capacita a los usuarios del software de 
+acuerdo con el plan establecido.  
+  
+Ejecuta pruebas de aceptación para 
+el cierre y entrega formal del software 
+al cliente.  
+IE-GA10-220501097-AA12-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Documentación plan de 
+capacitación y Acta de entrega 
+del proyecto de software.  
+GA10-220501097-AA13-EV01  
+Elabora el acta de entrega de 
+acuerdo con los niveles de servicio 
+establecidos con el cliente.  
+IE-GA10-220501097-AA13-EV01  
+Lista de chequeo  
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento: 
+DOFA personal. Identificar 
+habilidades personales como 
+emprendedor.  
+GA10-240201529-AA1-EV01  
+Aplica acciones de emprendimiento 
+de acuerdo con los elementos de 
+desarrollo social y personal.  
+IE-GA10-240201529-AA1-EV01  
+Lista de chequeo  
+Evidencia  de  desempeño:  
+Modelo Canvas del 
+emprendimiento. Crear modelo 
+de negocio en el que se 
+caracteriza el emprendimiento.   
+GA10-240201529-AA2-EV01  
+Plantea ideas de negocio a partir de 
+oportunidades y necesidades del 
+mercado conforme con el análisis 
+sectorial.  
+  
+Estructura un perfil de emprendedor 
+teniendo en cuenta las habilidades y 
+principios de la gestión empresarial.  
+ 
+Integra elementos básicos de 
+investigación de acuerdo con las 
+necesidades descriptivas del plan de 
+negocio.  
+  
+Determina grupos focales de 
+mercado de acuerdo con la idea de 
+negocio.  
+  
+Construye propuestas empresariales 
+y de negocio teniendo en cuenta las 
+necesidades y segmentación del 
+mercado.  
+  
+Determina el impacto del plan de 
+negocio conforme con las 
+atribuciones y dinámicas del sector 
+productivo. 
+IE-GA10-240201529-AA2-EV01  
+Lista de chequeo  
+Evidencia de producto: Modelo 
+financiero. Proyectar viabilidad 
+financiera del emprendimiento.   
+GA10-240201529-AA3-EV01  
+Argumenta la idea de negocio 
+conforme con la propuesta y 
+necesidades del sector productivo.  
+IE-GA10-240201529-AA3-EV01  
+Lista de chequeo  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 23 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+5. Glosario de términos  
+  
+Administración: proceso de diseñar y mantener un ambiente en el cual las personas, trabajando en grupo, 
+alcanzan con eficiencia las metas establecidas.  
+Análisis financiero : es el conjunto de principios, técnicas y procedimientos que utiliza para transformar la 
+información reflejada en los estados financieros e información procesada, utilizable para la toma de decisiones 
+económicas, tales como nuevas inversiones y fusiones de empresas.  
+Capital: es la suma de todos los recursos aportados por los propietarios, socios o ac cionistas (bienes y valores), 
+para la constitución y puesta en marcha de una empresa.  
+Competitividad: capacidad de la sociedad para hacerle frente al desafío de la economía global y al proceso de 
+internacionalización, creando ventajas competitivas sosteni bles y, al mismo tiempo, incrementar sus niveles de 
+bienestar. Capacidad de competir eficientemente en los mercados incrementando a la vez los ingresos reales.  
+Demanda: cantidad máxima de un bien o servicio que un individuo o grupo de ellos está dispuesto a adquirir a un 
+determinado precio, por unidad de tiempo.  
+Encuesta: aplicación de un cuestionario en una investigación de mercados, con el fin de obtener diferentes ti pos 
+de información.  
+Emprendimiento: la palabra viene del francés entrepreneur (pionero), se refiere a la capacidad de hacer un 
+esfuerzo adicional para alcanzar una meta siendo utilizada para identificar a quien comienza una empresa, término 
+que fue ligado a empresarios innovadores o aquellos individuos que con su actividad generan inestabilidad en los 
+mercados; actitud orientada a identificar y tomar oportunidades, siendo un instrumento de cambio cultural para crear 
+y agregar valor.  
+Estado de situación fi nanciera: se trata de un documento que muestra el valor y la naturaleza de los recursos 
+económicos de una empresa, así como los intereses de los acreedores y la participación de los dueños en una 
+fecha determinada.  
+Estrategia: programas generales de acción y despliegue de recursos para alcanzar los objetivos establecidos de 
+tal forma que definan lo que es o debe ser el negocio de la compañía; forma concreta y específica de solucionar la 
+situación, problema o necesidad del grupo con el cual está trabajándose.  
+Implantación: fase del desarrollo de software donde el producto de software desarrollado se lleva a ambientes 
+productivos para ser utilizados por los clientes finales.  
+  
+Impuestos: pagos obligatorios de dinero que exige el estado a los individuos y empresas que no están sujetos a 
+una contraprestación directa, con el fin de financiar los pagos propios de la administración del Estado y la provisión 
+de bienes y servicios de carácter público, tales como la administración de la justicia, gastos de defensa, subsidios, 
+entre otros.  
+Manual: conjunto de instrucciones, explicaciones, o descripción de actividades paso a paso que muestran como 
+realizar una tarea específica.  
+  
+Marca: identificación de un producto o servicio, mediante la forma del nombre. Símbolo, diseño o combinación de 
+estos para diferenciarlo de la competencia.  
+
+=== PAGE 24 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Metodología: ciencia que consta de métodos y técnicas, que se aplican sistemáticamente durante un proceso de 
+investigación o para solucionar una problemática.  
+  
+Modelo económico: construcción teórica que empleando las matemáticas intenta representar lo esencial de las 
+relaciones económicas del mundo real, constituyendo una abstracción simplificada de la realidad.  
+Necesidad en marketing: manifestación del comprador real o potencial que da a entender o expresa un deseo o 
+preocupación que el vendedor puede satisfacer, sensación de falta de algo y que se desea llevar.  
+Producción: toda actividad del hombre que, a través de un proceso de transformación de insumos, materias primas 
+y recursos naturales, obtiene bienes y servicios que sirven para satisfacer las necesidades humanas.  
+Segmentación de mercado: Separación del mercado de un artículo en las categorías de localización, personalidad 
+u otras características para cada división.  
+  
+6. Referentes bibliográficos  
+  
+Acosta, R., G., Pérez, P., J., Rodríguez, Pérez, M., y Valenzuela Barón, M. (2017) Cartilla emprendimiento. Servicio 
+Nacional De Aprendizaje - SENA.   
+Bichachi, D. S. (2004). El uso de las listas de chequeo (Check-List) como herramienta para controlar la calidad de 
+las leyes.  
+Cravens D., y Piercy, N., (2007) Marketing estratégico. McGraw Hill Interamericana.  
+Departamento Nacional de Planeación. (2020). Guía para la elaboración del manual técnico y de operación de los 
+sistemas de información. Departamento Nacional de Planeación.  
+Departamento Nacional de Planeación. (2020). Guía para la elaboración del manual de usuario de los sistemas de 
+información. Departamento Nacional de Planeación.  
+Escobar, H., y Cuartas, V. Diccionario económico financiero. Puntos Suspensivos.  
+Kotler P., y Keller K., (20112) Dirección de marketing. Pearson Prentice Hall.   
+Lambin, J., Galluci, C., y Sicurello, C. (2008) Dirección de marketing, gestión estratégica y operativa de mercado. 
+Mc Graw Hill.  
+Ovalles-Toledo, L. V., Freites, Z. M., Urbina, M. Á. O., y Guerra, H. S. (2018). Habilidades y capacidades del 
+emprendimiento: un estudio bibliométrico. Revista Venezolana de Gerencia , 23(81), 217-234.  
+Parmerlee D, (2002) Cómo preparar un plan de marketing , Ediciones Gestión 2000 S.A.  Valencia, 
+H. (2007) Diccionario de marketing. 3R Editores.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 25 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+7. Control del documento  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor( 
+es)  
+  
+Vilma   
+Perilla Méndez  
+Diseñadora 
+instruccional  
+Centro de Gestión Industrial -  Regional 
+Distrito Capital  
+Febrero  
+2021  
+Jonathan   
+Guerrero Astaiza  Experto temático  
+  
+Centro de Teleinformática y Producción  
+Industrial – Regional Cauca  
+  
+Noviembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  Centro  para  la  Industria  de  la  Comunicación Gráfica - Regional Distrito 
+Capital  
+Diciembre 
+2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Asesora  
+Metodológica  
+Regional Distrito Capital -  Centro de 
+metrología y diseño.  
+Febrero 2022  
+de  
+Rafael  Neftalí  
+Lizcano Reyes  
+Responsable  
+equipo  de  
+desarrollo 
+curricular  
+Regional Santander -  Centro Industrial 
+del Diseño y la Manufactura  
+Febrero 2022  
+de  
+José Gabriel Ortiz  
+Abella  
+Corrector  de  
+estilo  
+Regional Distrito Capital -  Centro de 
+Metrología y Diseño.  
+Febrero 2022.  
+del  
+  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Control de cambios   
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+   

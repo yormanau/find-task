@@ -1,0 +1,1360 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. Identificación de la guía de aprendizaje   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software  
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios  
+● Fase del proyecto: ejecución.   
+● Actividad de proyecto: Desarrollar la estructura de datos y la interfaz de usuario del software  
+● Competencias:  
+Técnicas:  
+220501096 - Desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+Transversal:   
+230101507- Generar hábitos saludables de vida mediante la aplicación de programas de actividad física     
+en los contextos productivos y sociales.  
+Claves:  
+240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y  
+laborales según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.   
+  
+ ●  Resultados de aprendizaje a alcanzar:  
+ Técnicos:  
+ 220501096-02 - Construir la base de datos para el software a partir del modelo de datos.  
+ 220501096-03 - Crear componentes frontend del software de acuerdo con el diseño.  
+ Transversal:  
+ 230101507-01 - Desarrollar habilidades psicomotrices en el contexto productivo y social.  
+ 230101507-02 - Practicar hábitos saludables mediante la aplicación de fundamentos de nutrición e     
+ higiene.  
+ 230101507-03 - Ejecutar actividades de acondicionamiento físico orientadas hacia el mejoramiento de la  
+ condición física en los contextos productivo y social.  
+ 230101507-04 - Implementar un plan de ergonomía y pausas activas según las características de la  
+ función productiva.  
+Claves:  
+ 240202501-06 - Explicar las funciones de su ocupación laboral usando expresiones de acuerdo al nivel   
+ requerido por el programa de formación.  
+  
+● Duración de la guía: 288 horas    
+Técnico: 192 horas.   
+Transversal: 48 horas.  
+Claves: 48 horas.  
+  
+ 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 2. Presentación  
+  
+Estimado aprendiz, el SENA le extiende una cordial bienvenida a la sexta guía de aprendizaje que comprende la 
+competencia técnica para desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+  
+Por otra parte, las competencias biofísicas incrementan la productividad, la calidad de vida y la seguridad en el 
+trabajo e inciden en la disminución de los costos por el ausentismo y las lesiones de los trabajadores, derivadas de 
+enfermedades y accidentes laborales. Desde esta perspectiva, el deporte debe utilizarse como medio para mejorar 
+las condiciones físicas necesarias para un desempeño idóneo en los contextos sociales y productivos.  
+  
+Finalmente, encontrarán la competencia clave de inglés como una de las habilidades contempor áneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para Lenguas) como estándar del nivel de conocimiento de lengua y categorización de los conocimientos 
+en niveles de competencia en un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa quienes de forma continua y permanente lo orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría  virtual para brindarle orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.   
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo: construcción de software integrador de tecnologías orientadas a servicios.  
+ 
+3.1 Actividades de aprendizaje de la competencia 220501096 - Desarrollar la solución de software de 
+acuerdo con el diseño y metodologías de desarrollo. 
+ 
+Con base en las metodologías de desarrollo utilizadas en esta competencia, se inicia con el desarrollo de los artefactos 
+del modelo necesarios para representar la solución, utilizando como recurso los lenguajes de hipertexto, modelos de 
+bases de datos, modelo de entidad de relación, modelos relacionales, físicos, lógicos, lenguajes de bases de datos SQL, 
+estilos con CSS y prototipado.  
+3.1.1 Actividad de aprendizaje GA6- 220501096-AA1- Crear un modelo de base de datos con base a los 
+requerimientos del cliente.  
+  
+Esta actividad se centra en el diseño y desarrollo de las bases de datos según especificaciones de requerimientos 
+del cliente, realizando modelos conceptuales y relaciones que cumplan con las características de normalización.  
+Duración: 64 horas.  
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Modelo entidad relación, Bases de Datos NoSQL”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA6 -220501096-AA1-EV01 resolución de problemas aplicando el modelo 
+relacional, cardinalidad y normalización  
+  
+Con base en las características del software a desarrollar realice el modelo relacional indicando la cardinalidad y 
+cumpliendo con las reglas de normalización según los conceptos y ejemplos vistos en el componente Modelo 
+entidad relación – Modelo relacional.  
+ 
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, análisis del modelo a desarrollar según 
+características del software (aplicación de normalización).  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: documento con modelo relacional.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+resolución de problemas aplicando el modelo relacional, cardinalidad y normalización - 
+GA6220501096-AA1-EV01.  
+  
+  
+❖ Evidencia de desempeño: GA6-220501096-AA1-EV02 crea modelo entidad relación de caso  
+  
+Con base en las características del software a desarrollar crear el modelo relacional analizado en la evidencia de 
+aprendizaje GA6-220501096-AA1-EV01 utilizando una de las herramientas vistas en el componente formativo  
+“Modelo entidad relación”.  
+  
+ 
+Elementos para tener en cuenta en el documento:  
+● Se debe realizar el modelo relacional analizado en EV01 utilizando una de las herramientas vistas en el 
+componente para la creación del modelo relacional.  
+● El modelo debe tener la cardinalidad asociada a cada entidad.  
+● El modelo debe basarse en los requisitos del software a construir.  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: modelo relacional.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y  acceda al espacio: 
+crea modelo entidad relación de caso GA6-220501096-AA1-EV02.  
+  
+  
+❖ Evidencia de desempeño: GA6-220501096-AA1-EV03 creación de los objetos de la base de datos  
+  
+Dadas las siguientes características del caso propuesto, realizar las sentencias para la creación de los objetos 
+de la base de datos no relacional teniendo en cuenta lo visto en el componente formativo “Bases de Datos 
+NoSQL”.  
+  
+Elementos para tener en cuenta en el documento:  
+● Siga las normas básicas de presentación de un documento escrito, es decir, debe tener como mínimo una 
+portada, introducción, objetivo, sentencias de creación de colecciones, consultas, inserciones en bases de 
+datos no relacionales.  
+● Realice la sentencia para crear un objeto JSON que modele los datos de un carro (placa, número serie, 
+modelo, marca, kilometraje, tipo).   
+● Realice la sentencia para insertar 5 datos en la colección creada.  
+● Realice la sentencia para consultar los datos ingresados en la colección.  
+● Actualice los datos de la colección.     
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento con la información descrita anteriormente.  
+● Extensión: libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+creación de los objetos de la base de datos GA6-220501096-AA1-EV03.  
+  
+❖ Evidencia de producto: GA6-220501096-AA1-EV04 - Elaboración de las bases de datos  
+  
+Con base en el documento realizado en la evidencia GA6- 220501096-AA1-EV03, realice la base de datos en 
+MongoDB cumpliendo con las siguientes características:  
+● Cree una base de datos NoSQL.   
+● Cree una colección de datos llamada “parque”.   
+● Inserte cinco (5) documentos con la estructura JSON Creada.   
+● Actualizar los datos del primer y último registro.   
+● Liste la colección completa.   
+● Borre el tercer documento de la colección parque.   
+● Liste la colección de datos completa.   
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Cree la sentencia que permita obtener un documento según el número de placa del documento.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: video la creación y manipulación de bases de datos NoSQL.   
+● Extensión: MP4.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+elaboración de las bases de datos GA6-220501096-AA1-EV04.  
+  
+3.1.2 Actividad de aprendizaje GA6-220501096-AA2 - Manipular datos en el Sistema Administrador de Bases 
+de Datos (SMBD).  
+  
+Esta actividad se enfoca en la manipulación de los datos de las bases de datos relacionales con el lenguaje SQL 
+utilizando sentencias DDL y DML para la creación y administración de la base de datos.  
+Duración: 32 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+material de formación: “Implementación y manipulación de bases de datos relacionales”.   
+ 
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+❖ Evidencia de desempeño: GA6- 220501096-AA2-EV01 destrezas y conocimientos en el manejo de 
+sentencias DDL y DML de SQL  
+Tomando como referencia el taller descrito a continuación realice un informe técnico con las sentencias SQL 
+realizadas para dar solución a los problemas planteados.   
+1- Problema: Trabaje con la tabla "Libreta".  
+2- Cree una tabla llamada "libreta". Debe tener los siguientes campos:   
+nombre (cadena de 20),   
+domicilio (cadena de 30) y  
+teléfono (cadena de 11):  
+create table libreta(     
+nombre varchar(20),     
+domicilio varchar(30),  
+telefono varchar(11)  
+);  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3- Visualice las tablas existentes para verificar la creación de "libreta"  
+(show tables).  
+4- Visualice la estructura de la tabla "libreta". (describe).  
+5- Ingrese los siguientes registros:   
+('Alberto Mores','Colon 123','4234567');  
+('Juan Torres','Avellaneda 135','4458787');  
+ 
+6. Seleccione y muestre todos los registros de la tabla. 
+7. Construya las sentencias que actualicen los datos que acaba de insertar.  
+8. Insertar 5 registros más.  
+9. Cuente cuántos registros se ingresan.   
+ 
+Elementos para tener en cuenta en el documento:  
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir debe tener como mínimo 
+una portada, introducción, objetivo, y sentencias punto a punto de la solución de las preguntas del  taller llamado 
+“Taller SQL”  
+ 
+Lineamientos generales para la entrega de la evidencia:  
+● Productos para entregar: documento.  
+● Extensión: libre  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+destrezas y conocimientos en el manejo de sentencias DDL y DML de SQL -  GA6-220501096-
+AA2EV01.  
+  
+❖ Evidencia de desempeño: GA6-220501096-AA2-EV02 creación de la estructura de la BD y aplicación de 
+restricciones  
+Con base en las características del software a desarrollar en su proyecto formativo cree la estructura de la base de 
+datos, determinando sus tipos de datos, restricciones de llaves primarias y llaves foráneas.  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de pr esentación de un documento escrito, es decir debe tener como 
+mínimo una portada, introducción, objetivo, donde se describa la estructura de la base de datos, atributos, 
+tipos de datos y restricciones.  
+● Se debe realizar la creación de los diseños de bases de datos en MySQL WorkBench.   
+● Se deben crear las restricciones de bases de datos.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Producto para entregar: documentos comprimidos en un solo archivo que debe contener: archivo en 
+Word con el documento escrito, archivos realizados en el programa MySQL WorkBench con los diseños 
+entidad relación.  
+● Formato: ZIP.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+creación de la estructura de la BD y aplicación de restricciones - GA6-220501096-AA2-EV02.  
+  
+  
+❖ Evidencia de producto: GA6-220501096-AA2-EV03 Script bases de datos del proyecto  
+Teniendo en cuenta las características del software a desarrollar en su proyecto formativo y lo realizado en la 
+evidencia EV02, cree el script de la base de datos.  
+Elementos para tener en cuenta:  
+● Realizar todo el modelo físico en una de las herramientas vistas de gestión de bases de datos.   
+● Debe cumplir los requisitos del proyecto formativo.  
+● Debe generar el script y exportarlo.  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: archivos formato SQL con el modelo físico de los datos que corresponden a los 
+diseños hechos en MySQL Workbeach.  
+● Formato: documento en formato ZIP.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+script bases de datos del proyecto - GA6-220501096-AA2-EV03.   
+3.1.3 Actividad de aprendizaje GA6-220501096-AA3 - Crear interfaces gráficas de usuario en aplicaciones 
+de escritorio, web y móviles.  
+ 
+Esta actividad se centra en la aplicación de diseño utilizando las herramientas de prototipado para el desarrollo de 
+aplicaciones web y móviles.  
+Duración: 48 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+material de formación: “Arquitectura aplicaciones móviles Nativas y Herramientas para el diseño y desarrollo 
+móvil híbrido”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+❖ Evidencia de conocimiento: GA6-220501096-AA3-EV01 selección herramientas para prototipado  
+Seleccionar y probar herramientas de prototipado donde pruebe las principales funcionalidades de la herramienta 
+realizando un ejemplo de creación de interfaz con algunos elementos.  
+Elementos para tener en cuenta en el documento:  
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, pantallazos de las principales f unciones de la 
+herramienta de prototipado y pantallazos del ejemplo.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: la entrega se debe realizar en una carpeta Zip que contenga el documento en 
+Word, y el archivo donde se realice el prototipado.  
+● Extensión: ZIP.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+selección herramientas para prototipado - GA6-220501096-AA3-EV01.  
+  
+❖ Evidencia de desempeño: GA6-220501096-AA3-EV02 crear el diseño del sitio web y/o móviles utilizando 
+sus componentes y tecnologías respectivas  
+Teniendo en cuenta las características del sof tware a desarrollar y tomando como referencia las herramientas de 
+prototipado vistas en los componentes formativos realice los mockups de navegación de aplicaciones web/o móvil 
+cumpliendo con los requerimientos del software.   
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir debe tener como 
+mínimo una portada, introducción, objetivo, pantallazos de los mockups y descripción de cada interfaz.  
+● El prototipo debe contener navegación que muestra la funcionalidad según características del software a 
+desarrollar.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: la entrega se debe realizar en una carpeta Zip que co ntenga el documento en 
+Word, y el archivo donde se realice el prototipo.  
+● Extensión: ZIP.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+crear el diseño del sitio web y/o móviles utilizando sus co mponentes y tecnologías respectivas - 
+GA6-220501096-AA3-EV02.  
+  
+❖ Evidencia de producto: GA6 -220501096-AA3-EV03 interfaces gráficas según requerimientos del 
+proyecto  
+Tomando como referencia el prototipo realizado en la evidencia EV02 según las necesidades del software a 
+desarrollar realice el diseño web y/o móvil utilizando componentes y tecnologías vistas en los componentes 
+“Arquitectura aplicaciones móviles nativas y herramientas para el diseño y desarrollo móvil híbrido” .   
+Elementos para tener en cuenta en el documento: se debe crear la interfaz gráfica definiendo colores, 
+usabilidad, estilos, menús cumpliendo con las necesidades del software a desarrollar.  
+  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: interfaz gráfica del software a desarrollar en una carpeta comprimida con sus 
+respectivos archivos.  
+● Extensión: ZIP.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+interfaces gráficas según requerimientos del proyecto- GA6-220501096-AA3-EV03.  
+  
+  
+3.1.4 Actividad de aprendizaje GA6-220501096-AA4-Generar plantillas y estilos.  
+  
+Esta actividad se centra en el diseño frontend para aplicaciones web y móviles aplicando aspectos de usabilidad 
+implementando temáticas de HTML, CSS, JS.  
+Duración: 48 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+material de formación: “Diseño de interfaces web”  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+  
+❖ Evidencia de desempeño: GA6- 220501096-AA4-EV01 fundamentos en la implementación de 
+componentes frontend, HTML, CSS, JS.  
+ 
+Con base en el siguiente contexto aplique los principales componentes de HTML y CSS: elabore una página que 
+enseñe un pequeño tutorial seleccionando un tema de su gusto. Establezca un título. Emplee una lista ordenada 
+para indicar los distintos conceptos que contiene el tutorial con enlaces a los temas propiamente dichos. Cada 
+tema debe tener su título imagen y la descripción del tema.   
+Elementos para tener en cuenta en el documento:  
+● Debe incluir los elementos vistos en el componente.  
+● La página debe utilizar estilos CSS.   
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: Archivos formato HTML los cuales deben estar en una carpeta comprimida.  
+● Formato: ZIP.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+fundamentos en la implementación de componentes frontend , HTML, CSS, JS - GA6-220501096AA4-
+EV01   
+❖ Evidencia de desempeño: GA6- 220501096-AA4-EV02 establecer los componentes frontend de la 
+aplicación web  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Con base en las características del software a desarrollar realice un documento donde especifique la estructura de 
+componentes que se van a utilizar para cumplir con las necesidades del software  a desarrollar.  
+Elementos para tener en cuenta en el documento: se deben seguir las normas básicas de presentación de un 
+documento escrito, es decir el documento debe tener como mínimo una portada, introducción, objetivo, definición 
+de elementos HTML a utilizar en el diseño frontend del software a desarrollar.  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: documento de componentes.  
+● Formato: ZIP.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+establecer los componentes frontend de la aplicación web GA6-220501096-AA4-EV02.  
+  
+❖ Evidencia de producto: GA6-220501096-AA4-EV03 - Diseño frontend que cumpla con los requerimientos 
+del proyecto  
+Teniendo en cuenta las características del software a desarrollar realice el diseño frontend cumpliendo con 
+los requisitos del proyecto aplicando lo visto en el componente diseño de interfaces web.  
+  
+Elementos para tener en cuenta en el documento:  
+● El diseño frontend debe aplicar los conceptos de usabilidad y diseño propuesto en las anteriores 
+evidencias.  
+● Se debe aplicar HTML, CSS y JS para el diseño frontend.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: archivo ZIP: crear una carpeta con todos los archivos del diseño frontend y 
+comprimirla.  
+● Formato: ZIP.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+diseño frontend que cumpla con los requerimientos del proyecto GA6-220501096-AA4-EV03.  
+  
+3.2. Actividades de aprendizaje de la competencia: 230101507. Generar hábitos saludables de vida 
+mediante la aplicación de programas de actividad física en los contextos productivos y sociales  
+Para alcanzar la apropiación de competencias básicas en el proceso de formación profesional integral, es 
+necesario dotar a nuestros aprendices de herramientas que propicien su cualificación para un desempeño idóneo 
+en el mundo del trabajo y en el mundo de la vida. En este contexto, fortalecer las competencias biofísi cas tiene 
+como finalidad el mejoramiento de la calidad de vida, mediante la adopción de un estilo de vida saludable y el logro 
+de las condiciones físicas requeridas en el desempeño laboral. Este logro supone el desarrollo de la 
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+psicomotricidad propia del área de trabajo, el manejo adecuado de la postura corporal en los ámbitos de 
+espaciotiempo, la prevención de enfermedades profesionales y accidentes de trabajo.   
+  
+3.2.1 Actividad de aprendizaje GA6- 230101507-AA1 valorar el estado general de las condiciones 
+psicomotrices individuales para aplicar los correctivos necesarios que permitan mejorar las capacidades.   
+  
+Duración: 10 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Actividad física y hábitos de vida saludable”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de aprendizaje:  
+  
+❖ Evidencia de desempeño: GA6- 230101507-AA1-EV01 - Foro temático denominado Establecer las 
+técnicas de coordinación motriz   
+  
+Como preguntas de orientación para realizar la participación en el foro, se proponen las siguientes:  
+  
+✔ ¿Cuáles son los músculos del cuerpo humano que posibilitan la coordinación motriz de acuerdo con su 
+área de desempeño?  
+✔ ¿Qué papel juegan los huesos del cuerpo humano en la coordinación motriz?  
+✔ ¿Defina con sus propias palabras qué es motricidad?  
+✔ ¿A qué se refiere cuando hablamos de motricidad fina y motricidad gruesa?  
+✔ En el desempeño laboral de su área ocupacional, donde se evidencia la motricidad gruesa, de un ejemplo.  
+  
+Realice seguimiento al foro y responda a un comentario crítico-reflexivo según la intervención que hayan realizado 
+sus compañeros, demostrando construcción de conocimiento frente a los planteamientos que cada uno proponga.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: participación en el foro temático denominado “Establecer las técnicas de 
+coordinación motriz”.  
+● Para hacer el desarrollo de la evidencia remítase al área de la actividad correspondiente y acceda al 
+espacio para el envío de la evidencia:  foro temático denominado Establecer las técnicas de 
+coordinación motriz GA6-230101507-AA1-EV01.  
+  
+3.2.2 Actividad de aprendizaje GA6-230101507-AA2 promocionar hábitos y estilos de vida saludable a través 
+de la nutrición y el ejercicio físico.   
+  
+Mantener buenos hábitos alimenticios ayuda a evitar diferentes tipos de enfermedades, además de proporcionar la 
+energía suficiente que el cuerpo necesita para el desarrollo de las actividades cotidianas, por esto es fundamental 
+mantener una alimentación balanceada y equilibrada en los requerimientos energéticos de acuerdo a las actividades 
+que realiza a diario. Para establecer un estilo de vida saludable se deben interpretar los fundamentos de higiene y 
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+nutrición en los contextos productivo y social, a través de la siguiente información podrá desarrollar un plan que 
+aporte a este objetivo.  
+  
+Duración: 14 horas.  
+  
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividad física y hábitos de vida saludable”.   
+   
+Evidencias:  
+  
+❖ Evidencia de producto: GA6-230101507- AA2-EV01 infografía – Plan de higiene y gasto calórico.   
+  
+La evidencia consiste en plasmar a través de un gráfico (infografía) los elementos que le permitan establecer 
+hábitos para lograr un estilo de vida saludable, para esto se propone que el recurso construido pueda dar respuesta 
+a las siguientes preguntas:  
+  
+o ¿Qué elementos deben tenerse en cuenta para interpretar las necesidades energéticas diarias de una 
+persona?   
+o ¿Cuántas calorías necesita el cuerpo diario y de qué forma recibe estos aportes con el consumo de 
+carbohidratos, proteínas, grasas, bebidas u otros elementos? ¿De cuáles variables pueden depender estos 
+aportes?  
+o ¿Cómo sería un puesto de trabajo ergonómico y adecuado para la contextura corporal de la persona?  
+o ¿Qué otros factores inciden en el logro de un estilo de vida saludable?  
+  
+Se recomienda el uso de la siguiente caja de herramientas para la elaboración de la infografía:   
+  
+Herramienta  Enlace  
+Infogram  https://infogram.com/es/   
+Canva  https://www.canva.com/    
+Piktochar  https://piktochart.com/   
+  
+ 
+  
+Lineamientos generales para la entrega de la evidencia:  
+● Producto para entregar: infografía - plan de higiene.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: Infografía – Plan de higiene y gasto calórico GA6-230101507- AA2-EV01.   
+  
+  
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.2.3 Actividad de aprendizaje GA6- 230101507-AA3 - Construir conocimientos y prácticas básicas de 
+nutrición en los aprendices para implementar acciones de la Actividad física y hábitos de vida saludable en 
+el mejoramiento de la calidad de vida en el contexto individual, laboral y social.  
+  
+Duración: 14 horas.  
+  
+Materiales de formación a consultar:  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Actividad física y hábitos de vida saludable”.  
+  
+Evidencias:  
+  
+❖ Evidencia de producto: GA6-230101507-AA3-EV01 - Mapa mental - capacidades físicas condicionales  
+  
+Con base en los datos obtenidos después de realizar la lectura del material complementario y específicamente el 
+componente formativo: “Actividad física y hábitos de vida saludable” deberá elaborar un mapa mental donde se 
+presentan los principales conceptos de las capacidades físicas condicionales y las diferentes aptitudes físicas que 
+el ser humano debe poseer, las cuales le permiten mejorar su rendimiento físico. Revise dentro del material Anexo, 
+el documento llamado: “ Anexo_Mapa_mental” donde se brinda las pautas y lineamientos necesarios para su 
+realización.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+● Producto para entregar: mapa mental capacidades físicas condicionales.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: Mapa mental - Capacidades físicas condicionales GA6-230101507-AA3EV01.  
+  
+❖ Evidencia de producto: GA6-230101507-AA3-EV02 - Ficha antropométrica de valoración de la condición 
+física  
+  
+Con base en los datos obtenidos después de realizar las pruebas físicas y antropométricas, elabore el plan de 
+acción a seguir de acuerdo con baremos y las recomendaciones dadas por el instructor para mejorar la calidad de 
+vida.   
+  
+En esta actividad debe diligenciar la ficha antropométrica que contenga la siguiente información, datos personales, 
+peso, edad, género, talla, IMC, resultados de los diferentes test de resistencia (burpee) test de fuerza abdominal, 
+piernas y brazos por 1 minuto y frecuencia cardiaca antes y después de los test.  
+  
+  
+   Ficha antropométrica   
+Nombre       
+Documento identidad      
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Peso       
+Altura       
+Envergadura       
+Peso ideal      
+FCM      
+% de grasa       
+IMC      
+  Resultado 1  Resultado 2  Baremos  
+Fuerza en piernas 1´        
+Fuerza de brazos 1´        
+Fuerza abdominal 1´        
+Fuerza lumbar 1´        
+Burpee test 1´        
+Test de cooper 12´        
+Análisis personal  
+1. ¿Cuáles considera que son sus capacidades físicas?  
+2. ¿Qué acciones considera pertinentes para mejorar su condición?  
+3. De acuerdo a la actividad física realizada a diario, ¿cuál es el tiempo que requiere para una 
+recuperación adecuada?  
+  
+  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: ficha antropométrica de valoración de la condición física.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: ficha antropométrica de valoración de la condición física 
+GA6230101507-AA3-EV02.  
+  
+3.2.4 Actividad de aprendizaje GA6- 230101507-AA4 - Identificar la higiene postural y pausas activas 
+correctas para el desempeño del área ocupacional.  
+  
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para un buen desempeño en el puesto de trabajo es muy importante identificar los elementos que utiliza en su 
+entorno para el desempeño del área ocupacional y verificar que cumplan con los estándares de calidad y ergonomía 
+requeridos para dicha operación, ya que esto puede hacer que disminuya o aumente su rendimiento o productividad, 
+además de evitar enfermedades profesionales producidas por el trabajo repetitivo.  
+  
+Duración: 10 horas.  
+  
+Materiales de formación a consultar: para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Actividad física y hábitos de vida saludable”.  
+  
+Evidencias:  
+  
+❖ Evidencia de producto: GA6-230101507-AA4-EV01 folleto de lesiones más comunes en el trabajo o vida 
+cotidiana, y la importancia de las pausas activas  
+  
+En dicho folleto se deben evidenciar cuáles son esas lesiones más comunes que se van presentando por el trabajo 
+repetitivo o en la vida cotidiana por posturas inadecuadas; y cuál será la importancia de implementar las pausas 
+activas en el puesto de trabajo o lugar de estudio, como método preventivo.   
+  
+ 
+Lineamientos generales para la entrega de la evidencia:  
+● Producto para entregar: folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de 
+las pausas activas.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia 
+de las pausas activas GA6-230101507-AA4-EV01.   
+  
+  
+3.3 Actividad de aprendizaje de la compet encia 240202501 - Interactuar en lengua inglesa de forma oral y 
+escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común 
+Europeo de Referencia para las Lenguas  
+  
+El inglés como una de las habilidades contemporáneas más importantes y de mayor impacto en el mundo laboral y 
+social se plantean actividades generales y específicas para el desarrollo de la competencia, teniendo en cuenta el 
+aprendizaje articulado de las 4 habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco 
+Común Europeo de Referencia para Lenguas) como estándar del nivel de conocimiento de lengua y categorización 
+de los conocimientos en niveles de competencia en un idioma.   
+  
+3.3.1 Actividad de aprendizaje: GA6-240202501-AA1- Presentar funciones de su ocupación laboral.  
+  
+El aprendizaje de una segunda lengua se facilita cuando se comienza a estudiar desde temas conocidos como son 
+las situaciones de la cotidianidad ya sea abordándolas desde el momento actual. Para comenzar a interactuar tanto 
+de forma oral como escrita acerca de las actividades de la vida diaria, se requiere comprender información personal 
+y familiar haciendo uso de la estructura, el vocabulario y contextos  requeridos. En ese proceso se debe evidenciar 
+la habilidad para emplear los conceptos adquiridos y emplearlos adecuadamente, dentro de esta actividad se 
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+requiere que se emplee de manera extensiva el vocabulario relativo a las actividades desarrolladas dentro de un 
+ambiente laboral con el uso de opiniones y anécdotas.   
+  
+Es importante seguir las indicaciones del instructor en cuanto a la mejor manera de apropiar el material del curso y 
+la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas.  
+  
+Material de formación: el contenido de soporte para el desarrollo de la actividad es “Level 8 B1,2+”.  
+  
+❖  Evidencia de conocimiento: GA6-240202501-AA1-EV01 - Documento escrito   
+  
+Las funciones en un ciclo laboral son una lista de acciones realizadas que se ejecutan por un empleado en un 
+puesto determinado que describe las principales responsabilidades y habilidades de su trabajo. A menudo aparecen 
+una lista de tareas diarias que realiza un empleado y que se caracterizan por las habilidades profesionales, carácter 
+y cualidades personales (professional skills, adjectives related to character and personal qualities).  
+  
+Según lo anterior y acorde con su programa de formación, elabore un documento escrito en el que realice una 
+declaración personal (personal statement) e incluya una breve descripción de quién es usted, fortalezas y cualquier 
+experiencia laboral y / o educación que tenga. Asegúrese de incluir las habilidades que ha adquirido a lo largo del 
+programa de formación, como administración del tiempo, trabajo en equipo, habilidades informáticas, etc.   
+  
+Durante el desarrollo del texto tenga en cuenta algunas características generales del documento escrito:  
+  
+✔ Escriba con un estilo conciso y natural.  
+✔ Intente destacar algunos aspectos positivos y de interés personal.  
+✔ Estructure la información para que refleje las habilidades y cualidades que más se destacan de acuerdo a su 
+programa de formación.  
+✔ El límite de palabras es entre 500 y 700 palabras. Redacte los párrafos de forma tal que permitan al lector 
+conocerle de una forma clara.  
+✔ Tenga en cuenta que la redacción, ortografía, puntuación y gramática sean correctas.  
+✔ Es ideal tener cuidado con la redacción y las estructuras gramaticales utilizadas deben ser coherentes con 
+las temáticas estudiadas en el material de estudio.  
+✔ Es importante que se respondan algunas de las preguntas orientadoras propuestas:   
+o Who am I? o What program or position am I applying for? o Why am I fit for this 
+program or position?   
+o What are my future goals?  
+  
+La extensión del documento escrito será de 500 y 700 palabras, con tipo de letra Arial, tamaño 12 e interlineado 
+1,5.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Extensión: el documento escrito debe tener una extensión de entre 500 y 700 palabras, con tipo de letra 
+Arial, tamaño 12 e interlineado 1,5.   
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Formato: documento escrito en Word y se deberá exportar a PDF.  
+● Para hacer el envío del documento remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia Documento escrito GA6-240202501-AA1-EV01.  
+   
+❖ Evidencia de producto: GA6-240202501-AA1-EV02 Video   
+  
+El cambio constante es una realidad tanto para los organismos como para las empresas, así en su entorno se 
+altera la forma de evolucionar con condiciones cambiantes del mercado que pueden hacer que las ofertas de 
+productos y servicios mejoren. Una de las t ecnologías de cambio más rápido es, por ejemplo, la móvil que afecta 
+directamente la forma en que las empresas llevan a cabo sus operaciones y los productos y servicios que ofrecen 
+en el ecosistema empresarial actual. Por lo tanto, es útil que las empresas  comprendan las fuerzas generales 
+detrás de este cambio tecnológico.  
+  
+De acuerdo con lo anterior y el material de estudio, realice una presentación oral en formato video sobre aspectos 
+que desde su actividad laboral o programa de formación pueden evolucionar de acuerdo al uso de la tecnología o 
+aparición de nuevas herramientas innovadoras.  
+  
+Para la elaboración del video con la cámara web, tenga en cuenta el desarrollo de un guion o estructura a través 
+de una herramienta como PowerPoint, Emaze, Prezi en la que se dispongan algunas diapositivas con imágenes 
+para dar cuenta de la presentación de cómo es posible ver la tecnología como un proceso evolutivo en su actividad 
+laboral o programa de formación.   
+  
+Diapositivas: durante el desarrollo de la presentación oral es ideal que presente entre 5 y 9 diapositivas, donde se 
+incluyan los siguientes elementos:   
+  
+● Diapositiva de portada (datos básicos del aprendiz, nombre del curso, instructor y de la actividad).  
+● Diapositivas en donde se muestran algunos productos evolutivos frente a revolucionarios de acuerdo a su 
+contexto laboral o programa de formación.  
+● Diapositivas en donde se muestran algunas variaciones culturales frente a las funciones de su trabajo o de 
+su programa de formación.  
+● Diapositiva en la que mencione al menos una conclusión los aspectos que pueden evolucionar de acuerdo 
+al uso de la tecnología o aparición de nuevas herramientas innovadoras.  
+  
+Estructura del video con cámara web: cuando grabe el video tenga en cuenta que las fotos, imágenes y textos que 
+use en las diapositivas deben ser un apoyo visual para denotar buena pronunciación y su aprendizaje (future perfect 
+and future perfect progressive).   
+  
+Para la realización de la emisión del video deberá encender su cámara web, mostrar la pantalla con las diapositivas 
+creadas. La recomendación es utilizar alguna herramienta digital que permite grabar el video y pantalla como; 
+Screencast-o-Matic, Loom, Camtasia, recordscreen.io, scrnrcrd.com e incluso existen aplicaciones como X 
+Recorder para que pueda realizarlo desde su teléfono móvil. Lo importante es mostrar las diapositivas, su cámara 
+web e ir realizando su presentación de forma oral.  
+  
+Una vez finalizado el video debe cargarlo a YouTube o Vimeo, con su cuenta de correo personal o institucional; 
+compruebe que no tenga restricciones de visualización para que pueda compartir el enlace de visualización.  
+  
+ 
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Lineamientos para la entrega de la evidencia:  
+● Producto a entregar: documento con los datos del aprendiz y enlace del video.  
+● Formato: Word o PDF con la URL del video.  
+● Extensión: De 3 a 7 minutos.  
+● Para hacer el envío del documento remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia Video GA6-240202501-AA1-EV02.  
+  
+  
+❖ Evidencia de desempeño: GA6-240202501-AA1-EV03 Foro   
+  
+Para el desarrollo de la evidencia debe participar en el foro denominado “ Expressing opinions” y a partir de los 
+aspectos de un libro o película de forma argumentada y creativa responda las siguientes preguntas:  
+  
+Think about an experience at work where you were flexible and adapted to a new situation or a change in the process.   
+  
+Now answer:   
+  
+✔ What sort of movies or books do you like?  
+✔ What’s the name of book or movie that you are going to talk? ✔  Did you like it?  
+✔ What did you think about the movie or book?  
+✔ What was it about?  
+✔ Why do you recommend it?  
+✔ What else would you recommend?  
+  
+Realice seguimiento al foro y responda algunas de las participaciones de al menos dos de sus compañeros y con 
+quienes tenga mejor afinidad.  
+  
+Es ideal que durante la participación en el foro haga uso de la Netiqueta y sin olvidar que se eval uará a través de 
+la rúbrica TIGRE.   
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: participar en el foro denominado “Expressing opinions” y realizar una respuesta 
+crítico-reflexiva a una de las participaciones de sus compañeros.  
+● Para participar en el foro remítase al área de la actividad correspondiente y, ubique espacio para el 
+envío de la evidencia Foro GA6-240202501-AA1-EV03.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+4. Actividades de evaluación  
+ 
+ 
+Evidencias de aprendizaje  Criterios de evaluación  
+Técnicas e instrumentos de 
+evaluación  
+Evidencias de conocimiento:  
+Resolución de problemas 
+aplicando el modelo relacional, 
+cardinalidad y normalización.  
+GA6-220501096-AA1-EV01  
+  
+Evidencias de desempeño:  
+Crea Modelo entidad relación 
+de caso.  
+GA6-220501096-AA1-EV02  
+Define esquemas de seguridad en la 
+base de datos para mantener la 
+integridad de la información.  
+IE-GA6-220501096-AA1-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA6-220501096-AA1-EV02  
+Lista de chequeo  
+Evidencias de desempeño:  
+Creación de los objetos de la 
+base de datos.  
+GA6-220501096-AA1-EV03  
+  
+Evidencia de producto:   
+Elaboración de las bases de 
+datos.  
+GA6-220501096-AA1-EV04  
+Crea la base de datos integrando los 
+objetos de acuerdo con la funcionalidad 
+del software.  
+IE-GA6-220501096-AA1-EV03  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA6-220501096-AA1-EV04  
+Lista de chequeo  
+Evidencias de desempeño: 
+Destrezas y conocimientos en 
+el manejo de sentencias DDL y 
+DML de SQL.  
+Implementa restricciones en la base de 
+datos de acuerdo con las reglas de 
+diseño.  
+IE-GA6-220501096-AA2-EV01  
+Lista de chequeo  
+  
+  
+GA6-220501096-AA2-EV01  
+  
+Evidencias de desempeño:  
+Creación de la estructura de la 
+BD  y  aplicación 
+ de restricciones.   
+GA6-220501096-AA2-EV02  
+  
+Evidencia de producto:   
+Script bases de datos del 
+proyecto.  
+GA6-220501096-AA2-EV03  
+   
+  
+IE-GA6-220501096-AA2-EV02  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA6-220501096-AA2-EV03  
+Lista de chequeo  
+  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de conocimiento: 
+Selección herramientas para 
+prototipado.   
+GA6-220501096-AA3-EV01  
+Crea interfaces de usuario aplicando 
+buenas prácticas de usabilidad y 
+accesibilidad.  
+IE-GA6-220501096-AA3-EV01  
+Lista de chequeo  
+Evidencias de desempeño:  
+Crear el diseño del sitio web 
+y/o móviles utilizando sus 
+componentes y tecnologías 
+respectivas.  
+GA6-220501096-AA3-EV02  
+  
+Evidencia de producto:   
+Interfaces gráficas según 
+requerimientos del proyecto.  
+GA6-220501096-AA3-EV03  
+Crea interfaces de usuario aplicando 
+buenas prácticas de usabilidad y 
+accesibilidad.  
+IE-GA6-220501096-AA3-EV02  
+Lista de chequeo  
+  
+  
+  
+IE-GA6-220501096-AA3-EV03  
+Lista de chequeo  
+Evidencias de conocimiento:  
+Fundamentos  en  la 
+implementación  de 
+componentes frontend, HTML, 
+CSS, JS.   
+GA6-220501096-AA4-EV01  
+  
+Evidencias de desempeño:  
+Establecer los componentes 
+frontend de la aplicación web.  
+GA6-220501096-AA4-EV02   
+   
+Evidencia de producto:  Diseño 
+frontend que cumpla con los 
+requerimientos del proyecto.  
+GA6-220501096-AA4-EV03 
+Genera plantillas y estilos de acuerdo con 
+el diseño establecido.  
+IE-GA6-220501096-AA4-EV01  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA6-220501096-AA4-EV02  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA6-220501096-AA4-EV03  
+Lista de chequeo  
+Evidencia de desempeño:  
+Foro temático denominado 
+Establecer las técnicas de 
+coordinación motriz.  
+GA6-230101507-AA1-EV01  
+Identifica las técnicas de coordinación 
+motriz relacionadas con su perfil 
+ocupacional.  
+  
+Selecciona técnicas que le permiten 
+potenciar su capacidad de reacción 
+mental y mejorar sus destrezas motoras 
+según la naturaleza de su entorno 
+laboral.  
+IE-GA6-230101507-AA1-EV01  
+Lista de chequeo  
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de producto:  
+Infografía – Plan de higiene y 
+gasto calórico.   
+GA6-230101507- AA2-EV01.  
+Interpreta los fundamentos de estilo de 
+vida saludable, higiene y nutrición en los 
+contextos productivo y social.  
+  
+Administra un plan de higiene corporal 
+dentro del contexto productivo.  
+IE-GA6-230101507- AA2-EV01 
+Lista de chequeo  
+Evidencia de producto:  
+Mapa mental - capacidades  
+físicas condicionales   
+GA6-230101507-AA3-EV01  
+  
+Evidencia de producto:  
+Ficha antropométrica de 
+valoración de la condición 
+física.  
+GA6-230101507-AA3-EV02  
+Ejecuta rutinas de ejercicio físico según 
+las necesidades de los contextos laboral 
+y social.  
+  
+Establece pausas de acuerdo con cargas 
+de trabajo y tiempos de actividad fís ica 
+para una recuperación adecuada.  
+  
+Identifica los conceptos básicos de 
+anatomía y fisiología.  
+  
+Aplica los conceptos básicos de la 
+miología humana con base en el análisis 
+del movimiento.  
+IE-GA6-230101507-AA3-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA6-230101507-AA3-EV02  
+Lista de chequeo  
+Evidencia de producto:  
+Folleto de lesiones más 
+comunes en el trabajo o vida 
+cotidiana, y la importancia de 
+las pausas activas.  
+GA6-230101507-AA4-EV01  
+Aplica conceptos básicos de ergonomía 
+y pausas activas de acuerdo con la 
+naturaleza de la función productiva.  
+  
+Discrimina ejercicios específicos para la 
+prevención de riesgos ergonómicos 
+según su actividad laboral.  
+Estructura un plan de ergonomía y 
+pausas activas según contexto laboral. 
+  
+IE-GA6-230101507-AA4-EV01  
+Lista de chequeo  
+Evidencia de conocimiento:  
+Documento  escrito 
+GA6240202501-AA1-EV01  
+Participa en juegos de rol guiados o 
+situaciones simuladas sobre situaciones 
+cotidianas y laborales actuales, pasadas 
+y futuras en contextos sociales orales y 
+escritos.  
+IE-GA6-240202501-AA1-EV01  
+Lista de chequeo  
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de producto:   
+Video  
+GA6-240202501-AA1EV02  
+  
+  
+Evidencia de desempeño:   
+Foro   
+GA6-240202501-AA1EV03  
+Establece acciones de mejora continua 
+para el alcance.  
+IE-GA6-240202501-AA1-EV02  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA6-240202501-AA1-EV03  
+Lista de chequeo  
+  
+ 
+ 
+5. Glosario de términos  
+  
+Actividad física: se considera actividad física cualquier movimiento corporal producido por los músculos 
+esqueléticos que exija gasto de energía.  
+  
+Antropometría: estudio de las proporciones y las medidas del cuerpo humano.  
+  
+Deporte: el deporte es un juego o actividad reglamentada, normalmente de carácter competitivo, que mejora la 
+condición física y psíquica de quien lo practica y tiene propiedades recreativas que lo diferencian del simple 
+entretenimiento.  
+  
+Ejercicio: se considera ejercicio físico, al conjunto de acciones motoras musculares y es queléticas. Comúnmente 
+se refiere a cualquier actividad física que mejora y mantiene la aptitud física, la salud y el bienestar de la persona. 
+Se lleva a cabo por diferentes razones como el fortalecimiento muscular, mejora del sistema cardiovascular, 
+desarrollar habilidades atléticas, deporte, pérdida de grasa o mantenimiento, así como actividad recreativa.  
+  
+Innovación tecnológica: es un producto o proceso nuevo o mejorado cuyas características tecnológicas son 
+significativamente diferentes a las anterior es. Las innovaciones tecnológicas de productos implementadas son 
+productos nuevos (innovaciones de productos) o procesos en aplicación (innovaciones de procesos) que se han 
+introducido en el mercado.  
+  
+Future perfect: es para hablar de una acción que se completará entre ahora y algún momento en el futuro.  
+  
+Future perfect progressive:  también llamado a veces el futuro perfecto progresivo, es un tiempo verbal que 
+describe acciones que continuarán hasta un punto en el futuro.  
+  
+Motricidad fina: se refiere a las acciones que implican pequeños grupos musculares de cara, manos y pies, 
+concretamente, a las palmas de las manos, los ojos, dedos y músculos que rodean la boca. Es la coordinación entre 
+lo que el ojo ve y las manos tocan.  
+  
+Motricidad gruesa: es aquella relativa a todas las acciones que implican grandes grupos musculares, en general, 
+se refiere a movimientos de partes grandes del cuerpo del niño o de todo el cuerpo.  
+  
+Pausa activa: es una actividad física realizada en un breve espacio de tiempo en la jornada laboral, orientada a 
+que las personas recuperen energías para un desempeño eficiente en el trabajo, a través, de ejercicios que 
+
+=== PAGE 23 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+compensen las tareas desempeñadas, revirtiendo de esta manera la fatiga muscular y el cans ancio generados por 
+el trabajo.  
+  
+Personal statement : es una declaración personal a través de un documento que a menudo se solicitan en 
+organizaciones o entidades académicas en la que se expresan habilidades y aptitudes que demuestran los 
+diferentes conocimientos y experiencia que ha adquirido a lo largo de la experiencia.  
+  
+Preguntas directas: preguntas en las cuales se emplea auxiliar.  
+  
+Preguntas indirectas: preguntas en las cuales no se emplea auxiliar.  
+  
+Prototipo: es un modelo (representación, dem ostración o simulación) fácilmente ampliable y modificable de un 
+sistema planificado, probablemente incluyendo su interfaz y su funcionalidad de entradas y salidas.  
+  
+Psicomotricidad: disciplina que, basándose en una concepción integral del sujeto, se ocupa de la interacción que 
+se establece entre el conocimiento, la emoción, el movimiento y de su mayor validez para el desarrollo de la persona, 
+de su corporeidad, así como de su capacidad para expresarse y relacionarse en el mundo que lo envuelve.   
+  
+Reacción mental: es un concepto que se utiliza para referirse al conjunto de tensiones inducidas en una persona 
+por las exigencias del trabajo mental que realiza (procesamiento de información del entorno a partir de los 
+conocimientos previos, actividad de rememoración, de razonamiento y búsqueda de soluciones, etc.). Para una 
+persona dada, la relación entre las exigencias de su trabajo y los recursos mentales de que dispone para hacer 
+frente a tales exigencias expresa la carga de trabajo mental.  
+  
+Recreación: se entiende por recreación a todas aquellas actividades y situaciones en las cuales esté puesta en 
+marcha la diversión, como así también a través de ella la relajación y el entretenimiento. Son casi infinitas las 
+posibilidades de recreación que existen hoy en día, especialmente porque cada persona puede descubrir y 
+desarrollar intereses por distintas formas de recreación y divertimento.  
+  
+Rubrica TIGRE: son los criterios que evalúan las contribuciones y participaciones en un foro de debate con el fin 
+de profundizar en el aprendizaje significativo a través de la comunicación.  
+  
+Question tags: son preguntas cortas empleadas para confirmar o descartar información.  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 24 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+6. REFERENTES BIBLIOGRÁFICOS  
+  
+Bardeen, M., & Cerpa, N. (2015). Editorial: Technological Evolution in Society - The Evolution of Mobile Devices. 
+Journal of Theoretical and Applied Electronic Commerce Research, 10. 10.4067/S071818762015000100001.  
+  
+Brenson, G. (s. f.). Los sobrecomprometidos: el estrés y la gerencia de sí mismo. Fundación Neo-humanista. Colombia.  
+  
+Defontaine, J. (19981). Manual de reeducación psicomotriz (Tercer año). Editorial Médica y Técnica S.A.  
+  
+Figarola, I. (s. f.). Fonética inglesa (th). https://www.abaenglish.com/es/fonetica-inglesa/th/    
+  
+Guilman E. (1981). Evolución psicomotriz desde el nacimiento hasta los 12 años. Editorial Médica y Técnica S.A.   
+  
+Hohnke, O., y Ramme-Wichmann, A. (1991). Salud en la oficina. Integral.  
+  
+Ortega. E., y Blazquez, D. (1984). La actividad motriz en el niño de 3 a 6 años. Editorial Cincel.  
+  
+Pressman, R. (2010). Ingeniería del software, un enfoque práctico. McGraw-Hill.  
+  
+Moure,  O.  (1999).  El  acento  en  las  palabras  de  dos  sílabas. 
+http://www.ompersonal.com.ar/ompronounce/unit11/page1.htm   
+  
+Rigal, R. (1987). Motricidad humana. Fundamentos y aplicaciones pedagógicas. Editorial Pila Teleña S.A.  
+  
+Systems,  V.  (2013).  Inglés:  grado  superior.  McGraw-Hill. 
+ https://elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1    
+  
+UCAS.  (2021).  How  to  write  a  ucas  undergraduate  personal  statement.  
+https://www.ucas.com/undergraduate/applying-university/how-write-ucas-undergraduate-personalstatement#how-to-write-
+it   
+  
+Wickstrom, R. (1990). Patrones motores básicos. Alianza Deporte.  
+  
+Zarco, R. (s. F.). Desarrollo infantil y educación física. Ediciones Aljibe.  
+  
+  
+7. CONTROL DEL DOCUMENTO  
+  
+ 
+Autor( 
+es)  
+  
+Nombre  Cargo  Dependencia  Fecha  
+Cristóbal Álvaro 
+Villegas Acevedo 
+Instructor  
+Actividad física y 
+hábitos de vida 
+saludable  
+Centro  de Formación en Diseño 
+Confección y Moda  Octubre  2020  
+
+=== PAGE 25 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Bertha Paola 
+Bejarano Ávila  
+Diseñador  
+Instruccional  
+Distrito Capital – Centro para La  
+Industria de la Comunicación Gráfica  Octubre  2020  
+Elkin Rodolfo Moreno 
+Merchan  
+Experto 
+temático  
+Regional Distrito Capital - Centro de  
+Formación de Talento Humano en Salud  Febrero  2021  
+Oscar   
+Absalon Guevara  
+Diseñador 
+instruccional  
+Centro de Gestión Industrial - Regional 
+Bogotá  Febrero  2021  
+Jonathan   
+Guerrero Astaiza  Experto  temático  
+  
+Centro de Teleinformática y Producción  
+Industrial  
+  
+Diciembre 
+2021  
+Zulema   
+Leon Escobar  Experta  temático  
+  
+Centro de Teleinformática y Producción 
+Industrial  
+Diciembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  
+Regional Distrito Capital - Centro para la 
+Industria de la Comunicación Gráfica  
+Diciembre 
+2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Asesora 
+pedagógica.   Regional Distrito Capital - Centro de diseño y metrología.  Febrero 2022  de  
+Rafael  Neftalí  
+Lizcano Reyes  
+Asesor  
+Pedagógico  
+Regional Santander - Centro Industrial 
+del Diseño y la Manufactura  
+Febrero 
+2022  
+de  
+José Gabriel Ortiz  
+Abella  
+Corrector  de  
+estío  
+Regional Distrito Capital - Centro de 
+Diseño y Metrología.  
+Febrero 
+2022.  
+del  
+   
+8.  CONTROL DE CAMBIOS   
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+  

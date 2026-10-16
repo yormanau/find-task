@@ -1,0 +1,841 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. IDENTIFICACIÓN DE LA GUÍA DE APRENDIZAJE   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software.   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: Ejecución.   
+● Actividad de proyecto: Codificar los módulos del software.  
+● Competencias:  
+Técnicas:  
+220501096 - Desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501096-01 - Planear actividades de construcción del software de acuerdo con el diseño establecido.  
+220501096-04 - Codificar el software de acuerdo con el diseño establecido.  
+  
+●  Duración de la guía: 498 horas   
+Técnico: 498 horas.   
+  
+2. PRESENTACIÓN  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la séptima guía de aprendizaje que comprende la 
+competencia técnica de: desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+De acuerdo con Maida y Pacienzia (2015): la metodología en el desarrollo de software es un modo sistemático de 
+realizar, gestionar y administrar un proyecto que comprende los procesos a seguir para idear, implementar y 
+mantener un producto software desde que surge la necesidad del producto hasta que cumplimos el objetivo por el 
+cual fue creado.  
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa, los cuales de forma continua y permanente lo orientarán con las pautas necesarias para 
+el logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual, para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. FORMULACIÓN DE LAS ACTIVIDADES DE APRENDIZAJE  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo: construcción de software integrador de tecnologías orientadas a servicios.  
+ 
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 3.1. Actividades de aprendizaje de la competencia 220501096 - Desarrollar la solución de software de acuerdo 
+con el diseño y metodologías de desarrollo  
+  
+Con base en las metodologías de desarrollo utilizadas en esta competencia se inicia con el desarrollo de las 
+aplicaciones web y móviles utilizando Framework para el desarrollo ágil entre los que se encuentran SprintBoot, 
+React, Android, Swift del lado del servidor Node, que en conjunto con las herramientas de versionamiento permiten 
+realizar grandes proyectos en tiempos cortos, después de estudiadas cada una  de estas tecnologías podrá escoger 
+la que más se adapte a las características del proyecto a  realizar.  
+ 
+3.1.1 Actividad de aprendizaje GA7- 220501096-AA1 configurar herramientas de versionamiento para 
+control de código  
+  
+Duración: 40 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis de los 
+componentes formativos: “Aplicación del paradigma orientado a objetos” e “Integración continua”.   
+ 
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad de 
+aprendizaje:  
+  
+● Evidencia de conocimiento:  GA7-220501096-AA1-EV01 informe técnico de plan de trabajo para 
+construcción de software  
+  
+Con base en las características del software a desarrollar, realice un informe técnico especificando herramientas y 
+tecnologías de versionamiento a utilizar según lo visto en componentes Integración continua.  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, selección de herramientas de versionamiento a 
+utilizar.   
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento informe técnico  
+● Extensión: Libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+informe técnico de plan de trabajo para construcción de software GA7-220501096-AA1-EV01.  
+  
+ 
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia de desempeño: GA7-220501096-AA1-EV02 definir estándares de codificación de acuerdo a 
+plataforma de desarrollo elegida  
+  
+Con base en las características del software a desarrollar realice un informe técnico con el estándar de codificación 
+a utilizar para el desarrollo del software según lo visto en el componente "Aplicación del paradigma orientado a 
+objetos”.  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, estándares de codificación como nombramiento de 
+variables, declaración de clases, declaración de métodos etc. 
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento informe técnico  
+● Extensión: Libre.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+definir estándares de codificación de acuerdo a plataforma de desarrollo elegida GA7- 220501096-AA1-EV02.  
+  
+● Evidencia de conocimiento: GA7-220501096-AA1-EV03 identifica herramientas de versionamiento  
+  
+Tomando como referencia el componente formativo “Integración continua”, realice una tabla con las diferencias 
+entre el sistema de control de versionamiento git local y git remoto.  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, tablas con diferencias y características y comandos 
+de git local y git remoto.   
+● Realice una tabla con la descripción de los comandos básicos de git remoto y git local  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento informe técnico  
+● Extensión: Libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+identifica herramientas de versionamiento GA7-220501096-AA1-EV03.  
+   
+● Evidencia de desempeño: GA7-220501096-AA1-EV04 instalación y configuración de herramienta de 
+versionamiento (Local / Web)  
+  
+Tomando como referencia el componente formativo “Integración continua”, realice la instalación y configuración de 
+las herramientas de control de versionamiento tanto local como remoto.  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+ nombre 
+  
+Programa 
+- 
+gi 
+t 
+. 
+  
+Elementos para tener en cuenta en el documento:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, paso a paso con pantallazos de la instalación de las 
+herramientas de control de versionamiento tanto local como remota.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento instalación  
+● Extensión: Libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+Instalación y configuración de herramienta de versionamiento (Local / Web) GA7-220501096-AA1-EV04.  
+   
+● Evidencia de producto: GA7-220501096-AA1-EV05 herramientas de versionamiento (GIT) instalada y 
+configurada.  
+ 
+Tomando como referencia el componente formativo “Integración continua”, conectar el equipo local con el repositorio 
+remoto por medio de Git usando los comandos vistos anteriormente.  
+Realice la ejecución de cada uno de los comandos básicos de git remoto y local teniendo en cuenta el ejercicio 
+propuesto a continuación:  
+Paso 1  
+1. Crear un nuevo repositorio público en GitHub, gitLab o herramienta de su selección con el  
+2. Añadirlo al repositorio local del Programa.  
+3. Mostrar todos los repositorios remotos configurados.  
+Paso 1 
+# Crear el repositorio en GitHub y copiar su url con el protocolo https.  
+> git remote add github url  
+> git remote -v  
+Paso 2  
+1. Agregar los cambios del repositorio local al repositorio remoto de GitHub o GitLab.  
+2. Acceder a GitHub o GitLab y comprobar que se han subido los cambios mostrando el historial de versiones.  
+  
+>git push github master  
+Paso 3  
+● Agregar el archivo kotlin.txt que contenga el nombre del usuario y su correo electrónico.  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Agregar los cambios.  
+● Realizar un commit con el mensaje “Añadido datos.”  
+● Cargar cambios al repositorio remoto.  
+> cat > kotlin.txt  
+git add .   
+> git commit -m  
+"Añadido datos."  
+> git push origin master.  
+Elementos para tener en cuenta:  
+○ Se debe realizar el ejercicio en las herramientas de versionamiento instaladas y grabar un video ejecutando 
+cada uno de los puntos solicitados en el ejercicio propuesto.  
+○ Debe ir explicando cada uno de los requerimientos.  
+○ El vídeo debe tener una presentación con su nombre y los ejercicios a realizar.  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+○ Productos para entregar: video   
+○ Extensión: Mp4.  
+○ Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+herramientas de versionamiento (GIT) instalada y configurada. GA7-220501096-AA1-EV05  
+ 3.1.2 Actividad de aprendizaje GA7-220501096-AA2 - Aplicar estándares de codificación  
+  
+Esta actividad se centra en la descripción del plan de trabajo que se debe definir según las características d el software 
+a desarrollar, detallando estándares de codificación y lenguaje a utilizar.  
+ 
+Duración: 96 horas  
+ 
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+componente formativo: “Construcción de aplicaciones con JAVA”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad 
+de aprendizaje:  
+○ Evidencia de desempeño: GA7- 220501096-AA2-EV01 codificación de módulos del software según 
+requerimientos del proyecto  
+Teniendo en cuenta las características del software a desarrollar realizar la codificación del módulo del proyecto 
+realizando conexiones con bases de datos por medio de JDBC tomando como referencia lo visto en el componente 
+formativo “Construcción de aplicaciones con JAVA”.  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Elementos para tener en cuenta:  
+○ Para la codificación del módulo debe tener en cuenta los artefactos del ciclo del software realizados con 
+anterioridad: diagrama de clases, diagramas de casos de uso, historias  de usuario, diseños, prototipos, 
+Informe técnico de plan de trabajo para construcción de software con tecnologías seleccionadas etc .  
+○ Se debe crear el proyecto utilizando   herramientas de versionamiento.  
+○ El código debe cumplir con estándares de codificación como:  
+ ○  Nombramiento de variables  
+ ○  Nombramiento de métodos  
+ ○  Nombramiento de clases  
+ ○  Nombramiento de paquetes  
+○ Debe tener funcionalidades de inserción, consulta, actualización y eliminación.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+○ Productos para entregar: carpeta comprimida que debe tener los siguientes archivos:  
+● archivos del proyecto,   
+● archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y número de la 
+evidencia así: NOMBREAPELLIDO_AA2_EV01  
+● Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+● codificación de módulos del software según requerimientos del proyecto GA7-220501096-AA2-EV01.  
+ 
+● Evidencia de producto: GA7-220501096-AA2-EV02 módulos de software codificados y probados  
+Teniendo en cuenta las características del software a desarrollar realizar la codificación del módulo del proyecto 
+enfocándose a web con servlets según lo visto en el componente formativo “Construcción de aplicaciones con 
+JAVA”.  
+Elementos para tener en cuenta:  
+● Para la codificación del módulo debe tener  en cuenta los artefactos del ciclo del software realizados con 
+anterioridad: diagrama de clases, diagramas de casos de uso, historias de usuario, diseños, prototipos, 
+Informe técnico de plan de trabajo para construcción de software con tecnologías selecci onadas etc.  
+● Se debe crear el proyecto utilizando   herramientas de versionamiento.  
+● El código debe contener: formularios HTML con servlets  
+● Utilizar métodos get y pos  
+● Utilizar elementos de JSP  
+ 
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos:  
+● Archivos del proyecto,   
+● Archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y número de  
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+la evidencia así: NOMBREAPELLIDO_AA2_EV02  
+● Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+módulos de software codificados y probados GA7-220501096-AA2-EV02.   
+  
+3.1.3 Actividad de aprendizaje GA7-220501096-AA3 - Codificar los módulos del software Stand-alone, web y 
+móvil  
+  
+Esta actividad se centra en la codificación del módulo del proyecto según las características del software a 
+desarrollar, utilizando Frameworks de Java para el desarrollo ágil.  
+Duración: 122 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+componente formativo: “Frameworks para construcción de aplicaciones con JAVA”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+● Evidencia de desempeño: GA7- 220501096-AA3-EV01 codificación de módulos del software Stand 
+alone, web y móvil de acuerdo al proyecto a desarrollar  
+Con base en la selección del proyecto a desarrollar móvil o web realice la codificación del módulo del proyecto 
+aplicando alguno de los framework vistos en el componente formativo “Frameworks para construcción de 
+aplicaciones con JAVA.”.   
+Elementos para tener en cuenta:  
+● Para la codificación del módulo debe tener en cuenta los artefactos del ciclo del software realizados con 
+anterioridad: diagrama de clases, diagramas de casos de uso, historias de usuario, diseños, prototipos, 
+Informe técnico de plan de trabajo para construcción de software con tecnologías seleccionadas etc.  
+● El código debe contener comentarios  
+● El código debe cumplir con estándares de codificación   
+● Se debe crear el proyecto utilizando   herramientas de versionamiento.  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos:  
+○ archivos del proyecto,   
+○ archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y 
+número de la evidencia así: NOMBRE_APELLIDO_AA3_EV01  
+● Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+codificación de módulos del software Stand alone, web y móvil de acuerdo al proyecto a desarrollar 
+GA7220501096-AA3-EV01.  
+  
+ 
+ 
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia de producto: GA7-220501096-AA3-EV02 módulos de software codificados y probados  
+Teniendo en cuenta la codificación del módulo del proyecto realizada en la evidencia AA3-EV01 realizar las pruebas 
+según requerimientos de las historias de usuario o casos de uso.  
+Elementos para tener en cuenta:  
+● Se deben seguir las normas básicas de presentación de un d ocumento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, se requiere tomar un pantallazo de la aplicación por 
+cada uno de los requisitos levantados en las historias de usuario o casos de uso, ósea que debe describirse 
+la historia de usuario y/o casos de uso y debajo debe ir el pantallazo de la interfaz de la aplicación, se deben 
+documentar también las pruebas de validaciones de la aplicación (fechas, números, textos, caracteres 
+especiales, longitudes etc)  
+● Debe presentar un video mostrando toda la funcionalidad del módulo codificado con sus respectivas 
+validaciones.  
+● Debe trabajar con herramientas de versionamiento.   
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos: archivos del proyecto, 
+documento en Word, Video   
+● Archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y número de la 
+evidencia así: NOMBRE_APELLIDO_AA3_EV02  
+● Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+módulos de software codificados y probados GA7-220501096-AA3-EV02.  
+  
+3.1.4 Actividad de aprendizaje GA7-220501096-AA4 - Codificar el frontend utilizando framework  
+  
+Esta actividad se centra en la codificación del módulo del proyecto según las características del software a 
+desarrollar, utilizando Frameworks para el frontend con React-JS.  
+Duración: 96 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+componente formativo: "Desarrollo de frontend con React JS”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+● Evidencia de conocimiento: GA7-220501096-AA4-EV01 taller sobre componentes frontend  
+Con base en lo visto en el componente formativo “Desarrollo de frontend con React JS”, realizar un documento 
+que responda los aspectos descritos a continuación:  
+1. Diferencia entre React y JSX  
+2. ¿Qué son clases en React?  
+3. Principales eventos de React  
+4. Mapa conceptual de React  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Elementos para tener en cuenta:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, el documento debe presentar las principales 
+características del framework.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento en Word.  
+● Extensión: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+taller sobre componentes frontend. GA7-220501096-AA4-EV01  
+  
+● Evidencia de desempeño: GA7- 220501096-AA4-EV02 verificación de procedimientos para la 
+definición de componentes frontend de la aplicación (listas de chequeo)  
+Teniendo en cuenta las características del software a desarrollar, realice un document o en donde describa los 
+componentes frontend a utilizar en la codificación del proyecto, cada uno de los componentes seleccionados debe 
+tener su respectiva justificación.   
+Elementos para tener en cuenta:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, el documento debe describir cuáles serán los 
+componentes de React que se utilizarán para el desarrollo del proyecto:  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: documento en Word.  
+● Extensión: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+verificación de procedimientos para la definición de componentes frontend de la aplicación (listas de chequeo) 
+GA7-220501096-AA4-EV02.   
+  
+● Evidencia de producto: GA7 -220501096-AA4-EV03 Componente frontend del proyecto formativo y 
+proyectos de clase (listas de chequeo)  
+Teniendo en cuenta el tipo de proyecto a desarrollar móvil o web realice la codificación del módulo del proyecto 
+aplicando lo visto en el componente “Desarrollo de frontend con React JS.”.  
+Elementos para tener en cuenta:  
+● Para la codificación del módulo debe tener en cuenta los artefactos del ciclo del software realizados con 
+anterioridad: diagrama de clases, diagramas de casos de uso, historias de usuario, diseños, prototipos, 
+Informe técnico de plan de trabajo para construcción de software con tecnologías seleccionadas etc.  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● El código debe contener comentarios  
+● El código debe cumplir con estándares de codificación   
+● Se debe crear el proyecto utilizando herramientas de versionamiento.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos: archivos del 
+proyecto,  archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendi z y 
+número de la evidencia así: NOMBRE_APELLIDO_AA4_EV03. 
+● Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+Componente frontend del proyecto formativo y proyectos de clase (listas de chequeo). GA7- 220501096-
+AA4EV03  
+  
+3.1.5 Actividad de aprendizaje GA7-220501096-AA5 - Crear servicios web  
+  
+Esta actividad se centra en el aprendizaje para la construcción de API´s  las cuales son necesarias para el 
+cumplimiento de necesidades en la codificación del software del proyecto.  
+Duración: 144 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad es importante la lectura y análisis del 
+componente formativo: "Construcción de API” y “Servicios web con PHP”.  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+  
+● Evidencia de desempeño: GA7-220501096-AA5-EV01 diseño y desarrollo de servicios web - caso  
+Tomando como referencia lo visto en el componente formativo “Construcción de API” realizar el diseño y la 
+codificación de un servicio web para el siguiente caso:  
+● Se requiere realizar un servicio web para un registro y un inicio de sesión. El servicio recibirá un usuario y 
+una contraseña, si la autenticación es correcta saldrá un mensaje de autenticación satisfactoria en caso 
+contrario debe devolver error en la autenticación.  
+● El código debe contener comentarios  
+● Se debe crear el proyecto utilizando herramientas de versionamiento.  
+  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos: archivos del proyecto 
+y archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y número de 
+la evidencia así: NOMBRE_APELLIDO_AA5_EV01  
+● Extensión: ZIP, RAR.  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espaci o:  
+diseño y desarrollo de servicios web - caso. GA7-220501096-AA5-EV01  
+● Evidencia de producto: GA7-220501096-AA5-EV02 API  
+  
+Teniendo en cuenta lo realizado en la AA5-EV01 (evidencia anterior) realice el testing de la API construida usando 
+la herramienta postman.  
+Elementos para tener en cuenta:  
+● Debe instalar la herramienta postman.  
+● Debe realizar un video mostrando el testing de la API con la herramienta Postman.  
+● Documentar con pantallazos el testing realizado.  
+● Entregar los ENDPOINT de las API´s  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos:  
+o Archivos del proyecto,   
+o Video  
+o Documento con pruebas. 
+o Archivo END POINTS.  
+o Archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y número 
+de la evidencia así: NOMBRE_APELLIDO_AA5_EV02  
+o Extensión: ZIP, RAR.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y  acceda al espacio: 
+API GA7-220501096-AA5-EV02.  
+  
+● Evidencia de desempeño: GA7- 220501096-AA5-EV03: Diseño y desarrollo de servicios web - 
+proyecto  
+Tomando como referencia lo visto en el componente formativo “Construcción de API” realizar el diseño y la 
+codificación de las API’s teniendo en cuenta las características del software a desarrollar.  
+Elementos para tener en cuenta:  
+● Se requiere realizar los servicios necesarios para cumplir con las características del software a realizar 
+para el proyecto formativo.  
+● Se debe crear la documentación de cada uno de los servicios.  
+● Se debe crear el proyecto utilizando herramientas de versionamiento.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: carpeta comprimida que debe tener los siguientes archivos:  
+○ archivos del proyecto,   
+○ archivo con enlace del repositorio, la carpeta comprimida debe tener el nombre del aprendiz y 
+número de la evidencia así: NOMBRE_APELLIDO_AA5_EV03  
+○ Extensión: ZIP, RAR.  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+diseño y desarrollo de servicios web – proyecto GA7-220501096-AA5-EV03.  
+● Evidencia de producto: GA7-220501096-AA5-EV04: API del proyecto   
+Teniendo en cuenta lo realizado en la AA5-EV03 realice el testing de las API 's del proyecto construidas usando la 
+herramienta postman.  
+Elementos para tener en cuenta:  
+● Debe instalar la herramienta postman.  
+● Debe realizar un video mostrando el testing de las API 's con la herramienta Postman.  
+● Documentar con pantallazos el testing realizado.  
+● Entregar los ENDPOINT de las API’s  
+  
+Lineamientos generales para la entrega de la evidencia:   
+○ Productos para entregar: carpeta comprimida que debe tener los siguientes archivos: archivos del proyecto, 
+video, documento con pruebas, Archivo END POINTS. Archivo con enlace del repositorio, la carpeta 
+comprimida debe tener el nombre del aprendiz y número de la evidencia así: 
+NOMBRE_APELLIDO_AA5_EV04  
+○ Extensión: ZIP, RAR.  
+○ Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: API 
+del proyecto. GA7-220501096-AA5-EV04  
+   
+4. ACTIVIDADES DE EVALUACIÓN  
+  
+Evidencias de aprendizaje  Criterios de evaluación  Técnicas e instrumentos de evaluación  
+Evidencias de conocimiento:   
+Informe técnico de plan de 
+trabajo para construcción de 
+software.  
+GA7-220501096-AA1-EV01  
+  
+Evidencias de desempeño:  
+Definir estándares de 
+codificación de acuerdo a 
+plataforma de desarrollo 
+elegida.  
+GA7-220501096-AA1-EV02  
+Interpreta el informe de diseño para 
+definir el plan de trabajo en la 
+construcción del software.  
+  
+Selecciona y configura herramientas 
+de desarrollo de acuerdo con las 
+condiciones del software a construir.  
+  
+Define estándares de codificación de 
+acuerdo con las reglas de la 
+plataforma de desarrollo 
+seleccionada.  
+IE-GA7-220501096-AA1-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA7-220501096-AA1-EV02  
+Lista de chequeo  
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento: 
+Identifica herramientas de 
+versionamiento.  
+GA7-220501096-AA1-EV03  
+  
+Evidencias de desempeño:   
+Instalación y configuración de 
+herramienta de versionamiento 
+(Local / Web).   
+GA7-220501096-AA1-EV04   
+  
+Evidencia de producto:   
+Herramientas  de 
+versionamiento (GIT) instalada 
+y configurada.   
+GA7-220501096-AA1-EV05  
+Selecciona y configura herramientas 
+de versionamiento para el control de 
+cambios en el código.  
+IE-GA7-220501096-AA1-EV03  
+Lista de chequeo  
+  
+  
+  
+  
+  
+IE-GA7-220501096-AA1-EV04  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA7-220501096-AA1-EV05  
+Lista de chequeo  
+Evidencias de desempeño:  
+Codificación de módulos del 
+software según requerimientos 
+del proyecto.   
+GA7-220501096-AA2-EV01   
+  
+Evidencia de producto:   
+Módulos  de software 
+codificados y probados.   
+GA7-220501096-AA2-EV02  
+  
+  
+Codifica los módulos del software 
+Stand alone, web y móvil, de acuerdo 
+con las especificaciones del diseño y 
+el estándar de codificación.  
+IE-GA7-220501096-AA2-EV01   
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA7-220501096-AA2-EV02  
+Lista de chequeo  
+  
+Evidencias de desempeño:  
+Codificación de módulos del 
+software Stand alone, web y 
+móvil de acuerdo al proyecto a 
+desarrollar.  
+GA7-220501096-AA3-EV01  
+  
+Evidencia de producto:   
+Módulos de software 
+codificados y probados.  
+GA7-220501096-AA3-EV02  
+IE-GA7-220501096-AA3-EV01  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA7-220501096-AA3-EV02  
+Lista de chequeo  
+  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de conocimiento: 
+Taller sobre componentes 
+frontend.   
+GA7-220501096-AA4-EV01  
+  
+Evidencias de desempeño:   
+Verificación de procedimientos 
+para la definición de 
+componentes frontend de la 
+aplicación (listas de chequeo).   
+GA7-220501096-AA4-EV02  
+  
+  
+Evidencias de Producto:  
+Componente frontend del 
+proyecto formativo y proyectos 
+de clase (listas de chequeo).  
+GA7-220501096-AA4-EV03  
+  
+  
+IE-GA7-220501096-AA4-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA7-220501096-AA4-EV02  
+Lista de chequeo  
+  
+  
+  
+IE-GA7-220501096-AA4-EV03  
+Lista de chequeo  
+  
+Evidencias de desempeño:   
+Diseño  y desarrollo de 
+servicios web - caso.   
+GA7-220501096-AA5-EV01  
+  
+Evidencia de producto:   
+API.  
+GA7-220501096-AA5-EV02  
+  
+  
+  
+  
+  
+  
+  
+Crea servicios web para disponer de 
+métodos reutilizables en el software.  
+  
+IE-GA7-220501096-AA5-EV01  
+Lista de chequeo  
+  
+  
+IE-GA7-220501096-AA5-EV02  
+Lista de chequeo  
+Evidencias de desempeño:   
+Diseño  y  Desarrollo  de  
+servicios web – proyecto  
+GA7-220501096-AA5-EV03  
+  
+Evidencia de producto:   
+API del Proyecto  
+GA7-220501096-AA5-EV04  
+IE-GA7-220501096-AA5-EV03  
+Lista de chequeo  
+  
+IE-GA7-220501096-AA5-EV04  
+Lista de chequeo  
+  
+  
+5. GLOSARIO  
+  
+Software: soporte lógico, programas, parte no mecánica de un sistema. Serie de instrucciones necesarias para 
+ejecutar diversas aplicaciones y tareas.   
+  
+WAR: archivo de aplicación web utilizado para empaquetar las aplicaciones web hechas con tecnología JAVA. La 
+Sun define la estructura de un WAR.   
+  
+Servlet: es una clase hecha en Java utilizada para extender las capacidades de los servidores que alojan 
+aplicaciones que siguen el modelo petición-respuesta.   
+  
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+RDBMS: administrador de Bases de Datos Relacionales, se conocen así a los programas que permiten la gestión 
+completa de bases de datos y su mantenimiento.  
+  
+  
+6. REFERENTES BIBLIOGRÁFICOS  
+  
+Java en Castellano. (2021, Dic 01). Servlets y JSP. https://programacion.net/articulo/servlets_y_jsp_82   
+  
+Maida, E. G., & Pacienzia, J. (2015). Metodologías de desarrollo de software.  
+  
+Quintas, A. F. (2000). Java 2: manual de usuario y tutorial. Grupo Editorial RA-MA.  
+  
+Sun. (2021, Dic 01). Java.  http://java.sun.com/   
+  
+Vall Mainou, A. (2010). Desarrollo para internet con tecnología JAVA.   
+  
+  
+  
+7. CONTROL DEL DOCUMENTO  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+ Autor(es) 
+Jonathan   
+Guerrero Astaiza  
+Experto  
+temático  
+  
+Centro de Teleinformática y Producción  
+Industrial  
+  
+Diciembre 2021  
+Zulema   
+Leon Escobar  
+Experta  
+temático  
+  
+Centro de Teleinformática y Producción 
+Industrial  
+Diciembre 2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  
+Regional Distrito Capital - Centro para la 
+Industria de la Comunicación Gráfica  Diciembre 2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Metodológa  Regional Distrito Capital - Centro de 
+diseño y metrología  
+Febrero de 
+2022  
+Rafael Neftalí Lizcano 
+Reyes  
+Asesor  
+Pedagógico  
+Regional Santander - Centro Industrial del 
+Diseño y la Manufactura  
+Febrero de 
+2022  
+Sandra Patricia Hoyos 
+Sepúlveda  
+Corrección estilo  
+de  
+Centro de Diseño y Metrología - Distrito 
+capital  
+Febrero 2021  
+  
+  
+ 
+ 
+ 
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+7. CONTROL DE CAMBIOS   
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del cambio  
+Autor (es)            
+  
+  

@@ -1,0 +1,1244 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+  
+1. Identificación de la guía de aprendizaje  
+  
+● Denominación del programa de formación: Análisis y desarrollo de software  
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: Planeación.   
+● Actividad de proyecto: Estructurar procesos lógicos para la construcción de algoritmos.  
+● Competencias:  
+Técnicas:  
+220501093 - Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares.  
+Claves:   
+220201501 - Aplicación de conocimientos de las ciencias naturales de acuerdo con situaciones del 
+contexto productivo y social.  
+240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales 
+según los criterios establecidos por el marco común europeo de referencia para las lenguas.   
+● Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501093-03 – Desarrollar procesos lógicos a través de la implementación de algoritmos.  
+ Claves:  
+220201501-01 - Identificar los principios y leyes de la física en la solución de problemas de acuerdo al 
+contexto productivo.  
+220201501-02 - Solucionar problemas asociados con el sector productivo con base en los principios y 
+leyes de la física.  
+220201501-03 - Verificar las transformaciones físicas de la materia utilizando herramientas tecnológicas.  
+220201501-04 - Proponer acciones de mejora en los procesos productivos de acuerdo con los principios 
+y leyes de la física.  
+240202501-03 - Discutir sobre posibles soluciones a problemas dentro de un rango variado de contextos 
+sociales y laborales.  
+  
+● Duración de la guía: 240 horas.  
+● Técnico: 96 horas.   
+● Claves: 144 horas.  
+   
+2. Presentación  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la tercera guía de aprendizaje que comprende la 
+competencia técnica Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares.  
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Por otra parte, es importa nte reconocer que el estudio de las Ciencias Naturales permite situarse frente a los 
+fenómenos físicos y asumir retos que ayudan a mejorar el desarrollo de la humanidad con nuevas tecnologías que 
+generen el fortalecimiento de las capacidades de producción de Colombia.  
+Finalmente, encontrarán la competencia clave del inglés como una de las habilidades contemporáneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la l engua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para las Lenguas) como estándar del nivel de conocimiento de la lengua y categorización de los 
+conocimientos en niveles de competencia de un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía contará con el acompañamiento de los instructores 
+asignados al programa, quienes de forma continua y permanente lo orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, bri ndando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar l o 
+anteriormente mencionado.  
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de planeación del proyecto formativo Construcción de software integrador de tecnologías orientadas a 
+servicios.  
+  
+3.1 Actividades de aprendizaje de la competencia 220501093 evaluar requisitos de la solución de software 
+de acuerdo con metodologías de análisis y estándares  
+  
+Esta competencia se centra en la realización de actividades de evaluación de las mejores estrategias que permitan 
+abordar cada uno de los requisitos de la solución de software de una manera organizada y efectiva, 
+específicamente para esta guía se abordarán las bases requeridas para la construcción de algoritmos, los cuales 
+son la esencia de la programación.  
+3.1.1 Actividad de aprendizaje GA3-220501093-AA1 realizar actividades para el desarrollo del pensamiento 
+algorítmico.  
+  
+En esta actividad se estudiarán los conceptos básicos asociados al concepto de algoritmo, se abordará la definición 
+formal de algoritmo, las caracter ísticas del pensamiento algorítmico y cómo esto ayuda a plantear soluciones a 
+problemas reales y problemas asociados a la programación. Luego, se trabajan cada uno de los componentes 
+requeridos para abordar el problema e identificar cada uno de los elementos de este.  
+Duración: 14 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “Introducción a la algoritmia”.   
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+  
+● Evidencia de conocimiento: GA3-220501093-AA1-EV01 bases conceptuales de lógica proposicional  
+  
+Teniendo en cuenta los conceptos desarrollados durante el componente formativo, construir un documento donde 
+se dé solución a los siguientes problemas de lógica proposicional registrando cada uno de los pasos elaborados 
+para llegar a la solución:  
+  
+(2 * 5) < 8 OR  ((4 * 6) >  (2 * 5) )  
+(4+ 5) < 3 AND ( ( 5 * 5 ) + (4 + 25 < 3) )  
+  
+Construir la tabla de verdad para las siguientes expresiones:  
+● ( P ∧ Q)  
+● ( P ∨ Q)  
+  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: Un único archivo con el nombre del estudiante donde se encuentre todas las 
+soluciones a cada uno de los ejercicios presentados con el paso a paso realizado para encontrar la 
+solución.  
+● Formato: PDF.  
+● Para hacer el desarrollo de la evidencia remítase al área de la actividad correspondiente y acceda al 
+espacio bases conceptuales de lógica proposicional GA3-220501093-AA1-EV01.   
+● Evidencia de producto: GA3 -220501093-AA1-EV02 taller de resolución de problemas de algoritmos 
+en pseudocódigo y diagramas de flujo  
+  
+Teniendo en cuenta las recomendaciones para el análisis de problemas desarrollado durante el componente 
+formativo en esta actividad se plantean algunos problemas, los cuales deberá leer detenidamente para luego 
+identificar los elementos de entrada y los resultados esperados. Adicionalmente, se introduce el tema de diagramas 
+de flujo para lo cual deberá realizar una investigación corta respondiendo algunos lineamientos establecidos en 
+esta actividad.  
+Elementos para tener en el desarrollo del taller:  
+Sección 1   
+Teniendo en cuenta los siguientes problemas identificar los posibles elementos de entrada y resultados esperados 
+de cada uno:  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Se desea elaborar un algoritmo que permita identificar la cantidad de dólares equivalentes a una cantidad 
+de pesos colombianos.  
+● Se desea elaborar un algoritmo que permita determinar la temperatura equivalente en grados centígrados a 
+la cantidad de grados Fahrenheit actuales en la ciudad de New York.  
+● Suponiendo que nos encontramos descansando en una nuestra casa en una ciudad de Colombia requiero 
+hacer un plan detallado para llegar a tiempo a mi sitio de trabajo el día siguiente.  
+● Suponiendo que tengo habilidades en la elaboración de comida necesito elaborar un arroz con pollo para 5 
+personas.  
+Respecto a los problemas planteados:  
+Para precisar los elementos de entrada de cada una de las situaciones enunciadas no olvide las preguntas guía:   
+● ¿Qué información es importante y necesaria para resolver el problema?  
+● ¿Qué información no es importante y se puede prescindir?  
+● ¿Cuáles son los datos de entrada conocidos?   
+● ¿Cuál es la incógnita o qué debemos calcular?  
+● ¿Los datos se pueden agrupar en categorías?  
+● ¿Qué información adicional hace falta para resolver el problema?  
+ 
+Para precisar los resultados esperados se recomienda utilizar las preguntas guía:   
+● ¿Qué información están solicitando?  
+● ¿En qué formato se debe entregar esta información?  
+ 
+Sección 2 Taller  
+Elabore una investigación corta usando los materiales disponibles en la biblioteca o Internet respecto a los 
+fundamentos para la resolución de problemas con algoritmos, seleccione por lo menos tres fuentes que le permitan 
+resolver las siguientes preguntas:  
+● Definición de diagrama de flujo.  
+● Símbolos más importantes.  
+● Seleccionar uno de los problemas de la sección 1 y representarlo en su equivalente diagrama de flujo.  
+Respecto a los diagramas de flujo:  
+● Referenciar las fuentes de información utilizadas para resolver cada una de las preguntas utilizando el 
+formato de las Normas APA.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: documento con la solución del taller propuesto.   
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio 
+taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo -  
+GA3220501093-AA1-EV02.  
+  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.1.2 Actividad de aprendizaje GA3- 220501093-AA2 desarrollar soluciones algorítmicas a través de 
+estructuras de control.  
+ 
+En esta actividad se estudiarán algunas formas de representación de algoritmos y se introducen algunos conceptos 
+clave como: constant es, variables, acumuladores, contadores, operadores, jerarquía de los operadores. 
+Finalmente, se abordan las estructuras de control secuencial y herramientas existentes para la creación y pruebas 
+de algoritmos.  
+ 
+Duración: 40 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “Análisis y solución de problemas aplicando algoritmos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+● Evidencia de conocimiento: GA3- 220501093-AA2-EV01 fundamentos de programación estructurada 
+y estructuras cíclicas  
+ 
+Esta evidencia se centra en consolidar los conceptos relacionados con las metodologías de algoritmos y sus tres 
+fases: análisis, diseño e implementación. Respecto a la implementación se aborda los seudocódigos y diagramas 
+de flujo.  
+Para su desarrollo es importante la lectura del componente formativo. Debe construir un documento donde registre 
+el análisis, diseño e implementación de algoritmos que permitan resolver los siguientes problemas:  
+✔ Algoritmo que a partir de una fecha de nacimiento y una fecha actual determine la edad en años actual de 
+una persona.  
+✔ Algoritmo que permita determinar si un año indicado es o no un año bisiesto.  
+Tenga en cuenta que respecto al análisis del algoritmo debe registrar como mínimo los elementos de entrada, 
+salida y los procesos requeridos para cada uno de los algoritmos solicitados. Respecto a la fase de diseño e 
+implementación plantear una solución usando diagramas de flujo.   
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: Un documento con la solución del taller propuesto.  
+● Extensión: Libre.  
+● Formato: PDF o Word.  
+● Para el desarrollo de la evidencia remítase al área de la actividad correspondiente y acceda al espacio  
+fundamentos de programación estructurada y estructuras cíclicas GA3-220501093-AA2-EV01.  
+ 
+ 
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+● Evidencia de desempeño: GA3-220501093-AA2-EV02 foro temático: Estructuras de programación.  
+  
+Teniendo en cuenta las diferentes estructuras de control y su respectiva forma de representación en diagrama de 
+flujo y pseudocódigo realizar su participación en el foro argumentando cuál de las dos representaciones le resulta 
+más conveniente para cada una de las estructuras de control trabajadas. Tome en cuenta las siguientes preguntas 
+orientadoras:  
+✔ ¿Qué beneficios tiene una representación en comparación con la otra?  
+✔ ¿Respecto a las herramientas existentes, cuál tiene más representación?  
+✔ ¿Cuál sería la más fácil para entender las estructuras algorítmicas?  
+✔ ¿Cuál permitirá una transición más fácil hacia la codificación?  
+  
+Realice seguimiento al foro y responda a un comentario crítico-reflexivo, de acuerdo con la intervención que hayan 
+realizado sus compañeros, demostrando la construcción de conocimiento frente a los planteamientos que cada 
+uno proponga.  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos a entregar: participación en el foro. o Para hacer el envío de la evidencia remítase al área de la 
+actividad correspondiente y acceda al espacio Foro temático: Estructuras de programación. GA3 -
+220501093-AA2-EV02.  
+ 
+● Evidencia de producto: GA3-220501093-AA2-EV03 taller aplicando funciones y procedimientos en la 
+solución de algoritmos.  
+En esta actividad deberá aplicar todos los conocimientos adquiridos a lo largo del componente formativo para dar 
+solución a problemas utilizando la notación de pseudocódigo y diagramas de flujo, usando las herramientas 
+establecidas por el instructor. Tenga en cuenta los diferentes tipos de estructuras de control básicas: secuenciales, 
+condicionales y repetitivas.  
+Problemas propuestos:  
+1. Un corredor de maratón (distancia 42,195 Km) ha recorrido la carrera en 2 horas 25 minutos. Se desea un 
+algoritmo que calcule el tiempo medio en minutos por kilómetro.  
+2. Realizar la conversión de una temperatura dada en grados Centígrados a grados Fahrenhei t (Fórmula: F = 
+(9/5) C + 32).  
+3. Escribir el algoritmo que permite calcular la nota correspondiente al primer parcial de “análisis” para un 
+estudiante cualquiera. Se debe considerar que hay dos talleres y un quiz, que en conjunto valen un 30% de 
+la nota y el resto (70%) corresponde a la nota del examen parcial.  
+4. Un capital C está situado a un tipo de interés R anual ¿al término de cuántos años se doblará?  
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+5. Elaborar un algoritmo que permita ingresar 20 números y muestre todos los números menores e iguales a 
+25.  
+6. Hacer un programa que sume 5 precios de camisas (en dólares) y que luego muestre el total de la venta en 
+pesos.  
+7. Hacer un programa que registre el consumo realizado por los clientes de un restaurante, si el consumo de 
+cada cliente excede 50000 se hará un descuento del 20%. Se debe mostrar el pago de cada cliente y el total 
+de todos los pagos.  
+8. Diseñar un algoritmo que permita ingresar la hora, minutos y segundos, y que calcule la hora en el siguiente 
+segundo ("0<= H <=23", "0<= M <=59" "0<= S<=59").  
+ 
+9. Dado N, escribir el producto desde 1 hasta N.  
+10.  Realizar un algoritmo que muestre por pantalla la tabla de multiplicar decreciente de cualquier número, 
+ingresado entre el 1 y el 10.  
+Elementos a tener en cuenta para la solución de este taller:  
+● Cada problema se debe solucionar usando las dos notaciones (pseudocódigo y diagrama de flujo).  
+● Debe utilizar la herramienta o el modelo de representación de cada notación sugerida por el instructor.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar:  un único archivo comprimido con el nombre del estudiante donde se encuentren 
+todas las soluciones a cada uno de los problemas propuestos.  
+● Formato: ZIP.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio Taller 
+aplicando funciones y procedimientos en la solución de algoritmos. GA3-220501093-AA2-EV03.  
+  
+3.1.3 Actividad de aprendizaje GA3- 220501093-AA3 - solucionar planteamientos aplicando el concepto de 
+arreglos (vectores y matrices).  
+  
+Esta actividad se centra en la introducción a los lenguajes de programación abordando conceptos básicos, 
+características de los lenguajes, sus tipos y el proceso de estación. Luego, se identifican los tipos de datos, 
+operadores, comentarios y expresiones admitidas por el lenguaje de programación seleccionado. Finalmente, se 
+repasa cada una de las estructuras de control y se incluye adicionalmente las estructuras de datos tipo vector y 
+matriz.  
+Duración: 42 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “Codificación de algoritmos”.   
+  
+ 
+ 
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de conocimiento: GA3- 220501093-AA3-EV01 bases teóricas de estructuras de 
+almacenamiento en memoria  
+  
+Esta evidencia se centra en consolidar los conceptos básicos relacionados con los lenguajes de programación, 
+entornos de codificación e instalación y la sintaxis del lenguaje de JavaScript.  
+  
+Para su desarrollo es importante la lectura del componente formativo. Elaborar un documento en el cual se registren 
+los siguientes elementos:  
+  
+● Principales diferencias entre los lenguajes compilados e interpretados.  
+● Características principales de JavaScript  
+● Tipos de datos primitivos y uso en JavaScript  
+● Operadores en JavaScript  
+● Apoye todas las argumentaciones con imágenes ilustrativas y no olvide referenciar las fuentes de información 
+utilizadas.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+  
+● Productos para entregar: Un documento con la solución del taller propuesto.  
+● Extensión: Libre.  
+● Formato: PDF.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio 
+Bases teóricas de estructuras de almacenamiento en memoria. GA3-220501093-AA3-EV01.  
+  
+  
+● Evidencia de desempeño: GA3- 220501093-AA3-EV02 resolución a pr oblemas algorítmicos aplicando 
+estructuras de almacenamiento  
+  
+En esta actividad deberá aplicar todos los conocimientos adquiridos a lo largo del componente formativo para dar 
+solución a problemas, utilizando todas las estructuras de control requeridas y el lenguaje JavaScript.  
+Problemas propuestos:  
+Utilizando el lenguaje JavaScript desarrollar un programa que dé solución a los siguientes problemas:  
+  
+1. Desarrollar un programa que permita calcular el área o perímetro de algunas figuras planas según la 
+siguiente tabla:  
+  
+ 
+ 
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+Tabla 1  
+Área y perímetro de figuras planas  
+  
+Figura  Perímetro  Área  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+2. Desarrollar un programa que permita almacenar las edades de un grupo de 10 personas en un vector de 
+enteros y luego determine la cantidad de personas que son menores de edad, mayores de edad, cuántos 
+adultos mayores, la edad más baja, la edad más alta y el promedio de edades ingresadas. Para el ejercicio 
+anterior suponga que un adulto mayor debe tener una edad igual o superior a 60. Debe validar para cada 
+ingreso que los valores estén en un rango entre 1 y 120 años. En caso de error deberá notificar y solic itar 
+un nuevo valor.  
+3. Escriba un programa que lea dos vectores de números enteros ordenados ascendentemente y luego 
+produzca la lista ordenada de la mezcla de los dos, por ejemplo, si los dos arreglos tienen los números 1 
+3 6 9 17 y 2 4 10 17, respectivamente, la lista de númer os en la pantalla debe ser 1 2 3 4 6 9 10 17 17.  
+Limite los vectores a un tamaño de 5 y debe validar en cada ingreso que realmente se estén ingresando 
+los datos de forma ascendente.  
+4. Una emisora con presencia en diferentes ciudades desea conocer el rating de canciones y cantantes más 
+escuchados (sonados) en este semestre del año. Por lo tanto, se ha pedido a estudiantes del SENA del 
+programa de tecnólogo en análisis y desarrollo de software desarrollar una solución que permita conocer 
+la respuesta de 6 per sonas con relación a sus gustos musicales. Con fines administrativos y realizar una 
+rifa entre las personas encuestadas, la emisora desea poder registrar de las personas entrevistadas su 
+nombre, número de identificación (cédula), fecha de nacimiento, correo electrónico, ciudad de residencia, 
+ciudad de origen. Además, se deberá poder almacenar el artista y título de hasta 3 canciones favoritas en 
+
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+cada una de las personas que se ingrese, teniendo en cuenta lo anterior, se sugiere que la solución deberá 
+mostrar un menú que permite las siguientes opciones:  
+  
+a. Agregar una persona con los datos que se listan anteriormente.  
+b. Mostrar la información personal de una persona particular por medio de su posición en el vector.  
+Elementos a tener en cuenta para la solución de este taller:  
+● Cada problema se debe solucionar usando el lenguaje JavaScript.  
+● Si bien existen muchas formas posibles de resolver un problema se recomienda utilizar las estructuras que 
+permitan el desarrollo de acciones de una manera simple y eficiente.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto a entregar: un único archivo comprimido con el nombre 
+del estudiante donde se encuentren todas las soluciones a cada 
+uno de los problemas propuestos.  
+● Formato: ZIP.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondient e y acceda al espacio 
+resolución a problemas algorítmicos aplicando estructuras de almacenamiento. GA3 -220501093AA3-
+EV02.  
+  
+  
+3.2. Actividades de aprendizaje de la competencia: 220201501 - aplicación de conocimientos de las ciencias 
+naturales de acuerdo con situaciones del contexto productivo y social  
+Para esta competencia es importante dar una respuesta planeada y organizada a los cambios, es decir, encaminar 
+actuaciones y adaptarse a los retos en la creación de una estrategia que posibilite establecer las medidas 
+necesarias para el análisis de problem as, que bien podrían solucionarse a través de modelos matemáticos 
+presentados con su respectiva aplicación en el entorno productivo y social.  
+  
+De esta manera es como se ha logrado desarrollar elementos o equipos que fortalecen la tecnificación del sector  
+productivo y social, con aparatos y aplicaciones que permiten disminuir tiempos de producción, realizar medidas 
+con muy buena precisión, controlar los diferentes subsistemas (motores, válvulas, sistemas neumáticos, sistemas 
+hidráulicos, entre otros) de una manera segura.   
+  
+3.2.1 Actividad de aprendizaje GA3- 220201501-AA1. Reconocer los principios y leyes físicas aplicados al 
+contexto productivo.  
+  
+Esta actividad se centra en el reconocimiento de conceptos, principios y leyes fundamentales de la física aplicados 
+al contexto productivo.    
+  
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “La ciencia de las cosas”.   
+  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de conocimiento: GA3-220201501-AA1-EV01 -Cuestionario   
+  
+Esta evidencia se centra en consolidar los conceptos, principios y leyes fundamentales de la física que permitan 
+contextualizar la importancia del conocimiento de las Ciencias Naturales y sus aportes aplicados al contexto 
+productivo y social.  
+  
+Para su desarrollo es importante la lectura del componente formativo. Se resolverá un cuestionario que se emplea 
+como técnica de evaluación, dichas preguntas pueden ser:   
+● De carácter formativo, las cuales permiten determinar el nivel de desarrollo alcanzado de la competencia 
+durante la formación.  
+● De carácter evaluativo, que determinan el dominio y el nivel máximo alcanzado en la competencia.  
+  
+Lineamientos para el desarrollo de la evidencia:  
+● Duración: 60 minutos.  
+● Para responder el cuestionario remítase al área de la actividad correspondiente y acceda al espacio para el 
+desarrollo de la evidencia Cuestionario GA3-220201501-AA1-EV01  
+  
+3.2.2 Actividad de aprendizaje GA3- 220201501-AA2. Interpretar y explicar los cambi os físicos de los 
+cuerpos según las teorías, leyes y principios.  
+  
+Esta actividad se centra en interpretar y explicar las diferentes clases de medidas, gráficas y ecuaciones que 
+describen los cambios físicos recurrentes en los cuerpos según las teorías, leyes y principios.   
+  
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “La ciencia de las cosas”.   
+  
+Evidencias:  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de producto : GA3-220201501-AA2-EV01 - Video expositivo sobre experimento de 
+aplicación.   
+  
+Esta evidencia se centra en interpretar y explicar de manera clara las diferentes clases de medidas, gráficas y 
+ecuaciones que describen los cambios físicos recurrentes en los cuerpos según las teorías, leyes y principios. Para 
+su desarrollo es importante la lectura y análisis del componente formativo “La ciencia de las cosas”. Con ello, se 
+espera evidenciar la importancia del conocimiento de las Ciencias Naturales y sus aportes aplicados al contexto 
+productivo y social.  
+  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+En cuanto a la estrategia didáctica de aprendizaje a través de la experimentación deberá presentar un video donde 
+demostrará una de las tres leyes de Newton con un experimento, en el cual presente la ley, su aplicación en el 
+contexto productivo o social y su influencia en los procesos tec nológicos, avances actuales o próximos. En los 
+documentos del programa se encuentra el “Anexo_Video_expositivo” donde se describen cada uno de los pasos 
+y aspectos fundamentales para su construcción.   
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto a entregar: URL del video expositivo cargado en YouTube.   
+● Forma de presentación:   
+○ El video - exposición debe ser creativo, dinámico e innovador.  
+○ El tiempo del video - exposición estará enmarcado entre los 3 a 7 minutos.   
+○ Se debe acompañar de imágenes reales.  
+○ El video-exposición se debe cargar en el canal de YouTube del aprendiz y compartir en la evidencia la 
+URL del sitio al cual se subió.   
+○ El video debe ser presentado por el aprendiz.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para la 
+entrega de la evidencia Video-expositivo sobre experimento de aplicación GA3-220201501-AA2EV01  
+  
+  
+  
+3.2.3 Actividad de aprendizaje: GA3- 220201501-AA3. Describir las manifestaciones de energía explicando 
+las variables que intervienen según el contexto social y productivo  
+  
+Esta actividad se centra en describir y explicar las manifestaciones de la energía, según el comportamiento de las 
+variables que intervienen en los fenómenos físicos en un contexto social y productiv o.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “La ciencia de las cosas”.   
+  
+Evidencias:  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+★ Evidencia de producto: GA3-220201501-AA3-EV01. Informe de laboratorio  
+  
+La importancia de la conservación de la energía de un sistema permite hacer de manera eficiente el uso y 
+aprovechamiento de esta, acudiendo a soluciones y alternativas creativas que ayudan a reducir el impacto en el 
+medio ambiente, contando con recursos energéticos por mayor tiempo.   
+  
+La energía de un sistema puede cambiar de forma, pero si la energía se conserva, debe seguir siendo la misma. 
+Es probable que se encuentren sistemas que contienen energía cinética, energía potencial gravitacional, energía 
+potencial elástica y energía térmica (calor). En los documentos del programa se encuentra el 
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+“Anexo_Informe_de_Laboratorio” en el que se describe cada uno de los pasos y aspectos fundamentales para 
+su construcción.   
+  
+En esta evidencia debe efectuar los cálculos y análisis físicos de la conservación de la energía y al finalizar, deberá 
+presentar un informe (de laboratorio) en el que se evidencie la preparación de materiales, equipos, sistemas, 
+inconvenientes, soluciones, procedimientos y materiales que fueron usados para los análisis.  
+  
+Para ello, se le recomienda tener en cuenta los siguientes elementos:   
+●  Investigue los tipos de energía, los parámetros y sus variables.  
+●  Realice un cuadro comparativo entre las energías cinética, potencial, eléctrica, térmica, eólica, solar, entre 
+otras que conozca.  
+●  Menciona cómo se transforman las energías de una a otra.   
+●  Haga un listado de parámetros físicos.   
+●  Seleccione 3 parámetros del listado anterior para realizar el análisis.  
+●  Seleccione: materiales, elementos o aparatos de acuerdo con el análisis que va a realizar.  
+●  Registre en un diagrama las recomendaciones para el análisis a realizar (alistamien to para el experimento, 
+elementos, observaciones antes del experimento, observaciones al final y conclusiones).  
+●  Seleccione los materiales, insumos e instrumentos de acuerdo con el procedimiento de análisis de los 
+parámetros seleccionados.  
+●  Realice mediante lista de chequeo el alistamiento de los materiales necesarios para el experimento.  
+●  Realice el ajuste de los instrumentos y/o equipos a utilizar o el desarrollo del laboratorio de manera virtual.   
+●  Realice al menos 3 pruebas, tome fotos como evidencia y notas de las observaciones.  
+●  Desarrolle los procedimientos de análisis de acuerdo con el parámetro.  
+● Haga un formato para registrar la información de los análisis y registre los resultados con sus respectivas 
+gráficas y datos.   
+● Conclusiones, observaciones y describa la relación con situaciones del contexto productivo y social.  
+  
+Lineamientos generales para la evidencia:  
+  
+● Producto a entregar: informe de laboratorio con la información y elementos anteriormente mencionados 
+(no olvide anexar las fotos de la evidencia).  
+● Formato: documento digital o físico.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+la entrega de la evidencia Informe de laboratorio GA3-220201501-AA3-EV01  
+  
+3.2.4 Actividad de aprendizaje: GA3- 220201501-AA4 - Realizar experimentos que permitan interpretar y 
+argumentar fenómenos de acuerdo con los principios y leyes de la física conforme con el contexto 
+productivo.  
+  
+Esta actividad experimental se centra en interpretar y argumentar fenómenos de acuerdo con los principios y leyes 
+de la física conforme con el contexto productivo.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación “La ciencia de las cosas”.   
+  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+★ Evidencia de producto: GA3-220201501-AA4-EV01 Video-expositivo sobre experimento de aplicación   
+  
+Esta evidencia experimental se centra en interpretar y explicar de manera clara las diferentes clases de medidas, 
+gráficas y ecuaciones que describen los cambios físicos recurrentes en los cuerpos según las teorías, leyes y 
+principios. Para su desarrollo es importante la lectura y análisis del componente formativo “La ciencia de las cosas”.   
+  
+En cuanto a la estrategia didáctica de aprendizaje a través de la experimentación por medio de la pregunta y la 
+argumentación deberá presentar un video expositivo fundamentado en las temáticas de conservación de la 
+energía, termodinámica, electromagnetismo, oscilaciones y ondas, interpretación de planos, datos y gráficas. A su 
+vez, relacione 10 avances tecnológicos que involucren dichos temas.  
+ 
+En los documentos del programa se encuentra el “Anexo_Video_expositivo” donde se describe cada uno de los 
+pasos y aspectos fundamentales para su construcción.   
+  
+  
+Lineamientos para la entrega del producto:  
+● Producto a entregar: video expositivo.   
+● Forma de presentación:   
+o El video-exposición debe ser creativo, dinámico e innovador.  
+o El tiempo del video - exposición estará enmarcado entre los 3 a 7 minutos.  o Se sugiere acompañarlo 
+de imágenes reales.  
+o El video-exposición se debe cargar en el canal de YouTube del aprendiz y  compartir en la evidencia la 
+URL del sitio al cual se subió.   
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para la 
+entrega de la evidencia Video-expositivo sobre experimento de aplicación GA3-220201501-AA4-EV01.  
+  
+★ Evidencia de producto: GA3-220201501-AA4-EV02 Bitácora de procesos desarrollados en la competencia  
+  
+La bitácora es un proceso documental que permite la recopilación de un aprendizaje, que para este caso ha sido 
+desarrollado a través de la guía con la estrategia didáctica experimentación. En los documentos del programa se 
+encuentra la “Anexo_Bitacora”, por favor haga una lectura detallada del mismo. La bitácora a entregar debe tener 
+los siguientes elementos:   
+● Portada  
+● Introducción  
+● Objetivos  
+● Justificación  
+● Antecedentes   
+● Desarrollo: ubique la definición personal del concepto de física, principios y sus l eyes fundamentales   
+aplicadas al contexto productivo y social.  La URL de los dos videos expositivos. El informe de laboratorio.  
+Registro fotográfico de los experimentos realizados.  Realizar una infografía en la que resuma el contenido 
+del componente formativo “La ciencia de  las cosas”.  
+● Conclusiones   
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Bibliografía  
+   
+Lineamientos generales para la entrega del producto:  
+● Producto a entregar: bitácora.   
+● Formato: documento en formato PDF.  
+● Extensión: máximo 30 hojas.    
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+la entrega de la evidencia Bitácora de procesos desarrollados en la competencia GA3- 220201501-
+AA4EV02.  
+  
+3.3 Actividades de aprendizaje de la competencia: 240202501 - Interactuar en lengua inglesa de forma oral 
+y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común 
+europeo de referencia para las lenguas.  
+Durante el desarrollo de las actividades de esta competencia se debe comprender el vocabulario y las expresiones 
+en inglés en contextos personales, acorde con el nivel principiante e intermedio A2.2 y B1.1 de acuerdo con el 
+MCERL (la construcción de los diferentes programas de la formación en inglés emplea el MCERL como instrumento 
+de referencia para proveer los conocimientos requeridos para alcanzar el nivel).   
+  
+3.3.1 Actividad de aprendizaje GA3-240202501-AA1. Dialogar sobre posibles soluciones a problemas dentro 
+de contextos sociales.  
+  
+Dentro de los contextos laborales es necesario tener en cuenta las diferentes situaciones en la que se pueden 
+poner en práctica los conocimientos adquiridos, dentro de estos se destacan las recomendaciones, sugerencias e 
+indicaciones. Ya que es importante comprenderlas y ponerlas en práctica, así como el poder emitirlas dando 
+soluciones a diferentes situaciones problemáticas que puedan darse. En idiomas es bastante útil este 
+conocimiento, ya que permite ese intercambio conversacional con otros hablantes estableciendo a ctos 
+comunicativos eficientes y provechosos.  
+  
+Es importante seguir las indicaciones del instructor en cuanto a la mejor manera de apropiar el material del curso 
+y la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas.  
+  
+Material de formación: el contenido de soporte para el desarrollo de la actividad es “Level 4 - MCE A2.2”.  
+  
+Evidencias:  
+  
+● Evidencias de conocimiento:  GA3-240202501-AA1-EV01 cuestionario   
+  
+Presenta un cuestionario de acuerdo con el contenido formativo del cuarto nivel “Level 4 -  MCE A2.2”. El 
+cuestionario consta de quince preguntas y un tiempo aproximado de 30 minutos.   
+  
+Lineamientos para la entrega de la evidencia:  
+  
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondiente y 
+acceda al espacio para el desarrollo de la evidencia Cuestionario GA3240202501-AA1-EV01.  
+  
+● Evidencia de producto: GA3-240202501-AA1-EV02. Audio  
+  
+De acuerdo con la temática estudiada en el material de estudio del cuarto nivel elabore un audio en inglés con el 
+fin de identificar sus actitudes, creencias y obligaciones en el contexto laboral y académico.  
+  
+Para la elaboración del audio tenga en cuenta el desarrollo de un guion o estructura, a través de un documento de 
+Word.   
+  
+Parte 1.  Durante el desarrollo del audio no olvide realizar una corta presentación de los datos básicos del aprendiz 
+(nombre completo, ID, ficha, instructor y nombre de la actividad).  
+ 
+Parte 2. En la siguiente parte del audio mencione una corta opinión sobre sus actitudes, creencias y obligaciones 
+en su contexto laboral y académico, en el que mencione las cosas que son necesarias ( have to / must / should + 
+infinitive).   
+  
+Para la elaboración del audio puede utilizar su dispositivo móvil o existen páginas web que a través del uso del 
+micrófono le permiten grabar su audio.  
+  
+Una vez finalizado el audio puede cargarlo a Spreaker o Podb ean, registrándose de forma gratuita con su cuenta 
+de correo personal o institucional, generando la URL del podcast y comprobando que no tenga restricciones de 
+reproducción para que pueda compartir el enlace con el guion elaborado.  
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: archivo del audio o documento con el guion y enlace del audio.  
+● Formato: mp3 o archivo con el enlace del audio.  
+● Extensión: 2 a 5 minutos.  
+● Para hacer el envío del archivo remítase al área de la actividad correspondiente y acceda al espacio para la 
+entrega de la evidencia Audio GA3-240202501-AA1-EV02  
+  
+ ❖  Evidencia de desempeño: GA3-240202501-AA1-EV03. Foro:   
+  
+Para el desarrollo de la evidencia debe participar en el foro denominado “ Giving opinions about jobs” y a partir de 
+los aspectos de su experiencia laboral de manera argumentada y creativa responda l as siguientes preguntas:  
+1. How can you be environmentally friendly at work?  
+2. What kind of incentives could a green company offer to its employees?  
+3. In what other ways could businesses involve their employees in environmental issues?  
+  
+Realice seguimiento al foro y responda a un comentario crítico-reflexivo de acuerdo con la intervención que hayan 
+realizado sus compañeros.  
+  
+Lineamientos para la entrega de la evidencia:  
+  
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Producto a entregar: participar en el foro denominado “Giving opinions about jobs” y realizar una respuesta 
+crítico-reflexiva a una de las participaciones de sus compañeros.  
+  
+● Para participar en el foro remítase al área de la actividad correspondiente y ubique el espacio par a el 
+dearrollo de la evidencia Foro GA3-240202501-AA1-EV03.  
+  
+3.3.2 Actividad de aprendizaje GA3- 240202501-AA2 - Reportar sobre posibles soluciones a problemas 
+dentro de contextos laborales.  
+  
+Es necesario tener en cuenta las diferentes situaciones en las que se pueden poner en práctica los conocimientos 
+adquiridos en diferentes contextos y situaciones conforme a las posibilidades, adaptación al cambio y los diferentes 
+estados laborales para poder compartir diferentes experiencias en la vida.   
+  
+Cuando se expresa en inglés es bastante útil en la presentación de ideas mencionar planes, acciones y 
+experiencias de su contexto personal y laboral, teniendo en cuenta la adaptabilidad y responsabilidad  profesional.  
+  
+Es importante que tenga en cuenta el material de estudio para el desarrollo de cada una de las evidencias y la 
+construcción de los textos, de acuerdo con lo propuesto desde el componente formativo denominado Level 5 – 
+MCE B1.1.  
+  
+Duración: 48 horas.  
+  
+Material de formación: el contenido de soporte para el desarrollo de la actividad es “Level 5 - MCE B1.1”.  
+  
+Evidencias:   
+❖ Evidencia de conocimiento:  GA3-240202501-AA2-EV01 Cuestionario.   
+  
+Presenta un cuestionario de acuerdo con el contenido formativo del quinto nivel “Level 5 - MCE B1.1. El cuestionario 
+consta de quince preguntas y un tiempo aproximado de 30 minutos.   
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto a entregar: cuestionario con preguntas de acuerdo con la información brindada en el segundo nivel.  
+● Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondie nte y 
+acceda al espacio para el envío de la evidencia Cuestionario GA3240202501-AA2-EV01.  
+  
+❖ Evidencia de producto:  GA3-240202501-AA2-EV02 Audio  
+  
+De acuerdo con la temática estudiada en el material de estudio del quinto nivel elabore un audio en inglés sobre la 
+trayectoria, planes, acciones y soluciones de su contexto académico y laboral.  
+  
+Para la elaboración del audio tenga en cuenta el desarrollo de un guion o estructura a través de un documento de 
+Word.   
+  
+a. Parte 1.  Durante el desarrollo del audio no olvide realizar una corta presentación de los datos básicos del 
+aprendiz (nombre completo, ID, ficha, instructor y nombre de la actividad).  
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+b. Parte 2. En la siguiente parte del audio mencione una corta opinión sobre la tr ayectoria, planes, acciones y 
+soluciones de su contexto académico y laboral, teniendo en cuenta la flexibilidad y adaptabilidad en los 
+contextos de liderazgo y responsabilidad profesional ( making decisions: zero, first and second conditional, 
+self-direction, flexibility and adaptability in job contexts about leadership and responsibility ).  
+  
+Para elaborar el audio puede utilizar su dispositivo móvil o existen páginas web que a través del uso del micrófono 
+le permiten grabar su audio.  
+  
+Una vez finalizado el audio puede cargarlo a Spreaker o Podbean, registrándose de forma gratuita con su cuenta 
+de correo personal o institucional, generando la URL del podcast y comprobando que no tenga restricciones de 
+reproducción para que pueda compartir el enlace con el guion elaborado.  
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: archivo del audio o documento con el guion y enlace del audio.  
+● Formato: mp3 o archivo con el enlace del audio.  
+● Extensión: 2 a 5 minutos.  
+● Para hacer el envío del archivo remítase al área de la actividad correspondiente y acceda al espacio para la 
+entrega de la evidencia Audio GA3-240202501-AA2-EV02.  
+  
+● Evidencia de desempeño: GA3-240202501-AA2-EV03 Foro  
+    
+Para el desarrollo de la evidencia debe participar en el foro denominado “Sharing life experiences” y a partir de los 
+aspectos de su experiencia laboral, de manera argumentada y creativa, responda las siguientes preguntas basado 
+en la situación inicial planteada:  
+  
+Think about an experience at work where you were flexible and adapted to a new situation or a change in the 
+process.   
+  
+Now answer:   
+● What was the result of the experience?   
+● How did your flexibility and adaptability help you to deal with the situation?  
+●  Would you change anything in order to deal in a better way with it?  
+  
+Realice seguimiento al foro y responda a un comentario crítico-reflexivo de acuerdo con la intervención que hayan 
+realizado sus compañeros.  
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: participar en el foro denominado “ Sharing life experiences” y realizar una respuesta 
+crítico-reflexiva a una de las participaciones de sus compañeros.  
+● Para participar en el foro remítase al área de la actividad correspondiente y ubique el espacio para el envío 
+de la evidencia Foro GA3-240202501-AA2-EV03.   
+   
+  
+4. Actividades de evaluación  
+  
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de aprendizaje  Criterios de evaluación  
+Técnicas e instrumentos de 
+evaluación  
+Evidencia de conocimiento:  Taller 
+bases conceptuales de lógica 
+proposicional. GA3220501093-
+AA1-EV01  
+Soluciona problemas de lógica 
+proposicional incorporando 
+habilidades propias en el oficio 
+como programador.  
+IE-GA3-220501093-AA1-EV01  
+Lista de chequeo  
+Evidencia de producto:  
+Taller  de  resolución  de  
+ 
+problemas de algoritmos en 
+pseudocódigo y diagramas de 
+flujo.  
+GA3-220501093-AA1-EV02  
+ IE-GA3-220501093-AA1-EV02  
+Lista de chequeo  
+Evidencia de conocimiento:   
+Taller fundamentos de 
+programación estructurada y 
+estructuras cíclicas. GA3 -
+220501093-AA2-EV01  
+Crea soluciones a problemas 
+mediante algoritmos que incluyen 
+estructuras secuenciales, 
+condicionales y cíclicas.  
+  
+IE-GA3-220501093-AA2-EV01  
+Lista de chequeo  
+Evidencia de desempeño:  Foro 
+temático: Estructuras de 
+programación.   
+GA3-220501093-AA2-EV02  
+IE-GA3-220501093-AA2-EV02  
+Lista de chequeo  
+Evidencia de producto:   
+Taller aplicando funciones y 
+procedimientos en la solución  
+de  algoritmos.   
+GA3-220501093-AA2-EV03  
+IE-GA3-220501093-AA2-EV03  
+Lista de chequeo  
+Evidencia de conocimiento:  Bases 
+teóricas de estructuras de 
+almacenamiento en memoria. 
+GA3-220501093AA3-EV01  
+  
+  
+Crea funciones y procedimientos 
+en la solución de algoritmos para 
+ordenar y simplificar los códigos.  
+  
+Manipula arreglos en diferentes 
+dimensiones para dar solución a 
+problemas reales.  
+  
+Administra la información de los 
+usuarios por medio de archivos, 
+permitiendo el ingreso, 
+modificación y eliminación de los 
+datos.  
+IE-GA3-220501093-AA3-EV01  
+Lista de chequeo  
+Evidencia de desempeño: 
+Resolución a problemas 
+algorítmicos aplicando estructuras 
+de almacenamiento. 
+GA3220501093-AA3-EV02  
+IE-GA3-220501093-AA3-EV02  
+Lista de chequeo  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento:   
+Cuestionario.     
+GA3-220201501-AA1-EV01.  
+Identifica los principios y leyes 
+físicas acordes con el contexto 
+productivo.  
+IE-GA3-220201501-AA1-EV01. 
+Lista de chequeo  
+Evidencia de producto:   
+Video expositivo sobre 
+experimento de aplicación.  GA3 -
+220201501-AA2-EV01  
+Interpreta cambios físicos de los 
+cuerpos de acuerdo con teorías, 
+leyes y principios.  
+IE-GA3-220201501-AA2-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Informe de laboratorio. 
+GA3220201501-AA3-EV01  
+Describe las manifestaciones de la 
+energía según el contexto social y 
+productivo.  
+Explica el comportamiento de 
+fenómenos físicos según el 
+contexto productivo.  
+IE-GA3-220201501-AA3-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Video expositivo sobre 
+experimento de aplicación. GA3 -
+220201501-AA4-EV01  
+Realiza experimentos para la 
+interpretación de fenómenos de 
+acuerdo con los principios y las 
+leyes de la física.  
+IE-GA3-220201501-AA4-EV01  
+Lista de chequeo  
+Evidencia de producto:   
+Bitácora de procesos 
+desarrollados en la competencia.  
+GA3-220201501-AA4-EV02  
+Argumenta la incidencia de los 
+principios y leyes de la física 
+conforme con el contexto 
+productivo.  
+IE-GA3-220201501-AA4-EV02  
+Lista de chequeo  
+Evidencia de conocimiento:   
+Cuestionario.   
+GA3-240202501-AA1-EV01  
+Ofrece breves razonamientos y 
+explicaciones de opiniones, planes 
+y acciones.  
+IE-GA3-240202501-AA1-EV01  
+Cuestionario  
+Evidencia de producto: audio.   
+GA3-240202501-AA1-EV02  
+  
+Evidencia de desempeño: foro.   
+GA3-240202501-AA1-EV03  
+Se comunica de manera eficaz en 
+torno a temáticas cotidianas y 
+laborales sencillas haciendo uso 
+de una adecuada pronunciación, 
+fluidez, rango de vocabulario y 
+estructura gramatical para el nivel 
+preintermedio.  
+IE-GA3-240202501-AA1-EV02  
+Lista de chequeo  
+  
+  
+IE-GA3-240202501-AA1-EV03  
+Lista de chequeo  
+Evidencia de conocimiento:   
+Cuestionario.   
+GA3-240202501-AA2-EV01  
+Brinda solución a un problema 
+sencillo haciendo uso de una 
+adecuada pronunciación, fluidez, 
+rango de vocabulario y estructura 
+gramatical para el nivel 
+preintermedio.  
+IE-GA3-240202501-AA2-EV01  
+Cuestionario  
+Evidencia de producto:   
+Audio.  
+GA3-240202501-AA2-EV02  
+IE-GA3-240202501-AA2-EV02  
+Lista de chequeo  
+  
+  
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de desempeño:   
+Foro.  GA3-240202501-
+AA2EV03  
+ IE-GA3-240202501-AA2-EV03  
+Lista de chequeo  
+  
+  
+5. Glosario de términos  
+  
+Acentuación: se refiere a la distribución de los acentos ortográficos.  
+  
+Adaptable: adaptarse adecuadamente a las nuevas condiciones que pueden darse o a una situación 
+determinada en un contexto laboral o personal.  
+  
+  
+Aparato: objeto formado por una combinación de piezas y elementos que sirve para desarrollar un trabajo o 
+función determinada y, que generalmente funciona mediante energía eléctrica, en especial cuando se especifica 
+su función.  
+  
+Archivo ejecutable: archivo en código binario que se genera a partir de la compilación de un programa y el 
+cual representa el programa a ser usado por un cliente.  
+  
+Bélico: hace referencia a la guerra o relacionado con la lucha armada, perteneciente a la guerra.  
+  
+Entonación: rasgo lingüístico suprasegmental constituido por la secuencia sonora de los tonos con que se 
+emite el discurso oral; constituye una línea melódica y contribuye al significado del discurso.  
+  
+Flexibilidad: capacidad de adaptarse fácilmente a nuevas situaciones para hacer frente a las nuevas 
+condiciones de forma adecuada.   
+  
+Humanidad: capacidad para sentir afecto, comprensión o solidaridad hacia las demás personas, conjunto de 
+todos los seres humanos.  
+  
+Interdisciplinarias: que se compone de varias disciplinas científicas o culturales o está relacionado con ellas. 
+Suele aplicarse a actividades, investigaciones y estudios donde cooperan expertos en distintas temáticas.  
+  
+JavaScript: es un lenguaje de programación interpretado y orientado a objetos.  
+  
+Mecánica cuántica: ciencia que estudia las características y el comportamiento de las partículas atómicas y 
+subatómicas, la física moderna se compone por la mecánica cuántica y la teoría de la relatividad.  
+  
+Metodología: ciencia que consta de métodos y técnicas, que se aplican sistemáticamente durante un proceso 
+de investigación o para solucionar una problemática.  
+  
+6. Referentes bibliográficos  
+  
+Aguilar, J. (2008). Fundamentos de programación (Spanish Edition) (4th ed.). McGraw -Hill Interamericana de 
+España S.L.  
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Figarola, I. (s.f). Cómo se pronuncia TH en inglés. https://www.abaenglish.com/es/fonetica-inglesa/th/    
+  
+Moure,  O.  (1999).  El  acento  en  las  palabras  de  dos  sílabas. 
+http://www.ompersonal.com.ar/ompronounce/unit11/page1.htm  
+  
+Serway, R. y Jewett, J. (1992). Física. McGraw-Hill.  
+  
+Serway, R. y Jewett, J. (2018). Física para ciencias e ingeniería. Cengage.    
+    
+Sierra, F. (2000). C/C++ curso de programación. Alianza Editorial.  
+  
+Systems,  V.  (2013).  Inglés:  grado  superior.  McGraw-Hill 
+ https://www.elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1    
+  
+Tiples, P. (1994). Física. Reverté.  
+  
+Vásquez, J. (2012). Análisis y diseño de algoritmos. Red Tercer Milenio.  
+   
+7. Control del documento  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor(es)  
+Elkin Rodolfo  
+Moreno Merchán  Experto temático  
+Regional Distrito Capital - Centro de  
+Formación de Talento Humano en 
+Salud  
+Febrero 2021  
+Oscar   
+Absalón Guevara  
+Diseñador 
+instruccional  
+Centro  de  Gestión 
+ Industrial  - Regional 
+Bogotá  
+Febrero 2021  
+Hernando José  
+Góngora  
+Valencia  
+Experto temático  Regional Valle del Cauca – Centro de Diseño Tecnológico Industrial  
+Agosto 2021  
+Sandra Patricia 
+Hoyos Sepúlveda  
+Revisión y 
+corrección de  
+estilo  
+Centro para la Industria de la 
+Comunicación Gráfica – Regional  
+Distrito Capital  
+Agosto 2021  
+Jonathan   
+Guerrero Astaiza  
+Experto temático  Centro  de  Teleinformática  y  
+Producción Industrial  
+  
+Noviembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador 
+instruccional  
+Regional Distrito Capital - Centro para 
+la Industria de la Comunicación 
+Gráfica  
+Noviembre 
+2021  
+
+=== PAGE 23 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Silvia  Milena  
+Sequeda  
+Cárdenas  
+Evaluadora 
+instruccional  
+Regional Distrito Capital – Centro de la 
+Gestión Industrial  
+Noviembre 
+2021  
+Rafael Neftalí 
+Lizcano Reyes  
+Asesor 
+pedagógico  
+Regional  Santander  -  Centro  
+Industrial del Diseño y la Manufactura  
+Noviembre 
+2021  
+Julia  Isabel  
+Roberto  
+Diseñadora  y  
+evaluadora 
+instruccional  
+Regional Distrito Capital - Centro para 
+la Industria de la Comunicación 
+Gráfica  
+Diciembre 
+2021  
+  
+  
+8. Control de cambios  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del cambio  
+Autor (es)            
+  
+  

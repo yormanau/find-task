@@ -1,0 +1,958 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. IDENTIFICACIÓN DE LA GUÍA DE APRENDIZAJE   
+● Denominación del programa de formación: Análisis y desarrollo de software.   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: ejecución.   
+● Actividad de proyecto: Codificar los módulos del software  
+● Competencias:  
+Técnicas:  
+220501096- Desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+Transversal:   
+220601501- Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las 
+políticas organizacionales y la normatividad vigente.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501096-04- Codificar el software de acuerdo con el diseño establecido  
+Transversal:  
+220601501-01- Analizar las estrategias para la prevención y control de los impactos ambientales y de los 
+accidentes y enfermedades laborales (ATEL) de acuerdo con las políticas organizacionales y el entorno 
+social.  
+220601501-02- Implementar estrategias para el control de los impactos ambientales y de los accidentes y 
+enfermedades de acuerdo con los planes y programas establecidos por la organización.  
+220601501-03- Realizar seguimiento y acompañamiento al desarrollo de los planes y programas 
+ambientales y SST, según el área de desempeño.  
+220601501-04 - Proponer acciones de mejora para el manejo ambiental y el control de la SST, de acuerdo 
+con estrategias de trabajo colaborativo, cooperativo y coordinado en el contexto productivo y social.  
+  
+● Duración de la guía: 288 horas  
+   Técnico: 240 horas.   
+   Transversal: 48 horas  
+  
+2. PRESENTACIÓN  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la octava guía de aprendizaje que comprende la 
+competencia técnica de: desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+En palabras de Avison y Fitzgerald (1995), una metodología es una serie de procedimientos y herramientas que 
+ayudan a los desarrolladores a implementar nuevos sistemas de información y están formadas por fases que guían 
+a los desarrolladores a elegir las técnicas más apropiadas en cada momento del proyecto.  
+  
+Por otra parte, se hace necesario aplicar prácticas de protección ambiental, seguridad y salud en el trabajo (SST) 
+con las políticas organizacionales y la normatividad vigente. Dicha competencia se encuentra relacionada con los 
+componentes formativos : fundamentos de medio ambiente, seguridad y salud en el trabajo, y la legislación en 
+medio ambiente, seguridad y salud en el trabajo. Las actividades de aprendizaje están basadas en la estrategia 
+didáctica de aprendizaje a través de estudio de casos, la cual permite representar circunstancias de la vida real 
+para hallar posibles soluciones que se puedan presentar en el contexto laboral o personal.  
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa, los cuales de forma continua y permanente lo orientarán con las pautas necesarias para 
+el logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual, para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. FORMULACIÓN DE LAS ACTIVIDADES DE APRENDIZAJE  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo: construcción de software integrador de tecnologías orientadas a servicios.  
+  
+3.1. Actividades de aprendizaje de la competencia 220501096 - Desarrollar la solución de software de 
+acuerdo con el diseño y metodologías de desarrollo  
+  
+Con base en los requisitos de software especificados tanto funcionales como no funcionales, los documentos de  
+diseño (diagrama de clases, diagrama E -R, diagrama de componentes, diagramas de actividad, diagramas de 
+secuencia, diagrama de paquetes y de arquitectura del sistema) además de los documentos de casos de uso o 
+historias de usuario, en esta competencia se empieza a codificar en el lenguaje seleccionado los prototipos del 
+modelo necesarios para la puesta en marcha de la solución del sistema.  
+  
+3.1.1 Actividad de aprendizaje GA8-220501096-AA1- Integrar módulos  
+  
+Esta actividad se centra en el estudio de los mecanismos de desarrollo de software que permiten construir los 
+componentes que conforman o integran los módulos de una aplicación web.   
+Duración: 96 horas.  
+  
+Materiales de formación:  para el desarrollo de est a actividad es importante la lectura y análisis del material de 
+formación: “Construcción aplicación web.”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad de 
+aprendizaje:  
+  
+● Evidencia de desempeño:  GA8-220501096-AA1-EV01 desarrollar software a partir de la integración 
+de sus módulos componentes 
+
+=== PAGE 3 ===
+  
+ 
+  
+  GFPI-F-135 V01  
+  
+  
+  
+En esta evidencia el estudiante debe codificar los módulos del proyecto con base en los requerimientos del sistema 
+para una aplicación orientada a la web.   
+  
+Elementos a tener en cuenta:  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Se deben conocer los requerimientos del sistema.  
+● Manejar los documentos de casos de uso o historias de usuario.  
+● Conocer el funcionamiento del IDE de desarrollo.  
+● Se debe conocer el diagrama de clases.  
+● Se debe conocer el diagrama de paquetes.  
+● Se debe conocer el diagrama de componentes.  
+● Se debe conocer los mecanismos de seguridad que requiere la aplicación.  
+● Identificar las capas en donde se ubican los componentes.  
+● Conocer la metodología de desarrollo de software.  
+● Conocer el mapa de navegación de la aplicación.  
+● Codificar cada módulo en el lenguaje seleccionado.  
+● Manejar un repositorio de control de versiones (GIT, SVN, Otros)  
+● Determinar las librerías necesarias en cada capa de la aplicación.  
+● Determinar los frameworks a en cada capa de la aplicación.  
+● Se recomienda dividir el módulo a desarrollar en componentes que pueden ser reutilizados.  
+● Aplicar la codificación siguiendo las buenas prácticas de escritura de código.  
+● Se recomienda dividir el código fuente de cada  componente que corresponde a un módulo en paquetes 
+con nombres de fácil entendimiento.  
+● Aplicar los patrones de diseño de acuerdo con la arquitectura del software por componente.  
+● Se deben realizar las pruebas unitarias de cada módulo.  
+● Configuraciones de servidores y de bases de datos.  
+● Documentar los ambientes de desarrollo y pruebas.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar: código fuente, archivos compilados, documentos, url  
+o  Formato: PDF   
+o  Extensión: libre.  
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+desarrollar software a partir de la integración de sus módulos componentes GA8-220501096-AA1-
+EV01.  
+  
+● Evidencia de producto: GA8-220501096-AA1-EV02 módulos integrados  
+  
+En esta evidencia se enfoca al aprendiz acerca de la forma como debe entregar los módulos integrados del sistema 
+desarrollado.   
+  
+Elementos a tener en cuenta:  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Se deben conocer los requerimientos del sistema.  
+● Contar con documentos o actas de aprobación de los requerimientos.  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Manejar un repositorio de control de versiones (GIT, SVN, Otros) para entregar código fuente.  
+● Entregar los archivos ejecutables.  
+● Entregar las urls en donde se han desplegado los módulos.  
+● Entregar la documentación por módulo y componente donde se registren datos de entrada y salida.  
+● Se debe informar acerca de las pruebas realizadas de cada módulo y su resultado (documentar las 
+configuraciones de servidores y de bases de datos y documentar los ambientes de desarrollo y pruebas).  
+● Entregar manuales técnicos.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar: código fuente, archivos compilados, documentos, url  
+o  Formato: PDF  
+o  Extensión: libre.  
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+Módulos integrados. GA8-220501096-AA1-EV02.  
+  
+3.1.2 Actividad de aprendizaje GA8-220501096-AA2- Incorporar tecnologías emergentes y disruptivas  
+  
+Esta actividad se centra en el estudio de las nuevas tecnologías emergentes y disruptivas como lo es el desarrollo 
+de aplicación para dispositivos móviles con énfasis en Android así, como también de obtener conocimientos en 
+tecnología Blockchain (cadena de bloques) y Machine Learning (aprendizaje de máquina) entre otras.  
+Duración: 144 horas  
+Materiales de formación a consultar : para el desarrollo de esta ac tividad es importante la lectura y análisis del 
+material de formación: "Construir aplicativo según las características de la arquitectura Android -  Tecnologías 
+emergentes y disruptivas”  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad 
+de aprendizaje:  
+● Evidencia de conocimiento: GA8 -220501096-AA2-EV01 taller acerca de integración, tecnologías 
+emergentes y disruptivas   
+Esta evidencia se propone para el desarrollo de los diferentes aspectos claves acerca de la elaboración de 
+aplicaciones móviles para Android.  
+  
+Elementos para tener en el desarrollo del taller:  
+Sección 1 Taller  
+Elabore una investigación corta usando los materiales disponibles en la biblioteca o internet acerca del 
+desarrollo de aplicaciones móviles para Android.  
+●  ¿Qué es Android?  
+● Definición del concepto de APK.  
+● ¿Qué es el Android SDK?  
+● ¿Cuál es el lenguaje utilizado para desarrollar aplicaciones para Android?   
+● ¿Qué IDEs de desarrollo existen para codificar?  
+● Definir el concepto de Android multiusuario realizar una breve descripción de este concepto  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Definir el concepto de mínimo privilegio  
+● ¿Cuáles son los componentes esenciales de una aplicación Android?  
+Sección 2 Taller  
+Crear la primera aplicación Android.  
+● Descargar e instalar JAVA  
+● Descargar e instalar Android Studio.  
+● Crear el proyecto de la aplicación.  
+● Crear una actividad.  
+● Configurar las características del proyecto.  
+● Compilar la actividad principal.  
+● Ejecutar la aplicación que muestre algún mensaje.  
+  
+Respecto al problema planteado:  
+● Para crear la primera aplicación no olvide tener en cuenta lo siguiente:  
+● Identificar el tipo de aplicación.  
+● Una comprensión básica de la programación orientada a objetos y del lenguaje de programación Java.  
+● Una computadora con Windows, Linux, o una Mac.  
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar:  Documentos o imágenes.  
+o Formato: Un archivo RAR que contenga los documentos resultantes: en PDF, html, .apk.  
+o Extensión: libre.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+taller acerca de integración, tecnologías emergentes y disruptivas GA8-220501096-AA2-EV01.   
+  
+● Evidencia de producto: GA8 -220501096-AA2-EV02 - APK (de sarrollar módulos móvil según 
+requerimientos del proyecto)  
+En esta evidencia el aprendiz debe codificar los módulos del proyecto con base en los requerimientos del sistema 
+orientados a dispositivos móviles bajo la plataforma Android.   
+  
+Elementos a tener en cuenta:  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Se deben conocer los requerimientos del sistema.  
+● Conocer el funcionamiento de Android Estudio y su SDK.  
+● Se debe conocer el diagrama de clases.  
+● Se debe conocer el diagrama de paquetes.  
+● Se debe conocer el diagrama de componentes.  
+● Identificar las capas en donde se ubican los componentes.  
+● Conocer la metodología de desarrollo de software.  
+● Conocer el mapa de navegación de la aplicación.  
+● Codificar cada módulo en el lenguaje seleccionado.  
+● Manejar un repositorio de control de versiones (GIT, SVN, Otros)  
+● Determinar si el caso las librerías necesarias para la capa de presentación.  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Determinar si es el caso los frameworks a utilizar.  
+● Se recomienda dividir el módulo a desarrollar en componentes que pueden ser reutilizados.  
+● Aplicar la codificación siguiendo las buenas prácticas de escritura de código.  
+● Se recomienda dividir el código fuente de cada componente que corresponde a un módulo en paquetes 
+con nombres de fácil entendimiento.  
+● Aplicar los patrones de diseño de acuerdo con la arquitectura del software por componente.  
+● Se deben realizar las pruebas unitarias de cada módulo.  
+● Configuraciones de servidores y accesos a datos.  
+● Documentar los ambientes de desarrollo y pruebas.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar: código fuente, archivos compilados, documentos, url  
+o  Formato: archivo en formato RAR o ZIP que contenga los archivos resultantes: PDF, APK.  
+o  Extensión: libre.  
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al 
+espacio: APK (desarrollar módulos móvil según requerimientos del proyecto) GA8- 220501096-
+AA2-EV02.  
+  
+● Evidencia de conocimiento: GA8 -220501096-AA2-EV03 taller sobre tecnologías emergentes y 
+disruptivas  
+Esta evidencia se propone para el desarrollo de los aprendices los aspectos más importantes y que están 
+relacionados con el uso de las nuevas tecnologías denominadas emergentes y que se proponen como una ruptura 
+“brusca” con relación a lo que comúnmente ya se conoce.  
+  
+Elementos para tener en el desarrollo del taller:  
+ 
+Sección 1 Taller  
+ 
+Elabore una investigación corta usando los materiales disponibles en la biblioteca o internet acerca de las 
+siguientes tecnologías denominadas como emergentes y disruptivas.  
+● Internet de las cosas – El crecimiento de los aparatos inteligentes.  
+● Inteligencia artificial – Los softbots y el aprendizaje de las máquinas.  
+● Crowdsourcing – El poder de muchos.  
+● Voice to text – El crecimiento de los asistentes virtuales.  
+● Geolocation – Drones, Seguridad y Control ciudadano. 
+● Impresión 3D (3D Printing) – Uno en cada casa  
+● Blockchain – Cadena de bloques.  
+● Bases de conocimiento – Googles privados.  
+● Tecnologías emergentes o disruptivas en Robots (Hardware) –  Desde exos hasta manufactura 
+automatizada.  
+● Tecnologías Emergentes Visuales (3D, Virtual, Augmented, Hologramas?)  
+  
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Sección 2 Taller  
+  
+De la sección 1 seleccione 3 tecnologías que más le haya gustado y escriba las respuestas a las siguientes 
+preguntas.  
+● ¿En qué consiste la tecnología?  
+● ¿Cuáles son las características más importantes?  
+● De acuerdo a su medio ambiente ¿cómo se puede utilizar esta tecnología?  
+● ¿Qué recursos necesita para desarrollar un proyecto propio con estas tecnologías?  
+  
+Lineamientos generales para la entrega de la evidencia:  
+● Producto para entregar:  Documentos o imágenes.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+Taller sobre tecnologías emergentes y disruptivas GA8-220501096-AA2-EV03.  
+   
+● Evidencia de producto: GA8-220501096-AA2-EV04 video exposición sobre Machine Learning  
+En esta evidencia el aprendiz debe crear un vídeo exponiendo en 10 minutos acerca de la tecnología Machine 
+Learning. Normalmente, todo video pasa por 3 fases: preproducción, producción y postproducción.  En la primera 
+fase se realiza toda la planeación del mismo y se establece previamente el guion, las imágenes y el audio a utilizar.  
+En la fase de producción se realiza la grabación en sí del video. Y finalmente, en la fase postproducción se revisa 
+y se realizan los ajustes necesarios para que el video quede acorde con la temática establecida.  
+  
+Elementos a tener en cuenta para crear el video:  
+  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Contar con una herramienta de grabación de video. 
+● Explicar en qué consiste la tecnología (Machine Learning)  
+●  Explicar cuáles son los objetivos de esa tecnología.  
+● Explicar los antecedentes de esta tecnología.  
+● Explicar en qué consiste la inteligencia artificial.  
+● Explicar en qué consiste el modelo de inteligencia artificial orientado a la programación.  
+● Explicar en qué consiste el modelo de inteligencia artificial orientado a conexiones neuronales.  
+● Explicar ejemplos de productos realizados con inteligencia artificial.  
+● Explicar acerca de las consecuencias sociales, éticas y filosóficas de esta tecnología.  
+  
+ 
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar: Video 
+o Formato: MP4.  
+o Extensión: libre.  
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+video exposición sobre Machine Learning GA8-220501096-AA2-EV04.  
+  
+  
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia de producto: GA8-220501096-AA2-EV05 texto argumentativo sobre Blockchain  
+   
+En esta evidencia el aprendiz debe crear un texto argumentando mínimo en 3 páginas acerca de la tecnología 
+Blockchain. Es importante recordar que todo argumento tiene unos componentes mínimos que son: premisa y 
+conclusión. Se comienza presentando una afirm ación(premisa), para después presentar el razonamiento que 
+estará basado con información relevante que nos ayudará a evidenciar de forma lógica y formal nuestra postura.  
+  
+Elementos a tener en cuenta para crear el texto:  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Explicar en qué consiste la tecnología.  
+● Explicar cuáles son los objetivos de esa tecnología.  
+● Explicar los antecedentes de esta tecnología.  
+● Explicar en qué consiste la tecnología Blockchain.  
+● Explicar en qué consiste la criptografía.  
+● Explicar en qué consiste el hash en blockchain.  
+● Explicar en qué consiste el concepto de bloque.  
+● Explicar cómo se relacionan los bloques en una cadena de bloques.  
+● Realizar un gráfico acerca de cómo se ve una red de blockchain.  
+● Explicar qué productos se han realizado con esta tecnología.  
+● Explicar qué es una criptomoneda.  
+● Explicar en qué consiste la minería de criptomonedas.  
+  
+  
+Lineamientos generales para la entrega de la evidencia:  
+o Producto para entregar: Documento.  
+o Formato: Word.  
+o Extensión: libre.  
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio: 
+texto argumentativo sobre Blockchain. GA8-220501096-AA2-EV05.  
+ 
+ 3.2. Actividades de aprendizaje de la competencia: 220601501 - Aplicar prácticas de protección 
+ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la 
+normatividad vigente  
+Esta competencia posibilita aplicar prácticas de protección ambiental, seguridad y salud en el trabajo (SST) con 
+las políticas organizacionales y la normatividad vigente.  
+3.2.1 Actividad de aprendizaje GA8- 220601501-AA1- Identifica estrategias para la pre vención y control del 
+impacto ambiental, de los accidentes y enfermedades laborales en situaciones del escenario laboral  
+  
+Esta actividad se centra en identificar las estrategias para la reducción de la accidentalidad laboral y las 
+enfermedades de origen profesional en las empresas a través de los pilares jurídicos fundamentales que 
+establecen la obligación de prevención.   
+  
+Con ello se espera analizar las estrategias para el control de los impactos ambientales, accidentes y enfermedades 
+de acuerdo con los planes y programas establecidos por las organizaciones.  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Por consiguiente, se interpreta el contexto ambiental y se asocia a su entorno laboral acorde con la legislación y 
+normatividad vigente, además de los riesgos que se presentan en su ambiente de t rabajo según políticas de la 
+organización y el entorno laboral. Para finalmente, analizar los planes y programas de gestión ambiental y de 
+seguridad y salud en el trabajo.   
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Fundamentos de medio ambiente, seguridad y salud en el trabajo.”   
+  
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+● Evidencia de conocimiento: GA8-220601501-AA1-EV01 cuestionario sobre opciones de solución a 
+situaciones que se presentan en el contexto ambiental y del SST  
+  
+Como se mencionó anteriormente, de acuerdo a la estrategia didáctica de aprendizaje a través de estudio de casos 
+se resolverá un cuestionario que se emplea como técnica de evaluación a través del análisis de problemas o 
+situaciones cotidianas. Dichas preguntas pueden ser:   
+  
+− De carácter formativo, las cuales permiten determinar el nivel alcanzado de desarrollo de la competencia 
+durante la formación.  
+− De carácter evaluativo, que determinan el dominio y el nivel máximo alcanzado en la competencia.  
+  
+Recuerde previamente haber realizado la lectura del componente formativo antes de dar inicio a la solución de las 
+preguntas.   
+  
+Lineamientos para la entrega del producto:  
+● Para responder el cuestionario remítase al área de la actividad correspondiente y acceda al espacio para 
+el desarrollo de la evidencia: cuestionario sobre opciones de solución a situaciones que se presentan en 
+el contexto ambiental y del SST. GA8-220601501-AA1-EV01  
+  
+ 3.2.2 Actividad de aprendizaje GA8-220601501-AA2 - Reconoce el desarrollo de las acciones de control 
+de los impactos ambientales, disminución de accidentes y enfermedades laborales  
+  
+Esta actividad se centra en reconocer el desarrollo de las acciones de control de los impactos ambientales, 
+disminución de accidentes y enfermedades laborales. Con ello se espera implementar estrategias para el control 
+de los impactos ambientales, de los accidentes y enfermedades de acuerdo con los planes y programas 
+establecidos por la organización.  
+  
+Duración: 12 horas.  
+  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Legislación en medio ambiente, seguridad y salud en el trabajo.”   
+  
+  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad 
+de aprendizaje:       
+  
+● Evidencia de producto: GA8-220601501-AA2-EV01 presentación sobre las estrategias para la 
+prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL)   
+  
+Continuando con la estrategia didáctica de aprendizaje a través de estudio de casos en su fase de determinación 
+de un método de análisis se desarrollará por parte del aprendiz una presentación sobre las estrategias para la 
+prevención y control de los impactos ambientales, accidentes y enfermedades laborales (ATEL). En los 
+documentos del programa se enc uentra el anexo “ Presentacion_220601501” donde se describen cada uno de 
+los pasos y aspectos fundamentales para su construcción.   
+  
+Lineamientos para la entrega del producto:  
+● Producto específico a entregar: presentación en Power Point o cualquier software para este mismo fin, 
+debe contener la siguiente estructura: título, cuerpo y conclusión.  
+● Formato: PDF.   
+● Extensión: diez a quince diapositivas.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: presentación sobre las estrategias para la prevención y control de los 
+impactos ambientales, accidentes y enfermedades laborales (ATEL) GA8- 220601501-AA2-EV01.   
+  
+3.2.3 Actividad de aprendizaje GA8-220601501-AA3 - Plantea acciones para orientar al equipo de trabajo 
+en los planes o programas ambientales y de SST  
+  
+Esta actividad se centra en plantear acciones para orientar al equipo de trabajo en los planes o programas 
+ambientales y de SST. Con ello se espera realizar seguimiento y acompañamiento al desarrollo de los mismos. De 
+esta forma se participa en la implementación de acciones coordinadas para el monitoreo de planes, programas 
+ambientales y de SST según su área de desempeño.  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+Duración: 12 horas.  
+  
+   
+Materiales de formación a consultar:  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Legislación en medio ambiente, seguridad y salud en el trabajo.”  
+  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad 
+de aprendizaje:       
+● Evidencia de conocimiento: GA8-220601501-AA3-EV01 mapa mental respecto a los planes y 
+acciones establecidos en medio ambiente y SST  
+  
+En cuanto a la estrategia didáctica de aprendizaje a través de estudio de casos en su fase de adquirir agilidad en 
+determinar alternativas de acción, se desarrollará por parte del aprendiz un mapa mental respecto a los planes y 
+acciones establecidos en medio ambiente y SST. En los documentos del programa se enc uentra el anexo 
+“Mapa_mental_220601501” donde se describen cada uno de los pasos y aspectos fundamentales para su 
+construcción.   
+  
+Adicionalmente, tenga en cuenta los siguientes aspectos:   
+− El título se refiere a la idea central del trabajo acerca de “planes y acciones”. Debe ir acompañado de una 
+imagen que cause impacto.   
+− Los subtemas sugeridos son planes y acciones en medio ambiente y en SST.  
+− Puede desglosar ramificaciones las veces que necesite, pero recuerde que la idea es simplificar lo más que 
+pueda el contenido.   
+  
+Lineamientos para la entrega del producto:  
+▪ Producto a entregar: un mapa mental con los planes y acciones en SST.  
+▪ Formato: si el mapa mental se gestiona manualmente, digitalizar con extensión PDF. Si se usa herramienta 
+digital, exportar a PDF. Dentro del mapa mental en la parte inferior derecha debe colocar sus datos 
+personales.   
+▪ Extensión: 1 hoja.  
+▪ Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: mapa mental respecto a los planes y acciones establecidos en medio ambiente 
+y SST GA8-220601501-AA3-EV01.  
+ 
+3.2.4 Actividad de aprendizaje GA8-220601501-AA4- Plantea propuestas para favorecer la cultura 
+ambiental responsable, el desarrollo sustentable y el autocuidado  
+  
+Esta actividad se centra en plantear propuestas para favorecer la cultura ambiental responsable, el desarrollo 
+sustentable y el autocuidado. Con ello se espera proponer acciones de mejora para el manejo ambiental y el control 
+de la SST, de acuerdo con estrategias de trabajo colaborativo, cooperativo y coordinado en el contexto productivo 
+con la integración de los diferentes actores relacionados.  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Legislación en medio ambiente, seguridad y salud en el trabajo.”  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforma la actividad 
+de aprendizaje:       
+● Evidencia de producto: GA8-220601501-AA4-EV01 video expositivo sobre oportunidades de 
+mejora en medio ambiente y SST  
+  
+En cuanto a la estrategia didáctica de aprendizaje a través de estudio de casos en su fase final de tomar decisiones 
+se desarrollará un video expositivo sobre oportunidades de mejora en medio ambiente y SST de su residencia, 
+lugar de trabajo o localidad. En los documentos del programa se encuentra el anexo 
+“Video_expositivo_220601501” donde se describen cada uno de los pasos y aspectos fundamentales para su 
+construcción.   
+  
+Lineamientos para la entrega del producto:  
+● Producto a entregar: video expositivo.   
+● Forma de presentación:   
+o El video - exposición debe ser creativo, dinámico e innovador.  
+o El tiempo del video - exposición estará enmarcado entre los 3 a 7 minutos.   
+o Debe contener mínimo 10 oportunidades de mejora que involucren aspectos relacionados con el medio 
+ambiente y SST.   
+o Se sugiere acompañarlo de imágenes reales.  
+o El video-exposición se debe cargar en el canal de YouTube del aprendiz y compartir en la evidencia la 
+URL del sitio a donde se subió.   
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: video expositivo sobre oportunidades de mejora en medio ambiente y SST 
+GA8220601501-AA4-EV01.   
+ 
+ 
+4. ACTIVIDADES DE EVALUACIÓN  
+  
+Evidencias de aprendizaje  Criterios de evaluación  Técnicas e instrumentos de evaluación  
+Evidencias de desempeño:   
+Desarrollar software a partir de la 
+integración de sus módulos 
+componentes.  
+GA8-220501096-AA1-EV01  
+  
+Evidencia de producto:   
+Módulos integrados.  
+GA8-220501096-AA1-EV02  
+Integra los módulos del software de 
+acuerdo con los propósitos del sistema.  
+IE-GA8-220501096-AA1-EV01  
+Lista de chequeo  
+  
+  
+IE-GA8-220501096-AA1-EV02  
+Lista de chequeo  
+Evidencias de conocimiento:   
+Taller acerca de integración, 
+tecnologías emergentes y 
+disruptivas.   
+GA8-220501096-AA2-EV01  
+ 
+Evidencia de producto:   
+Incorpora tecnologías emergentes y 
+disruptivas de acuerdo con los 
+propósitos del software.  
+IE-GA8-220501096-AA2-EV01  
+Lista de chequeo  
+  
+  
+IE-GA8-220501096-AA2-EV02  
+Lista de chequeo  
+ 
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+APK (desarrollar módulos móvil 
+según requerimientos del 
+proyecto).  
+GA8-220501096-AA2-EV02 
+  
+Evidencias de conocimiento:   
+Taller  sobre  tecnologías 
+emergentes y disruptivas.  
+GA8-220501096-AA2-EV03  
+  
+Evidencia de producto:   
+Video exposición sobre Machine 
+learning.  
+GA8-220501096-AA2-EV04   
+  
+Evidencia de producto:   
+ Texto  argumentativo  sobre  
+Blockchain.   
+GA8-220501096-AA2-EV05 
+IE-GA8-220501096-AA2-EV03  
+Lista de chequeo  
+  
+  
+  
+IE-GA8-220501096-AA2-EV04  
+Lista de chequeo  
+  
+  
+  
+IE-GA8-220501096-AA2-EV05  
+Lista de chequeo  
+  
+ 
+Evidencia de conocimiento:  
+Cuestionario sobre opciones de 
+solución a situaciones que se 
+presentan en el contexto ambiental 
+y del SST.  
+GA8-220601501-AA1-EV01  
+Interpreta el contexto ambiental y de 
+SST, asociado a su entorno laboral y 
+social acorde con la legislación y 
+normatividad vigente.  
+  
+Relaciona la legislación y normatividad 
+vigente sobre medio ambiente y SST con 
+los aspectos e impactos ambientales, y 
+riesgos que se presentan en su ambiente 
+de trabajo según políticas de la 
+organización y el entorno laboral.  
+IE-GA8-220601501-AA1-EV01  
+Cuestionario  
+Evidencia de producto:  
+Presentación sobre las estrategias 
+para la prevención y control de los 
+impactos ambientales, accidentes 
+y enfermedades laborales (ATEL).   
+GA8-220601501-AA2-EV01  
+Analiza los planes y programas de 
+gestión ambiental y de SST para la 
+aplicación de los contro les de impacto 
+ambiental establecidos por la 
+organización.  
+IE-GA8-220601501-AA2-EV01  
+Lista de chequeo  
+Evidencia de conocimiento: Mapa 
+mental respecto a los planes y 
+acciones establecidos en medio 
+ambiente y SST.   
+GA8-220601501-AA3-EV01  
+Participa en el desarrollo de acciones 
+orientadas al control de los impactos 
+ambientales y la disminución de 
+accidentes y enfermedades laborales de 
+acuerdo con los planes y programas 
+establecidos por la organización.   
+  
+Determina acciones para orientar a su 
+equipo de trabajo en los planes y 
+programas ambientales y de SST según 
+políticas de la organización.  
+IE-GA8-220601501-AA3-EV01  
+Rúbrica de evaluación  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de producto:  
+Video  expositivo  sobre 
+oportunidades de mejora en medio 
+ambiente y SST.   
+GA8-220601501-AA4-EV01  
+Implementa acciones coordinadas para 
+el monitoreo de los planes y programas 
+ambientales y de SST según su área de 
+desempeño.  
+   
+Fomenta la cultura ambiental 
+responsable, el desarrollo sustentable y 
+el autocuidado en su contexto social y 
+productivo de acuerdo con la integración 
+de los diferentes actores relacionados.  
+IE-GA8-220601501-AA4-EV01  
+Rúbrica de evaluación  
+  
+5. GLOSARIO   
+  
+Acción de mejora: actuación de optimización al Sistema de Gestión de la Seguridad y Salud en el Trabajo para 
+lograr mejoras, tanto en el desempeño de la organización sobre aspectos de seguridad y la salud como en el 
+trabajo, de forma coherente con su política.  
+  
+Algoritmo: un algoritmo es una secuencia lógica y finita de pasos que permite solucionar un problema o cumplir 
+con un objetivo.  
+  
+Los algoritmos deben ser precisos e indicar el orden lógico de realización de cada uno de los pasos, debe ser 
+definido y esto quiere decir que si se ejecuta un algoritmo varias veces se debe obtener siempre el mismo resultado, 
+también debe ser finito o sea debe iniciar con una acción y terminar con un resultado o solución de un problema  
+  
+Alta dirección: persona o grupo de personas que dirigen y controlan una empresa.  
+  
+Amenaza: peligro latente de que un evento físico de origen natural, o causado, o inducido por la acción humana 
+de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros 
+impactos en la salud, así como daños y pér didas en los bienes, la infraestructura, los medios de sustento, la 
+prestación de servicios y los recursos ambientales.  
+  
+Biomas: es área biótica o paisaje bioclimático. Se denomina a una región de la superficie de la tierra que presenta 
+uniformidades en cuanto al clima, la flora y la fauna, constituyendo así una zona identificable a partir del tipo y la 
+variedad de ecosistemas que es posible hallar en ella.  
+  
+Diagnóstico de condiciones de Salud : resultado del procedimiento sistemático para determinar “el  conjunto de 
+variables objetivas de orden fisiológico, psicológico y sociocultural que determina el perfil sociodemográfico y de 
+morbilidad de la población trabajadora” (adaptada de la Decisión 584 de la comunidad Andina de Naciones.  
+  
+Emergencia: situación de peligro o su inminencia, que afecta el funcionamiento normal de la empresa. Requiere 
+de una reacción inmediata y coordinada de los trabajadores, brigadas de emergencias y primeros auxilios; en 
+algunos casos, de otros grupos de apoyo dependiendo de su magnitud  
+  
+Elemento de protección personal: dispositivo que sirve como barrera entre un peligro y alguna parte del cuerpo.  
+  
+Enfermedad: condición física o mental adversa identificable, que surge, empeora o ambas, a causa de la actividad 
+laboral, una situación relacionada con el trabajo o ambas (NTC3701)  
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Evaluación Higiénica: medición de los peligros ambientales presentes en el lugar de trabajo para determinar la 
+exposición ocupacional y riesgo para la salud, en comparación con los valores fijados por la autoridad componente.  
+  
+Lugar de trabajo: espacio físico en el que se realizan actividades relacionadas con el trabajo, bajo el control de la 
+organización.  
+  
+Matriz legal: compilación de requisitos normativos exigibles a la empresa, acorde con las ac tividades propias e 
+inherentes de su actividad productiva, los cuales dan los lineamientos normativos y técnicos para desarrollar el 
+Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), el cual deberá actualizarse en la medida que 
+sean emitidas nuevas disposiciones aplicables.  
+  
+Mejora continua: Proceso recurrente de optimización al Sistema de Gestión de la Seguridad y Salud en el Trabajo, 
+para lograr mejoras en el desempeño dentro de este campo, de forma coherente con la política de Seguridad y 
+Salud en el Trabajo (SST) de la organización.  
+  
+Morbilidad: cantidad de personas que enferman en un lugar y un período de tiempo determinados en relación con 
+el total de la población.   
+  
+Política de seguridad y salud en el trabajo: compromiso de la alta dirección de una organización con la seguridad 
+y la salud en el trabajo, expresadas formalmente mediante la definición de su alcance y que responsabiliza a toda 
+la organización.  
+  
+Proporción: es la relación de igualdad entre dos razones matemáticas, o la comparación entre dos razones 
+matemáticas.  
+  
+Razón: es una razón binaria entre magnitudes, se expresa como a es a b, o a: b, numéricamente una razón se 
+puede expresar como una fracción o un decimal  
+  
+Sistema de gestión de la seguridad y salud en el trabajo : consiste en el desarrollo de un proceso lógico y por 
+etapas, basado en la mejora continua; incluye la política, la organización, la planificación, la aplicación, la 
+evaluación, la auditorí a y las acciones de mejora, con el objetivo de anticipar, reconocer, evaluar y controlar los 
+riesgos que puedan afectar la seguridad y la salud en el trabajo   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+6. REFERENTES BIBLIOGRÁFICOS  
+  
+Arenzana, D. (2016). Principios de usabilidad web de Jakob Nielsen: diseño UX 
+https://es.semrush.com/blog/usabilidad-web-principios-jakob-nielsen/   
+  
+Argoshub, (2021). 10 Tecnologías emergentes o disruptivas a observar en 2021.  
+  https://www.argoshub.com/10-tecnologias-emergentes-o-disruptivas-a-observar-en-2021/   
+  
+Avison, D. and G. Fitzgerald, (1995). Information Systems Devel opment: Methodologies, Techniques, and Tools. 
+McGraw-Hill.  
+  
+Fetecua, A. (2021). ¿Qué Es Un Mapa De Navegación Web? ¡Lo Que Debes Saber!  
+ https://designplus.co/blog/diseno-web/que-es-un-mapa-de-navegacion-web/  Guerrero, J., Zúñiga, K., 
+Certuche, C. & Pardo, C. (2019). What is there about DevOps? XIV Jornadas Iberoamericanas de 
+ingeniería de Software e Ingeniería del Conocimiento (JIISIC’2019).   
+  
+Lwakatare, L. E., Kuvaja, P. & Oivo, M. (2015). Dimensions of DevOps . Lecture Notes in Business Information 
+Processing. 212–217. https://doi.org/10.1007/978-3-319-18612-2_19   
+  
+Pressman, R. (2010). Ingeniería del software, un enfoque práctico (Séptima edición). Bogotá: McGraw -Hill.  
+  
+Norma Técnica Colombiana NTC 3701 (2015). Higiene y seguridad. Guía para la clasificación, registro y 
+estadística de accidentes del trabajo y enfermedades profesionales. ICONTEC. https://e-collectionicontec-
+org.bdigital.sena.edu.co/normavw.aspx?ID=2773   
+  
+Vaati, E. (2020). La aplicación Android más simple: "Hola mundo".  
+  https://code.tutsplus.com/es/tutorials/the-simplest-android-app-hello-world--cms-35175   
+  
+  
+  
+7. CONTROL DEL DOCUMENTO  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor( 
+es)  
+Ligia  Marcela  
+Arévalo Guio  
+Experto disciplinar.  Centro de Gestión Industrial - Regional  
+Distrito Capital.  
+Noviembre 
+2020  
+Nidya  Solórzano 
+Ochoa  
+Experto disciplinar.  Centro de Gestión Industrial Regional  
+Distrito Capital.  
+Noviembre 
+2020  
+Germán  Leonel  
+Sarmiento Cruz  
+Experto disciplinar.  Centro de Gestión Industrial Regional  
+Distrito Capital.  
+Noviembre 
+2020  
+Natalia  Andrea  
+Bueno Pizarro  
+Evaluador  
+Instruccional  
+Centro para la Industria de la 
+Comunicación Gráfica  
+Noviembre 
+2020  
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Carlos Hernán 
+Muñoz Carvajal  
+Experto  
+temático  
+  
+Centro de Teleinformática y Producción 
+Industrial – Regional Cauca  
+Diciembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  
+Regional Distrito Capital - Centro para la 
+Industria de la Comunicación Gráfica  
+Diciembre 
+2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Asesora 
+metodológica 
+Centro de diseño y metrología. Regional  
+Distrito Capital.  
+Febrero de 
+2022  
+Rafael  Neftalí  
+Lizcano Reyes  
+Responsable del 
+equipo de desarrollo 
+curricular  
+Centro  Industrial  del  Diseño  y 
+ la  
+Manufactura. Regional Santander.  
+Febrero de 
+2022  
+Sandra Patricia 
+Hoyos Sepúlveda  Corrección de estilo  Centro de Diseño y Metrología - Distrito capital  febrero 2021  
+  
+  
+ 
+ 
+ 
+8. CONTROL DE CAMBIOS   
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del cambio  
+Autor (es)            
+  
+  

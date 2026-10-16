@@ -1,0 +1,934 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. Identificación de la guía de aprendizaje   
+● Denominación del programa de formación: análisis y desarrollo de software.   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: ejecución.   
+● Actividad de proyecto: Codificar los módulos del software  
+● Competencias:  
+Técnicas:  
+220501096 - Desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.  
+Transversal:   
+240201526 - Interactuar en el contexto productivo y social de acuerdo con principios éticos para la 
+construcción de una cultura de paz.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501096-05 - Realizar pruebas al software para verificar su funcionalidad.  
+  
+Transversal:  
+240201526-01 - Promover mi dignidad y la del otro a partir de los principios y valores éticos como aporte 
+en la instauración de una cultura de paz.  
+240201526-02 - Establecer relaciones de crecimiento personal y comunitario a partir del bien común como 
+aporte para el desarrollo social.  
+240201526-03 - Promover el uso racional de los recursos naturales a partir de criterios de sostenibilidad y 
+sustentabilidad ética y normativa vigente.  
+240201526-04 - Contribuir con el fortalecimiento de la cultura de paz a partir de la dignidad humana y las 
+estrategias para la transformación de conflictos.  
+  
+● Duración de la guía: 126 horas  
+Técnico: 78 horas.   
+Transversal: 48 horas  
+  
+2. Presentación  
+  
+Estimado aprendiz, el SENA le extiende una cordial bienvenida a la novena guía de aprendizaje, que comprende 
+la competencia técnica de: desarrollar la solución de software de acuerdo con el diseño y metodologías de 
+desarrollo.  Avison y Fitzgerald (1995) afirman que una metodología es una serie de procedimientos y 
+herramientas que ayudan a los desarrolladores a implementar nuevos sistemas de información, y están formados 
+por fases que guían a los desarrolladores a elegir las técnicas más apropiadas en cada momento del proyecto.  
+  
+Por otra parte, establecer relaciones de crecimiento personal y comunitario a partir del bien común y como aporte 
+para el desarrollo social y, sobre todo, para la construcción de una cultura de paz, es un reto necesario y muy 
+importante para Colombia en el momento actual. Las relaciones interpersonales constituyen en el mundo de hoy 
+una habilidad necesaria para el desempeño profesional de los aprendices y un aporte a la construcción de una 
+sociedad más pacífica y solidaria.  
+  
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Las actividades de aprendizaje están basadas en la estrategia didáctica de aprendizaje a través de estudio de 
+casos, la cual permite representar circunstancias de la vida real para hallar posibles soluciones que se puedan 
+presentar en el contexto laboral o personal.  
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa, los cuales de forma continua y permanente lo orientarán con las pautas necesarias para 
+el logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es impor tante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le per mitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado, se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de ejecución del proyecto formativo: construcción de software integrador de tecnologías orientadas a servicios.  
+ 
+3.1. Actividades de apre ndizaje de la competencia 220501096 - Desarrollar la solución de software de 
+acuerdo con el diseño y metodologías de desarrollo.  
+ 
+Las pruebas de software representan una parte fundamental en el desarrollo de los sistemas de información, ya 
+que son el conj unto de procesos encaminados a encontrar posibles fallos de funcionamiento, usabilidad o 
+configuración de un programa o aplicación; conocidas como “software testing”, son la actividad de control de calidad 
+más realizada en los proyectos de desarrollo de software.  
+3.1.1 Actividad de aprendizaje GA9-220501096-AA1- Realizar plan de pruebas.  
+ 
+Esta actividad se centra en la realización de una de las fases claves de todo desarrollo de software: el proceso de 
+pruebas en el que se verifica la funcionalidad del software desarrollado.   
+Duración: 16 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Las pruebas de software”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+ 
+● Evidencia de conocimiento: GA9 -220501096-AA1-EV01 taller sobre codificación de módulos del 
+software.   
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Una solución de software es un conjunto de elementos enfocados al tratamiento y administración de datos e 
+información, estos deben estar organizados y listos para cumplir sus objetivos. Teniendo en cuenta el componente 
+formativo “las pruebas de software” y profundizando con otras  fuentes, realice el siguiente taller con base en las 
+preguntas orientadoras:  
+  
+Elementos a tener en cuenta en el taller:  
+● ¿Qué tipos de pruebas de software existen? Explique sus características y beneficios.  
+● Según la consulta que realizó, ¿qué tipos de pruebas se adaptan mejor al proyecto de software que está 
+desarrollando?  
+● Investigue e instale unas herramientas de pruebas de software en su computador, “una de su gusto”.  
+● Con la herramienta instalada, realice  unas pruebas básicas de su solución de software, tome capturas de 
+pantalla del proceso y anéxelas al trabajo.  
+● Elabore un resumen de las pruebas que realizó.   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir, el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: Taller pruebas de software (documento con la respuesta a las preguntas 
+orientadoras)  
+● Formato: PDF  
+● Extensión: 3 hojas mínimo de contenido  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: taller sobre codificación de módulos del software GA9-220501096-AA1EV01.   
+  
+● Evidencia de desempeño: GA9-220501096-AA1-EV02 realiza plan pruebas de software   
+  
+Las pruebas de software son el proceso por cual se evalúa la funcionalidad de un programa o aplicación, esto con 
+el fin de identificar posibles errores y asegurar que la aplicación cumple los objetivos esperados. Antes de iniciar el 
+proceso de pruebas, es importante realizar un plan o cronograma de pruebas, en el cual  se definen los objetivos 
+de las mismas, se establecen y coordinan  estrategias de trabajo y se dicta un lineamiento adecuado para elaborar 
+una planificación paso a paso de las actividades de prueba.  
+  
+Para realizar la presente guía, hay que revisar el componente formativo “Las pruebas de software” y profundizar 
+con material complementario.   
+ 
+Elementos a tener en cuenta:  
+Realizar el plan de pruebas de software teniendo en cuenta las siguientes recomendaciones:  
+● Analizar los requerimientos de software.  
+● Identificar las funcionalidades existentes.  
+● Identificar las funcionalidades nuevas a probar.  
+● Definir una estrategia y criterios para realizar las pruebas.  
+● Identificar los entornos de trabajo requeridos “software y hardware”.  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Establecer metodologías, procedimientos, cronograma y planificación de las pruebas.  
+● Entregar el diseño de los artefactos o instrumentos para llevar el registro de las pruebas.  
+● Seleccionar las posibles utilidades o herramientas para implementar las pruebas.  
+● Identificar riesgos y contingencias.   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir, el documento 
+debe tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: Plan de pruebas de software   
+● Formato: PDF  
+● Extensión: mínimo 4 hojas de contenido  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: realiza plan pruebas de software GA9-220501096-AA1-EV02.  
+  
+3.1.2 Actividad de aprendizaje GA9-220501096-AA2- Definir casos y ambiente de prueba  
+ 
+Un caso de prueba es una condición o variable previamente establecida para determinar si una solución de 
+software cumple con una función de manera adecuada; mientras que los ambientes de prueba describen el espacio 
+donde se ejecutará el software, por ejemplo, sistemas operativos, bases de datos y tipos de hardware.  
+ 
+Duración: 30 horas  
+Materiales de formación a consultar : para el desarrollo de esta actividad, es importante la lectura y el análisis 
+del material de formación: " Las pruebas de software”  
+Evidencias: a continuación, se describen las acciones y las correspondientes evidencias que conforman la 
+actividad de aprendizaje:  
+● Evidencia de desempeño: GA9-220501096-AA2-EV01 diseña casos y define el ambiente de pruebas 
+de software según proyecto.  
+  
+En esta etapa, se deben diseñar los casos de prueba de la solución de software y se debe definir el entorno en el 
+que se van a ejecutar; claro está que se pueden diseñar los casos de prueba y probarlos en varios entornos, para 
+obtener unas pruebas más completas; el objetivo es encontrar el mayor número de errores con la mínima cantidad 
+de esfuerzo y tiempo posible.  
+Revisar el componente formativo: “Las pruebas de software” y material complementario.  
+Diseñe los formatos o artefactos de los casos de prueba de la solución de software teniendo en cuenta la siguiente 
+estructura:  
+● Nombre del proyecto: Nombre de la solución de software.  
+● Nombre del caso de prueba:  
+● Fecha de revisión: Fecha en la que se realizaron las pruebas.  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Descripción del caso de prueba: Tipo de prueba que se ejecutará, cómo se hará y con qué fin se realiza la 
+prueba.  
+● Ambiente o entorno de prueba: Versión web o de escritorio, sistemas operativos, navegadores, servidores, 
+etc.  
+● Herramienta utilizada: Por ejemplo, WebLoad, Jmeter,  LoadRuner, Selenium, Testim  
+● Autor del caso de prueba: Nombre del encargado de realizar el caso de prueba.  
+● Número de caso: Este debe ser consecutivo 001, 002, etc.  
+● Salida esperada: Resultado esperado según los requerimientos iniciales.  
+● Salida obtenida: Resultados obtenidos.  
+● Resultado: Aprobado/En seguimiento/Rechazado.  
+● Seguimiento: Código de la acción donde el resultado no fue el esperado, si se encontró.  
+● Severidad: El grado de la falla: alto/medio/bajo, si se encontró.  
+● Evidencia: Soporte de que los resultados son correctos.  
+● Firma de aprobación: Nombre y firma del analista que realizó la prueba.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: Formato de casos de pruebas  
+● Formato: Excel XLS  
+● Extensión: Libre   
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia:  diseña casos y define el ambiente de pruebas de software según 
+proyecto GA9-220501096-AA2-EV01.  
+  
+3.1.3 Actividad de aprendizaje GA9-220501096-AA3- Documentar y realizar pruebas.  
+  
+En esta actividad, se ejecutarán las pruebas de la solución de software y se llevará un registro detallado del proceso 
+con los instrumentos anteriormente diseñados.  
+  
+Duración: 32 horas.  
+  
+Materiales de formación: Para el desarrollo de esta actividad, es importante la lectura y el análisis del componente 
+formativo: “Las pruebas de software”.  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondie ntes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencias de desempeño: GA9-220501096-AA3-EV01 documenta pruebas de software de acuerdo 
+con la planificación.   
+En esta evidencia, se deben ejecutar y documentar todas las pruebas que se realiz an a la solución de software 
+con los formatos previamente establecidos.  
+  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para realizar esta actividad, se debe consultar el componente formativo “Las pruebas de software” y material 
+complementario.  
+  
+Elementos a tener en cuenta en el documento de requisitos:  
+● Realizar una grabación de la pantalla de la ejecución de las pruebas de software ejecutadas.  
+● Diligenciar los formatos de seguimiento de las pruebas realizadas.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir, el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+ 
+Lineamientos para la entrega del producto:   
+● Producto para entregar: Video de las pruebas realizadas y formatos de pruebas diligenciados  
+● Formato: video formato libre, trabajo con formatos de seguimiento en PDF   
+● Extensión: Libre  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: documenta pruebas de software de acuerdo con la planificación                    GA9-
+220501096-AA3-EV01.  
+  
+● Evidencias de producto: GA9-220501096-AA3-EV02 reporte de plan de pruebas ejecutadas.   
+En este reporte, se presenta la evidencia o consolidado de los resultados de las pruebas aplicadas a la solución 
+de software, con el fin de llevar una trazabilidad del comportamiento del software y proceder a realizar las 
+respectivas acciones correctivas.  
+Para realizar esta actividad, se debe consultar el componente formativo  “Las pruebas de software” y material 
+complementario.  
+       
+Elementos para tener en cuenta en la actividad:  
+● Presentar el reporte del plan de pruebas realizadas para mantener la trazabilidad en el comportamiento 
+del software.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir, el documento 
+debe tener como mínimo una portada, introducción y conclusiones.  
+                                             
+Lineamientos para la entrega del producto:   
+ 
+● Producto para entregar: Reporte del plan de pruebas ejecutadas   
+● Formato: PDF   
+● Extensión: Libre  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: reporte de plan de pruebas ejecutados- GA9-220501096-AA3-EV02.  
+ 
+3.2. Actividades de aprendizaje de la competencia: 240201 526- Interactuar en el contexto productivo y 
+social de acuerdo con principios éticos para la construcción de una cultura de paz.  
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Establecer relaciones de crecimiento personal y comunitario a partir del bien común y como aporte para el 
+desarrollo social y, sobre todo, para la construcción de una cultura de paz es un reto necesario y muy importante 
+para Colombia en el momento actual. Las relaciones interpersonales constituyen en el mundo de hoy una habilidad 
+necesaria para el desempeño profesional de los apr endices y un aporte a la construcción de una sociedad más 
+pacífica y solidaria.  
+  
+Esta construcción de la cultura de paz comienza entonces desde el reconocimiento de su propia dignidad y de la 
+dignidad de los otros, como seres humanos, y así avanzar en el  respeto a la diferencia, la construcción colectiva 
+de acuerdos, la convivencia, la equidad, el aprendizaje para la resolución pacífica de conflictos, entre otras 
+habilidades importantes en el contexto productivo y social del siglo XXI. Se deben reconocer dos aspectos claves 
+en el fortalecimiento de una cultura de paz: por una parte, asumir el conflicto como parte de las dinámicas de las 
+relaciones personales, y por otra, el aprendizaje y aplicación de estrategias de transformación de los conflictos.  
+  
+3.2.1 Actividad de aprendizaje GA9-240201526-AA1- Reconocer el impacto de las acciones humanas sobre 
+sí mismo y el entorno, dándoles un criterio de valor.  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el  
+componente formativo: Ser individuo. Esta actividad consiste en realizar una reflexión personal sobre la lectura 
+de un texto que describe la historia de una joven que lucha por los derechos de la educación en el país de ella. El 
+objetivo es promover mi di gnidad y la del otro a partir de los principios y valores éticos como aporte en la 
+instauración de una cultura de paz.    
+  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Ser individuo”.   
+  
+Evidencias:  
+  
+A continuación, se describe la secuencia de acciones y las correspondientes evidencias que conforman la actividad 
+de aprendizaje:  
+  
+ ●  Evidencia de conocimiento: GA9-240201526-AA1-EV01 taller de reflexión escrita. Caso Malala   
+  
+A continuación, se describen la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “Caso_Malala-240201526-AA1-EV01”.  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: documento con taller de reflexión elaborado. Recuerde incluir portada, conservar 
+un adecuado manejo del lenguaje, uso de los términos, organización de ideas y bibliografía. Para mayor 
+información, revise la rúbrica de evaluación de la evidencia.   
+● Formato: PDF.  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: taller de reflexión escrita. Caso Malala GA9-240201526-AA1-EV01.  
+  
+3.2.2 Actividad de aprendizaje GA9 -240201526-AA2 - Diseñar y definir su proyecto de vida, aplicando 
+técnicas de PNL.  
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Esta actividad consiste en identificar y reflexionar sobre su entorno familiar y su realidad social, reconocer sus 
+necesidades en relación con las acciones que debe realizar en su futuro, en lo que tiene que ver con sus estudios 
+profesionales y laborales; reconocer cuáles son sus valores y cuáles sus sentimientos en comparación con esos 
+valores que orientarán sus acciones con un proyecto a nivel individual, familiar, comunitario y ambiental. El objetivo 
+es promover mi dignidad y la del otro a partir de los principios y valores éticos como aporte en la instauración de 
+una cultura de paz.    
+  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar: Para desarrollar esta actividad adecuadamente, se recomienda revisar los 
+contenidos presentados en el componente: “Ser individuo”.   
+  
+  
+Evidencias:  
+  
+● Evidencia de producto: GA9-240201526-AA2-EV01 video presentación. Proyecto de vida.   
+  
+A continuación, se describe la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “Video_proy_vida-240201526-AA2-EV01”.  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: documento con proyecto de vida elaborado de acuerdo con el anexo 
+● Formato: PDF.   
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: video presentación. Proyecto de vida GA9-240201526-AA2-EV01.      
+  
+3.2.3 Actividad de aprendizaje GA9-240201526-AA3 - Reconocer los conceptos sobre la vida en comunidad 
+teniendo como base las relaciones con el contexto social.  
+  
+Esta actividad consiste en realizar un análisis e interpretación de la relación del individuo con el entorno. El objetivo 
+es establecer relaciones de crecimiento personal y comunitario a partir del bien común como aporte para el 
+desarrollo social.   
+  
+Duración: 8 horas.  
+  
+Materiales de formación a consultar:  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Soy un ser social”.  
+ 
+Evidencias:  
+  
+● Evidencia de desempeño: GA9-240201526-AA3-EV01 diagrama de sistemas. Relación del individuo 
+con el entorno.   
+  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+A continuación, se describe la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “ Diagrama-240201526-AA3-EV01”, que presenta una guía para la 
+elaboración del diagrama de sistemas Relación del individuo con el entorno.  
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: documento con el diagrama elaborado y las preguntas respondidas.   
+● Formato: Documento en PDF.  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: diagrama de sistemas. Relación del individuo con el entorno 
+GA9240201526-AA3-EV01.   
+  
+3.2.4 Actividad de aprendizaje GA9-240201526-AA4- Proponer estrategias para promover el uso racional de 
+los recursos teniendo como base los Objetivos de Desarrollo Sostenible (ODS).  
+  
+Esta actividad consiste en realizar una reflexión, la cual establece un marco para crear empresas sostenib les, 
+basándose en tres elementos principales: el elemento social, el ambiental y el económico. El objetivo es promover 
+el uso racional de los recursos naturales a partir de criterios de sostenibilidad y sustentabilidad ética y normativa 
+vigente.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación a consultar  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Entendiendo mi mundo”.  
+Evidencias:  
+  
+● Evidencia de producto: GA9 -240201526-AA4-EV01 ejemplo de una marca sostenible que cumpla 
+con Triple Bottom Line.   
+  
+A continuación, se describe la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “ Triple_botton_line-240201526-AA4-EV01”, que presenta el 
+ejemplo de una marca sostenible que cumple con TRIPLE BOTTOM LINE.  
+  
+ 
+ 
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: documento con el ejemplo de una marca sostenible que cumple con el Triple 
+Bottom Line.   
+● Formato: Documento en PDF.  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: ejemplo de una marca sostenible que cumple con Triple Bottom Line 
+GA9-240201526-AA4-EV01.  
+  
+3.2.5 Actividad de aprendizaje GA9-240201526-AA5 -Reconocer los hechos históricos más representativos 
+en la historia de Colombia que están marcados por la violencia y los acuerdos de paz  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Esta actividad consiste en un mapa mental reflexivo sobre los principales hitos del conflicto armado en Colombia. 
+El objetivo es reconocer los hechos históricos más representativos en la historia de Colombia que están marcados 
+por la violencia y los acuerdos de paz.  
+  
+Duración: 6 horas.  
+  
+Materiales de formación a consultar  
+  
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Ser agente de cambio”.  
+  
+Evidencias:  
+  
+● Evidencia de desempeño: GA9 -240201526-AA5-EV01 mapa mental. Hitos del conflicto armado en 
+Colombia en los últimos 50 años.  
+  
+A continuación, se describe la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “Mapa_mental-240201526-AA5-EV01”.  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: Mapa mental elaborado   
+● Formato: PDF. 
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: mapa mental. Hitos del conflicto armado en Colombia en los últimos 50 
+años GA9-240201526-AA5-EV01.  
+  
+3.2.6 Actividad de aprendizaje GA9 -240201526-AA6- Utilizar las estrategias de negociación frente al 
+conflicto colombiano teniendo en cuenta las relaciones  interpersonales y las experiencias de otros 
+acuerdos exitosos  
+  
+Esta actividad consiste en una reflexión y elaboración de un documento colaborativo. El objetivo es utilizar las 
+estrategias de negociación frente al conflicto colombiano teniendo en cuenta las relaciones interpersonales y las 
+experiencias de otros acuerdos exitosos.  
+  
+Duración: 6 horas.  
+  
+Materiales de formación a consultar:  
+ 
+Para desarrollar esta actividad adecuadamente, se recomienda revisar los contenidos presentados en el 
+componente: “Ser agente de cambio”.  
+   
+● Evidencia de producto:  GA9-240201526-AA6-EV01 documento colaborativo. Solución del caso.   
+  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+A continuación, se describen la secuencia de acciones y la correspondiente evidencia que conforman la actividad 
+de aprendizaje a partir de la lectura del anexo “Solucion_caso-240201526-AA6-EV01”.  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto para entregar: documento con la solución del caso  
+● Formato: PDF.  
+● Para hacer el envío del producto, remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: documento colaborativo. Solución del caso GA9-240201526-AA6-EV01.   
+  
+4. Actividades de evaluación  
+  
+Evidencias de aprendizaje  Criterios de evaluación  Técnicas e instrumentos de evaluación  
+Evidencia de conocimiento: 
+Taller sobre codificación de 
+módulos del software   
+GA9-220501096-AA1-EV01  
+  
+Evidencia de desempeño:  
+ Realiza  plan  pruebas  de  
+software  
+GA9-220501096-AA1-EV02  
+ 
+Evidencia de desempeño:  
+Diseña casos y define el 
+ambiente de pruebas de 
+software según proyecto. 
+GA9-220501096-AA2-EV01 
+ 
+Evidencia de desempeño:  
+Documenta pruebas de 
+software de acuerdo con la 
+planificación.  
+GA9-220501096-AA3-EV01  
+  
+Evidencia de producto:  
+Reporte de plan de pruebas 
+ejecutadas.   
+GA9-220501096-AA3-EV02 
+Diseña casos de prueba para 
+comprobar la funcionalidad del 
+software especificada en los casos 
+de uso.  
+  
+Define el ambiente de pruebas de 
+acuerdo con las condiciones del 
+entorno de producción.  
+  
+Realiza pruebas al software de 
+acuerdo con el plan de pruebas.  
+  
+Documenta las pruebas realizadas 
+para mantener la trazabilidad en el 
+comportamiento del software.  
+ 
+IE-GA9-220501096-AA1-EV01  
+Lista de chequeo  
+  
+  
+IE-GA9-220501096-AA1-EV02  
+Lista de chequeo  
+ 
+ 
+IE-GA9-220501096-AA2-EV01  
+Lista de chequeo 
+ 
+IE-GA9-220501096-AA3-EV01  
+Lista de chequeo  
+  
+IE-GA9-220501096-AA3-EV02  
+Lista de chequeo 
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento: 
+Taller de reflexión escrita. Caso 
+Malala.   
+GA9-240201526-AA1-EV01  
+  
+Evidencia de producto:  
+Video presentación. Proyecto 
+de vida.   
+GA9-240201526-AA2-EV01  
+Reconoce su valor y el valor del otro 
+de acuerdo con los principios de 
+dignidad y construcción cultural y 
+autonomía.   
+  
+Define su proyecto de vida con base 
+en criterios axiológicos y culturales y 
+hábitos de convivencia.   
+  
+Define su proyecto de vida de 
+acuerdo con los criterios de dignidad, 
+de respeto, creencias, ecología y 
+cultura.  
+IE-GA9-240201526-AA1-EV01  
+Rúbrica de evaluación  
+  
+  
+  
+  
+IE-GA9-240201526-AA2-EV01  
+Rúbrica de evaluación  
+  
+  
+  
+Evidencia de desempeño:   
+Diagrama de sistemas. 
+Relación del individuo con el 
+entorno.   
+GA9-240201526-AA3-EV01  
+Aplica acciones de prevención de 
+acciones violentas con base en 
+estrategias de comunicación asertiva.  
+  
+Evidencia respeto por el bien común, 
+la alteridad y el diálogo con el otro con 
+base en principios axiológicos.  
+IE-GA9-240201526-AA3-EV01  
+Rúbrica de evaluación  
+  
+Evidencia de producto:  
+Ejemplo de una marca 
+sostenible que cumpla con 
+Triple Bottom Line.  
+GA9-240201526-AA4-EV01  
+Cambia actitudes frente a su 
+comportamiento con base en la 
+dignidad, aportando a la cultura de 
+paz.   
+  
+Utiliza herramientas que permiten la 
+comunicación asertiva en diferentes 
+entornos teniendo en cuenta la 
+pedagogía para la paz.  
+IE-GA9-240201526-AA4-EV01  
+Rúbrica de evaluación  
+  
+Evidencia de desempeño:  
+Mapa  mental.  Hitos  del 
+conflicto armado en Colombia 
+en los últimos 50 años.  
+GA9-240201526-AA5-EV01  
+  
+Evidencia de producto:   
+Documento  colaborativo.  
+Solución del caso.   
+GA9-240201526-AA6-EV01  
+Reconoce hitos históricos de violencia 
+y paz como aporte a la construcción 
+de una cultura de paz.  
+  
+Modifica actitudes comportamentales 
+a partir de la resolución pacífica de 
+conflictos.  
+  
+Construye relaciones interpersonales 
+a partir del enfoque diferencial y la 
+promoción de una cultura de paz.  
+IE-GA9-240201526-AA5-EV01  
+Rúbrica de evaluación  
+  
+  
+  
+  
+  
+IE-GA9-240201526-AA6-EV01  
+Rúbrica de evaluación  
+  
+  
+5. Glosario de términos  
+  
+Bottom-up:   pruebas de software de manera ascendente  
+  
+Conflicto armado: el concepto de conflicto armado es muy complejo, ya que hace referencia a todos aquellos 
+enfrentamientos en los que están involucradas las armas y su uso. Los conflictos armados son un fenómeno 
+histórico que existe desde el comienzo de la historia y pueden  darse entre distintos pueblos, así como también 
+entre el mismo pueblo, es decir, a nivel interno. De cualquier manera, el conflicto armado es muy doloroso, ya que 
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+produce muertes y mutilaciones de todo tipo, abusos, asesinatos y violencia sin fin que much as son difíciles de 
+controlar, revertir o superar.  
+  
+Cultura de paz: según la definición de las Naciones Unidas (1998, Resolución A/52/13), la cultura de paz consiste 
+en una serie de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos tratando 
+de atacar sus causas, para solucionar los problemas mediante el diálogo y la negociación entre las personas, los 
+grupos y las naciones.   
+  
+Diagrama de flujo : es un esquema de los pasos separados de un proceso en orden secuencial , que se puede 
+adaptar para una amplia variedad de propósitos y se puede utilizar para describir varios procesos, como un proceso 
+de fabricación, un proceso administrativo o de servicio, o un plan de proyecto. Es una herramienta común de 
+análisis de procesos.  
+  
+Dignidad humana: la dignidad, o «cualidad de digno» (del latín, «grandeza»),1. Hace referencia al valor inherente 
+del ser humano por el simple hecho de serlo, en cuanto ser racional, dotado de libertad. 2. No se trata de una 
+cualidad otorgada por nadie, sino consustancial al ser humano. 3. No depende de ningún tipo de condicionamiento 
+ni de diferencias étnicas, de sexo, de condición social o cualquier otro tipo.  
+  
+Derechos Humanos: son derechos inherentes a todos los seres humanos, sin distinción alguna de nacionalidad, 
+lugar de residencia, sexo, origen nacional o étnico, color, religión, lengua, o cualquier otra condición. Todos 
+tenemos los mismos derechos humanos, sin discriminación alguna. Estos derechos son interrelacionados, 
+interdependientes e indivisibles (UN-OHCHR, 1996-2015).  
+  
+Eficiencia de ejecución:  El rendimiento del funcionamiento de un programa.  
+Entorno social: el entorno social, también denominado contexto social o ambiente social, es el lugar donde los 
+individuos se desarrollan en determinadas condicione s de vida, trabajo, economía, nivel de ingresos, nivel 
+educativo, y está relacionado con los grupos a los que pertenece.1 El entorno social de un individuo es la cultura 
+en la que el individuo fue educado y cómo vive, y abarca a las personas e institucione s con las que el individuo 
+interactúa en forma regular.  
+ 
+Estandarización de datos:  El empleo de estructuras y tipos de datos estándares a lo largo del programa.   
+Exactitud:  la exactitud de los cálculos y del control.  
+Hardware: corresponde a todas las partes físicas y tangibles de una computadora: sus componentes eléctricos, 
+electrónicos, electromecánicos y mecánicos, sus cables, gabinetes o cajas, periféricos de todo tipo y cualquier otro 
+elemento físico involucrado.  
+Marca ética:  una marca que represe nta una empresa, organización o persona cuyos productos, servicios y 
+actividades son: 1) moralmente correctos, 2) no dañan a las personas, los animales o el medio ambiente, 3) 
+contribuyen a la sociedad y al bien público de manera responsable y positiva y de manera sostenible.  
+  
+Metodología: ciencia que consta de métodos y técnicas que se aplican sistemáticamente durante un proceso de 
+investigación o para solucionar una problemática.  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Proyecto de vida: el proyecto de vida es un plan trazado, un esquema vital que encaja en el orden de prioridades, 
+valores y expectativas de una persona que, como dueña de su destino, decide cómo quiere vivir.  
+  
+QA (Quality Assurance): Especialistas en pruebas de software verifican que un software no contenga fallos  
+  
+Resolución de conflictos: es el conjunto de conocimientos y habilidades puestos en práctica para comprender e 
+intervenir en la resolución pacífica y no violenta de los enfrentamientos entre dos o más personas.  
+  
+Resolución de Conflictos:  proceso por el cual un conflicto de carácter interpersonal, intergrupal, 
+interorganizacional o internacional de raíces profundas es resuelto por medios no violentos y de forma 
+relativamente estable, a través, primero, del aná lisis e identificación de las causas subyacentes al conflicto, y, 
+consiguientemente, del establecimiento de las condiciones estructurales en las que las necesidades e intereses 
+de todas las partes enfrentadas puedan ser satisfechas simultáneamente.  
+  
+Requerimientos: es una descripción completa del comportamiento del sistema que se va a desarrollar. Incluye un 
+conjunto de casos de uso que describe todas las interacciones que tendrán los usuarios con el software.   
+Requisitos de usuarios: Necesidades que los usuarios expresan verbalmente.  
+  
+Requisitos del sistema: Son los componentes que el sistema debe tener para realizar determinadas tareas.  
+  
+Requisitos funcionales: Servicios que el sistema debe proporcionar al finalizar el sistema.   
+  
+Stakeholders: interesados o participantes en un proyecto.  
+  
+Software: Soporte lógico, programas, parte no mecánica de un sistema. Serie de instrucciones necesarias para 
+ejecutar diversas aplicaciones y tareas.  
+ 
+Tolerancia al error:  el deterioro causado cuando un programa descubre un error. Top-down: 
+pruebas de software de manera descendente.   
+Triple Bottom Line: busca definir la sostenibilidad de una empresa basándose en tres elementos principales: 
+económico, ambiental y social.  
+  
+6. Referentes bibliográficos  
+  
+Álvarez-Rodríguez, A. (2017). Acuerdos y construcción de paz en Colombia: retos a la gobernabilidad y la cultura 
+de paz. Prospectiva, 24, 13-45.  
+Avison, D. y G. Fitzgerald, (1995). Information Systems Development: Methodologies, Techniques, and Tools. 
+McGraw-Hill.  
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Banz, C. (2008). Aprender a resolver conflictos de forma colaborativa y autónoma: un objetivo educativo 
+fundamental.  Educarchile. https://www.educarchile.cl/recursos-para-el-aula/aprender-resolver-
+conflictosde-forma-colaborativa-y-autonoma-un-objetivo  
+Carrillo, F. y Gómez, D. (2020). Mecanismos alternativos de solución en Colombia MASC. Tomo II Colección 
+fortalecimiento institucional y ética. Procuraduría General de la Nación.  
+Dirección de Formación Profesional Integral. (2013). Proyecto Educativo Institucional SENA. SENA. 
+https://repositorio.sena.edu.co/bitstream/handle/11404/3253/pei_sena.pdf  
+ExpokNews. (2021). ¿Qué es un proyecto Triple Bottom Line y cómo lograrlo? Expok Comunicación de 
+sustentabilidad y RSE. https://www.expoknews.com/que-es-un-proyecto-triple-Bottom-line-y-
+comolograrlo/#:~:text=Una%20empresa%20que%20se%20interesa,elementos%20en%20un%20solo%20p
+roy ecto.  
+Fernández, L. (2005). Un sondeo sobre la práctica actual de pruebas de software en España. REICIS Revista 
+Española de Innovación, Calidad e Ingeniería del Software, 1 (2), p. 43 -54. 
+https://www.redalyc.org/pdf/922/92210205.pdf  
+Fernández, O. (2006). Una aproximación a la cultura de paz en la escuela. Educere, 10 (33), p. 251 -256. 
+https://dialnet.unirioja.es/servlet/articulo?codigo=2101074  
+García, M. (2015). La Cuenta del Triple Resultado o Triple Bottom Line. Revista de Contabilidad y Dirección, 20,  
+p. 65-77. https://accid.org/wp-content/uploads/2018/11/LA_CUENTA_DEL_TRIPLE_RESULTADO.pdf  
+González, N. (2018). Guía para  crear marcas éticas . Magenta. https://magentaig.com/guia-para-crear-
+marcaseticas/  
+IBM Corporation. (s. f.-a). Pruebas de rendimiento. Documentación de IBM. 
+https://www.ibm.com/docs/es/rtw/9.0.0?topic=phases-performance-testing IBM 
+Corporation. (s. f.-b). Pruebas Funcionales. Documentación de IBM.  
+https://www.ibm.com/docs/es/rtw/9.1.0?topic=SSBLQQ_9.1.0/com.ibm.rational.test.ft.doc/topics/Getting_ 
+Started_With_Ivory.html  
+Instituto Interamericano de Dere chos Humanos. (2003). Educación en valores éticos Guía metodológica para 
+docentes. Ministerio de Asuntos Exteriores.  
+International Organization for Standardization [ISO]. (2014). ISO/IEC 25000:2014 Systems and software 
+engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Guide to 
+SQuaRE. https://www.iso.org/standard/64764.html  
+Lozano, F., Pastor, J. y Monterde, R. (s.f.). Impacto de los valores éticos en la toma de decisiones. Departamento 
+de Proyectos de Ingeniería ETSII – UPV.  
+https://www.aeipro.com/files/congresos/2002barcelona/ciip02_0050_0057.1885.pdf  
+Magallón, C. (2016). La paz en Colombia: decepción, controversia y esperanza. Cultura de Paz, 22(70), p. 4-10. 
+Martínez, Y. (2014). Habilidad para la toma de decisiones. Escuela de Organización Industrial. 
+https://www.eoi.es/blogs/mintecon/2014/05/18/habilidad-para-la-toma-de-decisiones/  
+Mera, J. (2016). Análisis del proceso de pruebas de calidad de software. Ingeniería solidaria , 12(20). 
+https://repository.ucc.edu.co/bitstream/20.500.12494/962/1/Pruebas.pdf  
+Mercado, R. (2013). La responsabilidad ética en la toma de decisiones dentro de las organizaciones.  Sincronía,  
+(64), p. 1-12.  
+Nacer con PNL. (2016). Cómo diseñar un proyecto de vida con PNL. 
+https://nacerconpnl.wordpress.com/2016/12/28/como-disenar-proyecto-de-vida/ Naciones 
+Unidas [ONU]. (s. f.) Objetivos de Desarrollo Sostenible. 
+https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/  
+Naciones Unidas [ONU]. (s. f).  Objetivo 16: Promover sociedades justas, pacíficas e inclusivas . Objetivos de 
+Desarrollo Sostenible. http://www.un.org/sustainabledevelopment/es/peace-justice/  
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Rojas, L., Díaz, B., Arapé, E., Romero, S., Rojas, A. y Rojas, R. (2006). Comunicación, conflictos y cultura de paz: 
+percepción en grupos de estudiantes universitarios. Reflexión Política, 8(15), p. 52-63.  
+https://www.redalyc.org/pdf/110/11001505.pdf  
+Secretaría de Educación Pública. (2014). Manual para el Desarrollo de Habilidades Socioemocionales en 
+Planteles de Educación Media Superior. Estados Unidos Mexicanos.  
+http://prepajocotepec.sems.udg.mx/sites/default/files/yna_manual_11.pdf  
+Villarraga, A. (2015). Biblioteca de la paz. Los procesos de paz en Colombia, 1982-2014 (Documento resumen). 
+Fundación Cultura Democrática. https://repository.iom.int/bitstream/handle/20.500.11788/769/COL- 
+OIM%200298%20D.Resumen.pdf  
+  
+  
+7. Control del documento  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor( 
+es)  
+Alejandra  María  
+Dávila Muñoz  
+Experta 
+temática  
+Centro de Formación en diseño, 
+confección y moda – Regional Antioquia.  
+Noviembre 
+2020  
+Leidy Carolina Arias 
+Aguirre  
+Evaluadora 
+Instruccional  
+Centro de diseño y metrología –  
+Regional Distrito Capital  
+Noviembre 
+2020  
+Mario Fernando  
+Meneses Calvache  
+Experto  
+temático  
+  
+Centro de Teleinformática y Producción 
+Industrial – Regional Cauca  
+Diciembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  
+Centro  para  la  Industria  de  la  
+Comunicación Gráfica - Regional Distrito 
+Capital  
+Diciembre 
+2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Metodóloga  Centro de diseño y metrología - Regional 
+Distrito Capital  
+Febrero 
+ de 
+2022  
+Rafael  Neftalí  
+Lizcano Reyes  
+Responsable  
+equipo  de  
+desarrollo 
+curricular  
+Centro Industrial del Diseño y la 
+Manufactura - Regional Santander   
+Febrero 
+ de 
+2022  
+Darío González  Corrección  de  estilo  Regional Distrito Capital – Centro de Diseño y Metrología  Febrero 2022  
+  
+  
+8. Control de cambios (diligenciar únicamente si realiza ajustes a la guía)  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del cambio  
+Autor(es)            
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+  

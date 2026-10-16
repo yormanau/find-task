@@ -1,0 +1,1195 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+  
+1. Identificación de la guía de aprendizaje   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software.   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios  
+● Fase del proyecto: planeación.   
+● Actividad de proyecto: Construir el prototipo del software de acuerdo al análisis de las características 
+funcionales y de calidad.  
+● Competencias:  
+Técnicas:  
+220501095- Diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos.  
+Transversal:   
+240201064- Orientar investigación formativa según referentes técnicos.   
+Claves:  
+240202501- Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y    laborales 
+según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.   
+ ●   Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501095-03- Determinar las características técnicas de la interfaz gráfica del software adoptando   
+estándares.   
+Transversal:  
+240201064-01- Analizar el contexto productivo según sus características y necesidades.  
+240201064-02- Estructurar el proyecto de acuerdo a criterios de la investigación.  
+240201064-03- Argumentar aspectos teóricos del proyecto según referentes nacionales e 
+internacionales.  
+240201064-04- Proponer soluciones a las necesidades del contexto según resultados de la investigación.   
+Claves:  
+240202501 05 - Presentar un proceso para la realización de una actividad en su quehacer laboral de 
+acuerdo con los procedimientos establecidos desde su programa de formación.  
+  
+●    Duración de la guía: 232 horas  
+  Técnico: 136 horas.   
+Transversal: 48 horas  
+Claves: 48 horas.  
+  
+  
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+2. Presentación  
+  
+Estimado aprendiz, el SENA le extiende una cordial bienvenida a la quinta guía de aprendizaje que comprende la 
+competencia técnica de: diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos. Es 
+importante recordar, tal como lo afirma Giraldo (2011), que las fases de diseño de software son parte del ciclo de 
+vida del software, y en cada una de ellas se valida el desarrollo de una aplicación permitiéndole al desarrollador 
+detectar errores lo antes posible y, por lo tanto, concentrarse en la calidad del software.   
+  
+Por otra parte, es importante indicar que la investigación, el desarrollo tecnológico y la innovación son la base del 
+crecimiento económico y social en las empresas a nivel mundial. El gran avance técnico y tecnológico requiere de 
+personas curiosas, visionarias, motivadas a descubrir, experimentar y vivir experiencias de aprendizaje que mejoren 
+la calidad de vida a nivel personal y de su entorno.   
+  
+Finalmente, encontrarán la competencia clave de inglés como una de las habilidades contemporáneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para Lenguas) como estándar del nivel de conocimiento de lengua y categorización de los conocimientos 
+en niveles de competencia en un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa quienes, de forma continua y permanente, le orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, brindándole herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante q ue organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. Además, no olvide revisar y explorar los materiales de estudio 
+del programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de planeación del proyecto formativo:  construcción de software integrador de tecnologías orientadas a 
+servicios.  
+ 
+3.1 Actividades de aprendizaje de la competencia 220501095 -  Diseñar la solución de software  de 
+acuerdo con procedimientos y requisitos técnicos  
+  
+Con base en los requisitos de software especificados tanto funcionales como no funcionales, en esta competencia 
+se empieza a construir los prototipos del modelo necesarios para representar la solución del sistema desde el punto 
+de vista del diseño, ergonomía y usabilidad con base en los si guientes documentos: diagramas de clase, 
+documentos de casos de uso o historias de usuario, diagrama de componentes y también un documento de informe 
+con los colores institucionales del cliente a manejar (paleta de colores) unido a una descripción de las t ecnologías 
+a utilizar.  
+  
+  
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.1.1 Actividad de aprendizaje GA5-220501095-AA1 - Elaborar el prototipo navegable del software aplicando 
+estándares de usabilidad y accesibilidad.  
+  
+Esta actividad se centra en el estudio de la construcción de los prototipos del software con base en la definición de 
+las reglas de navegación de las pantallas de visualización de cada funcionalidad y acordes con los requerimientos 
+del sistema guiados por las buenas prácticas en mantenibilidad, diseño y usabilidad tendientes a satisfacer una 
+gran experiencia de usuario.  
+  
+Duración: 136 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Diseño de aplicaciones web - Diseño y construcción de frontend”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA5 -220501095-AA1-EV01 - Taller sobre construcción del prototipo del 
+software de acuerdo al análisis de las características funcionales y de calidad  
+  
+Con base en los requerimientos funcionales del sistema y de calidad, en esta actividad se proponen aspectos 
+clave que se deben tener en cuenta para la construcción de prototipos, también el aprendiz deberá utilizar algunas 
+herramientas para apoyarse en la elaboración del esquema de la funcionalidad. Adicionalmente, se introduce el 
+tema de calidad para lo cual deberá realizar una investigación corta respondiendo algunos lineamientos 
+establecidos en esta actividad.  
+  
+Elementos para tener en el desarrollo del taller:  
+  
+Sección 1 - Taller  
+ Teniendo en cuenta las siguientes funcionalidades, elaborar el diagrama de la funcionalidad, establecer colores 
+y componentes a utilizar:  
+  
+● Se desea elaborar una pantalla que permita validar la autenticidad de un usuario.   
+● Se desea elaborar una pantalla que permita ingresar nombres, apellidos, cédula, fecha de nacimiento de un 
+usuario.  
+● Se desea dibujar una pantalla en donde se informe de posibles errores a un usuario.  
+● Proponer la paleta de colores de los componentes anteriores utilizando como máximo la combinación de tres 
+colores.  
+ 
+ 
+Respecto a los problemas planteados:  
+  
+
+=== PAGE 4 ===
+GFPI-F-135 V01 
+● Para precisar los elementos de entrada de cada una de las situaciones planteadas no olvide tener en cuenta lo
+siguiente:
+● Identificar categorías que se encuentran en los requerimientos.
+● Organizar los componentes de las pantallas en orden lógico.
+● Manejar componentes comunes en tamaños, tipos de letra y colores.
+● ¿Qué información adicional hace falta para resolver el problema?
+● Para 
+precisar los resultados esperados se recomienda utilizar las preguntas guía:
+● ¿Qué información están solicitando?
+● ¿En qué formato se debe entregar esta información?
+Sección 2 - Taller 
+Ela
+bore una investigación corta usando los materiales disponibles en la biblioteca o internet respecto a los 
+fundamentos de calidad de software seleccionando, al menos, tres fuentes que le permitan resolver los siguientes 
+conceptos:  
+● Defi
+nición de calidad de software.
+● ¿Cuál es el concepto de usabilidad en software?
+● ¿Cuáles son los estándares de calidad de software?
+● ¿Qué tecnologías existen para implementar calidad?
+ Lin
+eamientos generales para la entrega de la evidencia:  
+● Producto para entregar: documento modelo entidad relación MER.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+taller sobre construcción del prototipo del software de acuerdo al análisis de las características
+funcionales y de calidad GA5-220501095-AA1-EV01.
+❖ Evi
+dencia de conocimiento: GA5 -220501095-AA1-EV02 - Nociones de reglas de usabilidad y
+accesibilidad en aplicaciones independientes, web
+Con est
+a actividad se pretende introducir al aprendiz en los conceptos básicos que permiten realizar aplicaciones 
+tanto independientes como web de fácil manejo y atractivas para el usuario por medio del uso de reglas predefinidas.  
+Ele
+mentos a tener en cuenta: 
+● Leer detenidamente los conceptos y características definidas en el componente formativo “Diseño 
+de aplicaciones web”.
+● Se deben conocer las reglas de usabilidad y accesibilidad.
+● Describir cada una de las reglas.
+● Diferenciar entre una aplicación independiente y una aplicación web.
+● Describir las características de cada tipo de aplicación.
+
+=== PAGE 5 ===
+GFPI-F-135 V01 
+L
+ineamientos generales para la entrega de la evidencia: 
+● P
+roducto para entregar: diagramas, documentos.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, web
+GA5220501095-AA1-EV02.
+❖ E
+videncia de desempeño: GA5- 220501095-AA1-EV03 - Elaboración de interfaz gráfica y mapa de
+navegación cumpliendo con reglas de usabilidad y accesibilidad
+E
+sta actividad se orienta a realizar las prácticas que permiten elaborar la interfaz gráfica y el mapa de navegación 
+de una aplicación teniendo en cuenta las reglas de usabilidad y accesibilidad.  
+A
+spectos a tener en cuenta: 
+● C
+onocer los requerimientos del sistema.
+● Identificar el tipo de aplicación que se va a implementar bien sea independiente o web.
+● Conocer la imagen institucional del cliente.
+● Tener conocimientos en tecnologías que permitan implementar los prototipos.
+● Conocer qué es un mapa de navegación.
+● Realizar un proceso de validación y retroalimentación de prototipos.
+● Respecto a lista de requerimientos, el aprendiz deberá agregar una sección donde se describa cada prototipo
+usando los siguientes elementos del estándar IEEE830:
+● Perspectiva del producto.
+● Funciones del producto.
+● Características de los usuarios.
+● Restricciones.
+● Requisitos funcionales.
+● Requisitos no funcionales.
+● Respecto a la lista de requerimientos el aprendiz deberá agregar una sección donde se describa cad a
+r
+equisito y su prototipo.
+L
+ineamientos generales para la entrega de la evidencia: 
+● P
+roducto para entregar: prototipos en documento.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y
+accesibilidad GA5-220501095-AA1-EV03.
+❖ E
+videncia de producto: GA5-220501095-AA1-EV04 - Maquetación de la interfaz gráfica en HTML
+
+=== PAGE 6 ===
+GFPI-F-135 V01 
+Esta actividad consiste en la definición de la composición de texto, formas, colores, tamaños, imágenes, 
+animaciones, videos de las páginas electrónicas en lenguaje HTML que conforman en su conjunto una aplicación 
+web proyectando también los dispositivos en donde se van a visualizar esos elementos.  
+A
+spectos a tener en cuenta: 
+● E
+studiar detenidamente los conceptos y características definidas en el componente formativo.
+● Contar con los requisitos del cliente.
+● Describir el concepto de maquetación.
+● Contar, preferiblemente, con conocimientos en lenguaje HTML, CSS y JavaScript.
+● Tener conocimientos en diseño gráfico.
+● Preferiblemente contar con conocimientos en marketing digital.
+● Manejar herramientas de software para la elaboración de las maquetas. Se  recomienda utilizar framework
+front end como Bootstrap, Tailwind CSS o Foundation.
+L
+ineamientos generales para la entrega de la evidencia: 
+● Producto para entregar: diagramas, documentos.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+maquetación de la interfaz gráfica en HTML GA5-220501095-AA1-EV04.
+❖ E
+videncia de producto: GA5-220501095-AA1-EV05 - Mapa de navegación
+E
+sta actividad consiste en la elaboración del mapa de navegación de una aplicación que se puede pensar a manera 
+de árbol jerárquico, y que representa la arquitectura de las páginas de un sitio web. Esta representación puede 
+ser, un mapa conceptual para, de forma gráfica, visualizar y entender sobre un mapa el recorrido del visitante, es 
+decir su navegación y cómo este llega a lo que está buscando. También, aquí se organiza la distribución y la 
+jerarquía del contenido logrando el fácil entendimiento por parte del usuario y de fácil acceso al contenido.   
+A
+spectos a tener en cuenta: 
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.
+● Contar con los requerimientos del cliente.
+● Elaborar un documento con el orden lógico en que se requiere presentar la información.
+● Identificar el tipo de mapa de navegación bien sea lineal, jerárquico, de estructura web o de estructur a
+c
+ompuesta.
+● Elaborar un árbol jerárquico para evidenciar el orden e importancia de la información.
+● Establece cuáles páginas y el número de ellas que se van a desplegar en las diferentes secciones del siti o
+w
+eb.
+● Incluir ramificaciones hacia secciones secundarias que se desplegarán de las principales.
+● Revisar que en el diseño se hayan incluido diferentes categorías, como también todo el contenido que s e
+nec
+esita mostrar.
+● Aplicar las mejores prácticas para potenciar la navegación del usuario.
+● Compartir y explicar el mapa de navegación con otras personas para identificar si es entendible y amigabl e
+de l
+a forma en la que se presenta la información.
+● Elaborar plantillas con los estilos de las páginas.
+
+=== PAGE 7 ===
+GFPI-F-135 V01 
+L
+ineamientos generales para la entrega de la evidencia: 
+● Producto para entregar: diagramas del mapa.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+Mapa de navegación. GA5-220501095-AA1-EV05.
+❖ E
+videncia de conocimiento: GA5 -220501095-AA1-EV06 - Nociones de reglas de usabilidad y
+acce
+sibilidad en aplicaciones independientes, móviles
+E
+n esta actividad se pretende introducir al aprendiz en los conceptos básicos de usabilidad y accesibilidad que se 
+pueden aplicar para realizar aplicaciones tanto independientes como móviles que sean de fácil manejo, atractivas 
+para el usuario y guiadas por medio de la aplicación de reglas para ello predefinidas. En esta actividad se hace 
+énfasis en las aplicaciones móviles.  
+E
+lementos a tener en cuenta: 
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.
+● Realizar lecturas acerca de las reglas de usabilidad y accesibilidad.
+● Diferenciar entre una aplicación independiente y una aplicación móvil.
+● D
+iferenciar entre una aplicación móvil de carácter híbrida o una de carácter nativa.
+● I
+ndagar sobre los diferentes ecosistemas existentes de los dispositivos móviles, con el objetivo de conocer
+los diferentes IDE y lenguajes de programación que actualmente se utilizan para dispositivos móviles.
+L
+ineamientos generales para la entrega de la evidencia: 
+● Producto para entregar: documento de respuestas.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, móviles.
+GA5220501095-AA1-EV06.
+● E
+videncia de desempeño: GA5- 220501095-AA1-EV07 - Elaboración de interfaz gráfica y mapa d e
+n
+avegación cumpliendo con reglas de usabilidad y accesibilidad app móvil
+E
+sta actividad consiste en estudiar los conceptos a tener en cuenta para la elaboración de la interfaz gráfica, 
+también la elaboración del mapa de navegación de una aplicación a manera de árbol jerárquico, donde se 
+representa la arquitectura de las páginas de una aplicación móvil. Esta representación puede ser un mapa 
+conceptual de forma gráfica para visualizar y entender sobre un mapa el recorrido del usuario, es decir su 
+navegación y cómo este llega a lo que está buscando. También, se organiza la distribución y la jerarquía del 
+contenido para lograr entendimiento por parte del usuario y el fácil acceso al contenido en dispositivos móviles.   
+A
+spectos a tener en cuenta: 
+● E
+studiar detenidamente los conceptos y características definidas en el componente formativo.
+
+=== PAGE 8 ===
+GFPI-F-135 V01 
+● Tener en cuenta los conceptos de la evidencia anterior GA5-220501095-AA1-EV06.
+● Contar con los requerimientos del cliente.
+● Conocer el concepto de diseño responsivo.
+● Elaborar un documento con el orden lógico en que se requiere presentar la información.
+● Revisar los tamaños de resolución de pantallas para dispositivos móviles.
+● Identificar el tipo de mapa de navegación bien sea lineal, jerárquico, de estructura web o de estructur a
+c
+ompuesta.
+● Elaborar un árbol jerárquico para evidenciar el orden e importancia de la información.
+● Establece cuáles componentes y el número de ellos que se van a desplegar en las diferentes secciones de
+l
+a aplicación móvil.
+● Incluir ramificaciones hacia secciones secundarias que se desplegarán de las principales.
+● Revisar que en el diseño se hayan incluido diferentes categorías, así como todo el contenido que se necesita
+mos
+trar.
+● Aplicar las mejores prácticas para potenciar la navegación del usuario.
+● Compartir y explicar el mapa de navegación con otras personas para identificar si es entendible y amigabl e
+de l
+a forma en la que se presenta la información.
+● Elaborar plantillas con los estilos de los componentes.
+L
+ineamientos generales para la entrega de la evidencia: 
+● Producto para entregar: diagramas del mapa de navegación.
+● Formato: PDF.
+● Extensión: libre.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:
+elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y
+acce
+sibilidad app móvil GA5-220501095-AA1-EV07.
+● E
+videncia de producto: GA5 -220501095-AA1-EV08 - Maquetación de la Interfaz gráfica en XML -
+Android
+E
+sta actividad consiste en la definición de la composición de texto, formas, colores, tamaños, imágenes, 
+animaciones, videos de los componentes que conforman en su conjunto una aplicación móvil en el ecosistema 
+Android.  
+A
+spectos a tener en cuenta: 
+● E
+studiar detenidamente los conceptos y características definidas en el componente formativo.
+● Contar con los requisitos del cliente.
+● Se debe contar con conocimientos en lenguaje XML.
+● Identificación de layouts para Android.
+● Conocer el concepto de responsividad.
+● Realizar búsquedas de utilización de simuladores Android para la visualización de componentes que se vayan
+desarrollando para la APP, tales como layouts y las funcionalidades que deben ejecutarse en el product o a
+ent
+regar.
+● Contar, preferiblemente, con conocimientos en lenguaje HTML, CSS y JavaScript.
+● Tener conocimientos en diseño gráfico.
+● Preferiblemente contar con conocimientos en marketing digital.
+● Manejar herramientas de software para la documentación de las maquetas.
+
+=== PAGE 9 ===
+GFPI-F-135 V01 
+L
+ineamientos generales para la entrega de la evidencia: 
+o P
+roducto para entregar: diagramas, prototipos.
+o Formato: PDF.
+o E
+xtensión: libre.
+o Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio :
+m
+aquetación de la Interfaz gráfica en XML - Android GA5-220501095-AA1-EV08.
+3.
+2. Actividades de aprendizaje de la competencia: 240201064 - Orientar investigación formativa según 
+referentes técnicos  
+La presente actividad le brindará la posibilidad de aprender los fundamentos básicos de investigación, 
+aprenderá herramientas básicas  para identificar un problema, formular objetivos, entender los tipos de 
+investigación, enfoques y desarrollos metodológicos básicos para desarrollar el proyecto de investigación como 
+parte del proceso formativo.  
+3.
+2.1 Actividad de aprendizaje GA5- 240201064-AA1 - Identificar las características socioeconómicas, 
+tecnológicas, políticas y culturales del contexto productivo reconociendo las necesidades y problemáticas 
+que lo afectan.  
+E
+l objetivo de esta actividad es la identificación  de características y necesidades del contexto productivo en 
+el cual se formulará la propuesta de investigación.  
+Duración: 8 horas. 
+Materiales de formación: Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Fundamentos de investigación”.   
+Evidencias: 
+A
+ continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+❖ E
+videncia de producto: GA5 -240201064-AA1-EV01 mapa mental - características socioeconómicas,
+tecnológicas, políticas y culturales del contexto productivo inmediato
+P
+ara la elaboración del mapa mental, se sugiere consultar el anexo “Mapa_Mental” y revisar las siguientes 
+recomendaciones:   
+1. F
+ormato: puede elaborarse a través de herramientas digitales de elaboración de mapas mentales o
+tomando una fotografía de un mapa mental dibujado a mano y luego convertirla a PDF.
+2. Definir el contenido central: ubicar el nombre del contexto en el centro de la pantalla o papel y distinguir
+con una imagen o ícono que lo represente. El contenido central es un tema, idea o concepto para desarrollar.
+
+=== PAGE 10 ===
+GFPI-F-135 V01 
+3. Identificar un número limitado de características del contenido central: hacer las bifurcaciones a través
+de ideas principales, posteriormente en agrupaciones y asociaciones. Previo, se sugiere tener una lluvia de
+ideas. Es importante el uso de colores, uno solo por bifurcación, teniendo especial cuidado en su grosor.
+4. Jerarquizar ideas: establecer el tamaño de las ramificaciones, letras, colores, categorías y subcategorías,
+estableciendo un tamaño determinado para las ramas y las imágenes, para que, en la lectura, se entienda
+que el tamaño de las ramas e imágenes principales, es mayor al de las ramas secundarias, y de esta s
+úl
+timas mayor al de las terciarias y así sucesivamente.
+5. Unir asociaciones: mediante ramificaciones y líneas se irradian las ideas secundarias y las asociaciones
+entre ideas.
+6. Ampliar hacia afuera:  priorizar las ideas según las manecillas del reloj. En  cada bifurcación, incluir una
+i
+magen digital o elaborada a mano.
+7. Ubicar imágenes: apoyos visuales y colores determinarán la calidad de la presentación, por esta razón se
+r
+ecomienda tener especial cuidado en la calidad y el tamaño de la imagen para acentuar las ideas a
+recordar.
+8. Diseñar nodos: para asegurar las conexiones entre las bifurcaciones.
+L
+ineamientos generales para la entrega de la evidencia: 
+● P
+roducto para entregar: mapa mental sobre la caracterización del contexto productivo.
+● Formato: documento en PDF. Puede elaborarse a través de herramientas digitales de elaboración de mapas
+mentales o tomando una fotografía de un mapa mental dibujado a mano y en ambos casos colocar sus datos
+personales.
+● Extensión: 1 hoja.
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio para
+el
+ envío de la evidencia: mapa mental - características socioeconómicas, tecnológicas, políticas y
+culturales del contexto productivo inmediato GA5-240201064-AA1-EV01.
+3.
+2.2 Actividad de aprendizaje GA5-240201064-AA2 - Elaborar la propuesta de investigación formativa. 
+E
+l objetivo de esta actividad es comprender y dar respuesta a las necesidades del contexto por medio del desarrollo 
+de procesos de investigación efectivos, teniendo en cuenta situaciones de orden social y productivo.   
+Duración: 40 horas. 
+Materiales de formación:  Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Fundamentos de investigación”.  
+Evidencias: 
+A
+ continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+❖ Evidencia de desempeño, conocimiento y producto: GA5 -240201064-AA2-EV01 - Propuesta de 
+investigación formativa  
+  
+Diligenciar cada una de las pestañas del formato “Propuesta de investigación formativa”. Para el diligenciamiento 
+del formato, se sugiere cons ultar el anexo “ Formato_Propuesta” y en general revisar las siguientes 
+recomendaciones:   
+  
+1. En cuanto a aspectos generales, el documento debe ser presentado en fuente Arial 10, interlineado 1,5.  
+2. Para la Etapa 1. Preparación: antes de iniciar la escritura del documento, es necesario tener en cuenta las 
+recomendaciones hechas por el tutor para el mapa mental de la actividad 1.   
+3. Para la escritura del título es necesario que este sea concreto con relación al problema que se busca 
+resolver, no debe contener palabras innecesarias, no debe utilizar abreviaturas ni fórmulas. Debe tener una 
+extensión máxima de 15 palabras o 70 caracteres y debe reflejar de manera apropiada de qué se trata el 
+estudio.  
+4. Para el resumen, tener en cuenta que este se realiza cuando ya está elaborado todo el ejercicio de 
+investigación formativo. El resumen es una descripción sintética de los aspectos más relevantes del proceso 
+investigativo que da cuenta del problema, cómo se realizó el estudio, cuáles fueron los principales hallazgos 
+y cuál es la relevancia del estudio para su programa de formación. Se elabora en dos párrafos que debe 
+contener máximo 120 palabras o 960 caracteres incluyendo la puntuación y los espacios sin sangría (10 a 
+15 renglones). Se recomienda que este párrafo se realice con oraciones cortas y simples separadas de 
+punto y seguido. (Debe estar en idioma español/inglés).   
+5. Las palabras clave se incluyen una vez está elaborado todo el ejercicio de investigación formativo. Tras el 
+resumen se deben escribir las palabras cl ave que se utilizan como fines de clasificación para que los 
+documentos se puedan incorporar en bases de datos y, de esta forma, agilizar su búsqueda. 
+(español/inglés).  
+6. La justificación expone las razones que justifican la realización del proyecto de investigación formativa en 
+torno al contexto productivo, aspectos sociales, aspectos institucionales, aspectos pedagógicos, aspectos 
+tecnológicos, entre otros. Demuestra la importancia de resolver el problema de investigación. Destaca su 
+impacto y aclara quienes serán los beneficiarios directos y el alcance social que tendrá.   
+7. Para los antecedentes, la revisión de la literatura es una síntesis original de teorías y trabajos de 
+investigación fáctica (de campo o empírica) sobre el tema al que se refiere el estudio por realizar. El aprendiz 
+deberá consultar las bases de datos del SENA y hacer una recopilación actualizada (3 últimos años) de lo 
+escrito sobre el tema. La revisión de la literatura debe ser un apartado donde el lector descubra cuál es el 
+problema no resuelto por la comunidad científica y que se quiere abordar mediante el estudio propuesto.  
+8. Para la identificación del problema, es necesario contemplar las necesidades expuestas en el mapa mental 
+y realizar una delimitación de las mismas. En un primer momento se hace una descripción de la situación 
+actual del problema, se define el ámbito espacial donde se realizará la propuesta (sin ampliarlo), se indica 
+en forma clara cuál es el problema y quiénes lo tienen, se escriben las causas que lo generan. En un segundo 
+momento se describen las consecuencias que acarrea la problemática detectada y se pronostica que 
+sucedería si no se resuelve el problema.  
+9. Para la pregunta de investigación es necesario tener en cuenta que guarda estrecha relación con los 
+objetivos de la propuesta y la revisión de la literatura hecha. Para ello escriba una pregunta cuya respuesta 
+es la de solución del problema planteado.   
+10. El objetivo general tiene las siguientes características: se relaciona con el problema y la pregunta de 
+investigación; es concreto, se redacta con lenguaje claro y sencillo; inicia su redacción con un verbo en 
+infinitivo; incluye qué se quiere hacer mediante la investigación, a dónde quiero llegar y mediante qué. La 
+respuesta a estos interrogantes conlleva a la respuesta de la pregunta problema ya formulada.   
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+11. Los objetivos específicos indican el orden sistemático en que se resolverá la investigación, los que se 
+desprenden directamente del objetivo general.  
+12. El marco teórico debe ser organizado en temas y subtemas de lo general a lo particular. El marco teórico 
+hace referencia a aquellas teorías, normas y conceptualizaciones que pueden contribuir a dar solución al 
+problema enunciado y permite la confrontación, el análisis y la evaluación del proyecto. Implica que el 
+aprendiz identifique una postura teórica que aporte elementos y categorías de análisis para abordar el campo 
+temático, motivo del estudio haciendo una redacción propia que se sustenta en autores, estableciendo un 
+diálogo sistemático con los autores, teorías  y realidad del contexto en el que trabaja la propuesta. Es 
+importante hacer las respectivas citas bibliográficas según las más recientes normas APA e incluirlas en las 
+referencias bibliográficas al final del documento.  
+13. Para el tipo de investigación, el aprendiz deberá indicar si exploratorio (si se familiariza con el fenómeno que 
+se investiga), descriptivo (identifica características del universo de investigación, señala formas de 
+conductas, establece comportamientos concretos y comprueba variables), expl icativo (es comprobar que la 
+propuesta soluciona el problema o no).   
+14. La población se define como el conjunto de personas a las que va dirigida la propuesta de investigación 
+formativa y guarda relación con sus fases. En este campo el aprendiz debe describi r de manera amplia el 
+contexto donde convive la población, su universo (total de actores) y se menciona la muestra (si aplica).  
+15. En el campo de técnicas e instrumentos de recolección de información, debe describir las técnicas tales 
+como la observación, la encuesta, la entrevista entre otras.  
+16. Para la etapa 2. Ejecución: diligencie cada uno de los campos propuestos teniendo en cuenta el punto 15 
+de estas instrucciones.  
+17. En la etapa 2.1 Ejecución: es necesario que diligencie los campos teniendo en cuenta el punto 7 de estas 
+instrucciones.  
+18. En la Etapa 3. Procesamiento: se deben analizar e interpretar los datos recogidos en la fase 2.1 de ejecución.  
+19. En la etapa 4. La interpretación de resultados: se debe escribir la interpretación de los resultados del ejercicio 
+de investigación formativa.   
+20. Para la interpretación de los resultados es importante tener en cuenta que se presentan los resultados 
+sustentados con datos, gráficas, etc. Su análisis confirma la existencia del problema, sus causas, su 
+incidencia. Puede presentarse en dos apartados en esa misma pestaña: resultados y análisis o realizarlo 
+integralmente, en todo caso debe tenerse en cuenta que los resultados sintetizan los datos recolectados, así 
+como su tratamiento estadístico; los resultados se exponen de manera breve destacando los hallazgos más 
+relevantes; al presentar los datos se sugiere el uso de tablas o figuras, además del texto que, en lo posible, 
+no deberá repetir lo que dicen estas tablas o figuras. En el análisis, se evalúan e interpretan las implicaciones 
+de los resultados, se presentan con suficiente detalle los datos para justificar las conclusiones; 
+particularmente en relación con los supuestos teóricos, se debe exponer de manera clara la sustentación o 
+carencia de sustento en relación con los datos.   
+21. Las conclusiones se redactan en términos de respuesta a los objetivos planteados para el proyecto.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: propuesta de investigación formativa.  
+● Formato: documento en Excel con las 5 etapas diligenciadas.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: propuesta de investigación formativa GA5-240201064-AA2-EV01.  
+  
+3.3 Actividad de aprendizaje de la competencia 240202501 - Interactuar en lengua inglesa de forma oral y 
+escrita dentro de contextos sociales y laborales según l os criterios establecidos por el Marco Común 
+Europeo de Referencia para las Lenguas  
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Durante el desarrollo de las actividades de la presente competencia se debe comprender vocabulario y expresiones 
+en inglés en contextos personales acorde con nivel pre-intermedio B1.2 de acuerdo con el MCERL (la construcción 
+de los diferentes programas de la formación en inglés emplea el MCERL como instrumento de referencia para 
+proveer los conocimientos requeridos para alcanzar el nivel).   
+  
+Adicionalmente, se combinan elementos lingüísticos y comunicativos de acuerdo con las experiencias relacionadas 
+al contexto laboral y académico. Estos elementos lingüísticos permiten contextualizar al aprendiz para que proponga 
+un uso real del idioma inglés y mejore su formación integral por medio del uso de diferentes usos y formas verbales 
+e implementos para evidenci ar de una mejor forma la adquisición y correcta asimilación de los contenidos 
+lingüísticos.  
+  
+3.3.1 Actividad de aprendizaje: GA5- 240202501-AA1 - Simular un proceso para la realización de una 
+actividad en su quehacer laboral.  
+  
+Dentro de los contextos laborales es necesario tener en cuenta las diferentes situaciones en la que se pueden poner 
+en práctica los conocimientos adquiridos, dentro de estos destaca el indicar los procedimientos a seguir, dar 
+recomendaciones, sugerencias e indicaciones en caso de emergencia. Ya que es importante comprenderlas y 
+ponerlas en práctica, así como el poder emitirlas dando soluciones a diferentes situaciones problemáticas que 
+puedan darse empleando la descripción del contexto inmediato en el que se encuentra el usuario del  idioma. En 
+idiomas es bastante útil este conocimiento ya que permite ese intercambio conversacional con otros hablantes 
+estableciendo actos comunicativos eficientes y provechosos dentro de contextos laborales y personales.  
+  
+Es importante seguir las indicaciones del instructor en cuanto a la mejor manera de apropiar el material del curso y 
+la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas  
+ 
+Material de formación: el contenido de soporte para el desarrollo de la actividad es “Level 7 B1.2.”  
+  
+❖ Evidencia de conocimiento: GA5-240202501-AA1-EV01 - Diagrama de flujo sobre las instrucciones de un 
+proceso relacionado con su quehacer laboral  
+  
+Es importante tener en cuenta que un diagrama de flujo de procesos es una de las herramientas gráficas 
+tradicionales utilizadas y se desarrolla con el debido cuidado por lo que se deberá crear un diagrama que trace un 
+proceso del quehacer laboral del aprendiz o a fin al programa de formación en el que se pueda identificar y analizar 
+un proceso administrativo, de producto o académico.  
+  
+Para dibujar el diagrama de flujo, identifique las tareas y decisiones durante el proceso y escríbalas en orden, 
+luego, organice estos pasos a través de un diagrama de flujo, usando los símbolos apropiados y de acuerdo al 
+documento anexo “Guía para elaborar diagramas de flujo”.  
+  
+Finalmente, verifique su diagrama de flujo para asegurarse que representa con precisión el proceso y que muestra 
+la forma más eficiente de hacer el trabajo.  
+  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+A continuación, puede ver algunos ejemplos de algunos diagramas de flujo que pueden guiar para la construcción 
+propia:   
+  
+Descripción  Fuente  
+Diagrama de flujo que describe las 
+formas de identificar los diferentes 
+componentes de una muestra de 
+material para guiar la creación de 
+componentes moleculares.  
+Wikimedia  Commons.  (2021).  ISA-TAB-Nano 
+flowchart.jpg.  
+https://commons.wikimedia.org/wiki/File:ISA-TAB- 
+Nano_flowchart.jpg   
+Diagrama de flujo que muestra el 
+proceso de nombramiento de los 
+magistrados de la Corte Suprema de 
+los Estados Unidos.  
+Wikimedia Commons. (2021). SCOTUS appointment 
+flowchart.svg.  
+https://commons.wikimedia.org/wiki/File:SCOTUS_app 
+ointment_flowchart.svg   
+Este diagrama de flujo representa el 
+proceso de desarrollo e 
+implementación en uso por  
+Wikimedia.  
+Wikimedia Commons. (2014). Wikimedia development 
+and deployment flowchart.png.  
+https://commons.wikimedia.org/wiki/File:Wikimedia_de 
+velopment_and_deployment_flowchart.png   
+  
+Recuerde que puede utilizar algunas herramientas digitales como Canva, Draw.io, LucidChart  e incluso Word y 
+Excel permiten crear el esquema y organizarlo de acuerdo a cada necesidad.   
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: diagrama de flujo que representa las instrucciones de un proceso relacionado con su 
+quehacer laboral o programa de formación.  
+● Formato: exportar a PDF el diagrama de flujo desde la herramienta digital utilizada.  
+● Extensión: se deben definir todas las entradas y salidas del proceso, así como las actividades que se 
+desarrollan en el mismo.  
+● Para hacer el envío del archivo remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: diagram a de flujo sobre las instrucciones de un proceso relacionado con su 
+quehacer laboral GA5-240202501-AA1-EV01.  
+  
+❖ Evidencia de producto: GA5 -240202501-AA1-EV02 - Ensayo sobre las etapas básicas del proceso de 
+una empresa y las personas en un equipo de trabajo  
+  
+El contexto laboral o académico genera diferentes puntos de vista y es parte de la condición humana y a medida 
+que la vida se vuelve más disputable y compleja, la gestión de conflictos de interés sigue creciendo.  
+  
+De acuerdo con lo anterior, elabore un ensayo en el que se expongan situaciones generales cuando ocurre una 
+situación de conflicto en un contexto laboral o académico y reporte ( reporting instructions and requests, adverbial 
+clauses, conditional clauses) una situación de conflicto de interés en alguna de las etapas de su proceso laboral o 
+académico donde se exponga de forma argumentativa la situación ( adjectives with –ed and –ing) y los procesos 
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+que pudieron involucrarse exponiendo las afectaciones que se generan en el campo laboral o académi co debido 
+a los conflictos de interés.  
+ 
+La estructura general del ensayo debe ser la siguiente:  
+✔ Título: encuadrar la idea general del ensayo y describir brevemente la temática del mismo. No limitarse a 
+una sola palabra.  
+✔ Conceptos y palabras clave: este apartado debe contener algunas palabras o conceptos clave que denotan 
+importancia y que puede incluir y resaltar en la tesis.  
+✔ Tesis: esta sección debe contar con las ideas que usted considere, enmarcan su postura frente al tema de 
+conflicto de interés (un ejemplo claro se presenta en el documento de Beyon denominado Microeconomics: 
+Conflict among interests in a multiple self as a determinant of value. The multiple self , 133-175 y acceso 
+directo https://www.suz.uzh.ch/dam/jcr:ffffffff-f952-f950-ffffffff869f7f5a/05.13_ainslie_86.pdf) . Si lo requiere 
+estas ideas pueden estar sustentadas en posturas teóricas. De ser así, por favor cítelas d entro del texto, 
+haciendo uso correcto de las más recientes normas APA.  
+✔ Conclusiones: aquí se deben proponer por lo menos tres (3) conclusiones respecto a las implicaciones de 
+lo propuesto en la tesis. Estas deben ser claras, concisas y coherentes.  
+✔ Referencias: en la parte final, se deben relacionar todas aquellas referencias bibliográficas que pudieron 
+haberse utilizado durante el desarrollo del ensayo. Estas deben presentarse teniendo en cuenta el formato 
+de la más reciente norma APA.  
+Es ideal tener cuidado con la redacción y las estructuras gramaticales utilizadas deben ser coherentes con las 
+temáticas estudiadas en el material de estudio.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto a entregar: documento tipo ensayo en el que se exponen situaciones de conflicto de interés.  
+● Extensión: el ensayo debe contener de 2 a 3 páginas, con tipo de letra Arial, tamaño 12 e interlineado doble.   
+● Formato: documento escrito en Word y se deberá exportar a PDF.  
+● Para hacer el envío del documento en PDF remítase al área de la actividad correspondiente y acceda al 
+espacio para el envío de la evidencia: ensayo sobre las etapas básicas del proceso de una empresa y 
+las personas en un equipo de trabajo GA5-240202501-AA1EV02.  
+  
+  
+● Evidencia de producto: GA5 -240202501-AA1-EV03 video sobre las etapas básicas del proceso de 
+una empresa y las personas en un equipo de trabajo  
+  
+El bienestar en el  ámbito laboral y académico se relaciona con todos los procesos de la vida, desde la calidad y 
+seguridad del entorno físico, hasta cómo se siente una persona respecto a las actividades que realiza como su 
+entorno, clima, estrés y salud.  
+  
+Según lo anterior y lo propuesto en el material formativo y por medio de un corto video activando su cámara web, 
+de forma oral realice una presentación desde su experiencia laboral o académica sobre la gestión que se realiza en 
+los procesos organizacionales y de bi enestar relacionados con nutrición ( vocabulary about food and cooking), 
+actividad física y ejercicio (sports vocabulary) para mostrar un vínculo directo entre los niveles de productividad y la 
+salud general y bienestar.  
+  
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para la elaboración del video con la cámara web, tenga en cuenta el desarrollo de un guion o estructura a través 
+de una herramienta como PowerPoint, Emaze, Prezi en la que se dispongan algunas diapositivas con imágenes y 
+textos para dar cuenta de la presentación de la importancia del ejercicio, nutrición y bienestar mental.   
+  
+Diapositivas: durante el desarrollo de la presentación oral es ideal presentar entre 3 y 5 diapositivas, donde se 
+incluyan los siguientes elementos:   
+  
+● Diapositiva de portada (datos básicos del aprendiz, nombre del curso, instructor y nombre de la actividad).  
+● Diapositivas relacionadas con los procesos organizacionales en bienestar y calidad de vida haciendo énfasis 
+en nutrición, actividad física y ejercicio.  
+● Diapositiva relacionada con los referentes bibliográficos.   
+  
+Estructura del vídeo con cámara web: cuando grabe el video, tenga en cuenta que las fotos, imágenes y textos que 
+use en las diapositivas deben ser un apoyo visual para que de forma oral denote buena pronunciación y su 
+aprendizaje sobre las temáticas estudiadas y abordadas.   
+  
+Para la realización de la emisión del vídeo deberá encender su cámara web, mostrar la pantalla con las diapositivas 
+creadas. La recomendación es utilizar alguna herramienta digital que permite grabar el vídeo y pantalla como; 
+Screencast-o-Matic, Loom, Camtasia, recordscreen.io, scrnrcrd.com e incluso existen aplicaciones como X 
+Recorder para que pueda realizarlo desde su teléfono móvil. Lo importante es mostrar las diapositivas, su cámara 
+web e ir realizando su presentación de forma oral.  
+  
+Una vez finalizado el vídeo debe cargarlo a YouTube o Vimeo, con su cuenta de correo personal o institucional; 
+compruebe que no tenga restricciones para que pueda compartir el enlace de visualización.  
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entregar: documento con los datos del aprendiz y enlace del video.  
+● Formato: Word o PDF con la URL del video.  
+● Extensión: de 2 a 5 minutos.  
+● Para hacer el envío del documento remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia video sobre las etapas básicas del proceso de una empresa y las 
+personas en un equipo de trabajo GA5-240202501-AA1-EV03.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+4. Actividades de evaluación  
+ 
+ 
+Evidencias de aprendizaje Criterios de evaluación Técnicas e instrumentos de evaluación 
+Evidencia de conocimiento:  
+Taller sobre construcción del 
+prototipo del software de 
+acuerdo al análisis de las 
+características funcionales y 
+de calidad.  
+GA5-220501095-AA1-EV01 
+ 
+Evidencia de conocimiento:  
+Nociones de reglas de 
+usabilidad y accesibilidad en 
+aplicaciones independientes, 
+web. 
+GA5-220501095-AA1-EV02  
+ 
+Evidencia de desempeño: 
+Elaboración de interfaz 
+gráfica y mapa de navegación 
+cumpliendo con reglas de 
+usabilidad y accesibilidad.  
+GA5-220501095-AA1-EV03 
+ 
+Evidencia de producto:  
+Maquetación de la interfaz 
+gráfica en HTML. 
+GA5-220501095-AA1-EV04 
+ 
+Evidencia de producto:  
+Mapa de navegación. 
+GA5-220501095-AA1-EV05 
+Propone la interfaz gráfica de 
+usuario cumpliendo reglas de 
+usabilidad y accesibilidad para 
+aplicaciones stand-alone y web. 
+ 
+ 
+ 
+Construye el mapa de navegación 
+cumpliendo reglas de usabilidad y 
+accesibilidad. 
+IE-GA5-220501095-AA1-EV01 
+Lista de chequeo 
+ 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV02 
+Lista de chequeo 
+ 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV03 
+Lista de chequeo 
+ 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV04 
+Lista de chequeo 
+ 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV05 
+Lista de chequeo 
+Evidencia de conocimiento:  
+Nociones de reglas de 
+usabilidad y accesibilidad en 
+aplicaciones independientes, 
+móviles.  
+GA5-220501095-AA1-EV06 
+ 
+Evidencia de desempeño:  
+Elaboración de interfaz 
+gráfica y mapa de navegación 
+cumpliendo con reglas de 
+usabilidad y accesibilidad app 
+móvil.  
+Propone la interfaz gráfica de 
+usuario cumpliendo reglas de 
+usabilidad y accesibilidad para 
+aplicaciones móviles. 
+ 
+ 
+Elabora prototipos según los 
+requisitos del software. 
+IE-GA5-220501095-AA1-EV06 
+Lista de chequeo 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV07 
+Lista de chequeo 
+ 
+ 
+ 
+ 
+IE-GA5-220501095-AA1-EV08 
+Lista de chequeo 
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+GA5-220501095-AA1-EV07 
+ 
+Evidencia de producto:  
+Maquetación de la interfaz 
+gráfica en XML – Android. 
+GA5-220501095-AA1-EV08 
+Evidencia de producto:  
+Mapa mental - características 
+socioeconómicas, 
+tecnológicas, políticas y 
+culturales del contexto 
+productivo inmediato. 
+GA5-240201064-AA1-EV01 
+Reconoce las necesidades del 
+contexto, según las problemáticas 
+identificadas. 
+IE-GA5-240201064-AA1-EV01 
+Rúbrica de evaluación 
+Evidencia de desempeño, 
+conocimiento y producto:  
+Propuesta de investigación 
+formativa. 
+GA5-240201064-AA2-EV01 
+Describe el problema de 
+investigación de acuerdo a los 
+elementos observados.  
+ 
+Plantea los objetivos de la 
+investigación según la pregunta de 
+investigación.  
+ 
+Consolida el proyecto de 
+investigación teniendo en cuenta la 
+pertinencia y los alcances.  
+ 
+Elabora el marco teórico de la 
+investigación de acuerdo a los 
+contextos nacional e internacional. 
+  
+Aplica técnicas de recolección de 
+información de acuerdo a criterios 
+establecidos por la metodología. 
+ 
+Comunica los resultados de la 
+investigación según criterios de 
+presentación de informes. 
+IE-GA5-240201064-AA2-EV01 
+Lista de chequeo 
+Evidencia de conocimiento:  
+Diagrama de flujo sobre las 
+instrucciones de un proceso 
+relacionado con su quehacer 
+laboral. 
+GA5-240202501-AA1-EV01 
+Hace uso de términos y expresiones 
+relacionadas con su ámbito laboral 
+específico. 
+ 
+Sigue instrucciones de un proceso 
+relacionado con su quehacer 
+laboral. 
+ 
+IE-GA5-240202501-AA1-EV01 
+Lista de chequeo 
+Evidencia de producto:  
+Ensayo sobre las etapas 
+básicas del proceso de una 
+IE-GA5-240202501-AA1-EV02 
+Lista de chequeo 
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+empresa y las personas en un 
+equipo de trabajo.  
+GA5-240202501-AA1-EV02. 
+Es capaz de hacer una presentación 
+breve y preparada sobre un tema 
+dentro de su especialidad con la 
+suficiente claridad como para que 
+se pueda seguir sin dificultad la 
+mayor parte del tiempo y cuyas 
+ideas principales están explicadas 
+con una razonable precisión. 
+Evidencia de producto:  
+Video sobre las etapas 
+básicas del proceso de una 
+empresa y las personas en un 
+equipo de trabajo. 
+GA5-240202501-AA1-EV03 
+IE-GA5-240202501-AA1-EV03 
+Lista de chequeo 
+ 
+ 
+5. Glosario de términos  
+  
+Bienestar: estado de sentirse cómodo, saludable o feliz. Con el tiempo, es concebible que esta definición se 
+perfeccione para reflejar el contexto de vida.  
+  
+Conflicto de intereses: ocurre cuando una parte tiene intereses o lealtades en competencia debido a sus deberes 
+para con más de una persona u organización. Una persona con un conflicto de intereses no puede hacer justicia a 
+los intereses reales o potencialmente conflictivos de ambas partes.  
+  
+Cláusulas adverbiales: una cláusula adverbial es un grupo de palabras que desempeña el papel de un adverbio. 
+(Como todas las cláusulas, una cláusula adverbial contiene un sujeto y un verbo).  
+  
+Diagrama de flujo : es un esquema de los pasos separados de un proceso en orden secuencial, que se puede 
+adaptar para una amplia variedad de propósitos y se puede utilizar para describir varios procesos, como un proceso 
+de fabricación, un proceso administrativo o de servicio o un plan de proyecto. Es una herramienta común de análisis 
+de procesos.  
+  
+Gerundio: es una forma del verbo finalizada en “ ing” que funciona como un sustantivo y tiene relación con 
+actividades finalizadas o concretas.  
+  
+Infinitivo: es una forma del verbo antecedida por “to” que funciona como un sustantivo y tiene relación con futuras 
+o abstractas.  
+  
+Método: modo de decir o hacer con orden, modo de obrar o proceder, hábito o costumbre que cada uno tiene y 
+observa.  
+  
+Verbo transitivo: verbo que requiere del uso de un objeto directo sobre el que recae la acción.  
+  
+Verbo intransitivo: verbo que no requiere del uso de un objeto directo.  
+  
+Verbos compuestos: contienen una o más partículas que hacen que el significado del verbo cambie ligera o 
+totalmente.  
+  
+ 
+ 
+  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+6. Referentes bibliográficos  
+  
+Ainslie, G. (1986). Beyond microeconomics: Conflict among interests in a multiple self as a determinant of value. 
+En: Elster, Jan (Ed.), The multiple self, (pp. 133-175). Cambridge University Press.  
+  
+Figarola, I. (s. f.). Fonética inglesa (th). https://www.abaenglish.com/es/fonetica-inglesa/th/    
+  
+Giraldo, G. L., Acevedo, J. F., y Moreno, D. A. (2011). Una ontología para la representación de conceptos de 
+diseño de software. Revista Avances en Sistemas e Informática, 8(3), 103-110.  
+  
+Ojeda, Y. G., y García, E. V. (2008). Guía para la identificación y análisis de los procesos de la Universidad de  
+ Málaga.  Universidad  de  Málaga.  
+https://www.uma.es/publicadores/gerencia_a/wwwuma/guiaprocesos.pdf   
+Organización Internacional Laboral. (2009). Workplace well-being. https://www.ilo.org/global/topics/safety-
+andhealth-at-work/areasofwork/workplace-health-promotion-and-well-being/WCMS_118396/lang-
+en/index.htm    
+Sampieri, R. H. (2018). Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. McGraw Hill 
+México.  
+  
+Systems,  V.  (2013).  Inglés:  grado  superior.  McGraw-Hill  España. 
+ https://elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1    
+  
+Valera, O. (2009). Metodología de la Investigación educacional. P. y Educación (Ed.).  
+ 
+7. Control del documento  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor( 
+es)  
+  
+Marisol   
+Osorio Beltrán  Líder Sennova  Centro  de  Formación  en  Diseño  Confección y Moda- Regional Antioquia  Noviembre 2020  
+Luz  Mila  Pacheco  
+Fuentes  
+Diseñadora 
+instruccional  
+Centro de Diseño y Metrología Regional  
+Distrito Capital  
+Noviembre 
+2020  
+Julieth Paola Vital 
+López  
+Corrección  de  
+estilo  
+Centro para la Industria de la 
+Comunicación Gráfica Regional Distrito 
+Capital.  
+Noviembre 
+2020  
+Elkin Rodolfo Moreno 
+Merchan  Experto temático  Centro de Formación de Talento Humano en Salud - Regional Distrito Capital  Febrero  2021  
+Oscar   
+Absalon Guevara  
+Diseñador 
+instruccional  
+Centro de Gestión Industrial - Regional 
+Bogotá  Febrero  2021  
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Carlos Hernán Muñoz 
+Carvajal  
+Experto Temático  Centro de Teleinformática y Producción  
+Industrial - Regional Cauca  
+  
+Diciembre 2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador 
+instruccional  
+Centro  para  la  Industria  de  la  
+Comunicación Gráfica - Regional Distrito 
+Capital  
+Diciembre 2021  
+Silvia  Milena  
+Sequeda Cárdenas  
+Metodóloga  Centro de Diseño y Metrología Regional  
+Distrito Capital  
+Febrero  
+2022  
+ 
+Rafael  Neftalí  
+Lizcano Reyes  
+Asesor  
+Pedagógico  
+Centro Industrial del Diseño y la 
+Manufactura - Regional Santander  
+Febrero  
+2022  
+ 
+José Gabriel Ortiz  
+Abella  
+Corrector  de  
+estilo  
+Regional Distrito Capital -  Centro de 
+Diseño y Metrología   
+Febrero 
+2022.  
+del  
+  
+  
+7. Control de cambios  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+  
+  

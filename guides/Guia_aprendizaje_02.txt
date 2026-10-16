@@ -1,0 +1,1782 @@
+
+=== PAGE 1 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+  
+1. IDENTIFICACIÓN DE LA GUÍA DE APRENDIZAJE   
+  
+● Denominación del programa de formación: análisis y desarrollo de software.   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: análisis.   
+● Actividad de proyecto: especificar el modelo conceptual y estructurar la propuesta téc nica del proyecto de 
+software.  
+● Competencias:  
+Técnicas:  
+22050193- Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares.  
+22050194- Estructurar propuesta técnica de servicio de tecnología de la información según requisitos 
+técnicos y normativa.   
+Claves:   
+240201528- Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera 
+matemática en contextos laborales, sociales y personales.  
+240202501- Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales 
+según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501093-02- Modelar las funciones del software de acuerdo con el informe de requisitos.  
+220501093-04- Verificar los modelos realizados en la fase de análisis de acuerdo con lo establecido en el 
+informe de requisitos.   
+220501094-01- Definir especificaciones técnicas del software de acuerdo con las características del software 
+a construir.  
+220501094-02- Elaborar propuesta técnica del software de acuerdo con las especificaciones técnicas 
+definidas.  
+220501094-03- Validar las condiciones de la propuesta técnica del software de acuerdo con los intereses de 
+las partes.  
+  
+Claves:  
+240201528-01- Identificar modelos matemáticos de acuerdo con los requerimientos del problema planteado 
+en contextos sociales y productivo.  
+240201528-02- Plantear problemas matemáticos a partir de situaciones generadas en el contexto social y 
+productivo.  
+240201528-03- Resolver problemas matemáticos a partir de situaciones generadas en el contexto social y 
+productivo.  
+240201528-04- Proponer acciones de mejora frente a los resultados de los procedimientos matemáticos de 
+acuerdo con el problema planteado.   
+240202501-02- Intercambiar opiniones sobre situaciones cotidianas y laborales actuales, pasadas y futuras 
+en contextos sociales orales y escritos.  
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+● Duración de la guía: 384 horas  
+● Técnico: 240 horas.   
+● Claves: 144 horas.  
+  
+  
+2. PRESENTACIÓN  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la segunda guía de aprendizaje que comprende las 
+competencias técnicas de: evaluar requisitos de la solución de software de acuerdo con metodologías de análisis 
+y estándares, y la competencia de estructurar propuesta técnica de servicio de tecnología de la información según 
+requisitos técnicos y normativa.  
+Por otra parte, la sociedad actual demanda que todos los ciudadanos tengan conocimientos básicos de 
+matemáticas en cualquier ámbito, no solo el profesional o académico; muchos problemas de la vida diaria requieren 
+un conocimiento mínimo sobre operaciones básicas, como la suma, la resta, la multiplicación o la división; por 
+ejemplo: revisar el saldo de una tarjeta de crédito, solicitar un préstamo, comprar víveres o realizar un presupuesto 
+mensual. Y es que es casi imposible encontrar una profesión o carrera que no lleve implícito algún componente 
+lógico– matemático, o que incluya alguna rama de las matemáticas.   
+Finalmente, encontrarán la compet encia clave de inglés como una de las habilidades contemporáneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para las Lenguas) como estándar del nivel de conocimiento de lengua y categorización de los 
+conocimientos en niveles de competencia en un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa, los cuales, de forma continua y permanente, lo orientarán con las pautas necesarias para 
+el logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual para brindar orientaciones específicas relacionadas con 
+las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la rea lización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. FORMULACIÓN DE LAS ACTIVIDADES DE APRENDIZAJE  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de análisis del proyecto formativo: determinar las especificaciones funcionales del software y metodología a 
+utilizar.   
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.1 Actividades de aprendizaje de la competencia evaluar requisitos de la solución de software de 
+acuerdo con metodologías de análisis y estándares-220501093.  
+  
+Con base en los requisitos de software especificados con esta competencia, se empiezan a construir los artefactos 
+del modelo necesarios para representar la solución, por medio de los siguientes documentos: diagramas de clase, 
+documentos de casos de uso o historias de usuario en plantillas, modelo de base de datos, modelo del dominio, 
+diagramas de actividades y también un documento informe con los resultados obtenidos.   
+  
+3.1.1 Actividad de aprendizaje GA2-220501093-AA1: elaborar diagrama y documentación de casos de uso / 
+historias de usuario de acuerdo con el refinamiento de requisitos.  
+  
+Esta actividad se centra en el estudio de la elaboración de los artefactos de casos de uso e historias de usuario 
+acordes con los requerimientos del sistema a implementar, elemento clave para tener una correct a definición y 
+delimitación de las actividades que debe tener el proyecto a desarrollar.  
+ 
+Duración: 48 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Diagramas para la especificación y análisis de requisitos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-220501093-AA1-EV01: Foro temático: Lenguaje Unificado de Modelado (UML).  
+  
+El lenguaje UML es fundamental para representar el proceso de análisis de requisitos de software, por lo tanto, el 
+aprendiz debe proponer su punto de vista acerca de la importancia del lenguaje de modelado en el proceso de 
+desarrollo de software, así como también identificar y describir los tipos de diagramas que existen y el conjunto de 
+símbolos que se usan para definirlos, y debatir con los demás compañeros acerca de sus experiencias con las 
+mejores herramientas de software que permiten, de una manera ágil, construir los diagramas.  
+  
+Por lo anterior, responda las siguientes preguntas:  
+  
+✔ ¿Cuál es la importancia de UML?  
+✔ ¿Cuáles son los diagramas que pueden representarse con UML?  
+✔ ¿Qué herramientas de software existen en el mercado para UML?  
+  
+Lineamientos generales para la entrega de la evidencia:   
+o Para hacer el desarrollo de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Foro temático: Lenguaje Unificado de Modelado (UML). GA2-220501093-AA1-EV01.  
+  
+ 
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia GA2-220501093-AA1-EV02: elaboración de diagramas y pl antillas para casos de uso del 
+proyecto.  
+  
+Con base en el estudio de la evidencia anterior acerca de UML, se pretende construir los diagramas que aplican a 
+los casos de uso, bajo un formato estándar de fácil nomenclatura y de reconocimiento, que permita llevar un control 
+ordenado de la evidencia, registrar la evolución, responsables y trazabilidad de esos documentos de casos de uso.  
+  
+Elementos a tener en cuenta:  
+  
+✔ Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+✔ Revisar el video sugerido como material complementario del componente formativo.  
+✔ Revisar cómo se construye el documento de casos de uso de una funcionalidad de l os sistemas. ✔ Tener 
+presentes los requisitos del software.  
+✔ Indicar los tipos de diagramas que existen para modelar, con base en los requisitos del software.  
+✔ Diagramar con UML los artefactos del sistema.  
+✔ Manejar herramientas de software para apoyar la elaboración de los diagramas.  
+✔ Elaborar documentos plantilla de casos de uso con base en estándares de documentación.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: diagramas, documento de casos de uso e historias de usuario.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Elaboración de diagramas y plantillas para casos de uso del proyecto. GA2-220501093-AA1-EV02.  
+  
+● Evidencia GA2-220501093-AA1-EV03: elaboración de historias de usuario del proyecto.  
+  
+Ahora, es momento de elaborar las historias de uso del proyecto, de acuerdo con los procesos ya elaborados, y 
+por este motivo, se deben tener en cuenta los siguientes aspectos:  
+  
+● Se deben seguir las normas básicas de presentación de un documento escrito; es decir, el documento debe 
+tener como mínimo una portada, introducción, alcance, lista de requerimientos y versión del documento. Los 
+requerimientos serán redactados usando el modelo IEEE830 y también el modelo de descripción de 
+requisitos por medio de historias de usuario.  
+● Respecto a lista de requerimientos, el aprendiz deberá agregar una sección donde se describa cada requisito 
+usando los siguientes elementos del estándar IEEE830:   
+🌕🌕 Perspectiva del producto.  
+🌕🌕 Funciones del producto.  
+🌕🌕 Características de los usuarios.  
+🌕🌕 Restricciones.  
+🌕🌕 Requisitos funcionales (formato de casos de uso).  
+🌕🌕 Requisitos no funcionales.  
+● Respecto a la lista de requerimientos, el aprendiz deberá agregar una sección donde se describa cada 
+requisito usando la estructura de historias de usuario, con los siguientes elementos por historia: 🌕🌕 Número 
+de historia (priorizada).  
+
+=== PAGE 5 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+🌕🌕 Nombre de la historia.  
+🌕🌕 Usuario.  
+🌕🌕 Puntos estimados de esfuerzo.  
+🌕🌕 Descripción de la historia de usuario.  
+🌕🌕 Observaciones.  
+🌕🌕 Criterios de aceptación.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: documento de historias de usuario.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Elaboración de historias de usuario del proyecto. GA2-220501093-AA1-EV03.  
+  
+● Evidencia GA2-220501093-AA1-EV04: diagramas y documentación de actividades del proyecto.  
+  
+Con base en los requisitos del sistema ya especificados, se empiezan a construir los artefactos del modelo 
+necesarios para representar la solución de software, por medio de los siguientes documentos: diagramas de clase, 
+documentos de casos de uso o histori as de usuario en plantillas, modelo de base de datos, modelo del dominio, 
+diagramas de actividades y también un documento informe con los resultados obtenidos. Aspectos a tener en 
+cuenta:  
+  
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo.  
+● Revisar el video sugerido como material complementario del componente formativo.  
+● Manejar el lenguaje de modelado UML.  
+● Manejar metodologías tipo ágil.  
+● Identificar la metodología de desarrollo a seguir.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: diagramas, documento de casos de uso e historias de usuario.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Diagramas y documentación de actividades del proyecto. GA2-220501093-AA1-EV04.  
+  
+3.1.2 Actividad de aprendizaje GA2- 220501093-AA2: representar el co ntexto del negocio a través del 
+diagrama de dominio y actividades.   
+ 
+Esta actividad se centra en el estudio de los componentes necesarios para diagramar el contexto del negocio y 
+representar su dominio, así como también en cómo construir un diagrama de ac tividades.  
+ 
+Duración: 24 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Diseño del modelo conceptual bajo el paradigma orientado a objetos”.   
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+● Evidencia GA2- 220501093-AA2-EV01: elaboración de los diagramas del modelo de dominio del 
+proyecto.   
+Esta evidencia se centra en la elaboración del diagrama de clases del proyecto, identificando cómo las categorías 
+que intervienen se relacionan, teniendo e n cuenta su cardinalidad, dependencias y herencias, llevando esto a la 
+organización de objetos por medio de segmentación de componentes en paquetes claramente identificables.  
+Aspectos a tener en cuenta:  
+  
+● Se deben seguir las características e instrucciones para la elaboración de un diagrama de dominio del 
+proyecto.   
+● El modelo conceptual resultante debe guardar las proporciones necesarias, de modo que se vea ordenado y 
+sea fácil su lectura.  
+● Para complementar el modelo del dominio, se puede representar por medio de otra vista que corresponde al 
+diagrama de paquetes del proyecto.  
+● Tener en cuenta los requisitos del software.  
+● Identificar el tipo de diagrama apropiado para modelar el dominio.  
+● Diagramar con UML los artefactos del sistema, diagrama de clases y de paquetes.  
+● Manejar herramientas de software para apoyar la elaboración de los diagramas.  
+● Elaborar documento plantilla de casos de uso con base en estándares de documentación.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: documento del dominio del proyecto.  
+● Formato: PDF  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:  
+Elaboración de los diagramas del modelo de dominio del proyecto. GA2-220501093-AA2-EV01.  
+  
+3.1.3 Actividad de aprendizaje GA2-220501093-AA3: validar artefactos de análisis generados.  
+  
+Esta actividad se centra en realizar la verificación de los documentos generados.  
+Duración: 24 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Validación de documentos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+ 
+
+=== PAGE 7 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia GA2-220501093-AA3-EV01: mapa conceptual sobre validación de documentos.  
+  
+Por medio de esta evidencia, se pretende establecer una secuencia lógica de dependencias para llevar a cabo la 
+validación de los documentos identificados en el proceso de desarrollo de software, realizando un mapa conceptual.  
+  
+Elementos a tener en cuenta en el mapa conceptual:  
+  
+● Se deben seguir las características e instrucciones para la elaboración del mapa conceptual, identificando 
+categorías y sus relaciones desde un orden lógico.   
+● El modelo conceptual resultante debe guardar las proporciones necesarias, de modo que se vea ordenado y 
+sea fácil su lectura.  
+● Manejar herramientas de software que faciliten la elaboración de los diagramas y su fácil entendimiento.  
+● Identificar la metodología de desarrollo a seguir.  
+● Identificar los conceptos para relacionar los documentos a validar.  
+● Formatos de aceptación.  
+● Elaborar el documento con diagrama conceptual.  
+   
+Lineamientos para la entrega del producto:   
+● Producto para entregar: documento del mapa conceptual.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:  
+Mapa conceptual sobre validación de documentos. GA2-220501093-AA3-EV01.  
+  
+  
+● Evidencia GA2- 220501093-AA3-EV02: elaboración del informe de análisis con listas de chequeo 
+para la validación de artefactos.  
+  
+Esta evidencia se orienta hacia la elaboración de un documento informe para validar los artefactos del software 
+diseñados y que estén acordes con lo requerido por el cliente. Dicho informe debe ser validado con el cliente para, 
+de esta forma, validar que todos los requerimientos funcionales y de diseño se presentan de acuerdo con lo 
+requerido.  
+  
+Elementos a tener en cuenta:  
+  
+● Se deben seguir las normas básicas de presentación de un documento escrito; es decir, el documento debe 
+tener como mínimo una portada, introducción, alcance, lista de requerimientos y versión del documento.  
+● El informe debe evidenciar la implementación de características paso a paso de cumplimiento.  
+● El informe debe evidenciar la implementación de estrategias de cumplimiento.  
+● Construir el documento de informe de artefactos entregados.  
+● Identificar los procesos y usuarios interesados.  
+● Validar con los usuarios los requerimientos encontrados.  
+● Elaborar el documento de lista de chequeo paso a paso.  
+  
+ 
+ 
+ 
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: informe técnico.  
+● Formato: PDF.  
+● Extensión: libre  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Elaboración del informe de análisis con listas de chequeo para la validación de artefactos. 
+GA2220501093-AA3-EV02.  
+  
+  
+3.2. Actividades de aprendizaje de la competencia estructurar propuesta técnica de servicio de tecnología 
+de la información según requisitos técnicos y normativa-220501094.  
+En esta competencia se detalla la forma correcta de preparar, elaborar y presentar una propuesta técnica de 
+software de manera adecuada, siguiendo los parámetros y especificaciones técnicas establecidas, teniendo en 
+cuenta, como insumo principal, las necesidades de los stakeholders o partes interesadas.  
+  
+3.2.1 Actividad de aprendizaje GA2- 220501094-AA1: Determinar las especificaciones técnicas a partir del 
+diagnóstico de necesidades informáticas  
+   
+Esta actividad se centra en determinar especificaciones técnicas de una solución de software, como son el diseño 
+y elaboración de fichas técnicas, licencias de software y las condiciones económicas del producto.  
+Duración: 72 horas.  
+  
+Materiales de formación: Para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Especificaciones de software”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-220501094-AA1-EV01: Foro temático: Licenciamiento de software  
+  
+Teniendo en cuenta que los licenciamientos de software son contratos que detallan los derechos legales y el uso 
+de una solución de software, analice la realidad actual de este t ema y exprese su concepto, generando aportes 
+significativos sobre los tipos de licencia existentes y cuáles son los más utilizados.  
+  
+Como preguntas de orientación para realizar la participación en el foro, se proponen las siguientes:   
+✔ ¿Qué es software?  
+✔ ¿Qué es una licencia de software?  
+✔ Tipos de licencia de software.  
+✔ ¿Cuáles son las más adecuadas y por qué?  
+  
+
+=== PAGE 9 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Realice seguimiento al foro y responda a un comentario de forma crítico- reflexiva, de acuerdo con la intervención 
+que hayan realizado sus compañeros, demostrando construcción de conocimiento frente a los planteamientos que 
+cada uno proponga.  
+  
+ 
+Elementos a tener para la participación en el foro:   
+● Estudiar detenidamente los conceptos y características definidas en el componente formativo de 
+especificaciones de software.   
+● Revisar los temas sugeridos como material complementario del componente formativo.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos para entregar: participación en el foro.  
+● Formato: LMS.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:  
+Foro temático: Licenciamiento de software. GA2-220501094-AA1-EV01.  
+  
+● Evidencia GA2- 220501094-AA1-EV02: diseño de las fichas técnicas para la recolección de la 
+información.  
+  
+Las fichas técnicas son un documento que reúne las características de los productos de software desarrollados y 
+permite el registro e identificación de las fuentes de información. Hay que diseñarlas teniendo en cuenta los 
+estándares definidos en el componente formativo especificaciones de software. Por este motivo, para esta 
+evidencia, se debe realizar una ficha técnica teniendo en cuenta los siguientes aspectos:  
+✔ Estudiar detenidamente los conceptos y características definidas en el componente formativo de 
+especificaciones de software.   
+✔ Revisar los temas sugeridos como material complementario del componente formativo.  
+✔ Para la elaboración de la ficha técnica, se debe apoyar en la normatividad; en este caso, se realizará la ficha 
+técnica tomando como referencia la Norma NTC ISO 9000 Sistema de Gestión de Calidad.  
+✔ Realizar el diseño de las fichas técnicas de acuerdo con la información que se requiera recolectar. Se debe 
+hacer teniendo en cuenta las características de las fuentes consultadas.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Productos a entregar: ficha técnica para la recolección de la información.  
+● Formato: PDF o Excel.  
+● Extensión: formatos de fichas diligenciados.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:   
+diseño de las fichas técnicas para la recolección de la información GA2-220501094-AA1-EV02.  
+  
+● Evidencia GA2- 220501094-AA1-EV03: especificación de los referentes técnicos del hardware - 
+software y estimación de las condiciones económicas.  
+  
+Las especificaciones de los referentes técnicos son muy importantes en la elaboración de una solución de software 
+respecto a las necesidades de la empresa; por otra parte, la estimación de las condiciones económicas permite 
+tener una proyección de lo que se puede desarrollar. Por este motivo, para esta evidencia, se requiere realizar un 
+informe teniendo en cuenta lo siguiente:  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+● Para elaborar el documento se deben seguir las condiciones básicas estipuladas en el componente formativo 
+sobre especificaciones de software.   
+● Se deben estimar las condiciones técnicas y económicas de acuerdo con las características de la solución 
+de software y las necesidades de la empresa.  
+● Presentación de un documento escrito; es decir, el documento debe tener como mínimo una portada, 
+introducción, contenido y conclusión.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+o Producto para entregar: documento informe.  
+o Formato: PDF.  
+o Extensión: mínimo 3 hojas, máximo 10 de contenido.  
+o Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Especificación de los referentes técnicos del hardware - software y estimación de las condiciones 
+económicas. GA2-220501094-AA1-EV03.  
+  
+3.2.2 Actividad de aprendizaje GA2-220501094-AA2: realizar el análisis de proveedores a partir de las fichas 
+técnicas.  
+ 
+Esta actividad se centra en el estudio del análisis comparativo de proveedores, considerando costos, cantidad y 
+especificaciones técnicas para seleccionar las mejores opciones.  
+Duración: 12 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad, es importante la lectura y el análisis del componente 
+formativo “Propuesta técnica”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2- 220501094-AA2-EV01: ficha técnica de los productos requeridos, los términos de 
+referencia para el contrato y lista de chequeo para evaluación de proveedores.   
+  
+La ficha técnica es un documento que contiene la descripción, características y funciones de un determinado 
+producto; se podría afirmar que es el insumo inicial del cual se parte el desarrollo.   
+  
+Por lo anterior y teniendo en cuenta los términos de referencia establecidos en el componente formativo sobre la 
+propuesta técnica, elabore la ficha técnica basado en los siguientes conceptos:   
+✔ Descripciones.  
+✔ Características.  
+✔ Funciones.  
+✔ El formato debe ser de manera horizontal.  
+✔ Se pueden utilizar tablas de Word o Excel.  
+
+=== PAGE 11 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+✔ Se debe enriquecer con un diseño o logo, como si fuera la papelería de una empresa real.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: ficha técnica  
+● Formato: Excel o Word.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de 
+chequeo para evaluación de proveedores. GA2-220501094-AA2-EV01.  
+  
+3.2.3 Actividad de aprendizaje GA2- 220501094-AA3: elaborar la propuesta técnica y financiera a partir de 
+los referentes establecidos.   
+Esta actividad se centra en que el aprendiz obtenga las competencias necesarias en los temas de estimaci ón de 
+costos de software y hardware, de acuerdo con las características del negocio y la correcta elaboración de una 
+propuesta técnica en el estudio del análisis comparativo de proveedores, considerando costos, cantidad y 
+especificaciones técnicas para seleccionar las mejores opciones.  
+Duración: 24 horas.  
+  
+Materiales de formación: Para el desarrollo de esta actividad, es importante la lectura y el análisis del componente 
+formativo “Propuesta técnica”.  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2- 220501094-AA3-EV01: diseño de tablas comparativas sobre presupuestos de 
+hardware y software.  
+  
+Las tablas comparativas son utilizadas para estimar costos en el presupuesto de software  y hardware. Por tal 
+motivo, diseñe dichas tablas teniendo en cuenta lo siguiente:  
+  
+● Para elaborar el documento se deben seguir las condiciones básicas estipuladas en el componente formativo 
+de la propuesta técnica.   
+● Presentación de un documento escrito, es decir, el documento debe tener como mínimo una  portada, 
+introducción, contenido y conclusión.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: diseño de tablas comparativas sobre presupuestos de hardware y software.  
+● Formato: PDF, Word o Excel.  
+● Extensión: Libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Diseño de tablas comparativas sobre presupuestos de hardware  y software. GA2 -220501094-
+AA3EV01.  
+  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencias GA2-220501094-AA3-EV02: propuesta técnica y económica para la implementación del 
+proyecto  
+  
+La propuesta técnica es el documento que se entrega al posible cliente, en el cual se detalla la estrategia a 
+desarrollar para darle solución a un problema existente, por medio de una solución de software.   
+  
+Por lo anterior y teniendo en cuenta los términos de referencia establecidos en el componente formativo sobre la 
+propuesta técnica, elabore la propuesta técnica, la cual debe tener el siguiente cont enido:   
+✔ Presentación y saludos.  
+✔ Alcance de la propuesta.  
+✔ Valoración de la situación.  
+✔ Opciones de propuesta.  
+✔ Estimar costos.  
+✔ Cotización.  
+✔ Términos y condiciones.  
+✔ La propuesta se debe enriquecer con un diseño o logo, como si fuera la papelería de una empresa real.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: propuesta técnica    
+● Formato: PDF o Word.  
+● Extensión: mínimo dos (2) opciones de propuestas técnicas, con su respectiva cotización.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:  
+Propuesta técnica y económica para la implementación del proyecto- GA2-220501094-AA3-EV02  
+  
+3.2.4 Actividad de aprendizaje GA2-220501094-AA4: presentar la propuesta técnica y económica de acuerdo 
+con las condiciones del contrato a desarrollar.  
+Esta actividad se centra en la presentación de la propuesta técnica y económica, con los debidos ajustes obtenidos 
+como resultado de las sugerencias y la negociación tecnológica.  
+Duración: 36 horas.  
+  
+Materiales de formación: Para el desarrollo de esta actividad, es importante la lectura y el análisis del material de 
+formación: “Propuesta técnica”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-220501094-AA4-EV01: taller de especificación del modelo conceptual y estructurar 
+la propuesta técnica del proyecto de software.  
+  
+Una propuesta técnica se centra en proporcionar información sobre una solución de software para resolver un 
+problema de un negoci o automatizando un proceso; esta puede ser presentada en diferentes formatos, 
+dependiendo del proyecto y del objetivo previsto.  
+
+=== PAGE 13 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Por consiguiente, en este taller, realizará una representación de una propuesta técnica, definiendo los conceptos 
+básicos y la estructura.  
+  
+Elementos a tener en cuenta en el documento del informe técnico:   
+● Leer detenidamente los conceptos básicos definidos en el componente formativo de la propuesta técnica.   
+● Se deben seguir las normas básicas de presentación de un documento escrito; es decir, el documento debe 
+tener, como mínimo, portada, introducción, alcance, lista de requerimientos y versión del docu mento.  
+● Realizar un glosario de terminología utilizada en una propuesta técnica: “presupuestos, teoría, costos, 
+términos de referencia”.  
+● Desarrollar una propuesta técnica de software alternativa a la que se está trabajando.  
+● Consultar material referente al tema para enriquecer el producto.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Producto para entregar: informe técnico.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de 
+software. GA2-220501094-AA4-EV01.  
+  
+● Evidencia GA2-220501094-AA4-EV02 Propuestas técnica y económica con ajustes de acuerdo a la 
+negociación tecnológica  
+ 
+Con base en la propuesta técnica desarrollada, realizar los respectivos ajustes técnicos, de acuerdo con los 
+resultados de la negociación y las sugerencias del cliente.  
+  
+Para ello, teniendo en cuenta los términos de referencia establecidos en el componente formativo de la propuesta 
+técnica, realizar los ajustes a la propuesta técnica presentada; esta debe tener:   
+✔ Presentación y saludos.  
+✔ Alcance de la propuesta.  
+✔ Valoración de la situación.  
+✔ Opciones de propuesta.  
+✔ Estimar costos.  
+✔ Cotización.  
+✔ Términos y condiciones.  
+✔ La propuesta se debe enriquecer con un diseño o logo, como si fuera la papelería de una empresa real.   
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: propuesta técnica con las correcciones sugeridas.  
+● Formato: PDF.    
+● Extensión: libre.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica GA2220501094-
+AA4-EV02.  
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+3.3 Actividades de aprendizaje de la com petencia razonar cuantitativamente frente a situaciones 
+susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y 
+personales240201528.  
+Las actividades propuestas para el desarrollo de esta competencia están diseñadas para potenciar el trabajo 
+autónomo con las labores de investigación y generación de documentos sobre las temáticas planteadas, y el trabajo 
+colaborativo, a partir de la interacción de aprendices e instructores mediante encuentros sincrónicos y asincrónicos.   
+3.3.1 Actividad de aprendizaje GA2- 240201528-AA1: desarrollar procedimientos aritméticos para resolver 
+problemáticas de la vida cotidiana.   
+  
+Esta actividad de aprendizaje se centra en desarrollar la capacidad de resolver problemas aritméticos; para ello, y 
+como afirma Gasco-Txabarri (2017), “las estrategias de resolución de problemas matemáticos con enunciado (o 
+problemas verbales) son diversas y pueden estar condicionadas por varios factores asociados al tipo de problema, 
+a la comprensión del texto o a la persona que resuelve” (p. 1), de ahí la importancia de la aplicación en la vida 
+cotidiana.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “Matemáticas. Nivel básico”.  
+  
+Evidencias:   
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-240201528-AA1-EV01: cuestionario procedimientos aritméticos.  
+  
+Para el desarrollo de esta evidencia, en primera instancia, consulte el anexo “ Preguntas_conjuntos-
+240201528AA1-EV01”, en el que se presentan una serie de preguntas similares a las que encontrará en la 
+evaluación. Pruebe resolverlas y comente cualquier inquietud al instructor. Luego, debe responder la evaluación 
+disponible en plataforma.   
+  
+Antes de responder las preguntas, es importante tener en cuenta lo siguiente:   
+✔ Revisar el material de formación (conjuntos numéricos, operaciones aritméticas, razones y proporciones), 
+seguramente le permitirá comprender con detalle los conceptos.  
+✔ Debe responder la totalidad de las preguntas formuladas en la evaluación en línea.   
+  
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio:  
+Cuestionario procedimientos aritméticos. GA2-240201528-AA1-EV01.  
+ 
+ 
+
+=== PAGE 15 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.3.2 Actividad de aprendizaje GA2-240201528-AA2: resolver problemas de aplicación de situaciones de los 
+contextos productivo y social a partir del uso de herramientas matemáticas.  
+De acuerdo con Blanco et al. (2006), “la resolución de problemas requiere una actividad mental que se pone en 
+funcionamiento desde el momento en que se nos presenta el enunciado y lo asumimos como un reto, hasta que 
+damos por terminado el problema una vez hallada su solución” (p. 26). Con base en dicha definición, se puede 
+evidenciar la necesidad de que sea aplicada a diversas situaciones, tanto en el contexto productivo como en el 
+social.  
+  
+Duración: 12 horas  
+  
+Materiales de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “Matemáticas. Nivel medio”.   
+ 
+Evidencias:   
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-240201528-AA2-EV01: planteamiento de ecuación.  
+  
+Para esta evidencia, se toma como estrategia el aprendizaje basado e n problemas, en el cual usted resolverá un 
+problema de aplicación utilizando las herramientas matemáticas propuestas en el material de formación del 
+componente medio.  
+ 
+Problema de aplicación 
+Una firma de arquitectos en una estrategia de mercadeo muy innov adora busca entregar a cada uno de sus clientes una 
+casa en escala de chocolate, como la que se ve en la siguiente figura. 
+ 
+Figura 1 
+Prototipo de casa de chocolate 
+  
+Nota. Tomada de Getty Images/iStockphoto. 
+ 
+La repostería que contrataron para llevar a cabo dicho proyecto tiene dos inconvenientes. El primero es el uso óptimo de 
+la materia prima en el diseño de las casas; y el segundo es encontrar una opción económicamente viable para el empaque 
+de la casa, pues al ser comestible debe estar protegida con una vitrina de metacrilato. 
+ 
+
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Se solicita que, para aportar a la solución de esta situación, realice lo siguiente:  
+a. Plantee una ecuación que represente el área total de la casa de chocolate.  
+b. Busque una función que represente el costo total de una casa de chocolate vs. cantidad de casas de chocolate. 
+Para esto debe tener en cuenta que hay unos gastos fijos como el costo de la materia prima, el salario de los 
+reposteros, costo del material de la vitrina en la que se entregará la casa, entre otros.  
+c. Proponga una solución más rentable para la entrega de casas de chocolate. 
+d. Plasmar estos resultados en un documento donde justifique la solución que le dio al problema.  
+ 
+Para el desarrollo de esta evidencia, deberá elaborar un informe en el cual aborde los siguientes puntos:  
+   
+✔ Portada.  
+✔ La ecuación que define el área total de la casa y su respectiva explicación.  
+✔ La función que relaciona el costo de producción de las casas vs. cantidad de casas de chocolate, con su 
+respectiva justificación.  
+✔ Propuesta de mejora de proceso.  
+✔ Conclusiones.  
+✔ Bibliografía (se puede apoyar en la biblioteca virtual del SENA http://biblioteca.sena.edu.co/ )  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto para entregar: informe del planteamiento de la ecuación.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Planteamiento de ecuación. GA2-240201528-AA2-EV01.  
+  
+3.3.3 Actividad de aprendizaje GA2- 240201528-AA3: realizar un muestreo estadístico acerca de una 
+situación contextualizada en la vida diaria.  
+Con base en la premisa y como se define en Guerrero (2007), “una población es un conjunto bien definido de 
+elementos o unidades, y una muestra es un subconjunto de la población” (p.28), esta actividad busca los aspectos 
+a tener en cuenta al momento de realizar un muestreo estadístico.  
+Duración: 12 horas.  
+  
+Materiales de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “Matemáticas. Nivel intermedio”.   
+  
+Evidencias:   
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+●  Evidencia GA2-240201528-AA3-EV01: video sustentación.  
+  
+
+=== PAGE 17 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para esta actividad, se toma como estrategia el aprendizaje basado en estudio de casos, en el cual usted debe 
+realizar el análisis de la información presentada utilizando las herramientas matemátic as propuestas en el 
+componente intermedio.  
+ 
+Caso de estudio: Censo de población y vivienda en Colombia. 
+Busque información en la página oficial sobre el último censo realizado en Colombia, el cual da cuenta de la 
+población y la vivienda, a partir de un conteo y caracterización de los habitantes colombianos, así como de sus 
+viviendas y hogares constituidos en el país.  
+Con esta información obtenida, se pretende generar información estadística relevante, la cual es un referente para 
+la toma de decisiones en el orden político, económico y de bienestar social, entre otros factores.  
+ 
+La información se presenta distribuida en tres categorías ( https://www.dane.gov.co/index.php/estadisticas-por-
+tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018): 
+ 
+● ¿Cuántos somos? Presenta la distribución de la población por sexo, grupos de edad (estructura de la 
+población) y  el porcentaje de personas (proporción) que tienen dificultades para realizar actividades 
+cotidianas, así como las que saben leer y escribir, las que asisten a alguna institución educativa en los 
+departamentos y municipios de la región, nivel educativo alcanzado, fecundidad por grupos de edad, promedio 
+de hijos por mujer. También se presenta información de migración interdepartamental en el último año, 
+características de los extranjeros residentes en Colombia (sexo, edad, ocupación, nivel educativo), 
+inmigración internacional en los últimos 5 años y el último año. 
+ 
+ 
+● ¿Dónde estamos? Presenta la distribución por ubicación geográfica de la población, los hogares y las 
+viviendas en el territorio nacional (cabeceras municipales, rural disperso, centros poblados), así como el lugar 
+de nacimiento de los residentes en los departamentos y municipios de la región. También se presentan los 
+indicadores demográficos por departamento, la tasa de alfabetismo por departamento, el porcentaje 
+(proporción) de migración interna por departamento. 
+ 
+ 
+● ¿Cómo vivimos? Presenta el total de hogares y viviendas, su uso (residencial o mixto), su distribución por tipo 
+(casa, apartamento, cuarto, étnica), el acceso a servicios públicos, de dónde obtienen el agua los hogares 
+para preparar los alimentos; además, el porcentaje de personas (proporción) por hogar en los departamentos 
+y municipios de la región, los tipos de hogar (unipersonal, nuclear, monoparental, extensos), y porcentaje de 
+mujeres y hombres que son jefes de hogar. 
+ 
+Realice un análisis detallado de la información, revise si existen gráficos estadísticos que soporten dicha 
+información, en caso de no encontrarlos, elabórelos. (Por ejemplo, histogramas, diagramas de barras, diagramas 
+circulares, entre otros, dependiendo de las variables analizadas).  
+ 
+A partir de la información consultada, determine las variables que fueron objeto de medición en este censo, y precise, 
+a partir de ello, cómo estos datos son esenciales para determinar el desarrollo de las variables demográficas. (Por 
+ejemplo, el tamaño de los hogares, el índice de envejecimiento, el índice de juventud, los fenómenos  migratorios 
+dentro del país y desde y hacia el exterior, por mencionar algunos).  
+ 
+Con base en los resultados obtenidos, por medio de un video promocional, exponga las conclusiones extraídas de 
+la consulta del caso. Debe incluir en el video:   
+✔ Una presentación inicial.  
+✔ La explicación del instrumento usado para la recolección de datos y la caracterización de los mismos.  
+✔ Tablas y gráficos (utilice colores adecuados para la presentación de gráficos).  
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+✔ Análisis de la información tabulada o graficada.  
+✔ Conclusiones con base en el análisis de la información.  
+✔ Procure utilizar colores adecuados en toda la presentación. Si va a hacer uso de imágenes, estas deben ser 
+acordes con el tema tratado y el público al que se van a presentar.  
+✔ Pruebe ayudarse con el siguiente texto: 
+https://rua.ua.es/dspace/bitstream/10045/4412/2/02Consejos%20buena%20presentaci%C3%83%C2%B3n.
+pdf  
+  
+Tenga en cuenta los siguientes términos de referencia de forma:   
+✔ Grabar un video de la presentación de su propuesta de lanzamiento. Este debe tener una duración de máximo 
+5 minutos.  
+✔ El video debe estar editado y poseer buena calidad de imagen y de audio.   
+✔ Se debe expresar el proceso y la solución a este (idea propuesta).  
+✔ El aprendiz debe ser el presentador del video.   
+✔ Se pueden utilizar ayudas audiovisuales que permitan comprender mucho más la propuesta.  
+✔ No hay límite para la creatividad.   
+✔ Al final del video, deben aparecer los créditos con los datos del aprendiz.   
+  
+Especificaciones técnicas del video:   
+✔ Formato de grabación: MP4.  
+✔ Resolución: Mínimo 720p  
+✔ Equipos recomendados para hacer la grabación: teléfono celular, cámaras digitales, cámaras de computador, 
+cámaras de acción, entre otras.   
+✔ Programas recomendados para hacer la edición del video: Windows Movie Maker, Adobe Premiere, IMovie, 
+Adobe Spark, entre otros.   
+ 
+Lineamientos generales para la entrega de la evidencia:   
+● Producto a entregar: video sustentación.   
+● Formato de entrega: MP4. Resolución: Mínimo 720 p.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio : 
+Video sustentación-GA2-240201528-AA3-EV01  
+  
+3.3.4 Actividad de aprendizaje GA2- 240201528-AA4: crear un algoritmo para sistematizar el cálculo de 
+perímetros, áreas y volúmenes de figuras planas y sólidos regulares.  
+Esta actividad consiste en proponer un algoritmo que permita calcular el área y el perímetro de figuras planas y el 
+volumen de sólidos regulares, valiéndose de herramientas computacionales.   
+  
+Duración: 12 horas  
+  
+Materiales de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “Matemáticas. Nivel avanzado”.   
+  
+ 
+ 
+
+=== PAGE 19 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:   
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:   
+  
+●  Evidencia GA2-240201528-AA4-EV01: algoritmo para el cálculo de áreas y volúmenes.  
+  
+Se recomienda lo siguiente:   
+a. Consultar las figuras geométricas y las fórmulas que definen tanto el área como el volumen, según sea el 
+caso. Para ello, se recomienda el apoyo en recursos multimedia y otras alternativas bibliográficas a las que 
+usted tenga acceso.  
+b. Puede guiarse por el siguiente material multimedia, el cual le ayudará a orientarse frente al diseño del 
+algoritmo. (Revise la videografía que se encuentra en https://www.youtube.com/watch?v=XJNdP-kxgUE).  
+c. Después de tener la información completa y organizada, diseñe un algoritmo.  
+d. Piense en la siguiente pregunta: si tuviera un sólido irregular, ¿qué método utilizaría para calcular el volumen?  
+e. Realice una presentación donde explique la solución al problema dado.  
+  
+Para la entrega de esta evidencia, tenga en cuenta que la presentación debe t ener:   
+● Introducción.  
+● Problema planteado.  
+● La información recolectada de fórmulas y figuras.  
+● El algoritmo diseñado (incluyendo el proceso).  
+● Conclusiones.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+● Producto a entregar: algoritmo para el cálculo de áreas y volúmenes.  
+● Formato: PDF.   
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Algoritmo para el cálculo de áreas y volúmenes. GA2-240201528-AA4-EV01.  
+  
+  
+3.4 Actividades de aprendizaje de la competencia interactuar en lengua inglesa de forma oral y escrita 
+dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de 
+Referencia para las Lenguas-240202501.  
+Durante el desarrollo de las actividades, se debe comprender vocabulario y expresiones en inglés en contextos 
+personales, de acuerdo con nivel principiante A1.2 correspondiente al MCERL. (La construcción de los diferentes 
+programas de formación en inglés emplea el MCERL como instrumento de referencia para proveer los 
+conocimientos requeridos para alcanzar el nivel.)   
+  
+3.4.1 Actividad de aprendizaje GA2- 240202501-AA1: reportar opiniones sobre situaciones cotidianas y 
+laborales, pasadas y futuras en contextos sociales.  
+Dentro del desarrollo de la competencia comunicativa en inglés, es fundamental ser capaz de expresar opiniones 
+y puntos de vista acerca de las situaciones a las que el aprendiz se enfrenta diariamente, tanto en su contexto 
+social como en su contexto laboral.   
+  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+El aprendiz está llamado a ser observador y crítico, por esta razón, es muy importante que conozca la estructura y 
+el vocabulario apropiado para dar su opinión acerca de diferentes temáticas relacionadas directamente con su 
+quehacer profesional.  
+  
+Es importante seguir las indicaciones del instructor, en cuanto a la mejor manera de apropiar el material del curso 
+y la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas.  
+  
+Material de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “LEVEL 2 - MCER A1.2”.  
+  
+Evidencias:   
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la activid ad de 
+aprendizaje:  
+  
+● Evidencia GA2-240202501-AA1-EV01: cuestionario.   
+  
+Presentar un cuestionario (evaluación en línea) para evaluar comprensión lectora y gramatical del nivel (LEVEL 2 
+- MCER A1.2), el cual consta de quince (15) preguntas y un tiempo aproximado de 45 minutos.   
+  
+Lineamientos para la entrega de la evidencia:   
+● Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondiente y 
+acceda al espacio: Cuestionario. GA2-240202501-AA1-EV01.   
+  
+● Evidencia GA2-240202501-AA1-EV02: video entrevista virtual.   
+  
+Con el apoyo de uno de sus compañeros y una vez apropiado el material de estudio del segundo nivel, realice un 
+video en el cual se simule una presentación de una entrevista de trabajo, postulándose para un empleo relacionado 
+con su perfil profesional. Luego de ser entrevistado, intercambie roles con su compañero, para ser el entrevistador.  
+Durante la entrevista, deberá responder las siguientes preguntas:  
+  
+1. Tell us about yourself  
+2. What motivates you?  
+3. What are your hobbies?  
+4. What are your future plans if you get this job?  
+5. What are your future goals or what are your career goals?  
+6. What do you see as a major success in your life?  
+7. Why did you leave your last job?  
+8. Where do you see yourself in 5 years?  
+  
+Para realizar la grabación de la entrevista virtual, puede programar un encuentro sincrónico, a través de Skype, 
+Zoom, Meet o Teams, con su compañero de trabajo y realizar la grabación de la entrevista, para luego guardarla.  
+  
+ 
+ 
+
+=== PAGE 21 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto a entregar: video de la entrevista virtual de trabajo. Una vez finalizada la grabación de la 
+entrevista, debe cargar el video a YouTube o Vimeo, con su cuenta de correo person al o institucional; 
+compruebe que no tenga restricciones de visualización para que pueda compartir el enlace de visualización.  
+● Formato: PDF con los datos básicos del entrevistado, el entrevistador y la URL del video. Tenga en cuenta 
+que se debe garantizar la visualización del video.  
+● Extensión: de 3 a 5 minutos.  
+● Para hacer el envío de la evidencia, debe dirigirse al área de la actividad correspondiente y acceder al 
+espacio: Video entrevista virtual. GA2-240202501-AA1-EV02.  
+  
+● Evidencia GA2-240202501-AA1-EV03: crónica.  
+   
+Seleccione un personaje icónico y con trayectoria importante en el mundo, de acuerdo con su perfil profesional (Ej: 
+En moda, un personaje icónico es Agatha Ruiz), y busque en Internet información acerca de él (ella). A partir del 
+personaje seleccionado, realice una crónica escrita con los hechos más importantes y las situaciones más 
+relevantes en la trayectoria profesional del personaje.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto a entregar: crónica escrita.   
+● Extensión: el documento escrito será máximo de 1 página y una extensión entre 200 y 500 palabras, con 
+tipo de letra Arial, tamaño 12 e interlineado 1,5. Es ideal tener cuidado con las estructuras gramaticales 
+utilizadas, deben ser coherentes con las temáticas abordadas en el material de estudio.  
+● Formato: documento escrito en Word y se deberá exportar a PDF.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Crónica. GA2-240202501-AA1-EV03.  
+  
+3.4.2 Actividad de aprendizaje GA2- 240202501-AA2: expresar opiniones sobre situaciones cotidianas y 
+laborales actuales, pasadas y futuras en contextos sociales.  
+Dentro de los procesos de aprendizaje de lengua, el exteriorizar lo aprendido es uno de los más valiosos aportes. 
+Dentro de este contexto, se abordarán temas como el vecindario y las actividades que se están realizando.  
+  
+Es importante seguir las indicaciones del instructor en cuanto a la mejor manera de apropiar el material del curso 
+y la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas.  
+  
+Material de formación: para el desarrollo adecuado de las evidencias, el aprendiz debe apropiar los contenidos 
+del componente formativo “LEVEL 3 - MCER A2.1”.  
+  
+ 
+ 
+ 
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia GA2-240202501-AA2-EV01: cuestionario.  
+  
+Presenta un cuestionario, de acuerdo con el contenido formativo del tercer nivel “LEVEL 3 -  MCE A2.1”. El 
+cuestionario consta de quince (15) preguntas y un tiempo aproximado de 30 minutos.   
+  
+Lineamientos generales para la entrega de la evidencia:   
+● Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondiente y 
+acceda al espacio: Cuestionario. GA2-240202501-AA2-EV01.  
+  
+● Evidencia GA2-240202501-AA2-EV02: presentación.  
+  
+De acuerdo con la temática estudiada en el tercer nivel, realice una presentación en inglés y en formato video de 
+un lugar turístico de su región, por medio de un corto video activando su cámara web, con el fin de identificar de 
+forma oral la descripción y razón de popularidad del municipio o ciudad.  
+  
+Para la elaboración del video con la cámara web, tenga en cuenta el desarrollo de un guion o estructura, a través 
+de una herramienta como PowerPoint, Emaze, o Prezi, en el que se dispongan algunas diapositivas con imágenes 
+y textos para dar cuenta de la presentación del lugar.   
+  
+Diapositivas: durante el desarrollo de la presentación oral, es ideal que presente entre 3 y 5 diapositivas, donde se 
+incluyan los siguientes elementos:  
+  
+✔ Diapositiva de portada (datos básicos del aprendiz, nombre del curso, instructor y nombre de la actividad).  
+✔ ¿Dónde se encuentra?  
+✔ ¿Cómo es? (Use adjetivos para describirlo, como colores, comparativos, etc.) ✔ ¿Qué elementos hay en ese 
+lugar? (Ejemplo: m ontes, ríos, casas, etc.)  ✔ Describa detalladamente algún elemento importante de ese 
+lugar.  
+✔ ¿Qué sensaciones transmite ese lugar? (alegría, paz, felicidad, estrés, agobio, tristeza, miedo, misterio,  
+      terror, etc.)  
+✔ Opinión personal: ¿Por qué ha elegido ese lugar?  
+  
+Estructura del video con cámara web: cuando grabe el video, tenga en cuenta que las fotos, imágenes y textos que 
+use en las diapositivas deben ser un apoyo visual para denotar buena pronunciación y su aprendizaje inicial sobre 
+las temáticas del tercer nivel.   
+  
+Para la realización de la emisión del video, deberá encender su cámara web y mostrar la pantalla con las 
+diapositivas creadas. La recomendación es utilizar alguna herramienta digital que permita gr abar el video y la 
+pantalla, como Screencast-o-Matic, Loom, Camtasia, recordscreen.io, scrnrcrd.com, e incluso existen aplicaciones 
+como X Recorder para que pueda realizarlo desde su teléfono móvil. Lo importante es mostrar las diapositivas, su 
+cámara web e ir realizando su presentación de forma oral.  
+  
+
+=== PAGE 23 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Una vez finalizado el video, debe cargarlo a YouTube o Vimeo, con su cuenta de correo personal o institucional; 
+compruebe que no tenga restricciones de visualización para que pueda compartir el enlace de visualización.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Producto a entregar: documento con los datos del aprendiz y el enlace del video. o  Formato: PDF 
+con la URL del video.  
+● Extensión: de 2 a 5 minutos.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondi ente y acceda al espacio: 
+Presentación. GA2-240202501-AA2-EV02.  
+  
+● Evidencia GA2-240202501-AA2-EV03: documento escrito.  
+  
+Elabore un documento escrito a modo de correo electrónico, donde se realiza la postulación a un puesto de trabajo, 
+incluyendo datos relevantes de su hoja de vida y haciendo uso efectivo de la netiqueta.  
+  
+La estructura general del documento escrito debe ser la siguiente:  
+  
+Título (asunto): debe enmarcar la idea general del mensaje y describir brevemente la temática de este. No limitarse 
+a una sola palabra.  
+Saludo: redacte un saludo que exprese un grado de cordialidad que debe ser coherente y mantenerse a  lo largo 
+del mensaje.  
+Cuerpo del mensaje: incluya la palabra "solicitud" y el cargo al cual se postula. El objetivo principal de escribir el 
+correo electrónico para la solicitud de empleo es que la entidad que puede contratarlo conozca algunas de las 
+posesiones imperativas que deben formar parte de su saber profesional:  
+  
+✔ El propósito de la solicitud de empleo.  
+✔ Qué trabajo está solicitando.  
+✔ Habilidades para desempeñar el trabajo al cual se postula.  
+✔ Qué tiene para ofrecer a la empresa.  
+✔ Datos básicos para que el destinatario pueda ponerse en contacto.  
+  
+Despedida: cierre el mensaje de manera que se reafirme el grado de formalidad utilizado en el saludo y en el 
+cuerpo de la carta.  
+Dato remitente: ubique los datos conformados, como nombres, lugar de origen, profesión.  
+  
+La extensión del mensaje escrito en un documento será de 1 a 3 páginas, con tipo de letra Arial, tamaño 12 e 
+interlineado 1,5.  
+  
+ 
+Lineamientos generales para la entrega de la evidencia:  
+  
+● Extensión: el mensaje de correo escrito a modo correo electrónico será de entr e 1 y 3 páginas, y con una 
+extensión de entre 200 y 400 palabras, con tipo de letra Arial, tamaño 12 e interlineado 1,5. Es ideal tener 
+cuidado con la redacción, y las estructuras gramaticales utilizadas deben ser coherentes con las temáticas 
+abordadas en el material de estudio.  
+
+=== PAGE 24 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Formato: documento escrito en Word que se deberá exportar a PDF.  
+● Para hacer el envío de la evidencia, remítase al área de la actividad correspondiente y acceda al espacio: 
+Documento escrito. GA2-240202501-AA2-EV03.  
+  
+4. ACTIVIDADES DE EVALUACIÓN  
+  
+Evidencias de aprendizaje  Criterios de evaluación  Técnicas e instrumentos de evaluación  
+Evidencia de conocimiento: 
+Foro temático: Lenguaje 
+Unificado de Modelado (UML).  
+GA2-220501093-AA1-EV01.  
+Interpreta el informe de requisitos para 
+modelar las funciones del software.  
+  
+Elabora diagramas de casos de uso de 
+acuerdo con los estándares actuales 
+mediante Lenguaje  
+Unificado de Modelado (UML).  
+  
+Genera plantillas extendidas de casos de 
+uso expresando la intención de las 
+acciones a desarrollar.  
+  
+Realiza diagramas de actividades 
+exponiendo detalles de los casos de uso.  
+ 
+Documenta las actividades de análisis a 
+través de un informe. 
+  
+ 
+Lista de chequeo:  
+IE-GA2-220501093-AA1-EV01.   
+Evidencia de desempeño:   
+Elaboración de diagramas y 
+plantillas para casos de uso del 
+proyecto.  
+GA2-220501093-AA1-EV02.  
+Lista de chequeo:  
+IE-GA2-220501093-AA1-EV02.  
+Evidencia de desempeño:  
+Elaboración de historias de 
+usuario del proyecto.  
+GA2-220501093-AA1-EV03.  
+ 
+Evidencias de producto:  
+Diagramas y documentación 
+de actividades del proyecto.  
+GA2-220501093-AA1-EV04. 
+Lista de chequeo:   
+IE-GA2-220501093-AA1-EV03.  
+ 
+ 
+ 
+ 
+Lista de chequeo:  
+IE-GA2-220501093-AA1-EV04. 
+ 
+Evidencia de desempeño:  
+Elaboración de los diagramas 
+del modelo de dominio del 
+proyecto.  
+GA2-220501093-AA2-EV01 
+ 
+ 
+ 
+Representa el negocio en términos de 
+clases abstractas, generando un modelo 
+de dominio consistente.  
+Lista de chequeo:  
+   
+IE-GA2-220501093-AA2-EV01.  
+Evidencia de conocimiento:  
+Mapa conceptual sobre 
+validación de documentos.  
+GA2-220501093-AA3-EV01.  
+Elabora listas de chequeo para validación 
+de la documentación de análisis.  
+  
+Evalúa el informe de análisis teniendo en 
+cuenta la calidad de los artefactos 
+generados y la respuesta al cumplimiento 
+de requisitos.  
+  
+Lista de chequeo:   
+IE-GA2-220501093-AA3-EV01.  
+
+=== PAGE 25 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de desempeño:   
+Elaboración del informe de 
+análisis con listas de chequeo 
+para la validación de artefactos.  
+GA2-220501093-AA3-EV02.  
+Realiza mejoras a la documentación de 
+análisis de acuerdo con los resultados de 
+la evaluación.  
+  
+Realiza prototipo inicial del software de 
+acuerdo con los casos de uso 
+identificados.  
+Lista de chequeo:  
+IE-GA2-220501093-AA3-EV02.   
+Evidencia de conocimiento:  
+Foro temático: Licenciamiento 
+de software.  
+GA2-220501094-AA1-EV01.  
+ 
+Evidencia de desempeño:   
+Diseño de las fichas técnicas 
+para la recolección de la 
+información.  
+GA2-220501094-AA1-EV02.  
+ 
+Evidencia de producto:   
+Especificación de los 
+referentes técnicos del 
+hardware - software y 
+estimación de las condiciones 
+económicas.  
+GA2-220501094-AA1-EV03. 
+  
+Diseña formatos de fichas técnicas de 
+acuerdo con estándares.   
+  
+Elabora referentes técnicos de acuerdo 
+con normatividad legal vigente.   
+  
+Dimensiona las licencias de software  de 
+acuerdo con las características de la 
+solución y las necesidades de la empresa.  
+  
+Estima condiciones técnicas y 
+económicas de acuerdo con las 
+características de la solución de software 
+y las necesidades de la empresa.  
+Lista de chequeo:  
+IE-GA2-220501094-AA1-EV01.  
+ 
+Lista de chequeo:  
+IE-GA2-220501094-AA1-EV02.  
+ 
+ 
+ 
+ 
+Lista de chequeo:  
+IE-GA2-220501094-AA1-EV03. 
+  
+Evidencia de producto:   
+Ficha técnica de los productos 
+requeridos, los términos de 
+referencia para el contrato y 
+lista de chequeo para 
+evaluación de proveedores. 
+GA2-220501094-AA2-EV01  
+Elabora análisis comparativo de 
+proveedores, considerando costos, 
+cantidad y especificaciones técnicas 
+definidas.  
+Lista de chequeo:  
+IE-GA2-220501094-AA2-EV01.  
+  
+Evidencia de desempeño:   
+Diseño de tablas comparativas 
+sobre presupuestos de 
+hardware y software.  
+GA2-220501094-AA3-EV01.  
+ 
+Evidencia de producto:   
+Propuesta técnica y económica 
+para la implementación del 
+proyecto.  
+GA2-220501094-AA3-EV02.  
+Estima costos de software y hardware de 
+acuerdo con las características del 
+negocio.  
+  
+Documenta la propuesta técnica según 
+las especificaciones de la solución de 
+software. 
+ 
+Lista de chequeo:  
+IE-GA2-220501094-AA3-EV01.   
+ 
+ 
+ 
+ 
+Lista de chequeo:  
+IE-GA2-220501094-AA3-EV02.  
+
+=== PAGE 26 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento:  
+Taller de especificación del 
+modelo conceptual y 
+estructurar la propuesta 
+técnica del proyecto de 
+software.   
+GA2-220501094-AA4-EV01.  
+Realiza la presentación de la propuesta 
+según propósitos de la negociación.  
+  
+Documenta las sugerencias del cliente 
+según la necesidad del negocio.  
+  
+Ajusta los parámetros técnicos de 
+acuerdo con los resultados de la 
+negociación.  
+Lista de chequeo:   
+IE-GA2-220501094-AA4-EV01.  
+Evidencia de producto:   
+Propuestas técnica y 
+económica con ajustes de 
+acuerdo con la negociación 
+tecnológica.  
+GA2-220501094-AA4-EV02.  
+Lista de chequeo:  
+IE-GA2-220501094-AA4-EV02.  
+Evidencia de conocimiento:  
+Cuestionario procedimientos 
+aritméticos.  
+GA2-240201528-AA1-EV01.  
+Aplica procedimientos aritméticos y 
+algebraicos según el problema planteado.   
+  
+Plantea ecuaciones o sistemas de 
+ecuaciones de acuerdo con la relación 
+entre las variables.   
+  
+Presenta la relación entre dos cantidades 
+o variables según los fundamentos 
+matemáticos.  
+Cuestionario:  
+IE-GA2- 240201528-AA1-EV01.  
+Evidencia de desempeño:   
+Planteamiento de ecuación.  
+GA2-240201528-AA2-EV01.  
+Resuelve ecuaciones o sistemas de 
+ecuaciones de acuerdo con principios 
+matemáticos.  
+   
+Presenta  solución  a 
+ problemas mediante figuras 
+geométricas.  
+  
+Define el problema a resolver de acuerdo 
+con las necesidades de su entorno.  
+Lista de chequeo:  
+IE-GA2-240201528-AA2-EV01.  
+Evidencia de producto:   
+Video sustentación.  
+GA2-240201528-AA3-EV01.  
+Representa conjunto de datos de acuerdo 
+con la variable estadística.   
+  
+Realiza conversiones según las 
+equivalencias entre sistemas de medida.   
+  
+Define el problema a resolver de acuerdo 
+con las necesidades de su entorno.  
+Lista de chequeo:  
+IE-GA2-240201528-AA3-EV01.   
+
+=== PAGE 27 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de desempeño:  
+Algoritmo para el cálculo de 
+áreas y volúmenes.  
+GA2-240201528-AA4-EV01.  
+Selecciona las herramientas 
+computacionales para la verificación de 
+los resultados de acuerdo con los 
+requerimientos matemáticos.  
+  
+Elabora una propuesta de solución 
+alternativa a partir de los procedimientos 
+matemáticos inicialmente planteados.   
+  
+Calcula perímetros, áreas y volúmenes 
+de acuerdo con los elementos de la figura 
+geométrica.  
+Lista de chequeo:  
+IE-GA2-240201528-AA4-EV01.  
+Evidencia de conocimiento:   
+Cuestionario.  
+GA2-240202501-AA1-EV01.   
+  
+  
+Comprende información concreta relativa 
+a temas cotidianos y laborales en textos 
+orales y escritos.  
+Cuestionario:  
+IE-GA2-240202501-AA1-EV01.   
+Evidencia de desempeño:   
+Video entrevista virtual.  
+GA2-240202501-AA1-EV02.  
+Lista de chequeo:  
+IE-GA2-240202501-AA1-EV02.  
+  
+Evidencia de producto:  
+Crónica.   
+GA2-240202501-AA1-EV03.  
+Lista de chequeo:  
+IE-GA2-240202501-AA1-EV03.  
+Evidencia de conocimiento:   
+Cuestionario.  
+GA2-240202501-AA2-EV01.  
+  
+Evidencia de desempeño:   
+Presentación.  
+GA2-240202501-AA2-EV02.   
+  
+Evidencia de producto:   
+Documento escrito.   
+GA2-240202501-AA2-EV03. 
+Describe de manera sencilla y clara 
+asuntos, acciones, experiencias, 
+sentimientos, planes relacionados con 
+temas de s u interés y cotidianidad, 
+siguiendo una secuencia lineal de 
+elementos.  
+Cuestionario:  
+IE-GA2-240202501-AA2-EV01.  
+ 
+Lista de chequeo:  
+IE-GA2-240202501-AA2-EV02.  
+ 
+Lista de chequeo:   
+IE-GA2-240202501-AA2-EV03.   
+ 
+   
+5. GLOSARIO DE TÉRMINOS  
+  
+Algoritmo: un algoritmo es una secuencia lógica y finita de pasos que permite solucionar un problema o 
+cumplir con un objetivo. Debe ser preciso e indicar el orden lógico de realización de cada uno de los pasos; debe 
+ser definido, es decir que, si se ejecuta un algoritmo varias veces, se debe obtener siempre el mismo resultado; 
+también debe ser finito, o sea, debe iniciar con una acción y terminar con un resultado o solución de un problema.  
+  
+Aritmética: la aritmética se encarga de realizar con números y simbología, en conjunto con las operaciones 
+antes mencionadas, el desarrollo de propiedades y habilidades, las cuales pueden ser usadas en la vida cotidiana 
+y materias de estudio que impliquen a la matemática como base fundamental de aprendizaje (Adrián, 2020).  
+
+=== PAGE 28 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Main idea (Idea principal): estrategia de lectura que busca identificar la idea principal de un texto. A diferencia 
+de  
+“topic”, esta estrategia pretende ampliar la comprensión, encontrando qué es lo que se dice del tema ( topic). 
+Ejemplo: “The robots can help in medicine.”  
+Microsoft: es una compañía tecnológica multinacional con sede en Redmond, Washington, EE.UU. Microsoft 
+es el acrónimo de microcomputer y software.  
+  
+Metacrilato: este termoplástico rígido se caracteriza por su gran transparencia, ligereza y resistencia a la 
+intemperie. Visualmente, es parecido al vidrio, aunque es un material mucho más ligero y aguanta unas diez veces 
+más los golpes.  
+  
+Números cardinales: son los números como los conocemos para contar (one, two, three, etc.).  
+  
+Números ordinales: son los números qu e se usan para indicar un orden, por ejemplo: primero, segundo, 
+tercero, etc. (first, second, third, etc.)  
+Ofimática: automatización mediante sistemas electrónicos de las comunicaciones y procesos administrativos 
+en las oficinas.  
+  
+Presente continuo: tiempo verbal que se usa para indicar acciones momentáneas que suceden al momento 
+de hablar. Su construcción requiere el uso de un verbo auxiliar “to be” y un segundo verbo (llamado verbo principal) 
+con terminación en “-ing”. Por ejemplo: I am working at SENA now.  
+  
+Presente simple: tiempo verbal que se usa para indicar acciones o situaciones que suceden en el presente. 
+Pueden ser estados permanentes o cambiantes, por ejemplo: I am Susana. I work as a doctor .  
+  
+Preposiciones de lugar: palabras invariables (sin género ni número) que se usan para indicar o introducir el 
+lugar de una acción o situación. Por ejemplo: “In the room”, “next to the shop”.  
+  
+Preposiciones de tiempo: palabras invariables (sin género ni número) que se usan para indicar o introducir 
+el momento de una acción. En inglés, por ejemplo, las más comunes son “ in”, “on” y “at”.  
+  
+Pronombres personales: son las palabras que se usan para indicar la persona o ente que ejecuta una acción. 
+Siempre los pronombres personales estarán seguidos de un verbo (la acción). En inglés, son comunes las 
+contracciones entre los pronombres y algunos verbos, así: “I’m” (contracción de “I am”), “She's” (contracción de “she 
+is”), etc.   
+  
+Proporción: es la relación de igualdad entre dos razones matemáticas, o la comparación entre dos razones 
+matemáticas.  
+  
+Razón: es una razón binaria entre magnitudes, se expresa como a  es a b, o a:b. Numéricamente, una razón 
+se puede expresar como una fracción o un decimal.  
+  
+
+=== PAGE 29 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Role play: juego de roles es una actividad que simula una situación, con dos o más personajes representados 
+por los aprendices. Cada uno recibirá las indicaciones de lo que pasa y los aprendices deberán desarrollar la 
+situación actuando.   
+  
+Semiótica: teoría general y ciencia que estudia los signos, sus relaciones y su significado.  
+  
+Skimming: estrategia de lectura que consiste en hacer una lectura rápida para determinar el tipo de texto, su 
+fuente y su tema. No implica una lectura exhaustiva ni detenida, y puede durar pocos segundos.  
+  
+Scanning: estrategia de lectura para encontrar información  específica. Al igual que “ Skimming”, no es 
+exhaustiva, sino que focaliza la información necesaria.  
+  
+  
+6. REFERENTES BIBLIOGRÁFICOS  
+  
+ABA English. (s. f.). Cómo pronunciar th en inglés. https://www.abaenglish.com/es/fonetica- inglesa/th/  
+  
+Adrián, Y. (2020). Aritmética. Concepto Definición. https://conceptodefinicion.de/aritmetica/   
+  
+Blanco, L., Guerrero, E. y Gil, N. (2006). El papel de la afectividad en la resolución de problemas matemáticos. 
+Revista de educación, (340), p. 551-569. https://dialnet.unirioja.es/servlet/articulo?codigo=2100483  
+  
+Colombia  Aprende.  (s.  f.).  Currículos  exploratorios  en  TIC.  Mineducación.  
+http://aprende.colombiaaprende.edu.co/es/curriculostic#:~:text=Los%20Curr%C3%ADculos% 20Explorato 
+rios%20TIC%2C%20busca,y%20problemas%20de%20la%20vida  
+  
+Cuadros,  I.  (2013).  Cálculos  estadísticos  básicos  con  Excel  [Video].  YouTube.  
+https://www.youtube.com/watch?v=XDUndiON7fk   
+  
+Departamento de Matemática Aplicada [DIMATIC]. (s. f.). Estudio de Funciones: Función. Universidad Politécnica 
+de  Madrid.   
+http://www.dma.fi.upm.es/recursos/aplicaciones/calculo_infinitesimal/web/estudio_funciones/funcion.html  Gasco-
+Txabarri, J. (2017). La resolución de problemas aritmético-algebraicos y las estrategias de aprendizaje en 
+matemáticas. Un estudio en educación secundaria obligatoria (ESO). Revista latinoamericana de investigación en 
+matemática educativa, 20(2), 167-192.  
+  
+Guerrero, J., Certuche, C., Zúñiga, K. y Pardo, C. (2019). What is there about DevOps? Preliminary Findings   
+      from a Systematic Mapping Study. XIV Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del  
+ Conocimiento  [JIISIC’2019].  
+https://www.researchgate.net/publication/334376433_What_is_there_about_DevOps_Preliminary_Findin 
+gs_from_a_Systematic_Mapping_Study  
+  
+Guerrero, V. (2007). Muestreo Estadístico Aplicado al Estudio del Desempeño de Algoritmos Heurísticos. Instituto  
+ Tecnológico  de  Ciudad  Madero.  
+https://www.academia.edu/2894047/Muestreo_Estad%C3%ADstico_Aplicado_al_Estudio_del_Desempe 
+%C3%B1o_de_Algoritmos_Heur%C3%ADsticos  
+  
+
+=== PAGE 30 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Iturbe,  I.  (2020).  Cálculo  de  Área,  Perímetro  y  Volumen  en  Excel  [Video].  YouTube.  
+https://www.youtube.com/watch?v=XJNdP-kxgUE  
+  
+Jiménez,  R.  (2009).  Proporcionalidad.  cide@d  1º  ESO.  
+http://recursostic.educacion.es/descartes/web/materiales_didacticos/EDAD_1eso_proporcionalidad/index 
+_1quincena6.htm  
+  
+Lwakatare, L., Kuvaja, P. y Oivo, M. (2015). Dimensions of DevOps. En C. Lassenius, T. Dingsøyr y M. Paasivaara 
+(eds), Agile Processes in Software Engineering and Extreme Programming (p. 212–217). Springer, Cham.  
+https://doi.org/10.1007/978-3-319-18612-2_19  
+  
+Moure,  O.  (s.  f.).  El  acento  en  las  palabras  de  dos  sílabas.  OMPronounce.  
+http://www.ompersonal.com.ar/ompronounce/unit11/page1.htm  
+  
+Pressman,  R.  (2010).  Ingeniería  del  software,  un  enfoque  práctico.  McGraw-Hill.  
+http://cotana.informatica.edu.bo/downloads/ld- 
+Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF  
+  
+Superintendencia de Industria y Comercio. (s. f.). Sistema Internac ional de Unidades. Gov.co. 
+https://www.sic.gov.co/sistema-internacional-de-unidades  
+  
+Tecnoe.  (2020).  Áreas  de  figuras  geométricas  en  Excel  [Video].  YouTube.  
+https://www.youtube.com/watch?v=oKf63nxNJ7E   
+  
+Trillini, C. (2013). Definición de Sistematización. Economía. https://economia.org/sistematizacion.php  
+  
+Vaughan  Systems.  (2013).  Inglés:  grado  superior.  McGraw-Hill. 
+ https://elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1   
+  
+ 
+ 
+ 
+7. CONTROL DEL DOCUMENTO  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor( 
+es)  
+Nathaly   
+Ramírez Ramírez  
+Experta 
+Temática  
+Regional Antioquia - Centro de Diseño, 
+confección y Moda  Octubre 2020  
+ Carlos Andrés 
+Rodríguez  
+Diseñador  
+Instruccional  
+Regional Distrito Capital -  Centro de 
+Diseño y metrología  Octubre  2020  
+Alix Cecilia   
+Chinchilla Rueda  
+Evaluadora 
+instruccional  
+Regional Distrito Capital - de Gestión 
+Industrial  Febrero 2020  
+
+=== PAGE 31 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Elkin Rodolfo Moreno 
+Merchán  Experto temático  Regional Distrito Capital -  Centro de Formación de Talento Humano en Salud  Febrero 2021  
+Oscar  Absalón  
+Guevara  
+Diseñador 
+instruccional  
+Regional Distrito Capital -  Centro de 
+Gestión Industrial  
+Febrero 2021  
+Mario Fernando  
+Meneses Calvache  
+Experto 
+Temático  
+Regional  Cauca  -  Centro  de  
+Teleinformática y Producción Industrial  
+Noviembre 
+2021  
+Carlos Hernán Muñoz 
+Carvajal  
+Experto 
+Temático  
+Regional  Cauca  -  Centro  de  
+Teleinformática y Producción Industrial   
+Noviembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  
+Regional Distrito Capital - Centro para la 
+Industria de la Comunicación Gráfica  
+Noviembre 
+2021  
+Andrés Felipe 
+Velandia Espitia  
+Revisor  
+Metodológico y  
+Pedagógico  
+Regional Distrito Capital - Centro de 
+Diseño y Metrología  
+Noviembre 
+2021  
+Rafael  Neftalí  
+Lizcano Reyes  
+Asesor  
+Pedagógico  
+Regional Santander -  Centro Industrial 
+del Diseño y la Manufactura  
+Noviembre 
+2021  
+Darío González  Corrección  de  estilo  Regional Tolima –  Centro Agropecuario La Granja  Noviembre 2021  
+  
+8. CONTROL DE CAMBIOS  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del cambio  
+Autor(es)            
+  

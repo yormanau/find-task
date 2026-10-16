@@ -1,0 +1,11 @@
+# Constancias de entrega (documentos personales)
+Constancia_entrega_evidencias_*.docx
+
+# PDF originales de las guías (se usa el texto de guides/)
+*.pdf
+guides_pdf/
+
+# Entorno local
+.venv/
+.claude/
+.DS_Store

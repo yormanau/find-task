@@ -1,0 +1,1385 @@
+
+=== PAGE 1 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL   
+FORMATO GUÍA DE APRENDIZAJE  
+  
+  
+1. IDENTIFICACIÓN DE LA GUÍA DE APRENDIZAJE   
+  
+● Denominación del programa de formación: Análisis y desarrollo de software   
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios  
+● Fase del proyecto: análisis.   
+● Actividad de proyecto: Determinar las especificaciones funcionales del software y metodología a utilizar.  
+● Competencias:   
+Técnicas   
+220501092- Establecer requisitos de la solución de software de acuerdo con estándares y   
+procedimiento   técnico.  
+220501093- Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares.  
+ Claves  
+220501046- Utilizar herramientas informáticas de acuerdo con necesidades de manejo de información.    
+240202501- Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales 
+según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas.   
+  
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501092-01- Caracterizar los procesos de la organización de acuerdo con el software a construir. 
+220501092-02- Recolectar información del software a construir de acuerdo con las necesidades del  
+        cliente.  
+220501092-03- Establecer los requisitos del software de acuerdo con la información recolectada.  
+220501092-04- Validar el informe de requisitos de acuerdo con las necesidades del cliente.  
+220501093-01- Planear actividades de análisis de acuerdo con la metodología seleccionada.  
+ Claves:  
+220501046-01- Alistar herramientas de tecnologías de la información y la comunicación (TIC), de  
+  acuerdo con las necesidades de procesamiento de información y comunicación.  
+220501046-02- Aplicar funcionalidades de herramientas y servicios TIC, de acuerdo con manuales de  
+uso, procedimientos establecidos y buenas prácticas.  
+220501046-03- Evaluar los resultados, de acuerdo con los requerimientos.  
+220501046-04- Optimizar los resultados, de acuerdo con la verificación.  
+240202501-01- Comprender información sobre situaciones cotidianas y laborales actuales y futuras a  
+través de interacciones sociales de forma oral y escrita.  
+ Duración de la guía: 336 horas.  
+● Técnico: 240 horas.   
+● Claves: 96 horas.  
+ 
+ 
+
+=== PAGE 2 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+ 2. PRESENTACIÓN  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la primera guía de aprendizaje que comprende las 
+competencias técnicas de establecer requisitos de la solución de software de acuerdo con estándares y 
+procedimiento técnico, y la competencia de evaluar requisitos de la solución de software de acuerdo con 
+metodologías de análisis y estándares.   
+  
+Por otra parte, ya no es un secreto que la sociedad ha avanzado a pasos agigantados en los procesos de las 
+diferentes áreas de ocupación. Una de las áreas que más ha tenido repunte es la informática, que se encarga del 
+estudio del hardware, las redes de datos y el software  necesario para tratar la información de manera automática 
+y se convierte en factor primordial a la hora de gestionar la información para la administración de métodos, técnicas 
+y procesos en todas las áreas de ocupación.  
+Finalmente, encontrarán la competencia clave de inglés como una de las habilidades contemporáneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para Lenguas) como estándar del nivel de conocimiento de lengua y categorización de los 
+conocimientos en niveles de competencia en un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía contará con el acompañamiento de los instructores 
+asignados al programa, los cuales de forma continua y permanente lo orientarán con las pautas necesarias para 
+el logro de las actividades de aprendizaje, brindando herramientas básicas de tipo conceptual y metodológico. Los 
+instructores programarán encuentros de asesoría virtual, para brindar orientaciones específicas relacionadas con 
+las temát icas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje. No olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. FORMULACIÓN DE LAS ACTIVIDADES DE APRENDIZAJE  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de análisis del proyecto formativo: determinar las especificaciones funcionales del software y metodología a 
+utilizar.  
+  
+Es importante que organice su tiempo, dada la exigencia que demanda la realización de las actividades 
+mencionadas en esta guía de aprendizaje. No olvide revisar y explorar los materiales de formación del programa. 
+Para ello, debe reconocer el espacio de trabajo, junto con las posibilidades que se tiene para interactuar, 
+comunicar, visualizar y utilizar las herramientas necesarias en el LMS desde su rol de aprendiz.  En este sentido, 
+le invitamos a realizar las siguientes acciones:  
+  
+• Actualización de los datos personales.  
+• Consulte la Información del programa, disponible en la plataforma, para conocer la descripción del proceso 
+de formación y la metodología a seguir.  
+• Lea el presente documento Guía de aprendizaje, el cual le orientará en el desarrollo de las actividades.  
+
+=== PAGE 3 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+• Tenga en cuenta que es fundamental entender los resultados de aprendizaje para tener mayor comprensión 
+del proceso.  
+• Revisar el cronograma que le permitirá conocer la planeación diseñada para lograr de manera secuencial los 
+resultados de aprendizaje.  
+• Participar de los espacios de comunicación, tales como foros y otros.  
+  
+3.1. Actividades de aprendizaje de la competencia 220501092: establecer requisitos de la solución de 
+software de acuerdo con estándares y procedimiento técnico  
+  
+La recolección de requerimientos cumple un papel primordial en el proceso de desarrollo de software: la definición 
+de lo que se desea producir. Su principal tarea consiste en la generación de especificaciones correctas que 
+describan con claridad, sin ambigüedades, en forma consistente y compacta, el comportamiento del sistema; de 
+esta manera, se pretenden minimizar los problemas relacionados con el desarrollo de sistemas.   
+  
+3.1.1 Actividad de aprendizaje GA1-220501092-AA1: elaborar diagramas de procesos a partir de la 
+caracterización de los mismos usando una técnica de notación.  
+  
+Esta actividad se centra en el estudio de las diferentes características asociadas a la teoría general de sistemas 
+conceptos, tipos de sistemas, sistemas de información.  
+  
+Duración: 48 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Caracterización de procesos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencias de conocimiento: GA1 -220501092-AA1-EV01: infografía sobre la teoría General de 
+Sistemas   
+ 
+Teniendo en cuenta los conceptos  vistos en el componente caracterización de procesos realizar una infografía 
+sobre la Teoría General de Sistemas.  
+Elementos a tener en cuenta en el documento de requisitos:  
+● Se deben seguir las normas básicas de creación de infografías como tipo, elementos que incluyen, imágenes, 
+ilustraciones, viñetas, mapas conceptuales etc.   
+● Debe contener los principales conceptos de la teoría general de sistemas.  
+● Puede utilizar cualquier herramienta tic o informática para realizar la infografía.  
+  
+ 
+ 
+Lineamientos para la entrega del producto:   
+
+=== PAGE 4 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Producto para entregar: documento con infografía.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: infografía sobre la teoría General de Sistemas GA1-220501092-AA1-EV01  
+  
+  
+● Evidencia  de  conocimiento:  GA1-220501092-AA1-EV02  identificación  de procesos 
+organizacionales.   
+  
+Teniendo en cuenta las características del software a construir y las diferentes fuentes de información existentes 
+identificar el conjunto de elementos que intervienen (relaciones, actores responsables) en este aplicando la TGS 
+(Teoría General de Sistemas).  
+ 
+Elementos para tener en cuenta en el documento de requisitos: se deben seguir las normas básicas de 
+presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción y 
+nombramiento de los elementos que intervienen en el software a construir.    
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento de identificación de elementos.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: identificación de procesos organizacionales GA1-220501092-AA1-EV02  
+  
+ 
+● Evidencia de producto: GA1-220501092-AA1-EV03 mapa de procesos del software a construir   
+  
+Teniendo en cuenta las características del software a construir y tomando como base la identificación de elementos 
+realizada en la evidencia identificación de procesos organizacionales GA1 -220501092-AA1-EV02, realizar el 
+mapa de procesos del software.  
+Elementos para tener en cuenta en el documento de requisitos:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y nombramiento de los elementos que intervienen en el software 
+a construir.  
+● Se puede utilizar cualquier herramienta TIC para la realización del mapa de procesos.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento con el mapa de procesos y su descripción.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+
+=== PAGE 5 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: mapa de procesos del software a construir GA1-220501092-AA1-EV03  
+  
+ 
+ 
+3.1.2 Actividad de aprendizaje GA1-220501092-AA2: identificar conceptos básicos de teoría general de 
+sistemas y enfoque sistémico  
+  
+Esta actividad se centra en la identificación de fuentes de requisitos.  
+ 
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Ingeniería de requisitos”.   
+  
+Evidencias:   
+● Evidencia de Conocimiento: GA1-220501092-AA2-EV01 mapa mental sobre ingeniería de requisitos  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:   
+● Realizar un mapa mental con los conceptos sobre ingeniería de requisitos vistos en el componente formativo 
+“Ingeniería de requisitos”.  
+● Utilizar una herramienta TIC para la realización del mapa mental.  
+● El mapa debe tener las principales características de los mapas mentales.    
+Lineamientos para la entrega del producto:   
+● Producto para entregar: mapa mental con los conceptos sobre ingeniería de requisitos.   
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: mapa mental sobre ingeniería de requisitos-GA1-220501092-AA2-EV01.  
+  
+  
+● Evidencia de desempeño GA1-220501092-AA2-EV02: foro temático. Fuentes de requisitos    
+Conteste la pregunta planteada con referencia al tema de identificación de fuentes de requisitos y de la opinión de 
+las respuestas de, al menos, tres (3) de sus compañeros.  
+● Responda la pregunta: ¿cuáles son los tipos de fuentes y de un ejemplo de cada una? ¿En qué caso uso cada 
+tipo de fuente?  
+● Se debe responder de forma concisa donde el aprendiz de la opinión con referencia al tema.   
+● El aprendiz debe dar su opinión a la respuesta de, al menos, tres (3) compañeros.  
+● Se deben cumplir con normas ortográficas en las respuestas realizadas.  
+  
+ 
+
+=== PAGE 6 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: respuesta foro temático.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: foro temático. Fuentes de requisitos GA1-220501092-AA2-EV02  
+  
+3.1.3 Actividad de aprendizaje: GA1-220501092-AA3 elaborar instrumentos de recolección de datos, de 
+acuerdo a técnicas que permitan el procesamiento de la información.  
+  
+Esta actividad se centra en el estudio de los componentes de la fase de elicitación de requisitos, técnicas y 
+herramientas de captura de requisitos.  
+Duración: 24 horas.  
+  
+Materiales de formación:  Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “La fase de elicitación de requisitos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de desempeño: GA1- 220501092-AA3-EV01 diseño del instrumento de recolección de 
+información   
+  
+Seleccione una de las técnicas  utilizadas para la licitación de requisitos y realice el diseño de un instrumento de 
+recolección de información, teniendo en cuenta las características del software a construir.   
+Elementos a tener en cuenta en el documento de requisitos:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, preguntas claras y alcance  
+  
+Lineamientos para la entrega del producto:   
+● Producto para entregar: documento de diseño  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: diseño del instrumento de recolección de información GA1-220501092-AA3EV01  
+  
+ 
+● Evidencia de desempeño: GA1-220501092-AA3-EV02 formulación del proyecto de software. 
+Teniendo en cuenta las características del software a construir seleccione una de las herramientas para 
+captura de requisitos y defina sus funcionalidades en un documento.  
+
+=== PAGE 7 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Elementos a tener en cuenta en el documento de requisitos:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, objetivo, preguntas claras y alcance  
+● Seleccione una de las herramientas para captura de requisitos mencionada en el componente (diagramas de 
+casos de uso, historias de usuario, storyboard) para realizar la formulación de los requisitos.  
+● Utilice una de las herramientas o plantillas (starUml, plantilla historias de usuario) que se describieron en el 
+componente formativo.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento de requisitos.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: formulación del proyecto de software. GA1-220501092-AA3-EV02  
+  
+● Evidencia de producto: GA1- 220501092-AA3-EV03 formulario de recolección de información    
+Teniendo en cuenta las características del software a construir elaborar un documento donde se pueda identificar 
+las técnicas de licitación para el levantamiento de requisitos utilizada.  
+Elementos a tener en cuenta en el documento de requisitos:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, las técnicas utilizadas para el levantamiento de requisitos, y el 
+análisis arrojado después de aplicadas las técnicas.   
+● Respecto a la técnica deberá adjuntar el formato o la estructura de la técnica realizada; si es entrevista, el 
+guion utilizado; si es encuesta, las preguntas realizadas, etc.   
+● Respecto al análisis se deberá realizar un informe de los resultados de la técnica aplicada.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento con formulario.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: formulario de recolección de información GA1- 220501092-AA3-EV03.  
+  
+ 
+ 
+3.1.4 Actividad de aprendizaje: GA1-220501092-AA4: determinar los requisitos funcionales y no funcionales 
+del software de acuerdo con los requerimientos del cliente  
+  
+Esta actividad se centra en dos grandes bloques:  
+(i) análisis de las diferentes técnicas de análisis de requisitos  
+
+=== PAGE 8 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+(ii) estándares o modelos para el proceso de documentación de requisitos del software  
+Duración: 36 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Análisis y especificación de requisitos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de desempeño: GA1- 220501092-AA4-EV01 especificación de los requerimientos 
+funcionales y no funcionales del software  
+  
+Construir el documento de requisitos que especifique los requisitos funcionales y no funcionales teniendo en cuenta 
+las características del software a realizar.  
+Elementos para tener en cuenta en el documento técnico de validación: se deben seguir las normas básicas 
+de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, 
+introducción, y la lista de:  
+o Requisitos funcionales.  
+o Requisitos no funcionales.  
+  
+Lineamientos para la entrega del producto:   
+● Productos para entregar: documentos requerimientos funcionales y no funcionales.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia:  especificación de los requerimientos funcionales y no funcionales del software 
+GA1-220501092-AA4-EV01  
+  
+● Evidencia  de  producto:  GA1-220501092-AA4-EV02  documento  con 
+especificación  de requerimientos   
+ 
+Respecto a lista de requerimientos el aprendiz deberá agregar una sección donde se describa cada requisito usando 
+los siguientes elementos del estándar IEEE830.   
+o Perspectiva del producto.  
+o Funciones del producto.  
+o Características de los usuarios.  
+o Restricciones.  
+o Requisitos funcionales (formato de casos de uso).  
+o Requisitos no funcionales.  
+Respecto a la lista de requerimientos el aprendiz deberá agregar una sección donde se describa cada requisito 
+usando la estructura de historias de usuario con los siguientes elementos por historia:  
+
+=== PAGE 9 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+o Número de historia (priorizada).  
+o Nombre de la historia.  
+o Usuario.  
+o Puntos estimados de esfuerzo.  
+o Descripción de la historia de usuario.  
+o Observaciones.  
+o Criterios de aceptación.  
+ 
+Elementos a tener en cuenta en el documento técnico de validación: se deben seguir las normas básicas de 
+presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, 
+alcance, lista de requerimientos y versión del documento. Los requerimientos serán redactados usando el modelo 
+IEEE830 y también el modelo de descripción de requisitos por medio de historias de usuario.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento de requisitos.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del  producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: documento con especificación de requerimientos GA1-220501092-AA4-EV02  
+  
+  
+3.1.5 Actividad de aprendizaje: GA1-220501092-AA5 aplicar técnicas de validación de requisitos del 
+software.  
+  
+Esta actividad se centra en el estudio de los componentes de la fase de elicitación de requisitos, técnicas y 
+herramientas de captura de requisitos.  
+  
+Duración: 24 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Validación de requisitos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de conocimiento: GA1 -220501092-AA5-EV01 taller para la determinación de las 
+especificaciones funcionales del software y metodología a utilizar  
+  
+A partir de la revisión de las diferentes herramientas tecnológicas disponibles para la gestión de requisitos, 
+seleccionar una para configurar los requerimientos del proyecto seleccionado.  
+
+=== PAGE 10 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Redactar un documento donde describa la herramienta a utilizar y colocar los pantallazos de la configuración.  
+ 
+Lineamientos para la entrega del producto:   
+● Producto para entregar: documento.   
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia:  taller para la determinación de las especificaciones funcionales del software y 
+metodología a utilizar GA1-220501092-AA5-EV01.  
+ 
+● Evidencia de producto: GA1-220501092-AA5-EV02 informe de evaluación de los requerimientos   
+  
+Teniendo en cuenta las características de las técnicas de validación de requisitos abordadas en la actividad de 
+aprendizaje, construir los prototipos del sistema y los casos de prueba asociados a cada interfaz desarrollada.   
+Elementos a tener en cuenta en el documento técnico de validación   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, alcance, lista de requerimientos y versión del documento.  
+● Deberá seleccionar cuatro (4) historias de usuario o requisitos del proyecto seleccionado para representarlos 
+por medio de prototipos y realizar sus respectivos casos de prueba.  
+● Para la construcción de prototipos deberá usar una de las herramientas propuestas en el componente 
+formativo y exportar dichos elementos desarrollados como imágenes para ser incluidos dentro del documento.  
+● Por cada interfaz desarrollada deberá construir un caso de prueba el cual debe tener los siguientes elementos.  
+o Objetivo del caso de prueba.  
+o Identificador.  
+o Nombre del requerimiento o historia de usuario asociada.  
+o Precondiciones.  
+o Lista de pasos con los resultados esperados.  
+ 
+Lineamientos para la entrega del producto:   
+● Producto para entregar: documento informe técnico de validación.   
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: informe de evaluación de los requerimientos GA1-220501092-AA5-EV02.  
+  
+3.2. Actividades de aprendizaje de la competencia 220501093 evaluar requisitos de la solución de software  
+de acuerdo con metodologías de análisis y estándares  
+Terminada la fase de recolección de requerimientos, se procede a evaluar si los requisitos cumplen con todos los 
+requisitos y es adecuado para dar solución a la problemática bajo las metodologías del proceso de desarrollo de 
+software.  
+
+=== PAGE 11 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+3.2.1 Actividad de aprendizaje: GA1-220501093-AA1 estructurar el plan de actividades de análisis a partir 
+de las características del proyecto y el modelo de desarrollo seleccionado.  
+En esta actividad de aprendizaje se abordan las técnicas de validación de requisitos: revisiones, los prototipos y los 
+casos de prueba.  
+Duración: 96 horas.  
+ 
+Materiales de formación: Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Metodologías de desarrollo de software”.   
+ 
+Evidencias:  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la acti vidad de 
+aprendizaje:  
+ 
+● Evidencia conocimiento: GA1-220501093-AA1-EV01 taller sobre metodologías de desarrollo de 
+software  
+  
+Las metodologías de desarrollo son indispensables en los grupos de trabajo y organizaciones relacionadas con la 
+industria de software, partiendo de la información abordada en este componente desarrollar el taller sobre 
+metodologías de desarrollo de software propuesto.  
+   
+Elementos para tener en cuenta en el taller:  
+● Seleccionar diferentes fuentes de información relacionadas con las metodologías de desarrollo de software.   
+● Detallar las características que identifican a los marcos de trabajo tradicionales y los marcos de trabajo  
+     ágiles.  
+● Utilizar imágenes de construcción propia o que tengan los derechos respectivos de uso.   
+  
+Lineamientos para la entrega del producto:   
+● Producto para entregar: documento con el desarrollo del taller propuesto.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: taller sobre metodologías de desarrollo de software. GA1-220501093AA1-EV01.   
+  
+● Evidencia conocimiento: GA1 -220501093-AA1-EV02 infografía sobre metodologías de desarrollo de 
+software  
+ 
+Realizar una investigación corta profundizando en las metodologías de desarrollo de software  que existen en la 
+industrial y a partir de esta investigación construir una infografía en la que se resuman las principales características, 
+ventajas y desventajas de 3 marcos de trabajo ágiles y tres marcos de trabajo tradicionales.   
+  
+Elementos para tener en cuenta en la infografía:   
+
+=== PAGE 12 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Debe incluir tres marcos de trabajo ágiles y tres marcos de trabajo tradicionales.  
+● Debe incluir un marco de trabajo tradicional y un marco de trabajo ágil que no se haya desarrollado durante el 
+componente formativo 6.  
+● Utilizar imágenes de construcción propia o que tengan los derechos respectivos de uso.  
+  
+Lineamientos para la entrega del producto:   
+● Producto para entregar: infografía y metodologías de desarrollo.  
+● Formato: PDF o Word.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: infografía sobre metodologías de desarrollo de software . GA1-220501093AA1-
+EV02.  
+  
+  
+● Evidencia de desempeño: GA1-220501093-AA1-EV03 Foro. Especificación de la metodología a aplicar  
+  
+Argumentar y debatir sobre la metodología de desarrollo a aplicar en el proyecto por medio del foro dispuesto para 
+este fin.  
+Elementos para tener en cuenta en la actividad:  
+● Recuerde que toda participación en el foro debe presentar una argumentación clara, con buena ortografía.  
+● Apoyar cada argumentación teniendo en cuenta los siguientes elementos de las metodologías:  
+ ○  Origen.  
+ ○  Características / Principios.  
+ ○  Elementos / Roles / Herramientas de apoyo.  
+ ○  Gráfica resumen.  
+● Debe comentar las argumentaciones realizadas por otros.  
+   
+Lineamientos para la entrega del producto:  
+● Producto para entregar: argumentación en el foro.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: Foro. Especificación de la metodología a aplicar. GA1- 220501093-AA1-EV03.   
+  
+  
+● Evidencia de producto: GA1-220501093-AA1-EV04 documento identificando la metodología para el 
+proyecto de desarrollo de software  
+  
+Teniendo en cuenta la información recopilada y la idea de proyecto selecciona realizar un informe donde se describa 
+y justifique la metodología de desarrollo de software a utilizar.   
+Elementos para tener en cuenta en el informe:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, desarrollo y bibliografía.  
+
+=== PAGE 13 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● El informe debe evidenciar una justificación clara de la selección de la metodología respecto al proyecto a 
+desarrollar.  
+● Debe incluir una descripción del contexto y características del proyecto.  
+● El informe debe evidenciar el uso de filtros tales como tamaño del proyecto, periodicidad de realimentación 
+con el cliente, estado de la tecnología, etc.  
+   
+Lineamientos para la entrega del producto:  
+● Producto para entregar: informe.  
+● Formato: PDF o Word  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: documento identificando la metodología para el proyecto de desarrollo de 
+software. GA1-220501093-AA1-EV04.  
+  
+3.3. Actividades de aprendizaje de la competencia 220501046 utilizar herramientas informáticas de acuerdo 
+con necesidades de manejo de información  
+La informática se encarga del estudio del hardware , las redes de datos y el software necesario para t ratar la 
+información de manera automática y se convierte en factor primordial a la hora de gestionar la información para la 
+administración de métodos, técnicas y procesos en todas las áreas de ocupación.  
+3.3.1 Actividad de aprendizaje: GA1- 220501046-AA1 reconocer software de sistemas, software de 
+programación y software de aplicaciones. 
+El objetivo de la actividad es la identificación y apropiación de los conceptos sobre el software , su clasificación y 
+las herramientas que ofrece internet, aplicando la estrategia de la lluvia de ideas.   
+Duración: 12 horas.  
+ 
+Materiales de formación: Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Tecnologías de la Información y la Comunicación (TIC)”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de producto: GA1 -220501046-AA1-EV01 mapa Conceptual - Software y servicio s de 
+internet. Relacionar correctamente los tipos de software y servicios de internet   
+  
+Realizar un mapa conceptual sobre los tipos de software y servicios de internet, utilizando figuras, imágenes, frases 
+cortas y colores. Para la elaboración del mapa conceptual debe ser creativo y se recomienda:   
+  
+● Exploración de la plataforma y documentos guía del programa de formación.  
+● Prestar atención a las características y componentes propias de los tipos de software y servicios de internet 
+presentados en los recursos educativos digitales del componente.   
+
+=== PAGE 14 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Simultáneamente tomar nota de los elementos que considere relevantes sobre tipos de software y servicios 
+de internet para incluirlos en el mapa conceptual.   
+● Puede revisar el material tantas veces como lo considere necesario, lo importante es que sea una construcción 
+propia a partir del análisis de la información presentada, su experiencia y/o material c omplementario.   
+● Incluya aspectos relevantes sobre los tipos de software y recursos de internet para el área ocupacional de su 
+desempeño.   
+● Si tiene dudas sobre cómo realizar un mapa conceptual y las herramientas a utilizar para realizar la entrega 
+de la evidencia de aprendizaje, explore el anexo “Mapa- 220501046-AA1-EV01” para el aprendiz que le 
+orientará en el proceso.  
+  
+Lineamientos para la entrega del producto: 
+● Producto para entregar: mapa conceptual sobre los tipos de software y servicios de internet.  
+● Formato: PDF con el desarrollo del mapa y en la parte inferior derecha colocar sus datos personales.   
+● Extensión: 1 hoja.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: mapa Conceptual - Software y servicios de internet. Relacionar correctamente los 
+tipos de software y servicios de internet -GA1-220501046-AA1-EV01.  
+  
+3.2.2 Actividad de aprendizaje: GA1- 220501046-AA2 desarrollar un taller práctico sobre los términos y 
+funcionalidades de la ofimática   
+El objetivo de esta actividad es el dominio de herramientas ofimáticas y colaborativas, aplicando la estrategia de 
+aprender haciendo mediante la resolución de un taller propuesto.  
+Duración: 24 horas.  
+  
+Materiales de formación:  Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Tecnologías de la Información y la Comunicación (TIC)”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia Conocimiento: GA1 -220501046-AA2-EV01 taller - Utilización de las herramientas de 
+Ofimática. Realizar un taller práctico con las herramientas ofimáticas  
+  
+Realizar un taller práctico con las herramientas ofimáticas, tomando como base los temas presentados en el 
+componente formativo “Tecnologías de la Información y la Comunicación (TIC)” . Para la elaboración del taller 
+se debe tener en cuenta:    
+- Parte 1. Realizar el taller sobre la aplicación de herramientas informáticas que se presenta en el archivo 
+comprimido anexo “Taller_Ofimatica-220501046-AA2-EV01”. Este taller se debe realizar de manera  
+Individual.   
+- Parte 2. Tomando como  base el siguiente enlace sobre el uso de Trello: https://blog.trello.com/es/como-
+usartrello, se debe elaborar un tablero de Trello y realizar las diferentes acciones descritas en el enlace (incluir 
+múltiples tarjetas, elementos checklist , fondos personalizados y responsabilidades), se deben organizar 
+
+=== PAGE 15 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+equipos de máximo cinco (5) integrantes para compartir el tablero creado el cual debe compartirse además 
+con el instructor.   
+Lineamientos para la entrega del producto:   
+● Producto para entregar: se debe entregar un archivo comprimido que contenga:  
+● El archivo en formato Word con la parte 1 de la actividad, es decir, el taller sobre herramientas ofimáticas.  
+● Un documento que describa las acciones realizadas en la parte 2 de la actividad, es decir, la construcción del 
+tablero en Trello, además de la dirección de acceso al mismo. El informe debe incluir las dificultades 
+encontradas en el uso de esta herramienta.  
+● Formato: archivo comprimido en formato RAR o ZIP.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: taller- Utilización de las herramientas de Ofimática. Realizar un taller práctico con 
+las herramientas ofimáticas- GA1-220501046-AA2-EV01.  
+●  
+  
+3.2.2 Actividad de aprendizaje: GA1-220501046-AA3 elaborar un informe con las mejoras de producto 
+orientado desde las TIC.  
+El objetivo de esta actividad es identificar y reconocer la importancia de la incorporación de las Tecnologías de la 
+Información y la Comunicación (TIC) en los procesos relacionados con las diferentes áreas y su injerencia en la 
+mejora de la productividad.  
+  
+Duración: 12 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Tecnologías de la Información y la Comunicación (TIC)”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+● Evidencia de desempeño: GA1-220501046-AA3-EV01 informe mejora de productos y procesos con la 
+incorporación de TIC  
+  
+Elaborar un infor me sobre las mejoras que pueden realizarse a los diferentes procesos y productos del área de 
+ocupación con la incorporación de las TIC. Para esto debe tener en cuenta:  
+- Plantear las mejoras que ofrece la incorporación de las Tecnologías de la Información y  la Comunicación 
+(TIC), en lo concerniente con las herramientas ofimáticas y colaborativas.  
+- Identificar los aspectos procesos del área de ocupación que se pueden fortalecer con la incorporación de las 
+Tecnologías de la Información y la Comunicación (TIC).  
+- Presentar el informe de forma creativa, por ejemplo, a través de cuentos, caricaturas, etc. Haciendo uso de 
+una herramienta TIC en línea.  
+  
+Lineamientos para la entrega del producto:   
+● Producto para entregar: informe sobre las mejoras que pueden realizarse a los diferentes productos y 
+procesos del área de ocupación con la incorporación de TIC.  
+
+=== PAGE 16 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Formato: PDF.  
+● Extensión: máximo 10 hojas.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia: informe mejora de productos y procesos con la incorporación de TIC 
+GA1220501046-AA3-EV01.  
+  
+  
+3.4. Actividades de aprendiz aje de la competencia 240202501 interactuar en lengua inglesa de forma oral y 
+escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común 
+Europeo de Referencia para las Lenguas   
+Para comenzar a interactuar tanto de forma oral como escrita acerca de las actividades de la vida diaria, se requiere 
+comprender información personal y familiar haciendo uso de la estructura, el vocabulario y contextos requeridos.   
+3.4.1 Actividad de aprendizaje: GA1-240202501-AA1 identificar situaciones cotidianas y futuras a través de 
+una interacción social oral y escrita  
+El aprendizaje de una segunda lengua se facilita cuando se comienza a estudiar desde temas conocidos como son 
+las situaciones de la cotidianidad ya sea abordándolas desde el momento actual.   
+  
+Es importante seguir las indicaciones del instructor en cuanto a la mejor manera de apropiar el material del curso y 
+la correlación que tiene este con el programa de formación.  
+  
+Duración: 48 horas.  
+  
+Material de formación: los contenidos de soporte para el desarrollo de la actividad son “LEVEL 1 - MCER A1.1”.  
+  
+Evidencias:   
+  
+● Evidencia de conocimiento: GA1-240202501-AA1-EV01 Cuestionario   
+ 
+Presenta un cuestionario (evaluación en línea) para evaluar comprensión lectora y gramatical del nivel, el cual 
+consta de quince preguntas (15) y un tiempo aproximado de 45 minutos.   
+ 
+Lineamientos para la entrega de la evidencia:  
+  
+●  Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondiente y acceda 
+al espacio para el envío de la evidencia Cuestionario GA1-240202501AA1-EV01.  
+  
+● Evidencia de desempeño: GA1-240202501-AA1-EV02 Video  
+ 
+De acuerdo con la temática estudiada en el primer nivel escoja un miembro de su familia o un amigo para 
+presentarlo por medio de un corto video activando su cámara web en inglés con el fin de identificar de forma oral 
+las características personales sobre edad, nacionalidad, lugar de residencia, hobbies y alguna información 
+relevante sobre las actividades cotidianas que realiza.  
+  
+
+=== PAGE 17 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Para la elaboración del video con la cámara web, tenga en cuenta el desarrollo de un guion o estructura a través de 
+una herramienta como PowerPoint, Emaze, Prezi en la que se dispongan algunas diapositivas con imágenes y textos 
+para dar cuenta de la presentación del personaje.   
+  
+Diapositivas: durante el desarrollo de la presentación oral es ideal que presente entre 3 y 5 diapositivas, donde se 
+incluyan los siguientes elementos:   
+  
+● Diapositiva de portada (datos básicos del aprendiz, nombre del curso, instructor y nombre de la actividad).  
+● Diapositivas de datos del personaje seleccionado (nombre completo, edad, fecha de cumpleaños, ocupación, 
+actividades de tiempo libre), acompañado de imágenes, frases, textos cortos y elementos gráficos que le 
+permitan hablar durante la presentación.  
+  
+Estructura del video con cámara web: cuando grabe el video, tenga en cuenta que las fotos, imágenes y textos que 
+use en las diapositivas deben ser un apoyo visual para denotar buena pronunciación y su aprendizaje inicial sobre 
+las temáticas del primer nivel.   
+  
+Para la realización de la emisión del video deberá encender su cámara web, mostrar la pantalla con las diapositivas 
+creadas. La recomendación es utilizar alguna herramienta digital que permite grabar el video y pantal la como 
+Screencast-o-Matic, Loom, Camtasia, recordscreen.io, scrnrcrd.com e incluso existen aplicaciones como X Recorder 
+para que pueda realizarlo desde su teléfono móvil. Lo importante es mostrar las diapositivas, su cámara web e ir 
+realizando su presentación de forma oral.  
+  
+Una vez finalizado el video debe cargarlo a YouTube o Vimeo, con su cuenta de correo personal o institucional; 
+compruebe que no tenga restricciones de visualización para que pueda compartir el enlace de visualización.  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto a entregar: documento con los datos del aprendiz y enlace del Video.  
+● Formato: Word o PDF con la URL del video.  
+● Extensión: de 2 a 5 minutos.  
+● Para hacer el envío del documento remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia Video GA1-240202501-AA1-EV02.  
+  
+● Evidencia de producto: GA1-240202501-AA1-EV03. Folleto   
+  
+A partir de los datos, conceptos, e investigación obtenida de su programa de formación deberá realizar un folleto en 
+inglés con la información y características de su programa de formación.  
+ 
+Para realizar el folleto puede utilizar alguna herramienta digital como Canva, Crello, Word, PowerPoint o cualquier 
+otra que conozca y le permita trabajar de forma creativa.  
+   
+Estructura: datos personales del aprendiz, mensaje inicial, información básica del programa, expectativas e intereses 
+que se vinculen a su interés particular por estudiar el programa de formación.  
+ 
+Describa de manera sencilla y clara utilizando frases, vocabulario e imágenes relacionadas con temas de interés y 
+características de su programa de formación.  
+  
+Lineamientos para la entrega de la evidencia:   
+
+=== PAGE 18 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+● Producto a entregar: folleto. Haga uso de las normas gramaticales y redacción utilizando el idioma inglés, 
+además, aplique las normas APA para las referencias y citación de informac ión obtenida de diferentes 
+recursos digitales.   
+● Extensión: folleto tríptico entre 70 y 150 palabras.  
+● Formato: el folleto deberá exportarlo a PDF.  
+● Para hacer el envío del documento remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: Folleto GA1-240202501-AA1-EV03.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4. ACTIVIDADES DE EVALUACIÓN  
+  
+Evidencias de aprendizaje  Criterios de evaluación   Técnicas e instrumentos de evaluación  
+Evidencias de conocimiento:  
+Infografía sobre la teoría general 
+de sistemas   
+GA1-220501092-AA1-EV01   
+  
+Evidencia de conocimiento:  
+Identificación de procesos 
+organizacionales.   
+GA1-220501092-AA1-EV02   
+  
+Evidencia de producto:  Mapa 
+de procesos del software a 
+construir.   
+GA1-220501092-AA1-EV03 
+Identifica procesos de la organización de 
+acuerdo con la estructura organizacional de 
+la empresa y los requerimientos del cliente.  
+  
+Aplica técnicas de análisis de procesos, 
+siguiendo la metodología establecida.  
+  
+Elabora diagrama de procesos 
+identificando áreas de incidencia directa 
+con el sistema de información a construir.   
+  
+Reconoce las fronteras y el contexto del 
+sistema de acuerdo con el alcance. 
+IE-GA1-220501092-AA1-EV01  
+Lista de chequeo   
+  
+IE-GA1-220501092-AA1-EV02  
+Lista de chequeo   
+  
+  
+  
+  
+IE-GA1-220501092-AA1-EV03  
+Lista de 
+chequeo    
+ 
+Evidencia de conocimiento: Mapa 
+mental sobre ingeniería de 
+requisitos.  
+GA1-220501092-AA2-EV01  
+  
+Evidencias de desempeño:  Foro 
+temático. Fuentes de requisitos.   
+GA1-220501092-AA2-EV02  
+Identifica las fronteras del sistema y del 
+contexto de acuerdo de las fuentes de 
+requisitos.  
+  
+Reconoce las fuentes de requisitos de 
+acuerdo con el proyecto.   
+  
+Diferencia los tipos de requisitos según sus 
+características particulares.  
+IE-GA1-220501092-AA2-EV01  
+Lista de chequeo  
+  
+IE-GA1-220501092-AA2-EV02  
+Lista de chequeo  
+  
+
+=== PAGE 19 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de desempeño:  
+Diseño del instrumento de 
+recolección de información.   
+GA1-220501092-AA3-EV01   
+  
+Evidencia de desempeño:  
+Formulación del proyecto de 
+software.   
+GA1-220501092-AA3-EV02   
+  
+Evidencia de producto:  
+Formulario de recolección de 
+información.   
+GA1- 220501092-AA3-EV03  
+Diseña instrumentos para recolección de 
+información siguiendo normas y 
+procedimientos técnicos.  
+  
+  
+  
+Utiliza las técnicas de captura de requisitos 
+de acuerdo con las fuentes  Identificadas.  
+  
+  
+Organiza la información recolectada para 
+analizarla.  
+IE-GA1-220501092-AA3-EV01   
+Lista de chequeo  
+  
+  
+  
+IE-GA1-220501092-AA3-EV02   
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA1-220501092-AA3-EV03   
+Lista de chequeo  
+  
+  
+Evidencias de Desempeño:  
+Especificación de los 
+requerimientos funcionales y no 
+funcionales del software.  
+GA1-220501092-AA4-EV01  
+  
+Evidencia de producto:  
+Documento con especificación de 
+requerimientos.  
+GA1-220501092-AA4-EV02  
+Genera la documentación de la 
+especificación de requisitos de acuerdo con 
+normatividad y estándares relacionados.  
+  
+Presenta el informe de requisitos de  
+acuerdo con estándares establecidos.  
+IE-GA1-220501092-AA4-EV01  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA1-220501092-AA4-EV02  
+Lista de chequeo  
+Evidencias de conocimiento:  
+Taller para la determinación de 
+las especificaciones funcionales 
+del software y metodología a 
+utilizar.   
+GA1-220501092-AA5-EV01  
+  
+Evidencia de producto:  Informe 
+de evaluación de los 
+requerimientos.  
+GA1-220501092-AA5-EV02 
+Evalúa el informe de requisitos con el 
+cliente según las necesidades establecidas.  
+  
+Realiza cambios a la documentación de 
+especificación de requisitos a partir de los 
+hallazgos encontrados. 
+IE-GA1-220501092-AA5-EV01  
+Lista de chequeo  
+  
+  
+  
+  
+  
+IE- GA1-220501092-AA5-EV02  
+Lista de chequeo 
+
+=== PAGE 20 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencias de conocimiento:  
+Taller sobre metodologías de 
+desarrollo de software.   
+GA1-220501093-AA1-EV01   
+  
+Evidencias de conocimiento:  
+Infografía sobre metodologías de 
+desarrollo de software.   
+GA1-220501093-AA1-EV02   
+  
+Evidencia de desempeño:  Foro. 
+Especificación de la metodología 
+a aplicar.   
+GA1-220501093-AA1-EV03  
+  
+Evidencia de producto:  
+Documento identificando la 
+metodología para el proyecto de 
+desarrollo de software.  GA1-
+220501093-AA1-EV04  
+Identifica metodologías de desarrollo de 
+software de acuerdo con las características 
+del software a desarrollar.  
+  
+Establece las actividades de análisis de 
+acuerdo con la metodología seleccionada.  
+IE-GA1-220501093-AA1-EV01   
+Lista de chequeo  
+  
+  
+  
+IE-GA1-220501093-AA1-EV02   
+Lista de chequeo  
+  
+  
+  
+IE-GA1-220501093-AA1-EV03  
+Lista de chequeo  
+  
+  
+  
+  
+IE-GA1-220501093-AA1-EV04  
+Lista de chequeo  
+Evidencia de producto:  
+Mapa conceptual - Software y 
+servicios de internet.  
+Relacionar correctamente los 
+tipos de software y servicios de 
+internet.  
+GA1-220501046-AA1-EV01  
+Identifica equipos TIC, tipos de software  y 
+servicios de internet, de acuerdo con las 
+necesidades de uso.  
+  
+Compara equipos TIC, tipos de software y 
+servicios de internet, de acuerdo con las 
+características.  
+  
+Escoge equipos TIC, tipos de software y 
+servicios de internet, de acuerdo con las 
+necesidades de procesamiento de 
+información y características.  
+IE-GA1-220501046-AA1-EV01  
+Lista de verificación  
+
+=== PAGE 21 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento: 
+Taller - Utilización de las 
+herramientas de ofimática. 
+Realizar un taller práctico con las 
+herramientas ofimáticas. GA1-
+220501046-AA2-EV01  
+Maneja computadores, tabletas, celulares y 
+otros equipos TIC, de acuerdo con las 
+funcionalidades de los mismos.   
+  
+Aplica funcionalidades de sistemas 
+operativos, de acuerdo con las necesidades 
+de administración de los recursos del 
+equipo.  
+  
+Maneja procesador de texto, hoja de 
+cálculo, software para presentaciones, 
+diagramación, bases de datos y software  
+específico, de acuerdo con las 
+funcionalidades de cada programa y las 
+necesidades de manejo de la información.  
+  
+Utiliza motores de búsqueda, navegación, 
+correo electrónico, transferencia de 
+archivos, chat, listas de correos, blogs, 
+wikis, foros web, spaces, grupos de noticias, 
+telefonía IP, televisión IP, comprar en 
+internet, E -learning, marketing digital, 
+trabajo colaborativo, computación en la 
+nube, redes sociales y videoconferencia por 
+internet, de acuerdo con las necesidades de 
+información y comunicación.  
+  
+Participa en redes sociales, de acuerdo con 
+las necesidades de comunicación.  
+  
+Maneja herramientas colaborativas en 
+internet, de acuerdo con las necesidades del 
+equipo de trabajo.  
+  
+Comprueba el funcionamiento de los 
+equipos, productos o servicios obtenidos 
+con el uso de herramientas TIC, de acuerdo 
+con los resultados esperados.  
+IE-GA1-220501046-AA2-EV01  
+Lista de verificación  
+Evidencia de desempeño: 
+Informe mejora de productos y 
+procesos con la incorporación de 
+TIC.  
+GA1-220501046-AA3-EV01  
+Aplica procesos de mejora a los productos, 
+de acuerdo con las comprobaciones 
+realizadas.  
+IE-GA1-220501046-AA3-EV01  
+Lista de verificación  
+
+=== PAGE 22 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento:  
+Cuestionario.  
+GA1-240202501-AA1-EV01  
+  
+  
+Reconoce la idea general y detalles 
+específicos en interacciones orales de la 
+vida cotidiana articuladas con claridad y 
+una velocidad promedio.  
+IE-GA1-240202501-AA1-EV01  
+Cuestionario  
+  
+  
+  
+  
+Evidencia de desempeño:   
+Video presentación.  
+GA1-240202501-AA1-EV02  
+Reconoce la idea general y detalles 
+específicos en interacciones orales de la 
+vida cotidiana articuladas con claridad y 
+una velocidad promedio  
+IE-GA1-240202501-AA1-EV02  
+Lista de verificación  
+Evidencia de producto:  
+Folleto.  
+GA1-240202501-AA1-EV03  
+Reconoce la idea general y detalles 
+específicos en textos escritos de la vida 
+cotidiana articulados con claridad.  
+IE-GA1-240202501-AA1-EV03  
+Lista de verificación  
+  
+5. GLOSARIO DE TÉRMINOS  
+  
+Cláusulas adverbiales: una cláusula adverbial es un grupo de palabras que desempeña el papel de un 
+adverbio. (Como todas las cláusulas, una cláusula adverbial contiene un sujeto y un verbo).  
+  
+Diagrama de flujo : es un esquema de los pasos separados de un proceso en orden secuencial, que se 
+puede adaptar para una amplia variedad de propósitos y se puede utilizar para describir varios procesos, como un 
+proceso de fabricación, un proceso administrativo o de servicio o un plan de proyecto. Es una herramienta común 
+de análisis de procesos.  
+  
+Gerundio: es una forma del verbo finalizada en “ing” que funciona como un sustantivo y tiene relación con 
+actividades finalizadas o concretas.  
+  
+Hardware: corresponde a todas las partes físicas y tangibles de una computadora: sus componentes 
+eléctricos, electrónicos, electromecánicos y mecánicos, sus cables, gabinetes o cajas, periféricos de todo tipo y 
+cualquier otro elemento físico involucrado  
+Infinitivo: Es una forma del verbo antecedida por “to” que funciona como un sustantivo y tiene relación con 
+futuras o abstractas.  
+  
+Metodología: ciencia que consta de métodos y técnicas, que se aplican sistemáticamente durante un 
+proceso de investigación o para solucionar una problemática.  
+Requerimientos: es una descripción completa del comportamiento del sistema que se va a desarrollar. 
+Incluye un conjunto de casos de uso que describe todas las interacciones que tendrán los usuarios con el software.   
+Requisitos de usuarios: necesidades que los usuarios expresan verbalmente  
+  
+Requisitos del sistema: son los componentes que el sistema debe tener para realizar determinadas tareas  
+
+=== PAGE 23 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Requisitos funcionales: servicios que el sistema debe proporcionar al finalizar el sistema   
+  
+Stakeholders: interesados o participantes en un proyecto.  
+  
+Software: soporte lógico, programas, parte no mecánica de un sistema. Serie de instrucciones necesarias 
+para ejecutar diversas aplicaciones y tareas.  
+  
+Teoría general de sistemas: es un esfuerzo de estudio interdisciplinario que trata de encontrar las 
+propiedades comunes a entidades, los sistemas, que se presentan en todos los niveles de la realidad, pero que 
+son objetivo tradicionalmente de disciplinas académicas diferentes.  
+  
+Verbo transitivo: es un verbo que requiere del uso de un objeto directo sobre el que recae la acción.  
+  
+Verbo intransitivo: es un verbo que no requiere del uso de un objeto directo.  
+  
+Verbos compuestos: son verbos que contienen una o más partículas que hacen que el significado del verbo 
+cambie ligera o totalmente.  
+  
+  
+6. REFERENTES BIBLIOGRÁFICOS  
+Andrade, A. M., Del Río, C. A., y Alvear, D. L. (2019). A study on time and motion to inc rease the efficiency of a 
+shoe manufacturing company | Estudio de Tiempos y Movimientos para Incrementar la Eficiencia en una  
+Empresa  de  Producción  de  Calzado.  Información  Tecnológica,  30(3), 
+ 83–94. https://doi.org/10.4067/S0718-07642019000300083  
+De Guevara, D. M. Á. L. (2014). Sistema operativo, búsqueda de la información: Internet/Intranet y correo 
+electrónico. UF0319. Tutor Formación.  Figarola, I. (s.f.). Fonética inglesa (th).  
+https://www.abaenglish.com/es/fonetica-inglesa/th/   
+  
+Fresno, C., C. (2018). ¿Cómo funciona internet? El Cid Editor. 
+https://elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/36728?page=34   
+Gallardo, Y. (2020). Word para principiantes – 2020. [Video]. YouTube 
+https://www.youtube.com/watch?v=4ooZlyprmc  
+Gaskin, S., Vargas, A., & Martin, C. L. (2011). Go! with Microsoft Word 2013, Introductory . Langara College.  
+Gómez  de  Silva,  G.,  A.,  y  Briseño,  A.  (2008).  Software  (pp.  23–44). 
+ Cengage  Learning. 
+https://link.gale.com/apps/doc/CX3004400004/GVRL?u=sena&sid=GVRL&xid=d8990326   
+Ibarra, S., J. I. (2013). Manual sistema operativo, búsqueda de la información: Internet/intranet y correo 
+electrónico. Editorial CEP, S.L. https://elibro-
+net.bdigital.sena.edu.co/es/ereader/senavirtual/50724?page=19  
+
+=== PAGE 24 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Ibiza, D. (2019). Tutorial Trello: Guía de uso con ejemplos reales prácticos. [Video]. YouTube. 
+https://www.youtube.com/watch?v=_UB44coH3SM&feature=youtu.be  
+Ladrón de Guevara, M. (2018). Sistema operativo, búsqueda de la información: internet/intranet y correo 
+electrónico UF0319. Editorial Tutor Formación. https://elibro-
+net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/44263  
+   Moure, O.(1999). El  acento  en  las  palabras  de  dos  sílabas.  
+http://www.ompersonal.com.ar/ompronounce/unit11/page1.htm     
+Naranjo, G., M. R. (2010). Manual Ofimática básica en formación continua. Formación para el empleo. Editorial  
+CEP, S.L https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/50987?page=1  
+Pressman, R. (2010). Ingeniería del software, un enfoque práctico. McGraw-Hill.  
+Real Academia Española. (1970). Diccionario de la lengua española (Vol. 19). Espasa-Calpe.  
+   Systems,  V.  (2013).  Inglés:  grado  superior.  McGraw-Hill  https://elibro- 
+net.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1     
+ Valentín,  L.,  G.M.  (2015).  Ofimática.  Editorial  CEP,  S.  L. 
+ https://elibronet.bdigital.sena.edu.co/es/ereader/senavirtual/51049?page=16   
+   
+7. CONTROL DEL DOCUMENTO  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+  
+Autor  
+(es)  
+  
+Ramiro  
+Barrientos Gómez  Experto temático  Centro  de  Formación  en  Diseño,  Confección y Moda  Noviembre  2020  
+Sergio Arturo Medina 
+Castillo  
+Diseñador  
+Instruccional  
+Centro  para  la  Industria  de  la  
+Comunicación Gráfica  
+Noviembre 
+2020  
+Liliana Victoria  
+Morales  
+Evaluadora 
+Instruccional  
+Centro para la Industria de la 
+Comunicación Gráfica  
+Noviembre 
+2020  
+Elkin Rodolfo   
+Moreno Merchan  Experto temático  Regional Distrito Capital -  Centro de Formación de Talento Humano en Salud  Febrero  2021  
+Jonathan   
+Guerrero Astaiza  Experto temático  Centro de Teleinformática y Producción Industrial - Regional Cauca  Noviembre 2021  
+Zulema  
+Leon Escobar  Experta temática  Centro de Teleinformática y Producción Industrial - Regional Cauca  Noviembre 2021  
+
+=== PAGE 25 ===
+    
+  
+  GFPI-F-135 V01  
+  
+  
+Oscar   
+Absalon Guevara  
+Diseñador  
+Instruccional  
+Centro de Gestión Industrial - Regional 
+Bogotá  Febrero  2021  
+Deivis Eduard   
+Ramirez Martinez  
+Diseñador  
+Instruccional  
+Centro  para  la  Industria  de  la  
+Comunicación Gráfica - Regional Distrito 
+Capital -  
+Noviembre 
+2021  
+Silvia Milena  
+Sequeda Cárdenas  
+Evaluadora 
+instruccional  
+Centro de gestión industrial - Distrito 
+capital.   
+Noviembre 
+2021  
+Rafael Neftalí Lizcano 
+Reyes  
+Asesor  
+Pedagógico  
+Centro Industrial del Diseño y la  
+Manufactura – Regional Santander  
+Noviembre 
+2021  
+José Gabriel Ortiz 
+Abella  
+Corrector de 
+estilo  
+Regional Distrito Capital – Centro para 
+la Industria de la Comunicación Gráfica.  
+Noviembre del 
+2021.  
+  
+  
+8. CONTROL DE CAMBIOS   
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+  

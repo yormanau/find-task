@@ -1,0 +1,1562 @@
+
+=== PAGE 1 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+PROCESO DE GESTIÓN DE FORMACIÓN PROFESIONAL INTEGRAL 
+FORMATO GUÍA DE APRENDIZAJE  
+  
+1. Identificación de la guía de aprendizaje   
+● Denominación del programa de formación: Análisis y desarrollo de software  
+● Código del programa de formación: 228118  
+● Nombre del proyecto: Construcción de software integrador de tecnologías orientadas a servicios.  
+● Fase del proyecto: Planeación.   
+● Actividad de proyecto: Determinar la estructura lógica y tecnológica del sistema.  
+● Competencias:  
+Técnicas:  
+220501093 - Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares.  
+220501095 - Diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos.   
+Claves:   
+240201524 - Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones 
+de orden social, personal y productivo.  
+240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales 
+según los criterios establecidos por el Marco Europeo de Referencia para las Lenguas.   
+ ●  Resultados de aprendizaje a alcanzar:  
+Técnicos:  
+220501093-02 - Modelar las funciones del software de acuerdo con el informe de requisitos.  
+220501095-01 - Elaborar los artefactos de diseño del software siguiendo las prácticas de la metodología 
+seleccionada.  
+220501095-02 - Estructurar el modelo de datos del software de acuerdo con las especificaciones del 
+análisis.  
+220501095-04 - Verificar los entregables de la fase de diseño del software de acuerdo con lo establecido 
+en el informe de análisis.   
+Claves:  
+240201524-01 - Analizar los componentes de la comunicación según sus características, intencionalidad 
+y contexto.  
+240201524-02 - Argumentar en forma oral y escrita atendiendo las exigencias y particularidades de 
+las diversas situaciones comunicativas mediante los distintos sistemas de representación.  
+240201524-03 - Relacionar los procesos comunicativos teniendo en cuenta criterios de lógica y 
+racionalidad.  
+240201524-04 - Establecer procesos de enriquecimiento lexical y acciones de mejoramiento en el 
+desarrollo de procesos comunicativos según requerimientos del contexto.  
+240202501-04 - Implementar acciones de mejora relacionadas con el uso de expresiones, es tructuras y 
+desempeño según los resultados de aprendizaje formulados para el programa.  
+   
+● Duración de la guía: 296 horas  
+Técnico: 200 horas.   
+Claves: 96 horas.  
+  
+ 
+ 
+
+=== PAGE 2 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+2. Presentación  
+  
+Estimado aprendiz, el SENA extiende una cordial bienvenida a la cuarta guía de aprendizaje que comprende las 
+competencias técnicas de evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y 
+estándares y, también, diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos.  
+  
+Es importante saber que cada ser humano tiene siempre la necesidad de comunicar y esta es una experiencia 
+inherente a cada quien, pues se presenta de diversas formas e incluye la transmisión y recepción de estímulos, 
+ideas, pensamientos y emociones que, a su vez, se condicionan desde la cultura, el contexto social, la forma de 
+sentir el mundo y los procesos de formación adelantados, entre otros condicionantes de la experiencia humana.   
+Finalmente, encontrarán la competencia clave de inglés como una de las habilidades contemporáneas más 
+importantes y de mayor impacto en el mundo laboral y social, teniendo en cuenta el aprendizaje articulado de las 
+cuatro habilidades de la lengua (leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de 
+Referencia para Lenguas) como estándar del nivel de conocimiento de lengua y categorización de los 
+conocimientos en niveles de competencia en un idioma.   
+Para el desarrollo de las actividades planteadas en esta guía, contará con el acompañamiento de los instructores 
+asignados al programa quienes, de forma continua y permanente, orientarán con las pautas necesarias para el 
+logro de las actividades de aprendizaje, brindando herramient as básicas de tipo conceptual y metodológico. Los 
+instructores programarán los encuentros de asesoría virtual para brindar orientaciones específicas relacionadas 
+con las temáticas a desarrollar en las actividades. Es importante que organice su tiempo, dada la exigencia que 
+demanda la realización de esta guía de aprendizaje; no olvide revisar y explorar los materiales de estudio del 
+programa.   
+Por consiguiente, se presentan cada una de las acciones de aprendizaje que le permitirán desarrollar lo 
+anteriormente mencionado.  
+  
+3. Formulación de las actividades de aprendizaje  
+  
+En este apartado se describirán las actividades de aprendizaje para cada una de las competencias que plantea la 
+fase de planeación del proyecto formativo: determinar las especificaciones funcionales del software y metodología 
+a utilizar.   
+ 
+3.1 Actividades de aprendizaje de las competencias 220501093 evaluar requisitos de la solución de 
+software de acuerdo con metodologías de análisis y estándares –  220501095 diseñar la solución de 
+software de acuerdo con procedimientos y requisitos técnicos  
+  
+La evaluación de requisitos permite especificar las características operacionales del software en cuanto a función, 
+rendimientos y datos, también establece las restricciones que este debe cumplir.  
+  
+Por otra parte, en cuanto al diseño de la solución con base en los procedimientos y requisitos técnicos, es 
+importante recordar que el software es el soporte lógico de un sistema informático, aquí encontramos el conjunto 
+de los componentes que son necesarios para la realización de tareas específicas, por lo cual, para realizar  un 
+óptimo diseño de una solución de software hay que tener en cuenta los requisitos técnicos.   
+  
+  
+
+=== PAGE 3 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.1.1 Actividad de aprendizaje GA4-220501093-AA1 - Diseñar la estructura de la base de datos del sistema. 
+Esta actividad se centra en la elaboración del modelo entidad relación cuyos elementos básicos son las entidades, 
+las relaciones, los atributos y las cardinalidades, todo con base en los requisitos del software.  
+  
+Duración: 6 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Conceptos generales de bases de datos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la ac tividad de 
+aprendizaje:  
+  
+❖ Evidencia de desempeño: GA4- 220501093-AA1-EV01 - Identificar entidades y relaciones planteadas 
+en el caso de estudio   
+ 
+El modelo entidad relación es una técnica que permite representar de manera simplificada los componentes qu e 
+participan en un proceso de negocio y el modo en el que estos se relacionan entre sí.  
+  
+● En la siguiente actividad se identifican las entidades y relaciones planteadas en el caso de estudio.  
+● Elabora el modelo entidad relación de acuerdo con los requisitos del software.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Elementos a tener en cuenta en el modelo entidad relación:  
+● Elabora el modelo entidad relación teniendo en cuenta:  
+● Entidades.  
+● Atributos.  
+● Tipos de relaciones.  
+● TUPLA.  
+● Relaciones entre entidades.  
+● Claves y tipos de claves.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+• Producto para entregar: documento Modelo Entidad Relación (MER).  
+• Formato: PDF.  
+• Extensión: libre.  
+• Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:   
+identificar entidades y relaciones planteadas en el caso de estudio. GA4-220501093-AA1-EV01.  
+   
+3.1.2 Actividad de aprendizaje GA4-220501095-AA1 - Diseñar la estructura de la base de datos del sistema. 
+Esta actividad se centra en la elaboración del modelo entidad relación de acuerdo con los requisitos del software.  
+
+=== PAGE 4 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Se parte de la premisa de que una base de datos es una colección de datos organizados y relacionados de alguna 
+forma entre sí, de ahí, la importancia de diseñar correctamente la estructura a utilizar en la base de datos.  
+  
+Duración: 10 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Conceptos generales de bases de datos”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+❖ Evidencia de producto: GA4 -220501095-AA1-EV01 - Diseñar el modelo conceptual y lógico de 
+acuerdo al caso de estudio  
+  
+El modelo conceptual representa las entidades importantes y sus relaciones para examinar los conceptos de 
+dominio con los interesados en el proyecto, además de la definición del problema que tratará la solución del sistema 
+propuesto. Con base en la definición previa, y c on la lectura del componente formativo Conceptos generales de 
+bases de datos se debe diseñar un modelo conceptual que abarque también la parte lógica del caso de estudio.  
+Elementos a tener en cuenta en el modelo entidad relación:  
+● Realizar el modelo conceptual.  
+● Tener en cuenta el tipo de base de datos seleccionada.  
+● Tener en cuenta las especificaciones del análisis.   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos generales para la entrega de la evidencia:  
+  
+• Producto para entregar: modelo conceptual.  
+• Formato: PDF.  
+• Extensión: libre.   
+• Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:   
+diseñar el modelo conceptual y lógico de acuerdo al caso de estudio GA4-220501095-AA1-EV01.   
+● Evidencia de producto: GA4 -220501095-AA1-EV02 - Modelos conceptual y lógico para el proyecto 
+desarrollo de software  
+  
+Un modelo conceptual es una descripción general de cómo un sistema se organiza y opera. Su tarea principal es 
+especificar y describir los conceptos base, entre ellos. Con base en la definición previa, y con la lectura del 
+componente formativo conceptos generales de bases de datos se debe diseñar un modelo conceptual que abarque 
+también la parte lógica del proyecto de desarrollo de software a realizar.  
+
+=== PAGE 5 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Elementos a tener en cuenta:  
+Modelos conceptual y lógico para el proyecto desarrollo de software teniendo en cuenta:  
+• Generar el modelo lógico de acuerdo con la técnica seleccionada.  
+• Normalizar el modelo lógico de acuerdo con el tipo de base de datos.  
+• Crear el diccionario de datos según el modelo lógico.   
+• Definir políticas de seguridad para garantizar integridad, confidencialidad y disponibilidad de los datos.  
+• Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos generales para la entrega de la evidencia:   
+• Productos para entregar: informe con el modelo lógico.  
+• Formato: PDF.  
+• Extensión: libre.  
+• Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+modelos conceptual y lógico para el proyecto desarrollo de software GA4-220501095-AA1-EV02.  
+  
+  
+3.2. Actividades de aprendizaje de la competencia: 220501095 - Diseñar la solución de software de acuerdo 
+con procedimientos y requisitos técnicos  
+El diseño de la solución con base en los procedimientos y requisitos técnicos debe ir de la mano con  el soporte 
+lógico de un sistema informático, para lo cual, para realizar un diseño óptimo de una solución de software hay que 
+tener en cuenta los requisitos técnicos, y en especial, se deben abarcar todos los componentes que son necesarios 
+para la realización de tareas específicas,  
+  
+3.2.1 Actividad de aprendizaje GA4-220501095-AA2 - Elaborar artefactos usando el paradigma de 
+programación orientada a objetos.  
+  
+Un artefacto es un producto físico resultante del proceso de desarrollo de software,  entre ellos los casos de uso, 
+diagrama de clases y otros modelos UML, estos ayudan a la descripción de la función, la arquitectura o el diseño 
+de una solución de software.   
+  
+Duración: 96 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Conceptos básicos programación orientada a objetos. Diseño del modelo conceptual bajo el 
+paradigma orientado a objetos. Diseño de patrones de software”.   
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+
+=== PAGE 6 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Evidencia de conocimiento: GA4 -220501095-AA2-EV01 - Taller de conceptos y principios de 
+programación orientada a objetos  
+ 
+  
+Realizar un glosario de terminología utilizada en la POO, cada término debe ser explicado con sus propias palabras. 
+En su propio concepto explicar cuáles son las características y los principios o pilares básicos de la POO.  
+ 
+Elementos a tener en cuenta:  
+● POO.  
+● Clases.  
+● Herencias.  
+● Objetos.  
+● Métodos.  
+● Eventos.  
+● Atributos.  
+● Abstracción.  
+● Encapsulamiento.  
+● Polimorfismo.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: Taller.  
+●  Formato: PDF.  
+● Extensión: mínimo 3 hojas de contenido.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia taller de conceptos y principios de programación orientada a objetos 
+GA4220501095-AA2-EV01.  
+  
+● Evidencia de producto: GA4 -220501095-AA2-EV02 - Informe de entregables para el proyecto de 
+desarrollo de software  
+  
+Los entregables son aquellos productos tangibles que se generan como resultado de los procesos del proyecto 
+de software, sus descripciones, estados posibles y la fuente del producto (puede ser otro proceso o una entidad 
+externa al proyecto, como el cliente). Ejemplo de algunos entregables:  
+● Especificación de requisitos.  
+● Diseño de software.  
+● Registro de trazabilidad.  
+● Casos de prueba.  
+● Reportes de prueba.  
+● Captura de requisitos.  
+● Especificaciones de sistema.  
+
+=== PAGE 7 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Manuales de usuario, etc.  
+ 
+Elementos a tener cuenta en la actividad  
+● Entregar el informe de análisis identificando las características del software a diseñar.  
+● Definir las plataformas tecnológicas a emplear en el desarrollo de acuerdo con las condiciones del software 
+desarrollado.  
+● Definir los entregables de diseño siguiendo los conceptos y principios de orientación a objetos.    
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+     
+Lineamientos para la entrega del producto:  
+● Producto para entregar: informe de entregables.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: informe de entregables para el proyecto de desarrollo de software - 
+GA4220501095-AA2-EV02.  
+  
+● Evidencia de conocimiento: GA4 -220501095-AA2-EV03 bases conceptuales acerca del lenguaje 
+unificado de modelado (UML) y patrones de diseño   
+  
+El UML es un lenguaje gráfico de modelado que sirve para especificar, construir, visualizar y documentar un 
+sistema, por lo general se lo utiliza para especificar o describir métodos o procesos.   
+  
+Elementos a tener cuenta en la actividad  
+● Debe elaborar un informe del lenguaje unificado de modelado UML.  
+● Estudiar el componente formativo “Diseño del modelo conceptual bajo el paradigma orientado a 
+objetos”.  
+● Profundizar con material de apoyo sobre UML.  
+● Con sus propias palabras elabore un resumen sobre UML.  
+● Elaborar un glosario de terminología UML.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento 
+debe tener como mínimo una portada, introducción y conclusiones.   
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: informe.  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: Bases conceptuales acerca del lenguaje unificado de modelado (UML) y 
+patrones de diseño GA4-220501095-AA2-EV03.  
+  
+  
+● Evidencias de producto: GA4-220501095-AA2-EV04 - Diagrama de clases del proyecto de software  
+  
+
+=== PAGE 8 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+El diagrama de clases es el tipo de diagrama más útil en UML, ya que traza claramente la estructura de un sistema 
+concreto al modelar.  
+Para esta evidencia elaboramos un diagrama de clases de acuerdo con los requisitos, aplicando buenas prácticas 
+de diseño orientado a objetos.  
+  
+ 
+ 
+Elementos a tener cuenta en la actividad  
+• Estudiar el componente formativo “Diseño del modelo conceptual bajo el paradigma orientado a 
+objetos”.  
+● Diagrama de clases del proyecto de software.  
+● Aplicar buenas prácticas de diseño orientado a objetos.  
+● Utilizar una herramienta tic para hacer diagramas.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: diagrama de clases del proyecto de software.  
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: diagrama de clases del proyecto de software - GA4-220501095-AA2-EV04.   
+  
+● Evidencia de desempeño: GA4- 220501095-AA2-EV05 - Desarrollar la arquitectura de software de 
+acuerdo al patrón de diseño seleccionado   
+  
+Se entiende por arquitectura de software el conjunto de patrones y abstracciones coherentes que proporcionan un 
+marco definido y claro para interactuar con el código fuente.  
+  
+Desarrollar la arquitectura de software teniendo en cuenta los siguientes criterios:  
+● Estudiar el componente formativo “Diseño de patrones de software”.  
+● Incorporar patrones de diseño propendiendo en mejores prácticas para la codificación y mantenibilidad del 
+software.   
+● Elaborar la vista de componentes para visualizar el software en fases avanzadas del ciclo de vida.  
+● Elaborar la vista de despliegue del software para determinar condiciones de la implantación de la solución 
+informática.  
+● Elegir herramientas necesarias para optimizar los procesos.    
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: arquitectura de software.  
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: desarrollar la arquitectura de software de acuerdo al patrón de diseño 
+seleccionado GA4-220501095-AA2-EV05.  
+
+=== PAGE 9 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+● Evidencias de producto: GA4-220501095-AA2-EV06 - Taller arquitectura de software  
+     
+Elaborar un taller sobre arquitectura de software teniendo en cuenta las siguientes preguntas:  
+  
+Elementos a tener cuenta en la actividad  
+● ¿Qué entiende por arquitectura de software?   
+● ¿Cuál es su función?  
+● ¿Cómo se elabora la arquitectura de software?  
+● ¿Cómo lograr una buena arquitectura?  
+● ¿Cuáles son los elementos de diseño de una arquitectura de software?  
+  
+Lineamientos para la entrega del producto:  
+● Producto para en tregar: taller de arquitectura de software (se deben seguir las normas básicas de 
+presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, 
+introducción y conclusiones).  
+● Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: taller arquitectura de software - GA4-220501095-AA2-EV06.  
+  
+3.2.2 Actividad de aprendizaje GA4-220501095-AA3 - Elaborar los artefactos necesarios para el despliegue 
+del software.   
+  
+Hay que recordar que un artefacto es un producto físico resultante del proceso de desarrollo de software, entre 
+ellos tenemos los casos de uso, diagrama de clases y otros modelos UML que ayudan a la descripción de la 
+función, la arquitectura o el diseño de una solución de software.   
+  
+Duración: 48 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Conceptos, tecnologías y arquitectura para el desarrollo web”.  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA4 -220501095-AA3-EV01 - Mapa conceptual para Identificación y 
+caracterización de los componentes del ciclo de vida del software   
+  
+El ciclo de vida contiene los procesos, actividades y tareas relacionadas con el desarrollo y mantenimiento de una 
+solución de software, contemplando la vida completa del sistema, desde la definición de los requisitos hasta la  
+entrega del software.  
+  
+
+=== PAGE 10 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Realizar un mapa conceptual para Identificación y caracterización de los componentes del ciclo de vida del software 
+teniendo en cuenta:  
+● Utilizar herramientas TIC para elaboración de mapas conceptuales.  
+● Identifica los conceptos clave.  
+● Agrega enlaces para conectar los conceptos.  
+●  Revisa la lógica y personaliza el formato.  
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto para entregar: mapa conceptual.  
+●  Formato: PDF.  
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: mapa conceptual para Identificación y caracterización de los componentes 
+del ciclo de vida del software GA4-220501095-AA3-EV01.  
+  
+❖ Evidencia de desempeño: GA4-220501095-AA3-EV02 - Foro implementar la arquitectura de software 
+al caso de estudio y proyecto a desarrollar  
+Argumentar y debatir sobre la arquitectura de software por medio del foro dispuesto para este fin. Elementos para 
+tener en cuenta en la actividad:  
+● Recuerde que toda participación en el foro debe presentar una argumentación clara y con buena ortografía.  
+● Apoyar cada argumentación teniendo en cuenta los siguientes conceptos:  
+ ○  ¿Por qué se seleccionó la arquitectura propuesta?   
+ ○  ¿Cuáles fueron los elementos de diseño primordiales?   
+● Debe responder a los comentarios realizados por otros compañeros.  
+● Hay que participar comentando en el foro de otros dos compañeros con argumentos claros.  
+      
+Lineamientos para la entrega del producto:  
+● Producto para entregar: argumentación en el foro.  
+● Extensión: libre.  
+● Para hacer el desarrollo del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: foro implementar la arquitectura de software al caso de estudio y 
+proyecto a desarrollar GA4-220501095-AA3-EV02.  
+  
+  
+❖ Evidencia de producto: GA4-220501095-AA3-EV03 - Diagrama de despliegue para caso de estudio y 
+proyecto de software  
+  
+El diagrama de despliegue para caso de estudio también se lo conoce como gráfico de red o mapa de red, se 
+utiliza para modelar la disposición física de los artefactos de software en nodos, vértices y líneas y que ayuda a 
+representar las relaciones entre grupos de entidades.  
+  
+Elementos a tener en cuenta:  
+
+=== PAGE 11 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● Definir la arquitectura del software.   
+● Dar cumplimiento a los requisitos funcionales y no funcionales.  
+● Utilizar herramientas TIC para elaboración de diagramas.  
+●  Identificar los conceptos clave.  
+● Agregar enlaces para conectar los conceptos  
+● Revisar que la lógica es la correcta y personalizar el formato.  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir, debe tener como 
+mínimo portada, introducción y conclusión.   
+  
+● Producto para entregar: diagrama de despliegue   
+● Formato: PDF  
+● Extensión: Libre  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia: diagrama de despliegue para caso de estudio y proyecto de software 
+GA4220501095-AA3-EV03.   
+  
+3.2.4 Actividad de aprendizaje: GA4-220501095-AA4 - Realizar la evaluación de artefactos del software.  
+  
+El proceso de evaluación en el desarrollo de un sistema software es una etapa clave, por esta razón, a medida que 
+se va avanzando se intenta que la detección de defectos se haga lo antes posible y tenga menor impacto en el 
+tiempo y esfuerzo de desarrollo. Por consiguiente, esta actividad se centra en la elaboración, verificación y 
+evaluación de los artefactos de software con base en los estándares para el desarrollo de software. Lo primero que 
+se debe llevar a cabo es la lectura del componente formativo “Validación de documentos”.    
+Duración: 40 horas.  
+  
+Materiales de formación: para el desarrollo de esta actividad es importante la lectura y análisis del componente 
+formativo: “Validación de documentos”.  
+  
+Evidencias:  
+  
+A continuación, se describen las acciones y las correspondientes evidencias que conforman la actividad de 
+aprendizaje:  
+  
+❖ Evidencia de conocimiento: GA4-220501095-AA4-EV01 - Taller sobre validación de documentos   
+  
+Existen varias formas de evaluar un conj unto de artefactos y su relación con uno o más proyectos, por lo general 
+se enfocan en el grado de utilidad de cada artefacto para cubrir metas específicas. Además, se debe profundizar 
+sobre el tema y consultar material complementario.  
+  
+Preguntas orientadoras:  
+  
+● ¿Qué es un artefacto?   
+● ¿Tipos de artefactos?  
+● ¿Qué es la evaluación de artefactos?  
+● ¿Cómo se realizan?  
+
+=== PAGE 12 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+● ¿Qué instrumentos se utilizan?  
+● ¿Qué resultados se obtienen?   
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: informe técnico.  
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: taller sobre validación de documentos GA4-220501095-AA4-EV01.  
+  
+  
+❖ Evidencia de desempeño: GA4-220501095-AA4-EV02 - Diseño de instrumentos para verificación de 
+artefactos   
+  
+Según la IEEE (2004), las pruebas de software “consisten en verificar el comportamiento de un programa 
+dinámicamente a través de un grupo finito de casos de prueba, debidamente seleccionados del, típicamente, 
+ámbito de ejecuciones infinito, en relación al comportamiento esperado”, es por esto que la verificación de software 
+es un componente fundamental del proyecto, su objetivo principal es asegurar que la solución informática cumple 
+por completo todos los requisitos y objetivos planeados.  
+Elementos a tener en cuenta   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción, y conclusiones.  
+● Diseñar los instrumentos de verificación para la verificación de artefactos.  
+● Debe contener toda la información que se necesite.  
+● La lista de chequeo debe ser corta, concisa y entendible.  
+● Debe estar redactada en un lenguaje sencillo comprensible y con buena ortografía   
+● El formato debe ser amigable y con buen diseño.   
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento instrumento de verificación de artefactos.  
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: diseño de instrumentos para verificación de artefactos GA4 -220501095-
+AA4EV02.  
+   
+❖ Evidencia de producto: GA4 -220501095-AA4-EV03 - Listas de chequeo para validación de 
+documentación de diseño   
+  
+Las listas de chequeo son formatos de control que se elaboran para registrar mediciones o el cumplimiento total o 
+parcial de tareas, además de ser unas herramientas necesarias para garantizar la calidad de los productos ya sea 
+por medición, verificación o control.  
+  
+
+=== PAGE 13 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Elementos a tener en cuenta   
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir debe tener como 
+mínimo una portada, introducción, y conclusiones.  
+● Diseñar las listas de chequeo teniendo en cuenta las indicaciones del componente formativo 9.  
+● Debe contener toda la información que se necesite.  
+● La lista de chequeo debe ser corta, concisa y entendible.  
+● Se debe seleccionar un nombre claro, el cual identifique para qué sirve este instrumento   
+●  Escribir las categorías o posibles variables en la información que se espera encontrar.  
+● Establecer la escala de incidencias.  
+● Diseñar la cuadrícula. Asegurarse de que todas las partes del checklist estén claramente descritas.   
+● Esta herramienta busca quitar problemas y obtener un formato claro y fácil de usar, así cuanto más 
+básico, mejor.   
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: documento listas de chequeo.  
+● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: listas de chequeo para validación de documentación de diseño 
+GA4220501095-AA4-EV03.  
+   
+  
+❖ Evidencia de producto: GA4 -220501095-AA4- EV04 - Informe de evaluación a los artefactos de 
+diseño del software   
+  
+Los informes son documentos en los que se plasma una serie de procesos de acuerdo con los requerimientos y 
+objetivos a alcanzar, también son conocidos como reporting y su fin es realizar un análisis exhaustivo del sistema 
+que se desea desarrollar y el rendimiento de los procesos logrando influir directamente en la toma de decisiones.  
+ 
+Elementos a tener en cuenta en el documento técnico de validación:  
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe 
+tener como mínimo una portada, introducción y conclusiones.  
+● Elaborar el informe teniendo en cuenta las indicaciones del componente formativo.   
+● El informe debe ser claro y debe tener la siguiente información: resumen, introducción, objetivos y 
+metodología aplicada.    
+  
+Lineamientos para la entrega del producto:  
+● Producto para entregar: informe de evaluación a los artefactos de diseño del software. ● Formato: PDF.   
+● Extensión: libre.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio para 
+el envío de la evidencia: informe de evaluación a los artefactos de diseño del software GA4220501095-
+AA4- EV04.  
+   
+
+=== PAGE 14 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3.3 Actividad de aprendizaje de la competencia 240201524 - Desarrollar procesos de comunicación 
+eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo  
+  
+En esta competencia se buscan desarrollar las habilidades comunicativas desde lo verbal o digital y, además, de 
+lo no verbal o analógico, por ello, el llamado es a repensar la escritura y la oratoria como procesos de crecimiento 
+personal y profesional, con miras a desarrollar procesos de comunicación eficaces y efectivos, con base en 
+situaciones de orden social, personal y productivo e invitando a ver la naturaleza de la comunicación en diversos 
+contextos y procesos dialógicos, en la que se asumen diferentes actitudes en relación con el otro y que condicionan 
+la construcción de relaciones personales y profesionales.    
+  
+3.2.3 Actividad de aprendizaje: GA4-240201524-AA1 - Aplicar los componentes de la comunicación y 
+argumentar sus procesos, de acuerdo a las diferentes situaciones comunicativas.  
+  
+El proceso de comunicación se centra en generar una articulación entre cómo y para qué nos comunicamos. Por 
+ello, esta actividad de aprendizaje busca que, a través de la realización de un escrito y la posterior grabación de 
+un video, se exprese una situación problémica de su entorno profesional (o área de formación) y que conlleve a la 
+resolución de esta. Un ejemplo de ello sería algún problema comunicativo en el entorno laboral que requiera 
+solución: flujos de infor mación inadecuados entre diferentes áreas, poco asertividad en la comunicación entre 
+líderes y colaboradores, lenguaje técnico y de poca comprensión para todos.  
+  
+Duración: 24 horas.  
+  
+Materiales de formación:  para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Comunicándonos” y “Argumentando”.   
+  
+Evidencias:  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+★ Evidencia de desempeño: GA4- 240201524-AA1-EV01 - Video. La comunicación como expresión 
+humana.  
+  
+Por favor tenga en cuenta la siguiente estructura:   
+  
+1. Piense en una situación problémica como tema central para ser tratado en el video y busque la manera de 
+cómo darlo a conocer de forma que impacte al receptor, desde el componente comunicacional.   
+2. Elabore un escrito donde se plasmen todas las ideas frente a la situación problémica. Puede seleccionar 
+el tipo de texto: científico-técnico o narrativo, a partir de los conocimientos adquiridos en los componentes 
+formativos: “Comunicándonos” y “Argumentación”.   
+3. Luego, mediante un video, exponga el tema tratado en el escrito, y al finalizar justificar el tipo de texto que 
+eligió y el porqué. Para la realización del video puede utilizar la cámara del computador o celular, incluso, 
+herramientas en línea que le permitan animar, editar, musicalizar y demás como: Powtoon, Loom, entre 
+otros.  
+4. Para finalizar, elabore una síntesis del escrito, en el cual relacione los aspectos más importantes de la 
+situación problémica seleccionada.   
+  
+
+=== PAGE 15 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Para el desarrollo de la actividad tenga en cuenta los componentes formativos propuestos y los siguientes 
+lineamientos generales para la entrega de la evidencia:  
+  
+● Productos a entregar: escrito tipo síntesis y video sobre la situación problémica de su entorno profesional (o 
+área de formación).  
+● Extensión: escrito tipo síntesis de máximo 2 páginas y video de máximo de 3 minutos.  
+● Formato: 1. Documento en PDF y 2. Video en formato MOV, MP4, AVI.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:  
+video. La comunicación como expresión humana GA4-240201524-AA1-EV01.   
+  
+3.2.4 Actividad de aprendizaje: GA4-240201524-AA2 - Comunicar asertivamente, con cohesión y 
+coherencia lexical, basado en los procesos comunicativos que se dan en el contexto del desempeño 
+laboral.  
+  
+La comunicación asertiva se constituye en la habilidad que tienen los seres humanos para comunicar, transmitir y 
+recibir mensajes, ideas, sentimientos, creencias, posturas u opiniones propios o ajenos de manera honesta, 
+clara, oportuna y respetuosa de un tema o situación en particular que se inscriben en los diferentes contextos a 
+lo largo de la vida.  
+  
+Duración: 24 horas  
+  
+Materiales de formación:  Para el desarrollo de esta actividad es importante la lectura y análisis del material de 
+formación: “Interpretando” y “Escribiendo”.   
+  
+Evidencias:  
+A continuación, se describen las acciones y la correspondiente evidencia que conforman la actividad de 
+aprendizaje:  
+  
+•  Evidencia de producto : GA4-240201524-AA2-EV01 - Informe. Creación de contenidos 
+comunicativos.  
+  
+La comunicación asertiva se constituye en la habilidad que tienen los seres humanos para comunicar, transmitir y 
+recibir mensajes, ideas, sentimientos, creencias, posturas u opiniones propios o ajenos de manera honesta, clara, 
+oportuna y respetuosa de un tema o situación en particular que se inscriben en los diferentes contextos a lo largo 
+de la vida. Por lo tanto, el desarrollo de esta actividad de aprendizaje implica un proceso escritural que dará cuenta 
+de su capacidad para comunicarse atendiendo a la estructura gramatical, la semiótica, cohesión y coherencia 
+léxica en la producción de texto.  
+  
+A continuación, se describe la secuencia de acciones que deben tener presentes para realizar esta actividad:  
+  
+1. Retome la situación problema que eligió para el desarrollo de la actividad 1. “ La comunicación como 
+expresión humana”.  
+2. Realice un ejercicio investigativo que le permita profundizar en el estudio de la situación problema. Para ello, 
+haga uso de algunas de las técnicas de registro de información (previamente estudiadas en el componente 
+formativo “Relacionando”, de esta manera podrá organizar la información y tener un panorama más amplio 
+y claro de la situación que deberá desarrollar en la siguiente orientación.   
+
+=== PAGE 16 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+3. Elabore un informe donde, da cuenta de los elementos y procesos propios de la situación problema y que 
+deberá estar en estrecha relación con la profesión que usted desempeñará al finalizar este proceso formativo 
+y en el contexto en el que se desenvolverá. Para su elaboración, elija el tipo de texto que desea escribir: 
+científico-técnico o narrativo, basado en lo descrito en el componente formativo “Escribiendo”.   
+4. El informe deberá contener lo siguiente:  
+a. Encabezado: título del informe, autor (nombre y apellidos completos), nombre del programa y fecha de 
+realización.  
+b. Palabras claves: señale por lo menos 5 palabras clave que utilizará en el contexto del informe.   
+c. Introducción: describa el tipo de texto, el tema abordado y su importancia.  
+d. Desarrollo: corresponde al cuerpo del trabajo, donde explica detalladamente el desarrollo de los 
+aspectos que enunció en la introducción. En él deberá:  
+i. Exponer la problemática haciendo referencia a los aspectos más relevantes. ii. Presentar argumentos 
+que complementen los aspectos relevantes que señale, para ello, puede hacer uso de la información 
+que recolectó en el proceso investigativo previo a la escritura del informe, haciendo uso de las 
+referencias bibliográficas en las más recientes normas APA, gráficos y demás elementos que 
+considere necesarios.  
+iii.  Presentar su postura frente a la problemática. iv.  Existir cohesión y coherencia 
+léxica, para ello, haga uso de los conectores.  
+v.  Utilizar adecuadamente los signos de puntuación, interrogación y admiración y la acentuación.  
+e. Conclusiones: presente las conclusiones a las que llegó luego de haber realizado la investigación y 
+escrito el informe.  
+f. Bibliografía: presente las referencias bibliográficas utilizadas para la elaboración del informe.  
+ 
+Recuerde que lo debe hacer siguiendo la normativa APA (componente formativo “Escribiendo”).   
+  
+Lineamientos para la entrega del producto:  
+  
+● Producto a entregar: informe: La escritura como forma de comunicación asertiva con la siguiente 
+estructura: encabezado, palabras clave, introducción, desarrollo, conclusiones y bibliografía.   
+● Formato: PDF.  
+● Extensión: tres páginas, arial 11, espacio sencillo.  
+● Para hacer el envío de la evidencia remítase al área de la actividad correspondiente y acceda al espacio:   
+informe. Creación de contenidos comunicativos GA4-240201524-AA2-EV01.  
+  
+  
+3.4 Actividades de aprendizaje de la competencia: 240202501 - Interactuar en lengua inglesa de forma oral 
+y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco europeo 
+de Referencia para las Lenguas  
+Durante el desarrollo de las actividades de esta competencia se debe comprender vocabulario y expresiones en 
+inglés en contextos personales acorde con nivel principiante e intermedio A2.2 y B1.1  de acuerdo con el MCERL 
+(la construcción de los diferentes programas de la formación en inglés emplea el MCERL como instrumento de 
+referencia para proveer los conocimientos requeridos para alcanzar el nivel)   
+  
+3.4.1 Actividad de aprendizaje GA4-240202501-AA1 - Establecer acciones de mejora relacionadas con 
+expresiones, estructuras y desempeño de acuerdo al programa de formación.  
+  
+
+=== PAGE 17 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+El manejo de una segunda lengua como el inglés es una de las habilidades contemporáneas que mayor se valoran 
+y de alto impacto en el mundo laboral, por eso, en esta actividad se plantean actividades generales y específicas 
+para el desarrollo de la competencia, teniendo en cuenta el aprendizaje articulado de las 4 habilidades de la lengua 
+(leer, escribir, hablar y escuchar) alineado al MCERL (Marco Común Europeo de Referencia para Lenguas) como 
+estándar del nivel de conocimiento de lengua y categorización de los conocimientos en niveles de competencia en 
+un idioma.   
+  
+Duración: 48 horas  
+  
+Material de formación: el contenido de soporte para el desarrollo de la actividad es “Level 6 - MCE B1,1+”.  
+  
+❖ Evidencia de conocimiento: GA4-240202501-AA1-EV01 cuestionario   
+  
+Presenta un cuestionario de acuerdo con el contenido formativo del sexto nivel “Level 6 - MCE B1,1+”.  El 
+cuestionario consta de quince preguntas (15) y un tiempo aproximado de 30 minutos.   
+  
+Lineamientos para la entrega de la evidencia:  
+  
+● Producto a entr egar: cuestionario con preguntas de acuerdo a la información brindada en el sexto nivel. 
+Para responder el cuestionario (evaluación en línea), remítase al área de la actividad correspondiente y 
+acceda al espacio para el envío de la evidencia: Cuestionario GA4-240202501-AA1-EV01  
+ 
+ 
+● Evidencia de producto: GA4 -240202501-AA1-EV02 - Mapa mental sobre su Personal Learning 
+Environment PLE   
+  
+Elaborar un mapa mental que relacione su ( Personal Learning Environment ) PLE a partir de sus estrategias de 
+aprendizaje de una lengua extranjera y su aplicación a su entorno laboral inmediato.   
+  
+Para el desarrollo de esta evidencia, siga los pasos que describen a continuación:  
+1. Ingrese al tercer componente formativo denominado “Level 6 - MCE B1,1+”, allí encontrará los elementos 
+gramaticales de importancia para el desarrollo de la evidencia.  
+2. Realice una revisión del artículo realizado por Kupchyk, L., & Litvinchuk, A. (2020) Constructing Personal 
+Learning Environments through ICT -Mediated Foreign Language Instruction. EasyChair Preprint 4251. 
+https://easychair.org/publications/preprint_download/kxvw y elabore el mapa mental en el que represente 
+ideas, conceptos e información que permitan reconocer los elementos que utiliza o ha utilizado para 
+gestionar su aprendizaje y la aplicación en el entorno laboral.   
+3. Para la realizaci ón del mapa mental se recomienda consultar las orientaciones presentadas en el 
+documento: “anexo_Guia_para_hacer_mapa_mental”.   
+4. Para la elaboración del mapa mental descargue o acceda a alguna de las siguientes herramientas digitales 
+que facilitan la construcción y presentación del mismo: Goconqr, Mindmeister, Draw.io, Coggle o Mindomo. 
+Una vez elegida la herramienta, elabore el mapa mental.  
+5. Cuando tenga el producto final, deberá descargarlo en un formato de imagen JPG o archivo PDF para 
+enseguida adjuntarlo en la plataforma virtual en el espacio designado para dicha evidencia en las fechas 
+establecidas por el instructor.  
+
+=== PAGE 18 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+Lineamientos para la entrega de la evidencia:   
+● Producto a entregar : mapa mental que representa las ideas, conceptos e información que permitan 
+reconocer los elementos que utiliza o ha utilizado para gestionar su aprendizaje y la aplicación en el 
+entorno laboral sin olvidar elaborar un esquema de su propio PLE.  
+● Formato: exportar a PDF el mapa mental desde la herramienta digital utilizada.  
+● Extensión: el mapa mental debe contener, al menos, cinco (5) niveles de bifurcación.  
+● Para hacer el envío del producto remítase al área de la actividad correspondiente y acceda al espacio 
+para el envío de la evidencia mapa mental sobre su Personal Lear ning Environment PLE 
+GA4240202501-AA1-EV02.  
+  
+● Evidencia de desempeño: GA4- 240202501-AA1-EV03 - Blog en el que consolide y presente las 
+evidencias de vídeo, audio y texto que ha elaborado en inglés  
+  
+En su proceso de formación se han generado vídeos, audios, textos orales y escritos entre otros elementos 
+relacionados con temas de familia, aficiones, intereses, trabajo, viajes y hechos de actualidad que le han 
+permitido mejorar el dominio de una segunda lengua y en su caso inglés.  
+  
+De acuerdo con lo anterior, elabore un blog de forma creativa en el que consolide y muestre diferentes entradas 
+o posts. Adicionalmente organice dos entradas relacionadas con el pensamiento crítico y la alfabetización 
+mediática (Critical Thinking and Media Literacy) y crimen y castigo (Crime and Punishment) propuestos en el 
+componente formativo.  
+  
+Para la elaboración del blog tenga en cuenta:  
+● Producto a entregar: archivo de texto o documento con la URL de acceso al blog donde se mostrarán los 
+diferentes post o entradas.  
+● Formato: Web.  
+● Extensión: 5 a 7 entradas.  
+● Para hacer el envío del archivo remítase al área de la actividad correspondiente y acceda al espacio para el 
+envío de la evidencia blog en el que consolide y presente las evidencias de vídeo, audio y texto que 
+ha elaborado en inglés GA4-240202501-AA1-EV03.  
+   
+4. Actividades de evaluación  
+  
+Evidencias de aprendizaje  Criterios de evaluación  
+Técnicas e instrumentos de 
+evaluación  
+Evidencia de desempeño:   
+Identificar entidades y 
+relaciones planteadas en el 
+caso de estudio.  
+GA4-220501093-AA1-EV01  
+Elabora el modelo entidad relación 
+de acuerdo con los requisitos del 
+software.  
+IE-GA4-220501093-AA1-EV01  
+Lista de chequeo  
+Evidencia de producto:  Genera el modelo conceptual de acuerdo con el tipo de base de datos IE-GA4-220501095-AA1-EV01   Lista de chequeo  
+
+=== PAGE 19 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Diseñar el modelo conceptual y 
+lógico de acuerdo al caso de 
+estudio.   
+GA4-220501095-AA1-EV01   
+  
+  
+  
+seleccionada y las especificaciones 
+del análisis.  
+  
+Genera el modelo lógico de acuerdo 
+con la técnica seleccionada.  
+  
+Normaliza el modelo lógico de 
+acuerdo con el tipo de base de datos. 
+  
+  
+  
+  
+  
+Evidencias de producto:   
+Modelos conceptual y lógico 
+para el proyecto desarrollo de 
+software.  
+GA4-220501095-AA1-EV02  
+  
+Crea el diccionario de datos de 
+acuerdo con el modelo lógico.   
+  
+Define políticas de seguridad para 
+garantizar integridad, 
+confidencialidad y disponibilidad de  
+los datos.  
+IE-GA4-220501095-AA1-EV02  
+Lista de chequeo 
+Evidencias de conocimiento:   
+Taller de conceptos y principios 
+de programación orientada a 
+objetos.  
+GA4-220501095-AA2-EV01  
+Interpreta el informe de análisis 
+identificando las características del 
+software a diseñar.  
+  
+Define las plataformas tecnológicas a 
+emplear en el desarrollo de acuerdo 
+con las condiciones del software a 
+desarrollar.  
+  
+Define los entregables de diseño 
+siguiendo los conceptos y principios 
+de orientación a objetos.  
+IE-GA4-220501095-AA2-EV01  
+Lista de chequeo  
+  
+Evidencia de producto:   
+Informe de entregables para el 
+proyecto de desarrollo de 
+software.  
+GA4-220501095-AA2-EV02  
+IE-GA4-220501095-AA2-EV02 
+Lista de chequeo  
+ 
+ 
+Evidencia de conocimiento:   
+Bases conceptuales acerca del  
+Lenguaje  Unificado de 
+Modelado (UML) y patrones de 
+diseño.   
+GA4-220501095-AA2-EV03  
+  
+ 
+ 
+Evidencia de producto:   
+Diagrama  de  clases 
+ del proyecto de 
+software.  
+GA4-220501095-AA2-EV04  
+ 
+Crea el diagrama de clases de 
+acuerdo con los requisitos, aplicando 
+buenas prácticas de diseño orientado 
+a objetos.  
+  
+IE-GA4-220501095-AA2-EV03  
+Lista de chequeo  
+  
+  
+  
+IE-GA4-220501095-AA2-EV04  
+Lista de chequeo  
+
+=== PAGE 20 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+ 
+ 
+Evidencia de desempeño:   
+Desarrollar la arquitectura de 
+software de acuerdo al patrón 
+de diseño seleccionado.   
+GA4-220501095-AA2-EV05   
+  
+ 
+ 
+ 
+ 
+Evidencia de producto:   
+Taller arquitectura de software  
+GA4-220501095-AA2-EV06  
+ 
+ 
+Incorpora patrones de diseño 
+propendiendo en mejores prácticas 
+para la codificación y mantenibilidad 
+del software.   
+  
+Crea la vista de componentes para 
+visualizar el software en fases 
+avanzadas del ciclo de vida.  
+  
+Crea la vista de despliegue del 
+software para determinar condiciones 
+de la implantación de la solución 
+informática.  
+IE-GA4-220501095-AA2-EV05  
+Lista de chequeo  
+  
+  
+  
+  
+  
+IE-GA4-220501095-AA2-EV06  
+Lista de chequeo  
+ 
+Evidencia de conocimiento:   
+Mapa  conceptual  para  
+Identificación y caracterización 
+de los componentes del ciclo 
+de vida del software.  
+GA4-220501095-AA3-EV01  
+  
+ 
+Evidencia de desempeño:   
+Foro. Implementar la 
+arquitectura de software al 
+caso de estudio y proyecto a 
+desarrollar.  
+GA4-220501095-AA3-EV02  
+  
+ 
+ 
+Evidencia de producto:   
+Diagrama de despliegue para 
+caso de estudio y proyecto de 
+software.  
+GA4-220501095-AA3-EV03  
+Define la arquitectura del software 
+dando cumplimiento a los requisitos 
+funcionales y no funcionales.  
+IE-GA4-220501095-AA3-EV01  
+Lista de chequeo  
+  
+ 
+ 
+  
+IE-GA4-220501095-AA3-EV02  
+Lista de chequeo  
+  
+  
+ 
+ 
+ 
+ 
+  
+IE-GA4-220501095-AA3-EV03  
+Lista de chequeo  
+  
+  
+
+=== PAGE 21 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento:  
+Taller sobre validación de 
+documentos.   
+GA4-220501095-AA4-EV01  
+  
+Evidencia de desempeño:  
+Diseño de instrumentos para 
+verificación de artefactos.  
+GA4-220501095-AA4-EV02  
+  
+Evidencia de producto:  
+Listas de chequeo para 
+validación de documentación 
+de diseño.  
+GA4-220501095-AA4-EV03  
+  
+Evidencia de producto:  
+Informe de evaluación a los 
+artefactos de diseño del 
+software.  
+GA4-220501095-AA4- EV04  
+Elabora listas de chequeo para 
+verificación de la docu mentación de 
+diseño.  
+  
+Evalúa los artefactos de diseño 
+teniendo en cuenta el cumplimiento 
+de requisitos y la calidad de los 
+entregables generados.  
+  
+Realiza mejoras a los artefactos de 
+diseño de acuerdo con los resultados 
+de la evaluación.  
+IE-GA4-220501095-AA4-EV01  
+Lista de chequeo  
+  
+  
+  
+IE-GA4-220501095-AA4-EV02  
+Lista de chequeo  
+  
+  
+IE-GA4-220501095-AA4-EV03  
+Lista de chequeo  
+  
+  
+IE-GA4-220501095-AA4- EV04  
+Lista de chequeo  
+Evidencia de desempeño:  
+Video. La comunicación como 
+expresión humana.  
+GA4-240201524-AA1-EV01  
+Reconoce la importancia, naturaleza 
+y características de la comunicación 
+humana, según el contexto en el que 
+se desarrolla.  
+  
+Escucha  con  atención y 
+concentración, asiente y pregunta al 
+hablante-oyente para retroalimentar 
+el proceso.  
+ 
+Aplica técnicas para la comunicación 
+verbal y no verbal teniendo en cuenta 
+características comunicativas.  
+  
+Aplica técnicas para la comunicación 
+verbal y no verbal según 
+requerimientos establecidos.  
+  
+Utiliza el lenguaje según el 
+destinatario, el propósi to, el contexto 
+y el contenido.  
+  
+Identifica los diferentes tipos de 
+textos teniendo en cuenta su 
+intencionalidad.  
+  
+Selecciona el tipo de texto de acuerdo 
+con sus intereses y necesidades de 
+conocimiento.  
+  
+IE-GA4-240201524-AA1-EV01  
+Lista de chequeo  
+
+=== PAGE 22 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Apropia un método para leer 
+comprensiva e interpretativamente.  
+  
+Interpreta mensajes y reconstruye el 
+discurso con sus propias palabras 
+manteniendo el sentido. 
+Evidencia de producto: 
+Informe. Creación de 
+contenidos comunicativos. 
+GA4-240201524-AA2-EV01  
+Interpreta señales, signos, símbolos 
+e íconos propios de su actividad 
+laboral.  
+  
+Grafica la información utilizando 
+instrumentos gráficos semánticos.  
+  
+Utiliza la información según el 
+propósito establecido.  
+  
+Redacta textos con cohesión y 
+coherencia siguiendo pautas de 
+progresión temática.  
+  
+Codifica y decodifica mensajes 
+utilizando los íconos, símbolos, 
+señales en el contexto de su actividad 
+laboral y social.   
+  
+Codifica y decodifica mensajes 
+utilizando los íconos, los símbolos, 
+las señales, planos, esquemas y 
+flujogramas según requerimiento.  
+  
+Establece acuerdos a partir de la 
+diversidad de conceptos y opiniones.  
+ 
+Usa el léxico con precisión y 
+propiedad en los procesos de 
+comunicación relacionados con el 
+área de desempeño laboral.   
+  
+Utiliza las reglas gramaticales y los 
+signos de puntuación s egún el texto 
+comunicativo.  
+  
+Emplea en la elaboración de textos las 
+estructuras textuales básicas.  
+  
+Emplea para la producción de textos 
+normatividad vigente. 
+IE-GA4-240201524-AA2-EV01 
+Lista de chequeo  
+
+=== PAGE 23 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Evidencia de conocimiento:  
+Cuestionario.  
+GA4-240202501-AA1-EV01  
+Enlaza una serie de elementos 
+breves, concretos y sencillos para 
+crear una secuencia cohesionada y 
+lineal.  
+IE-GA4-240202501-AA1-EV01 
+Cuestionario  
+Evidencia de producto:   
+Mapa mental sobre su Personal 
+Learning  
+Environment PLE   
+GA4-240202501-AA1-EV02  
+Hace uso de vocabulario relacionado 
+con familia, aficiones e intereses, 
+trabajo, viajes y hechos de 
+actualidad, en textos orales y 
+escritos.  
+IE-GA4-240202501-AA1-EV02  
+Lista de chequeo  
+Evidencia de desempeño:   
+Blog en el que consolide y 
+presente las evidencias de 
+vídeo, audio y texto que ha 
+elaborado en inglés.  
+GA4-240202501-AA1-EV03  
+IE-GA4-240202501-AA1-EV03  
+Lista de chequeo  
+  
+  
+5. Glosario de términos  
+  
+Acentuación: se refiere a la distribución de los acentos ortográficos.  
+  
+Argumento: razonamiento para probar o demostrar una proposición, o para convencer de lo que se afirma o se 
+niega (RAE, 2020).  
+  
+Comunicación: un primer acercamiento a la definición de comunicación puede realizarse desde su etimología. La 
+palabra deriva del latín comunicare, que significa “compartir algo, poner en común”. Por lo tanto, la comunicación 
+es un fenómeno inherente a la relación que los seres vivos mantienen cuando se encuentran en grupo (Definición, 
+2020).   
+  
+Diagrama de flujo : es un esquema de los pasos separados de un proceso en orden secuencial, que se puede 
+adaptar para una amplia variedad de propósitos y se puede utilizar para describir varios procesos, como un proceso 
+de fabricación, un proceso administrativo o de servicio o un plan de proyecto. Es una herramienta común de análisis 
+de procesos.  
+  
+Digital: perteneciente o relativo a los dedos. Dicho de un dispositivo o sistema: que crea, presenta, transporta o 
+almacena información mediante la combinación de bits. Que se realiza o trasmite por medios digitales (RAE, 2020).  
+  
+Eficiencia de ejecución: el rendimiento del funcionamiento de un programa.  
+Entonación: rasgo lingüístico suprasegmental constituido por la secuencia sonora de los tonos con que se emite 
+el discurso oral; constituye una línea melódica y contribuye al significado del discurso.   
+  
+Estandarización de datos:  el empleo de estructuras y tipos de datos estándares a lo largo del programa. 
+Tolerancia al error: el deterioro causado cuando un programa descubre un error.   
+
+=== PAGE 24 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Estilo indirecto : se emplea para expresar lo expresado por otro hablante a otro hablante, el cua l no estuvo 
+presente en el momento de la alocución inicial, esto puede ser en forma afirmativa, negativa o interrogativa.  
+  
+Exactitud: la exactitud de los cálculos y del control.  
+Hardware: corresponde a todas las partes físicas y tangibles de una computadora: sus componentes eléctricos, 
+electrónicos, electromecánicos y mecánicos, sus cables, gabinetes o cajas, periféricos de todo tipo y cualquier otro 
+elemento físico involucrado  
+Fonética: parte de la lingüística que estudia los sonidos de las lenguas.  
+  
+Frases adverbiales: son situaciones en las cuales un adverbio puede modificar al verbo y que de esta relación se 
+pueda cambiar el verbo o adjetivo.  
+  
+Interpretar: explicar o declarar el sentido de algo, y principalmente el de un texto (RAE, 2020).  
+  
+Lenguaje: facultad del ser humano de expresarse y comunicarse con los demás a través del sonido articulado o 
+de otros signos. Conjunto de señales que dan a entender algo (RAE, 2020).  
+  
+Léxico: enriquecimiento lexical. Que expresa contenidos o conceptos propios del léxico, por oposición a los 
+característicos de la gramática. Vocabulario, conjunto de palabras de un idioma, o de las que pertenecen al uso de 
+una región, a una actividad determinada, a un campo semántico dado, etc. (RAE, 2020).   
+  
+Metodología: ciencia que consta de métodos y técnicas, que se aplican sistemáticamente durante un proceso de 
+investigación o para solucionar una problemática.  
+MCERL: es una relación estándar a nivel internacional de los niveles de competencia en un lenguaje.  
+  
+Netiqueta: reglas básicas de comunicación que se deben poner en práctica al usar internet.  
+  
+Oratoria: oratoria es una palabra que proviene del vocablo latino oratoria y que está vinculada al arte de hablar 
+con elocuencia. El objetivo de la oratoria suele ser p ersuadir; por eso, se diferencia de la didáctica (que busca 
+enseñar y transmitir conocimientos) y de la poética (intenta deleitar a través de la estética). La oratoria, por lo tanto, 
+pretende convencer a las personas para que actúen de una cierta manera o tomen decisiones (Definición, 2013).  
+  
+Palabras compuestas : son palabras que se componen de varias partículas, en las cuales al adicional alguna 
+puede intensificar su significado, direccionar o cambiarlo.  
+  
+Requerimientos: es una descripción completa del comportamiento del sistema que se va a desarrollar. Incluye un 
+conjunto de casos de uso que describe todas las interacciones que tendrán los usuarios con el software.    
+Requisitos de usuarios: necesidades que los usuarios expresan verbalmente.  
+  
+Requisitos del sistema: son los componentes que el sistema debe tener para realizar determinadas tareas.  
+  
+Requisitos funcionales: servicios que el sistema debe proporcionar al finalizar el sistema.   
+  
+
+=== PAGE 25 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Software: soporte lógico, programas, parte no mecánica de un sistema. Serie de instrucciones necesarias para 
+ejecutar diversas aplicaciones y tareas.  
+  
+Segundo condicional: se emplea para hablar de situaciones irreales que tienen consecuencias irreales dentro de 
+esa condicionalidad y puede ser empleado tanto en presente como en pasado.  
+  
+Stakeholders: interesados o participantes en un proyecto.  
+  
+Teoría general de sistemas: es un esfuerzo de estudio interdisciplinario que trata de encontrar las propiedades 
+comunes a entidades, los sistemas, que se presentan en todos los niveles de la realidad, pero que son objetivo 
+tradicionalmente de disciplinas académicas diferentes.  
+  
+Tercer condicional: se emplea para hablar acerca de un hecho no sucedido en el pasado con una consecuencia 
+directa en ese pasado.  
+  
+Verbos modales: los verbos modales son auxiliares  que se combinan con otros verbos para expresar el “modo” 
+del verbo, principalmente su posibilidad o necesidad. Son: can, could, may, might, shall, should, will, would, must 
+y ought to.  
+  
+Técnica: habilidad para ejecutar cualquier cosa, o para conseguir algo (RAE, 2020).  
+  
+Texto: enunciado o conjunto coherente de enunciados orales o escritos. Todo lo que se dice en el cuerpo de una 
+obra manuscrita o impresa, a diferencia de lo que en ella va por separado; como las portadas, las notas, los índices, 
+etc. RAE (2020).  
+  
+ 
+ 
+6. Referentes bibliográficos  
+  
+Definición. (2013). Definición de oratoria. https://definicion.de/oratoria/   
+Definición. (2020). Definición de comunicación. https://definicion.de/comunicacion/   
+Bourque, P., Dupuis, R., Abran, A., Moore, J. W., & Tripp, L. (1999). The guide to the software engineering body 
+of knowledge. IEEE software, 16(6), 35-44.  
+Kupchyk, L, & Litvinchuk, A. (2020) Constructing Personal Learning Environments through ICT-Mediated Foreign  
+Language Instruction. EasyChair Preprint 4251. https://easychair.org/publications/preprint_download/kxvw   
+  
+Moure,  O.  (1999).  El  acento  en  las  palabras  de  dos  sílabas.  
+http://www.ompersonal.com.ar/ompronounce/unit11/page1.htm   
+  
+RAE. (2020). Argumento. https://dle.rae.es/  
+Systems,  V.  (2013).  Inglés:  grado  superior.  McGraw-Hill  https://elibro- 
+net.bdigital.sena.edu.co/es/ereader/senavirtual/50221?page=1  
+
+=== PAGE 26 ===
+  
+  
+  GFPI-F-135 V01  
+  
+  
+  
+  
+7. Control del documento  
+  
+  Nombre  Cargo  Dependencia  Fecha  
+Autor(es)  
+  
+Elkin Rodolfo  
+Moreno Merchan  Experto Temático  
+Regional Distrito Capital - Centro 
+de Formación de Talento 
+Humano en Salud  
+Febrero  
+2021  
+Oscar   
+Absalon Guevara  
+Diseñador  
+Instruccional  
+Centro de Gestión Industrial -  
+Regional Bogotá  
+Febrero  
+2021  
+Anderson  Silva 
+Gómez  Experto Temático  Centro de Gestión industrial –  Regional Bogotá  Diciembre 2020  
+Elba Patricia 
+Rodriguez  
+Experta 
+Temática  
+Centro de Gestión industrial –  
+Regional Bogotá  
+Diciembre 
+2020  
+Andrés Felipe 
+Velandia Espitia  
+Diseñador  
+Instruccional  Centro de Diseño y Metrología  Febrero  2021  
+Vilma   
+Perilla Méndez  
+Diseñadora 
+Instruccional  Centro de Gestión Industrial   Febrero  2021  
+Susana Yuliet  
+Pérez Marín  
+Diseñadora 
+Instruccional  
+Centro para la Industria de la 
+Comunicación Gráfica  
+Febrero  
+2021  
+Paula Andrea 
+Taborda Ortiz  
+Diseñadora 
+instruccional  Centro de Diseño y Metrología  Febrero  2021  
+Mario Fernando  
+Meneses  
+Calvache  
+Experto Temático  Centro de Teleinformática y  
+Producción Industrial - Regional  
+Cauca  
+  
+Noviembre 
+2021  
+Deivis Eduard   
+Ramírez Martínez  
+Diseñador  
+Instruccional  Regional Distrito Capital - Centro para la Industria de la  
+Comunicación Gráfica  
+Noviembre 
+2021  
+Silvia  Milena  
+Sequeda  
+Cárdenas  
+Evaluador instruccional  
+Centro de Gestión industrial –  
+Regional Distrito Capital  
+Diciembre de 
+2021  
+
+=== PAGE 27 ===
+  
+  
+  
+  
+  GFPI-F-135 V01  
+  
+  
+Rafael  Neftalí 
+Lizcano Reyes  Asesor Pedagógico  
+Regional Santander -  Centro 
+Industrial del Diseño y la  
+Manufactura  
+Diciembre de 
+2021  
+José Gabriel Ortiz 
+Abella  Corrector de estilo  Regional Distrito Capital - Centro de Diseño y Metrología.  Febrero  del 2021.  
+  
+  
+8. CONTROL DE CAMBIOS (diligenciar únicamente si realiza ajustes a la guía)  
+  
+  Nombre  Cargo  Dependencia  Fecha  Razón del Cambio  
+Autor (es)            
+  
+  
